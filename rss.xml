@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>newsmedia.report</title>
+    <link>https://www.newsmedia.report/</link>
+    <description>Independent news, special reports and analysis from Europe and around the world.</description>
+    <language>en-US</language>
+    <copyright>© 2026 newsmedia.report &amp; sapcoCompanies. All rights reserved.</copyright>
+    <generator>newsmedia.report RSS Generator 1.0</generator>
+    <ttl>10</ttl>
+    <atom:link href="https://rss.newsmedia.report/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

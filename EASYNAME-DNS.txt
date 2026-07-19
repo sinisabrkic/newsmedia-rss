@@ -1,0 +1,12 @@
+DNS-Eintrag für easyname
+========================
+
+Typ:   CNAME
+Name:  rss
+Ziel:  sinisabrkic.github.io
+TTL:   Standard / automatisch
+
+Wichtig:
+- Nicht "sinisabrkic.github.io/newsmedia-rss" eintragen.
+- Keine bestehenden Einträge für @, www, MX oder mail verändern.
+- Für "rss" darf kein zweiter A-, AAAA- oder CNAME-Eintrag bestehen.

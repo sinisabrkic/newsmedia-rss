@@ -1,0 +1,17 @@
+{
+  "site_url": "https://www.newsmedia.report/",
+  "feed_url": "https://rss.newsmedia.report/rss.xml",
+  "output_file": "rss.xml",
+  "state_file": "feed_state.json",
+  "feed_title": "newsmedia.report",
+  "feed_description": "Independent news, special reports and analysis from Europe and around the world.",
+  "feed_language": "en-US",
+  "default_author": "newsmedia.report Editorial Team",
+  "copyright": "© 2026 newsmedia.report & sapcoCompanies. All rights reserved.",
+  "timezone": "Europe/Vienna",
+  "max_items": 50,
+  "candidate_limit": 90,
+  "refresh_newest": 20,
+  "request_delay_seconds": 0.15,
+  "user_agent": "newsmedia.report RSS Generator/1.0 (+https://www.newsmedia.report/)"
+}

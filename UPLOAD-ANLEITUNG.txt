@@ -1,0 +1,26 @@
+NEWSMEDIA.RSS – KURZANLEITUNG
+=============================
+
+Repository:
+https://github.com/sinisabrkic/newsmedia-rss
+
+1. ZIP-Datei entpacken.
+2. Im GitHub-Repository auf "Add file" > "Upload files" klicken.
+3. Den INHALT des Ordners newsmedia-rss hochladen, nicht den äußeren Ordner selbst.
+4. Prüfen, dass .github/workflows/update-rss.yml vorhanden ist.
+5. "Commit changes" anklicken.
+6. Repository > Actions > Update RSS Feed > Run workflow ausführen.
+7. Nach grünem Häkchen prüfen, ob rss.xml Artikel enthält.
+8. Settings > Pages:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+9. Unter Custom domain "rss.newsmedia.report" speichern.
+10. Bei easyname CNAME anlegen:
+    Name: rss
+    Ziel: sinisabrkic.github.io
+11. Nach erfolgreicher DNS-Prüfung in GitHub Pages "Enforce HTTPS" aktivieren.
+12. In Webador WEBADOR-HEAD.html unter Einstellungen > Erweitert > HTML im Head einfügen.
+
+Endadresse:
+https://rss.newsmedia.report/rss.xml
