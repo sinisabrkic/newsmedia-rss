@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3284982,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Österreich trägt noch immer das Selbstbild eines verlässlichen Sozialstaats. Doch unter dem Druck wachsender Staatsschulden, europäischer Defizitvorgaben und einer spürbar engeren Budgetpolitik beginnt sich dieses Modell zu verändern. Nicht mit einem offenen Bruch, sondern durch eine schleichende Verschiebung: Leistungen bleiben formal bestehen, werden real aber knapper, teurer und schwerer zugänglich.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-sozialstaat-kippt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-19T16:21:00+00:00",
+      "title": "Österreichs Sozialstaat kippt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3284982_oesterreichs-sozialstaat-kippt"
+    },
+    {
       "article_id": 3284398,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -978,17 +989,6 @@
       "published": "2026-06-08T10:44:00+00:00",
       "title": "UNO-Sicherheitsrat: Globaler Machtanspruch, Kulisse im Ernstfall | newsmedia.report",
       "url": "https://www.newsmedia.report/3213823_uno-sicherheitsrat-globaler-machtanspruch-kulisse-im-ernstfall"
-    },
-    {
-      "article_id": 3212362,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Der Fall George Stinney Jr. ist nicht nur ein historischer Justizskandal. Er ist ein konzentriertes Beispiel dafür, wie Rassentrennung, Todesstrafe und institutionelles Versagen ineinandergreifen können, bis aus einem Strafverfahren ein Vollstreckungsakt wird. Wer diesen Fall ernsthaft betrachtet, sieht nicht bloß einen Irrtum der Vergangenheit, sondern die präzise Anatomie eines Systems, das einem schwarzen Kind weder Schutz noch Zeit noch echte Verteidigung gewährte.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/george_stinney_titelbild-newsmedia-redaktion-high-4luyya.png",
-      "language": "de-AT",
-      "published": "2026-06-07T10:21:00+00:00",
-      "title": "George Stinney Jr.: Die Hinrichtung eines Kindes | newsmedia.report",
-      "url": "https://www.newsmedia.report/3212362_george-stinney-jr-die-hinrichtung-eines-kindes"
     }
   ],
   "version": 1
