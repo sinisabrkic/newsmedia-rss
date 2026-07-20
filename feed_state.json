@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3285878,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Lidl warnt in Deutschland und Österreich vor dem Verzehr einer tiefgekühlten Bio Beerenmischung der Marke Freshona. Der Hersteller Jütro Tiefkühlkost hat einen öffentlichen Rückruf gestartet, weil bei einzelnen Packungen eine Kontamination mit Noroviren nicht ausgeschlossen werden kann. Betroffen sind nur klar benannte Mindesthaltbarkeitsdaten und Chargennummern.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/lidl-r-ckruf-noroviren-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-20T11:46:00+00:00",
+      "title": "Noroviren Verdacht: Lidl ruft Bio Beeren in Deutschland und Österreich zurück | newsmedia.report",
+      "url": "https://www.newsmedia.report/3285878_noroviren-verdacht-lidl-ruft-bio-beeren-in-deutschland-und-oesterreich-zurueck"
+    },
+    {
+      "article_id": 3285830,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Künstliche Intelligenz verändert nicht nur Arbeitsabläufe, Geschäftsmodelle und digitale Produkte. Sie greift tiefer ein: in die Ordnung von Wissen, in die Sichtbarkeit von Informationen und in die Frage, wer gesellschaftliche Wirklichkeit künftig strukturiert. Was lange als technologische Beschleunigung erschien, entwickelt sich zunehmend zu einer Machtfrage. Denn wer Antworten automatisiert erzeugt, sortiert nicht nur Inhalte, sondern beeinflusst, was überhaupt noch sichtbar, sagbar und anschlussfähig bleibt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wahrheit-wenn-maschinen-wahrheit-verbergen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-20T10:47:00+00:00",
+      "title": "KI: Wenn Maschinen Wahrheit verbergen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3285830_ki-wenn-maschinen-wahrheit-verbergen"
+    },
+    {
       "article_id": 3285678,
       "author": "Sinisa Brkic (sb)",
       "category": "Europa",
@@ -967,28 +989,6 @@
       "published": "2026-06-13T06:50:00+00:00",
       "title": "Über 1.000 Kinder bezahlten für gescheiterte Integration | newsmedia.report",
       "url": "https://www.newsmedia.report/3222910_ueber-1-000-kinder-bezahlten-fuer-gescheiterte-integration"
-    },
-    {
-      "article_id": 3220488,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Gautam Adani ist eine der prägendsten und zugleich umstrittensten Unternehmerfiguren des globalen Südens. Sein Konzern steht für Häfen, Flughäfen, Energie, Netze, Zement, Logistik und Rohstoffe – also für jene materielle Infrastruktur, auf der Indiens Aufstieg tatsächlich ruht. Gerade deshalb ist Adani mehr als ein Milliardär: Er ist Unternehmer, Machtfaktor und Krisenindikator in einem.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gautam-adani-redaktion-newsmedia-high.png",
-      "language": "de-AT",
-      "published": "2026-06-12T06:33:00+00:00",
-      "title": "Gautam Adani: Der Tycoon, sein Imperium, seine Macht | newsmedia.report",
-      "url": "https://www.newsmedia.report/3220488_gautam-adani-der-tycoon-sein-imperium-seine-macht"
-    },
-    {
-      "article_id": 3220456,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik / Österreich / Deutschland / Welt",
-      "description": "Kokain ist längst kein Randphänomen mehr. In Europa steigt die Verfügbarkeit, die Reinheit ist hoch, der Markt wächst, und die Spuren reichen tief in Wirtschaft, Logistik, Sicherheitsapparate und organisierte Kriminalität. Was davon den politischen Raum tatsächlich erreicht, ist jedoch weit schwerer zu messen: Gerade dort, wo Macht, Diskretion und Reputationsrisiken zusammentreffen, beginnt der größte blinde Fleck.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kokain-und-politik-redaktion-newsmedia-high.png",
-      "language": "de-AT",
-      "published": "2026-06-12T05:41:00+00:00",
-      "title": "Kokain und Politik: Ausmaß, Risiken, blinde Flecken | newsmedia.report",
-      "url": "https://www.newsmedia.report/3220456_kokain-und-politik-ausmass-risiken-blinde-flecken"
     }
   ],
   "version": 1
