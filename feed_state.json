@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "article_id": 3285678,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europa",
+      "description": "Die Europäische Kommission entschärft den Emissionshandel an zentralen Stellen und sendet damit ein Signal weit über die Klimapolitik hinaus. Der Schritt soll wirtschaftlichen Druck mindern und politische Widerstände dämpfen, legt aber zugleich eine tiefere Schwäche offen: Europas CO₂ Ordnung ist nur so belastbar wie ihre Regeln, Nachweise und ihre institutionelle Glaubwürdigkeit. Gerade deshalb rückt nun eine Frage ins Zentrum, die lange unter dem Preissignal verborgen blieb: Wer sichert in diesem System Verlässlichkeit, Vergleichbarkeit und Vertrauen?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-co-ordnung-auf-bew-hrung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-20T07:45:00+00:00",
+      "title": "Europas CO₂ Ordnung auf Bewährung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3285678_europas-co2-ordnung-auf-bewaehrung"
+    },
+    {
+      "article_id": 3285629,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Kanada verschärft seine Einreiseregeln wegen des Ebola-Ausbruchs in der Demokratischen Republik Kongo und setzt damit ein Signal weit über die eigene Grenze hinaus. Ab dem späten 20. Juli dürfen bestimmte ausländische Reisende nach einem Aufenthalt im Kongo nicht mehr nach Kanada einreisen, obwohl die Weltgesundheitsorganisation weiterhin von allgemeinen Reisebeschränkungen abrät. Damit rückt ein Konflikt ins Zentrum, der weit über Virologie hinausgeht: Wie weit dürfen Staaten im Namen der Vorsorge gehen, wenn internationale Fachbehörden vor genau diesem Schritt warnen?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ebola-im-kongo-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-20T06:59:00+00:00",
+      "title": "Ebola im Kongo: Kanada stoppt Einreisen nach Kongo-Aufenthalt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3285629_ebola-im-kongo-kanada-stoppt-einreisen-nach-kongo-aufenthalt"
+    },
+    {
+      "article_id": 3285548,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Die Debatte um Jens Spahn hat ein Thema in das Zentrum der Öffentlichkeit gerückt, das in Deutschland lange moralisch verhandelt, rechtlich begrenzt und politisch doch nie wirklich entschieden wurde. Es geht um weit mehr als um einen privaten Kinderwunsch. Es geht um einen internationalen Markt, in dem Recht, Geld, Medizin und soziale Ungleichheit in einer Weise zusammenwirken, die die deutsche Debatte nur ungern offenlegt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/das-gesch-ft-mit-der-leihmutterschaft-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-20T04:45:00+00:00",
+      "title": "Das Geschäft mit der Leihmutterschaft | newsmedia.report",
+      "url": "https://www.newsmedia.report/3285548_das-geschaeft-mit-der-leihmutterschaft"
+    },
+    {
+      "article_id": 3285050,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Der Fall Florian Teichtmeister war in Österreich weit mehr als ein prominentes Strafverfahren. Er wurde zu einem Schockmoment für ein Land, das sich plötzlich mit einer unbequemen Wahrheit konfrontiert sah: Zwischen der Schwere des empfundenen Unrechts und der tatsächlichen Reichweite des damaligen Strafrechts klaffte eine Lücke, die politisch und gesellschaftlich nicht mehr vermittelbar wirkte. Genau darin lag die eigentliche Wucht dieses Falls. Nicht allein in der Person des Angeklagten, nicht allein im Urteil, sondern in der schonungslosen Offenlegung eines Systems, das an einer empfindlichen Stelle sichtbar zu schmal geworden war.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/teichtmeister-und-die-grenze-des-strafrechts-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-20T03:27:00+00:00",
+      "title": "Teichtmeister und die Grenze des Strafrechts | newsmedia.report",
+      "url": "https://www.newsmedia.report/3285050_teichtmeister-und-die-grenze-des-strafrechts"
+    },
+    {
+      "article_id": 3285495,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sport",
+      "description": "Österreich ist bei der WM 2026 gegen Argentinien und Spanien gescheitert. Das ist auf den ersten Blick eine ehrenvolle Lesart, zumal Spanien am 19. Juli 2026 mit einem 1:0 nach Verlängerung gegen Argentinien Weltmeister wurde und Argentinien damit Vizeweltmeister ist. Doch genau hier beginnt die eigentliche Analyse: Die Bilanz adelt das Turnier nicht automatisch, sie zeigt vor allem, wie schmal der Grat zwischen respektabler Präsenz und echter Konkurrenzfähigkeit noch immer ist",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-wm-bilanz-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-20T03:00:00+00:00",
+      "title": "Österreich scheitert nur an Spanien und Argentinien | newsmedia.report",
+      "url": "https://www.newsmedia.report/3285495_oesterreich-scheitert-nur-an-spanien-und-argentinien"
+    },
+    {
       "article_id": 3284982,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -934,61 +989,6 @@
       "published": "2026-06-12T05:41:00+00:00",
       "title": "Kokain und Politik: Ausmaß, Risiken, blinde Flecken | newsmedia.report",
       "url": "https://www.newsmedia.report/3220456_kokain-und-politik-ausmass-risiken-blinde-flecken"
-    },
-    {
-      "article_id": 3219158,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Österreich kennt das Problem, seit Jahren. Das Land hat Strafnormen, Meldepflichten, Kinderschutzkonzepte, Opferrechte und eine dichte Sprache der Verantwortung. Und doch bleibt der zentrale Befund unerquicklich klar: Kinder werden noch immer zu oft erst dann wirksam geschützt, wenn der Übergriff bereits geschehen ist, wenn der Verdacht eskaliert oder wenn ein Fall öffentlich wird. Das politische Versagen liegt nicht im völligen Fehlen von Instrumenten. Es liegt darin, dass ein Staat mit ausreichendem Wissen zu oft zu langsam, zu zersplittert und zu folgenarm handelt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kindermissbrauch-unter-druck-sterreichs-versagen-newsmedia-high-b1gunz.png",
-      "language": "de-AT",
-      "published": "2026-06-11T10:21:00+00:00",
-      "title": "Kinderschutz unter Druck: Österreichs Versagen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3219158_kinderschutz-unter-druck-oesterreichs-versagen"
-    },
-    {
-      "article_id": 3217818,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Es ist die Art von Geschichte, in der sich ein ganzes Zeitalter wiedererkennen will: ein Gründer, ein Bruder, ein paar KI-Tools und ein Unternehmen, das auf 1,8 Milliarden Dollar Jahresumsatz zusteuert. Matthew Gallagher und Medvi wirken damit wie die perfekte Parabel für eine neue Ökonomie, in der Größe nicht mehr an Belegschaft, sondern an Reichweite, Geschwindigkeit und algorithmischer Verdichtung gemessen wird. Gerade deshalb verdient dieser Fall eine kühlere, genauere Lektüre. Denn hinter dem Glamour der extrem schlanken Firma steht kein technisches Wunder, sondern ein aggressiv orchestriertes Telehealth-Modell in einem regulatorisch heiklen Markt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-fall-der-zwei-milliarden-firma-high.png",
-      "language": "de-AT",
-      "published": "2026-06-10T14:08:00+00:00",
-      "title": "Die Story der Zwei-Mann-Milliardenfirma | newsmedia.report",
-      "url": "https://www.newsmedia.report/3217818_die-story-der-zwei-mann-milliardenfirma"
-    },
-    {
-      "article_id": 3217072,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wissenschaft / Technologie & KI",
-      "description": "Der Gehirnchip ist nicht mehr nur Projektionsfläche für Technikfantasien, Börsenphantasie und digitale Erlösungsrhetorik. Implantierbare Brain-Computer-Interfaces existieren längst als ernsthafte medizinische Forschung, erste klinische Anwendungen sind real, und genau darin liegt die eigentliche Zäsur: Nicht die Vision ist das Problem, sondern ihr Übergang in die Wirklichkeit. Was heute entsteht, kann schwer gelähmten Menschen neue Kommunikations- und Handlungsmöglichkeiten eröffnen und zugleich eine technologische Zone schaffen, in der Eingriff, Auswertung und Kontrolle näher an den Menschen rücken als jede digitale Infrastruktur zuvor.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-gehirnchip-hype-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-10T06:42:00+00:00",
-      "title": "Der Gehirnchip-Hype im Härtetest | newsmedia.report",
-      "url": "https://www.newsmedia.report/3217072_der-gehirnchip-hype-im-haertetest"
-    },
-    {
-      "article_id": 3216602,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik / Europa / Verteidigung",
-      "description": "Europa gibt für Verteidigung so viel aus wie nie zuvor. Die Etats steigen, neue EU-Instrumente sind beschlossen, die politische Sprache ist härter geworden, und der strategische Ernst ist zurück in der Mitte des Kontinents. Doch genau darin liegt das Problem: Europas Sicherheitsarchitektur wirkt heute entschlossener als noch vor drei Jahren, aber operativ bleibt sie langsamer, zersplitterter und verwundbarer, als es die neue Bedrohungslage erlaubt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-r-stungswende-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-09T21:00:00+00:00",
-      "title": "Europas Rüstungswende: Viel Geld, zu wenig Schlagkraft | newsmedia.report",
-      "url": "https://www.newsmedia.report/3216602_europas-ruestungswende-viel-geld-zu-wenig-schlagkraft"
-    },
-    {
-      "article_id": 3213823,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik / UNO / Österreich",
-      "description": "Der Sicherheitsrat ist das zentrale Machtorgan der Vereinten Nationen. Er kann Sanktionen verhängen, Friedensmissionen mandatieren und völkerrechtlich bindende Beschlüsse fassen. Gerade deshalb ist seine Krise so gravierend: Seit 1990 zeigt sich immer wieder, dass der globale Machtanspruch dieses Gremiums im Ernstfall an derselben Härte zerschellt – am Vetorecht, an Großmachtinteressen und an der politischen Unfähigkeit, kollektive Sicherheit gegen ihre mächtigsten Blockierer durchzusetzen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/uno-sicherheitsrat-globaler-machtanspruch-kulisse-im-ernstfall-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-08T10:44:00+00:00",
-      "title": "UNO-Sicherheitsrat: Globaler Machtanspruch, Kulisse im Ernstfall | newsmedia.report",
-      "url": "https://www.newsmedia.report/3213823_uno-sicherheitsrat-globaler-machtanspruch-kulisse-im-ernstfall"
     }
   ],
   "version": 1
