@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3287928,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Der Angriff auf Rumäniens Kataster und Grundbuchsystem e-Terra ist mehr als ein technischer Störfall. Binnen weniger Stunden wurde aus einer Behördenkrise ein europäischer Belastungstest für digitale Eigentumsverwaltung, Immobilienmärkte und staatliche Resilienz. Vieles ist bestätigt, manches nur behauptet, doch schon jetzt zeigt der Fall mit seltener Klarheit, wie verwundbar hochdigitalisierte Verwaltungsstrukturen sind.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cyberangriff-auf-rum-niens-grundbuchsystem-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-21T19:03:00+00:00",
+      "title": "Cyberangriff auf Rumäniens Grundbuchsystem | newsmedia.report",
+      "url": "https://www.newsmedia.report/3287928_cyberangriff-auf-rumaeniens-grundbuchsystem"
+    },
+    {
+      "article_id": 3287859,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Mehrere Konflikte eskalieren gleichzeitig, Großmächte stehen in direkter Gegnerschaft, Seewege geraten unter Druck, und selbst Geheimdienstberichte sprechen offen von einer härteren, riskanteren Weltlage. Das allein ist noch kein Weltkrieg. Aber die internationale Ordnung befindet sich in einer Phase, in der regionale Kriege, hybride Angriffe und strategische Fehlkalkulationen schneller ineinandergreifen können als in vielen Jahren zuvor.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wie-nah-ist-die-welt-an-einem-neuen-weltkrieg-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-21T18:36:00+00:00",
+      "title": "Wie nah ist die Welt an einem neuen Weltkrieg? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3287859_wie-nah-ist-die-welt-an-einem-neuen-weltkrieg"
+    },
+    {
       "article_id": 3287548,
       "author": "Sinisa Brkic (sb)",
       "category": "Wetter / USA",
@@ -967,28 +989,6 @@
       "published": "2026-06-22T11:25:00+00:00",
       "title": "Pilnacek: Ein Tod mit vielen Zweifeln | newsmedia.report",
       "url": "https://www.newsmedia.report/3238465_pilnacek-ein-tod-mit-vielen-zweifeln"
-    },
-    {
-      "article_id": 3238118,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europa",
-      "description": "Europa steht nicht vor einer simplen Wiederkehr der 1930er-Jahre. Aber der Kontinent zeigt in mehreren Bereichen Muster, die historisch bekannt sind: ökonomische Verunsicherung, die politische Verwertung sozialer Angst, die schrittweise Entgrenzung des Sagbaren, die administrative Aushöhlung von Rechten und die moralische Gewöhnung an die Abwertung bestimmter Gruppen. Wer diese Mechanik nur dann erkennt, wenn sie bereits offen totalitär auftritt, erkennt sie zu spät. Die historische Lehre lautet nicht, überall Faschismus zu rufen. Sie lautet, die Vorstufen menschenverachtender Politik präzise zu benennen, solange sie noch politisch bekämpfbar sind.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europa-und-die-aktuelle-widerholungsmuster-der-1930er-jahre-newsmedia-high.png",
-      "language": "de-AT",
-      "published": "2026-06-22T07:33:00+00:00",
-      "title": "Europa und die aktuellen Muster der 1930er-Jahre | newsmedia.report",
-      "url": "https://www.newsmedia.report/3238118_europa-und-die-aktuellen-muster-der-1930er-jahre"
-    },
-    {
-      "article_id": 3232551,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Der 14-Punkte-Plan zwischen den USA und Iran ist weit mehr als eine Waffenruhe auf Zeit. Der jetzt von Reuters veröffentlichte Wortlaut zeigt ein politisch hoch aufgeladenes Interimsdokument: Es stoppt die akute Eskalation, öffnet Hormus, verspricht Iran wirtschaftliche Luft und vertagt die härtesten Streitfragen in eine zweite Phase. Genau darin liegt seine Brisanz und genau deshalb reagiert Israel so reserviert.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trumps-14-punkte-plan-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-19T07:19:00+00:00",
-      "title": "Trumps 14-Punkte-Plan: Iran, Israel, die Strategie dahinter | newsmedia.report",
-      "url": "https://www.newsmedia.report/3232551_trumps-14-punkte-plan-iran-israel-die-strategie-dahinter"
     }
   ],
   "version": 1
