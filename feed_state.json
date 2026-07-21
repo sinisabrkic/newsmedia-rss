@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3287248,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Donald Trump has opened a new phase in the US Canada trade conflict by invoking a rarely used law from 1930 and ordering fresh 50 percent tariffs on selected Canadian goods. The move reaches far beyond a bilateral quarrel over cars, alcohol and dairy. It raises difficult questions about the future of North American trade rules, the durability of the USMCA, and the possibility that Washington could revive the same legal instrument against other partners, including Europe.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-intensifies-tariff-dispute-with-canada-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-21T09:11:00+00:00",
+      "title": "Trump Intensifies Tariff Dispute with Canada | newsmedia.report",
+      "url": "https://www.newsmedia.report/3287248_trump-intensifies-tariff-dispute-with-canada"
+    },
+    {
+      "article_id": 3287136,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Mit dem heutigen Dienstag startet die Österreichische Gesundheitskasse den Versand von rund 90.000 Rechnungen für Selbstbehalte bei planbaren Krankentransporten. Betroffen sind Fahrten aus dem ersten Quartal 2026. Für viele Versicherte kommt die Vorschreibung überraschend. Entscheidend ist jetzt, was genau verrechnet wurde, wer tatsächlich zahlen muss und welche Ausnahmen gelten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gk-rechnungen-f-r-krankentransporte-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-21T07:23:00+00:00",
+      "title": "ÖGK schickt 90.000 Rechnungen für Krankentransporte | newsmedia.report",
+      "url": "https://www.newsmedia.report/3287136_oegk-schickt-90-000-rechnungen-fuer-krankentransporte"
+    },
+    {
       "article_id": 3286657,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-06-17T05:28:00+00:00",
       "title": "Pflege am Limit: Die erschöpfte Versorgung | newsmedia.report",
       "url": "https://www.newsmedia.report/3229625_pflege-am-limit-die-erschoepfte-versorgung"
-    },
-    {
-      "article_id": 3228068,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Der Ruf „Merz muss weg“ ist mehr als Straßenlärm. Er bündelt wirtschaftliche Frustration, politischen Autoritätsverlust und die wachsende Bereitschaft, komplexe Krisen in eine einfache Absetzungsformel zu pressen. Was sich in München zeigt, ist deshalb nicht nur Protest gegen einen Kanzler, sondern ein Symptom dafür, dass die politische Mitte an Bindekraft verliert.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/merz-muss-weg-proteste-in-m-nchen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-16T07:04:00+00:00",
-      "title": "„Merz muss weg“: Proteste in München | newsmedia.report",
-      "url": "https://www.newsmedia.report/3228068_merz-muss-weg-proteste-in-muenchen"
-    },
-    {
-      "article_id": 3226336,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Welt / Justiz & Recht",
-      "description": "Der Fall Jeffrey Epstein ist für das Silicon Valley kein Randthema mehr. Die jüngsten Wochen haben den Schwerpunkt noch einmal verschoben: weg von bloßer Prominenten-Nennung, hin zu formeller Befragung, institutioneller Aufarbeitung und der grundsätzlichen Frage, warum ein verurteilter Sexualstraftäter in Teilen der Tech-Welt überhaupt noch als anschlussfähig galt. Bill Gates steht im Zentrum dieser neuen Phase. Aber der größere Befund reicht weiter: Epstein bewegte sich in einem Milieu, in dem Zugang, Philanthropie, Status und Netzwerke offenkundig zu oft stärker wirkten als rote Linien.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jeffrey-epstein-und-die-tech-milliard-re-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-15T06:02:00+00:00",
-      "title": "Jeffrey Epstein, Bill Gates und das System der Tech-Eliten | newsmedia.report",
-      "url": "https://www.newsmedia.report/3226336_jeffrey-epstein-bill-gates-und-das-system-der-tech-eliten"
     }
   ],
   "version": 1
