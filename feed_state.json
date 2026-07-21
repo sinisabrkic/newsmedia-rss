@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3287548,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wetter / USA",
+      "description": "New York City and large parts of the northeastern United States are preparing for severe thunderstorms, torrential rainfall and dangerous flash flooding. Damaging winds, hail and isolated tornadoes are also possible, while roads, public transport and major airports could face significant disruption.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/flash-floods-and-severe-storms-threaten-new-york-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-21T13:37:00+00:00",
+      "title": "Flash Floods and Severe Storms Threaten New York | newsmedia.report",
+      "url": "https://www.newsmedia.report/3287548_flash-floods-and-severe-storms-threaten-new-york"
+    },
+    {
+      "article_id": 3287359,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Eine russische Fregatte hat südlich von Plymouth in ungewöhnlicher Nähe zur britischen Küste eine Übung mit scharfer Munition abgehalten. Das Manöver fand nach bisherigem Stand in internationalen Gewässern statt und war angekündigt, politisch aber ist der Vorfall brisant. Denn er berührt eine heikle Schnittstelle aus Seerecht, militärischer Machtdemonstration und den angespannten Beziehungen zwischen London und Moskau.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russisches-kriegsschiff-feuert-vor-gro-britannien-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-21T11:00:00+00:00",
+      "title": "Russisches Kriegsschiff feuert scharfe Munition vor Großbritannien | newsmedia.report",
+      "url": "https://www.newsmedia.report/3287359_russisches-kriegsschiff-feuert-scharfe-munition-vor-grossbritannien"
+    },
+    {
       "article_id": 3287248,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-06-19T07:19:00+00:00",
       "title": "Trumps 14-Punkte-Plan: Iran, Israel, die Strategie dahinter | newsmedia.report",
       "url": "https://www.newsmedia.report/3232551_trumps-14-punkte-plan-iran-israel-die-strategie-dahinter"
-    },
-    {
-      "article_id": 3231334,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Der Krieg gegen Iran hat die entscheidende Frage nicht endgültig beantwortet, sondern nur schärfer gestellt: Wie lange kann die Islamische Republik militärisch standhalten, wenn ihre Infrastruktur unter Druck gerät, ihre Stellvertreter geschwächt werden und zugleich der strategische Nutzen von Eskalation sinkt? Die jüngste Waffenruhe verändert daran wenig. Sie verschiebt die Bewährungsprobe nur in eine neue Phase. Als Machtfaktor bleibt Iran angeschlagen, aber keineswegs ausgeschaltet und genau darin liegt das geopolitische Risiko für die Region und für die globale Energieordnung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/irans-durchhaltef-higkeit-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-18T08:22:00+00:00",
-      "title": "Irans Durchhaltefähigkeit | newsmedia.report",
-      "url": "https://www.newsmedia.report/3231334_irans-durchhaltefaehigkeit"
-    },
-    {
-      "article_id": 3229625,
-      "author": "Redaktion / Sinisa Brkic (sb)",
-      "category": "Gesundheit",
-      "description": "Vorspann: Europas Gesundheitswesen steht unter Druck, aber der eigentliche Notstand ist tiefer als jede Schlagzeile über überfüllte Notaufnahmen oder lange Wartezeiten. Die Krise sitzt im Kern des Systems: bei den Pflegekräften, ohne die weder Klinik, Heim noch Primärversorgung tragfähig funktionieren. Was heute als Personalmangel erscheint, ist in Wahrheit das Ergebnis eines politischen und strukturellen Versagens, das sich über Jahre aufgebaut hat und nun die Versorgung selbst erschöpft.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pflege-am-limit-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-17T05:28:00+00:00",
-      "title": "Pflege am Limit: Die erschöpfte Versorgung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3229625_pflege-am-limit-die-erschoepfte-versorgung"
     }
   ],
   "version": 1
