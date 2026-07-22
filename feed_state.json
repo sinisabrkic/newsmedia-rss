@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3289247,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "The Middle East is sliding into a wider and more dangerous war. Missiles and drones over Jordan, fresh threats from President Donald Trump, expanding flight warnings, and rising oil jitters are all flashing the same message: this fight is breaking out beyond its original battlefield. What was already volatile now looks like a regional crisis with real consequences for security, air travel, shipping, and global prices.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/middle-east-war-spreads-newsmedia-report-high.png",
+      "language": "de-AT",
+      "published": "2026-07-22T15:17:00+00:00",
+      "title": "Middle East: The War Is Spreading | newsmedia.report",
+      "url": "https://www.newsmedia.report/3289247_middle-east-the-war-is-spreading"
+    },
+    {
       "article_id": 3289042,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-06-26T05:24:00+00:00",
       "title": "Putins neue Härte | newsmedia.report",
       "url": "https://www.newsmedia.report/3244055_putins-neue-haerte"
-    },
-    {
-      "article_id": 3244013,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europa",
-      "description": "Migration ist ein großes europäisches Problem. Sie belastet Kommunen, polarisiert Gesellschaften, überfordert Verwaltungsstrukturen, verschärft Sicherheitsdebatten und treibt rechte Parteien nach oben. Doch sie ist nicht Europas tiefste Krise. Die größere, langsamere und politisch gefährlichere Erschütterung heißt Demografie: ein Kontinent, der altert, zu wenige Kinder bekommt, wirtschaftlich an Dynamik verliert und sich über Jahre angewöhnt hat, an den sichtbarsten Konflikten zu arbeiten, während die strukturellen Brüche weiter anwachsen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-wahre-krise-beralterung-und-geburtenkrise-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-26T04:19:00+00:00",
-      "title": "Europas wahre Krise: Überalterung und Geburtenkrise | newsmedia.report",
-      "url": "https://www.newsmedia.report/3244013_europas-wahre-krise-ueberalterung-und-geburtenkrise"
     }
   ],
   "version": 1
