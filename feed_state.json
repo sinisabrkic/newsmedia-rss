@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3289042,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "En quelques heures, la France a vu affleurer une fracture que le pouvoir cherchait encore à contenir. Après l’adoption d’une loi agricole ouvrant la voie à des dérogations encadrées pour deux insecticides jusqu’ici bannis en droit français, la ministre de l’Écologie Monique Barbut a annoncé son intention de quitter le gouvernement, avant de rester en poste après l’intervention d’Emmanuel Macron. Cette séquence ne relève pas d’un simple épisode ministériel. Elle concentre, dans un même choc politique, la question agricole, la santé publique, la protection du vivant et la solidité même de la ligne écologique de l’exécutif.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/la-crise-fran-aise-des-pesticides-newsmedia-redaktion-high-fnkqhu.png",
+      "language": "de-AT",
+      "published": "2026-07-22T14:00:00+00:00",
+      "title": "La crise française des pesticides | newsmedia.report",
+      "url": "https://www.newsmedia.report/3289042_la-crise-francaise-des-pesticides"
+    },
+    {
       "article_id": 3288681,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -978,17 +989,6 @@
       "published": "2026-06-26T04:19:00+00:00",
       "title": "Europas wahre Krise: Überalterung und Geburtenkrise | newsmedia.report",
       "url": "https://www.newsmedia.report/3244013_europas-wahre-krise-ueberalterung-und-geburtenkrise"
-    },
-    {
-      "article_id": 3242578,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen / Digitaler Euro / CBDC",
-      "description": "Der digitale Euro wird von EZB, EU Kommission und Teilen des Europaparlaments als europäisches Schutzprojekt präsentiert: souverän, modern, resilient, datensparsam. Doch unter dieser technisch klingenden Oberfläche läuft eine wesentlich härtere Auseinandersetzung. Es geht um die Neuordnung von Zahlungsverkehr, Marktmacht, Datenzugriff, Bankenfinanzierung und politischer Steuerungsfähigkeit. Der digitale Euro ist deshalb nicht nur eine Währungsfrage. Er ist ein Infrastrukturkampf um die künftige Macht im Geldsystem.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-digitale-euro-fortschritt-und-kontrolle-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-25T06:45:00+00:00",
-      "title": "Digitaler Euro: Technischer Fortschritt oder Architektur der Kontrolle | newsmedia.report",
-      "url": "https://www.newsmedia.report/3242578_digitaler-euro-technischer-fortschritt-oder-architektur-der-kontrolle"
     }
   ],
   "version": 1
