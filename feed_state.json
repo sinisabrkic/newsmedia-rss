@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3289729,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Kernlose Trauben, Mini Gurken ohne Samen, Wassermelonen ohne harte Kerne, Zitrusfrüchte mit möglichst glattem Innenleben. Was im Regal wie ein harmloser Komfortgewinn wirkt, ist in Wahrheit Teil einer größeren Entwicklung. Der Markt formt Lebensmittel nicht mehr nur nach Geschmack, Ertrag und Haltbarkeit, sondern zunehmend auch nach Friktionsfreiheit. Das hat Vorteile, aber es hat auch einen Preis.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kernloses-obst-und-gem-se-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-22T21:23:00+00:00",
+      "title": "Kernloses Obst und Gemüse: Der Umbau unserer Nahrung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3289729_kernloses-obst-und-gemuese-der-umbau-unserer-nahrung"
+    },
+    {
+      "article_id": 3289697,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Der digitale Euro wird von seinen Befürwortern als europäische Antwort auf die Abhängigkeit von privaten Zahlungsriesen verkauft. Kritiker sehen darin jedoch nicht nur ein neues Zahlungsmittel, sondern den Einstieg in eine Infrastruktur, die sensibles Alltagsverhalten technisch erfassbar, politisch formbar und staatlich rahmbar macht. Der Kern der Debatte ist deshalb nicht bloß monetär. Er ist machtpolitisch, rechtsstaatlich und gesellschaftlich.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-digitale-euro-schutzversprechen-und-privatsph-re-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-22T20:22:00+00:00",
+      "title": "Der digitale Euro: Schutzversprechen und Eingriff in die Privatsphäre | newsmedia.report",
+      "url": "https://www.newsmedia.report/3289697_der-digitale-euro-schutzversprechen-und-eingriff-in-die-privatsphaere"
+    },
+    {
       "article_id": 3289247,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-06-26T18:12:00+00:00",
       "title": "Blackout Vorsorge in Europa: Warum Familien in der DACH Region konkreter planen | newsmedia.report",
       "url": "https://www.newsmedia.report/3245018_blackout-vorsorge-in-europa-warum-familien-in-der-dach-region-konkreter-planen"
-    },
-    {
-      "article_id": 3244138,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Entertainment / GTA 6 / GTA VI / Rockstar Games",
-      "description": "Vorspann: Grand Theft Auto VI wird als Unterhaltungsereignis vermarktet, tatsächlich aber steht hier womöglich etwas anderes auf dem Prüfstand: die nächste Stufe digitaler Welterzeugung als Machttechnik. Nicht die Größe der Karte ist entscheidend. Entscheidend ist, ob Rockstar eine Welt baut, die den Spieler nicht nur beschäftigt, sondern beobachtet, bewertet und in ein System permanenter Reaktion einbindet. Genau dort berührt GTA VI die Gegenwart der Menschheit weit stärker, als es ein gewöhnlicher Spielehype vermuten lässt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gta-vi-und-die-sthetik-der-kontrolle-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-26T06:52:00+00:00",
-      "title": "GTA VI und die Ästhetik der Kontrolle | newsmedia.report",
-      "url": "https://www.newsmedia.report/3244138_gta-vi-und-die-aesthetik-der-kontrolle"
-    },
-    {
-      "article_id": 3244055,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Die jüngsten Aussagen aus Moskau deuten nicht auf eine politische Öffnung hin. Sie zeigen vielmehr, dass der Kreml die militärische Lage, die Angriffe auf russische Infrastruktur und die westliche Debatte über mögliche Verhandlungen in eine streng kontrollierte politische Linie übersetzt. Für die Ukraine, für Europa und für mögliche Vermittlungsversuche ist dabei weniger entscheidend, wie scharf Putin formuliert, sondern woran sich seine Aussagen inhaltlich festmachen: an militärischem Druck, territorialen Forderungen und dem Versuch, Gesprächsbereitschaft nur unter russischen Bedingungen zu definieren.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putins-neue-h-rte-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-26T05:24:00+00:00",
-      "title": "Putins neue Härte | newsmedia.report",
-      "url": "https://www.newsmedia.report/3244055_putins-neue-haerte"
     }
   ],
   "version": 1
