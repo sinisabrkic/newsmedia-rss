@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3290441,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Brüssel zieht die bislang schärfste Linie gegen Google unter dem Digital Markets Act. Die EU-Kommission wirft dem Konzern vor, in der Google-Suche eigene Angebote systematisch bevorzugt und App-Anbieter im Play Store daran gehindert zu haben, Nutzer frei auf günstigere Kaufwege außerhalb des Systems hinzuweisen. Für Verbraucher, Publisher, Reiseportale und Entwickler ist die Entscheidung weit mehr als ein Bußgeldfall. Sie greift in die Architektur digitaler Sichtbarkeit und digitaler Preise ein",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-verh-ngt-890-millionen-euro-strafe-gegen-google-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-23T12:02:00+00:00",
+      "title": "EU verhängt 890 Millionen Euro Strafe gegen Google | newsmedia.report",
+      "url": "https://www.newsmedia.report/3290441_eu-verhaengt-890-millionen-euro-strafe-gegen-google"
+    },
+    {
+      "article_id": 3290262,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "The public message coming out of Washington is stark. The CIA and the broader US intelligence community are not describing a region moving toward stability, but one entering a more dangerous and less predictable phase. Iran may be weakened, but the threat picture has not simplified. It has become more fragmented, more asymmetric, and in some ways more volatile.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cia-warns-middle-east-on-the-brink-of-a-wider-fire-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-23T09:30:00+00:00",
+      "title": "CIA Warns: Middle East on the Brink of a Wider Fire | newsmedia.report",
+      "url": "https://www.newsmedia.report/3290262_cia-warns-middle-east-on-the-brink-of-a-wider-fire"
+    },
+    {
+      "article_id": 3290191,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Le Parlement français a définitivement adopté l’interdiction d’accès aux réseaux sociaux pour les moins de 15 ans. Présentée comme une mesure de protection de l’enfance, la nouvelle règle place désormais les plateformes face à une exigence centrale : vérifier l’âge de leurs utilisateurs sans transformer cette protection en contrôle généralisé de l’identité.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/la-france-rel-ve-l-ge-d-acc-s-aux-r-seaux-sociaux-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-23T09:01:00+00:00",
+      "title": "La France relève l’âge d’accès aux réseaux sociaux | newsmedia.report",
+      "url": "https://www.newsmedia.report/3290191_la-france-releve-l-age-d-acces-aux-reseaux-sociaux"
+    },
+    {
       "article_id": 3290120,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -956,39 +989,6 @@
       "published": "2026-06-29T03:25:00+00:00",
       "title": "Während die Fussball WM 2026 läuft, verhärtet sich die Weltlage | newsmedia.report",
       "url": "https://www.newsmedia.report/3247871_waehrend-die-fussball-wm-2026-laeuft-verhaertet-sich-die-weltlage"
-    },
-    {
-      "article_id": 3247039,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International / Jeffrey Epstein / John F. Kennedy / Nikola Tesla",
-      "description": "Bei Jeffrey Epstein existiert inzwischen eine eigene, laufend aktualisierte Veröffentlichungsstruktur des US Justizministeriums. Bei John F. Kennedy wiederum sind seit März 2025 nach Angaben des Nationalarchivs alle zuvor aus Geheimhaltungsgründen zurückgehaltenen Akten des JFK Bestands freigegeben, auch wenn nicht jede Datei bereits vollständig digital erschlossen ist. Und bei Nikola Tesla liegt der Fall noch einmal anders: Es gibt FBI Akten im Vault, aber der berühmte Kern des Mythos betrifft vor allem staatlich gesicherte Unterlagen nach Teslas Tod und nicht einfach einen bis heute vollständig versiegelten FBI Schatz.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/warum-die-epstein-files-offenliegen-die-akten-zu-jfk-und-erfinder-nikola-tesla-aber-nicht-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-28T13:55:00+00:00",
-      "title": "Warum die Epstein Files offenliegen, die Akten zu JFK und Erfinder Nikola Tesla aber nicht | newsmedia.report",
-      "url": "https://www.newsmedia.report/3247039_warum-die-epstein-files-offenliegen-die-akten-zu-jfk-und-erfinder-nikola-tesla-aber-nicht"
-    },
-    {
-      "article_id": 3246499,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Vorspann: Der Krieg im Nahen Osten ist für Europa keine ferne Krise mehr, sondern ein realer Belastungstest für Energiepreise, Handel, innere Sicherheit, Migration und außenpolitische Handlungsfähigkeit. Die Europäische Union behandelt die Folgen inzwischen ausdrücklich als eigenes Strukturproblem: für Versorgung, Lieferketten, Preisstabilität und politische Stabilität. Die Lage zeigt mit wachsender Härte, wie eng Europas Wohlstand und Sicherheit an eine Region gebunden bleiben, die es politisch nur begrenzt mitgestaltet.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nahost-und-europa-der-konflikt-zeigt-l-ngst-wirkung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-28T03:15:00+00:00",
-      "title": "Nahost und Europa: Der Konflikt zeigt längst Wirkung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3246499_nahost-und-europa-der-konflikt-zeigt-laengst-wirkung"
-    },
-    {
-      "article_id": 3245838,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Dialog präsentiert sich als diskretes Forum für vertrauliche Gespräche unter Führungspersonen aus Politik, Technologie, Wirtschaft und Kultur. Die inzwischen öffentlich gewordenen Unterlagen und Recherchen zeichnen jedoch ein anderes, deutlich schärferes Bild: Hier trifft sich ein Netzwerk, in dem staatliche Macht, Technologiekapital, Sicherheitsinteressen und publizistische Reichweite in ungewöhnlicher Dichte zusammenlaufen. Nicht die bloße Exklusivität macht dieses Forum relevant, sondern die Frage, was es politisch bedeutet, wenn solche Kreise ihre Lagebilder abseits öffentlicher Kontrolle synchronisieren.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dialog-das-machtforum-um-peter-thiel-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-27T17:45:00+00:00",
-      "title": "Dialog: Das Machtforum um Peter Thiel | newsmedia.report",
-      "url": "https://www.newsmedia.report/3245838_dialog-das-machtforum-um-peter-thiel"
     }
   ],
   "version": 1
