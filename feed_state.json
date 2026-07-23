@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3290120,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "China verdichtet Planung, Vorfertigung, Logistik und Ausführung zu einem Bautempo, das in Europa regelmäßig wie ein Blick in eine andere industrielle Zeitrechnung wirkt. Gerade dort, wo KI, digitale Zwillinge, BIM und modulare Fertigung ineinandergreifen, verschiebt sich der Maßstab dessen, was als realistisch gilt. Der Unterschied liegt dabei nicht allein in der Technik. Er liegt im System, das diese Technik konsequent in Geschwindigkeit übersetzt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/chinas-infrastrukturbau-im-ki-expressmodus-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-23T08:01:00+00:00",
+      "title": "Chinas Infrastrukturbau im KI Expressmodus | newsmedia.report",
+      "url": "https://www.newsmedia.report/3290120_chinas-infrastrukturbau-im-ki-expressmodus"
+    },
+    {
+      "article_id": 3290083,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Society",
+      "description": "Jehovah’s Witnesses are legally recognized in Austria, active around the world, and organized with an unusual degree of internal unity. At the same time, their practices involving expelled members, medical decisions, child protection, and the handling of abuse allegations remain the subject of sustained public and legal scrutiny. The current picture is complex: the organization is making selective adjustments, while defending the doctrines and disciplinary structures at the center of the controversy.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jehovah-s-witnesses-in-2026-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-23T07:33:00+00:00",
+      "title": "Jehovah’s Witnesses: Religious Freedom, Internal Discipline and Growing Public Scrutiny | newsmedia.report",
+      "url": "https://www.newsmedia.report/3290083_jehovah-s-witnesses-religious-freedom-internal-discipline-and-growing-public-scrutiny"
+    },
+    {
       "article_id": 3289729,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -967,28 +989,6 @@
       "published": "2026-06-27T17:45:00+00:00",
       "title": "Dialog: Das Machtforum um Peter Thiel | newsmedia.report",
       "url": "https://www.newsmedia.report/3245838_dialog-das-machtforum-um-peter-thiel"
-    },
-    {
-      "article_id": 3245461,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Der Titel ist maximal zugespitzt. Wörtlich genommen ist er zu hart, politisch gemeint trifft er einen wunden Punkt. Österreich ist noch immer ein Land mit sehr hohen Sozialausgaben. Aber genau das ist nicht mehr die entscheidende Frage. Entscheidend ist, ob der Sozialstaat noch als politischer Grundkonsens behandelt wird oder nur noch als Kostenblock unter Vorbehalt. Genau dort hat sich in Österreich etwas verschoben.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreich-das-ende-des-sozialstaats-high.png",
-      "language": "de-AT",
-      "published": "2026-06-27T07:45:00+00:00",
-      "title": "Österreich: Das Ende des Sozialstaats | newsmedia.report",
-      "url": "https://www.newsmedia.report/3245461_oesterreich-das-ende-des-sozialstaats"
-    },
-    {
-      "article_id": 3245018,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit / Europa / DACH",
-      "description": "Ein großflächiger Stromausfall ist in Mitteleuropa kein Alltagsszenario, aber ein reales Risiko mit weitreichenden Folgen. Spätestens seit dem massiven Ausfall auf der Iberischen Halbinsel am 28. April 2025 ist das Thema wieder sichtbar auf der öffentlichen Agenda. Viele Familien in Österreich, Deutschland und der Schweiz stellen sich deshalb nüchterner als früher die Frage, wie belastbar ihr Haushalt über mehrere Tage ohne Strom tatsächlich wäre.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-vorsorge-in-europa-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-06-26T18:12:00+00:00",
-      "title": "Blackout Vorsorge in Europa: Warum Familien in der DACH Region konkreter planen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3245018_blackout-vorsorge-in-europa-warum-familien-in-der-dach-region-konkreter-planen"
     }
   ],
   "version": 1
