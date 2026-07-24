@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3292880,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Sonam Wangchuk has ended his 26 day hunger strike, but the movement behind him is continuing. What began as anger over alleged examination leaks has grown into a broader conflict over education, jobs, political accountability and the treatment of young protesters.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-s-youth-protest-outlives-wangchuk-s-fast-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-24T15:04:00+00:00",
+      "title": "India’s Youth Protest Outlives Wangchuk’s Fast | newsmedia.report",
+      "url": "https://www.newsmedia.report/3292880_india-s-youth-protest-outlives-wangchuk-s-fast"
+    },
+    {
       "article_id": 3292698,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-07-07T08:20:00+00:00",
       "title": "Nationalratswahl 2028: Parteigründung in Österreich | newsmedia.report",
       "url": "https://www.newsmedia.report/3264783_nationalratswahl-2028-parteigruendung-in-oesterreich"
-    },
-    {
-      "article_id": 3264724,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Handel / E-Commerce",
-      "description": "Produktrückrufe gehören im Einzelhandel längst nicht mehr zur Ausnahme, sondern zur ständigen Begleitmusik des Alltags. Mal geht es um Keime, mal um Fremdkörper, mal um verbotene Stoffe, Stromschlaggefahr oder erhebliche Mängel bei Kennzeichnung und Rückverfolgbarkeit. Das Recht kennt bereits Verkaufsverbote, Rücknahmen, Rückrufe und Verwaltungsstrafen. Doch die entscheidende Frage lautet, ob dieses System noch abschreckt oder ob der Rückruf für Teile des Handels faktisch zum kalkulierbaren Betriebsrisiko geworden ist.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/r-ckrufe-als-routine-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-07T07:13:00+00:00",
-      "title": "Rückrufe als Routine: Der Einzelhandel muss härter haften | newsmedia.report",
-      "url": "https://www.newsmedia.report/3264724_rueckrufe-als-routine-der-einzelhandel-muss-haerter-haften"
     }
   ],
   "version": 1
