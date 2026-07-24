@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3293237,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Zwei Menschen können sich aufrichtig lieben und dennoch nicht miteinander leben können. Manchmal fehlt es nicht an Gefühlen, sondern an innerer Reife, Freiheit, Mut oder dem richtigen Zeitpunkt. Doch gibt es die richtige Person zur falschen Zeit wirklich oder ist diese Vorstellung nur ein tröstlicher Satz für eine Beziehung, die niemals hätte bestehen können?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-richtige-person-zur-falschen-zeit-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-24T20:02:00+00:00",
+      "title": "Die richtige Person zur falschen Zeit? / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3293237_die-richtige-person-zur-falschen-zeit"
+    },
+    {
+      "article_id": 3293165,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Nur gut ein Jahr nach der finanziellen Neuordnung ist Varta erneut in einer existenziellen Krise. Für die Konzernmutter und drei operative Gesellschaften wurden Insolvenzanträge gestellt. Der Geschäftsbetrieb soll zunächst fortgeführt werden, doch die Aufteilung des traditionsreichen Batterieherstellers ist zu einer realen Möglichkeit geworden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/vartas-gescheiterte-sanierung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-24T18:45:00+00:00",
+      "title": "Vartas Sanierung ist gescheitert: Insolvenzantrag | newsmedia.report",
+      "url": "https://www.newsmedia.report/3293165_vartas-sanierung-ist-gescheitert-insolvenzantrag"
+    },
+    {
       "article_id": 3292880,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-07-08T08:45:00+00:00",
       "title": "Greenwashing wird jetzt teuer | newsmedia.report",
       "url": "https://www.newsmedia.report/3266256_greenwashing-wird-jetzt-teuer"
-    },
-    {
-      "article_id": 3265126,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesundheit",
-      "description": "Adolf Pokorny schlug dem NS Machtapparat vor, eine tropische Pflanze für die systematische Sterilisation einzusetzen. Dieffenbachia galt in diesem Denken nicht als botanische Kuriosität, sondern als mögliches Werkzeug staatlich organisierter Entmenschlichung. Der Fall zeigt, wie bereitwillig das Regime selbst spekulative medizinische Annahmen in Programme biopolitischer Gewalt überführte. Historisch belastbar ist dabei vor allem der Vorschlag, die ideologische Zielrichtung und die Bereitschaft zu Menschenversuchen, nicht aber der Nachweis einer verlässlichen pflanzlichen Massensterilisation.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dieffenbachia-pflanze-im-ns-regime-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-07T11:55:00+00:00",
-      "title": "Dieffenbachia: Die Pflanze der Unfruchtbarkeit im Dienst des NS Regimes | newsmedia.report",
-      "url": "https://www.newsmedia.report/3265126_dieffenbachia-die-pflanze-der-unfruchtbarkeit-im-dienst-des-ns-regimes"
-    },
-    {
-      "article_id": 3264783,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich / Nationalratswahl 2028",
-      "description": "In Österreich ist die Gründung einer politischen Partei rechtlich erstaunlich offen. Der eigentliche Kraftakt beginnt erst danach: bei Satzung, Organisation, Kandidatur, Unterstützungserklärungen, Listenaufstellung, Finanzierung, Transparenzpflichten und am Ende bei der Frage, ob aus politischer Ambition parlamentarische Handlungsfähigkeit wird. Wer 2028 in den Nationalrat will, muss deshalb weit mehr beherrschen als Empörung, Reichweite und ein Logo.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/parteigr-ndung-in-sterreich-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-07T08:20:00+00:00",
-      "title": "Nationalratswahl 2028: Parteigründung in Österreich | newsmedia.report",
-      "url": "https://www.newsmedia.report/3264783_nationalratswahl-2028-parteigruendung-in-oesterreich"
     }
   ],
   "version": 1
