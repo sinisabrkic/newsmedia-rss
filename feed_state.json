@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3292698,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Des melons du Haut-Poitou IGP vendus en vrac dans les magasins Carrefour font l’objet d’un rappel dans toute la France. Une teneur en cadmium supérieure à la limite réglementaire a été détectée. Le rappel ne concerne pas l’ensemble des melons commercialisés par l’enseigne, mais une référence précise de la marque Reflets de France.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rappel-carrefour-melons-reflets-de-france-au-cadmium-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-24T11:40:00+00:00",
+      "title": "Carrefour rappelle des melons Reflets de France | newsmedia.report",
+      "url": "https://www.newsmedia.report/3292698_carrefour-rappelle-des-melons-reflets-de-france"
+    },
+    {
+      "article_id": 3292528,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Economy",
+      "description": "The United States has replaced its temporary global import surcharge with a new tariff regime covering 60 of its largest trading partners. Rates of 10 percent or 12.5 percent took effect on July 24, with the Trump administration citing failures to block goods produced with forced labor from international supply chains. The immediate impact varies sharply by country and product, but the decision places new pressure on importers, manufacturers and consumers while reopening the legal and political battle over Washington’s trade policy.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-rebuilds-the-u-s-tariff-wall-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-24T08:47:00+00:00",
+      "title": "Trump Rebuilds the U.S. Tariff Wall Across 60 Partners | newsmedia.report",
+      "url": "https://www.newsmedia.report/3292528_trump-rebuilds-the-u-s-tariff-wall-across-60-partners"
+    },
+    {
       "article_id": 3292284,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-07-07T07:13:00+00:00",
       "title": "Rückrufe als Routine: Der Einzelhandel muss härter haften | newsmedia.report",
       "url": "https://www.newsmedia.report/3264724_rueckrufe-als-routine-der-einzelhandel-muss-haerter-haften"
-    },
-    {
-      "article_id": 3262003,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft / Künstliche Intelligenz",
-      "description": "Die schnelle Verbreitung von KI verändert nicht nur Arbeitsabläufe und Geschäftsmodelle, sondern den Alltag selbst. Immer mehr Menschen lagern sprachliche, kognitive und kulturelle Grundfähigkeiten an Systeme aus, die für sie formulieren, ordnen, zusammenfassen und deuten. Was als bequeme Hilfe beginnt, kann sich zu einer stillen Form gesellschaftlicher Entwöhnung auswachsen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gesellschaft-und-ihre-abh-ngigkeit-von-ki-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-06T04:30:00+00:00",
-      "title": "Gesellschaft: Die Abhängigkeit von KI Systemen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3262003_gesellschaft-die-abhaengigkeit-von-ki-systemen"
-    },
-    {
-      "article_id": 3260878,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europa",
-      "description": "Wer sich militärisch vorbereitet, tut das nicht für eine philosophische Möglichkeit, sondern für konkrete Lagen. Aufrüstung folgt Bedrohungsbildern, Zeitachsen und politischen Zielen. Genau deshalb reicht es nicht mehr, Europas Rüstungswende als bloße Vorsorge zu beschreiben. Wenn Staaten ihre Haushalte umbauen, Produktionskapazitäten hochziehen und militärische Mobilität beschleunigen, dann bereiten sie sich auf Szenarien vor, die in den Planungen längst mitgedacht werden.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-aufr-stung-worauf-bereitet-man-sich-vor-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-05T07:45:00+00:00",
-      "title": "Europas Aufrüstung: Worauf bereitet man sich vor? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3260878_europas-aufruestung-worauf-bereitet-man-sich-vor"
     }
   ],
   "version": 1
