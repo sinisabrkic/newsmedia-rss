@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3293541,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Die „Pandemie der Ungeimpften“ war kein wissenschaftlicher Befund, sondern eine politische Kampf- und Lenkungsformel. Während Regierungen und europäische Institutionen ungeimpfte Menschen öffentlich zu den zentralen Verursachern der Krise erklärten, hielt der Krisenstab des Robert Koch-Instituts intern fest, dass diese Darstellung fachlich nicht korrekt war. Die veröffentlichten Akten zeigen keinen Beweis für eine europaweit koordinierte strafrechtliche Verschwörung. Sie dokumentieren jedoch eine politische Täuschung von beträchtlicher Tragweite und werfen die Frage auf, wer für konkrete Schäden durch Ausgrenzung, Berufsverlust und staatlichen Druck haftet.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-gro-e-corona-t-uschung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-25T09:30:00+00:00",
+      "title": "Die große Corona-Täuschung: Pandemie der Ungeimpften | newsmedia.report",
+      "url": "https://www.newsmedia.report/3293541_die-grosse-corona-taeuschung-pandemie-der-ungeimpften"
+    },
+    {
       "article_id": 3293533,
       "author": "Sinisa Brkic (sb)",
       "category": "Politik",
@@ -978,17 +989,6 @@
       "published": "2026-07-09T14:17:00+00:00",
       "title": "Erdogan beschenkt Merz: Eine scharfe Pistole als Symbol für Eskalation | newsmedia.report",
       "url": "https://www.newsmedia.report/3270236_erdogan-beschenkt-merz-eine-scharfe-pistole-als-symbol-fuer-eskalation"
-    },
-    {
-      "article_id": 3269647,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft / Finanzen",
-      "description": "Der digitale Euro ist kein abstraktes Zukunftsprojekt mehr, sondern ein politisch und technisch weit vorangetriebenes Vorhaben der Eurozone. Nach der Vorbereitungsphase arbeitet das Eurosystem an Infrastruktur, Regelwerk und Pilotbetrieb, während Parlament, Rat und Kommission den Rechtsrahmen in Richtung 2026 ziehen. Für die Bevölkerung beginnt damit keine ferne Theorie, sondern eine Phase, in der sich entscheidet, wie viel Bequemlichkeit Europa gewinnt, wie viel Abhängigkeit es abbaut und wie eng die künftige Architektur des Geldes an Fragen von Freiheit, Kontrolle und Macht rückt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-digitale-euro-wird-realit-t-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-09T06:59:00+00:00",
-      "title": "Der digitale Euro wird Realität | newsmedia.report",
-      "url": "https://www.newsmedia.report/3269647_der-digitale-euro-wird-realitaet"
     }
   ],
   "version": 1
