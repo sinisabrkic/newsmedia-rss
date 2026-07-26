@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3295507,
+      "author": "Sinisa Brkic (sb) / Redaktion",
+      "category": "Politik",
+      "description": "Bei der Nationalratswahl 2024 blieben mehr Wahlberechtigte zu Hause, als die FPÖ Stimmen erhielt. Hinter den 1.416.314 Nichtwählern steht allerdings keine geschlossene Bewegung, sondern ein politisch widersprüchliches Feld aus Enttäuschung, geringer Bindung, fehlendem Vertrauen, bewusster Verweigerung und persönlichen Gründen. Für eine Partei, die einen relevanten Teil dieser Menschen tatsächlich mobilisieren könnte, wäre der Effekt enorm. Bereits ein vergleichsweise kleiner Zugewinn könnte den Wahlsieger verändern, einer neuen Kraft den Einzug in den Nationalrat ermöglichen und die Voraussetzungen jeder Regierungsbildung verschieben.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-st-rkste-kraft-sitzt-nicht-im-parlament-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-26T17:45:00+00:00",
+      "title": "Österreichs stärkste Kraft sitzt nicht im Parlament | newsmedia.report",
+      "url": "https://www.newsmedia.report/3295507_oesterreichs-staerkste-kraft-sitzt-nicht-im-parlament"
+    },
+    {
       "article_id": 3294902,
       "author": "Sinisa Brkic (sb)",
       "category": "Health",
@@ -978,17 +989,6 @@
       "published": "2026-07-14T12:02:00+00:00",
       "title": "Putins Spezialflugzeug landet in Teheran | newsmedia.report",
       "url": "https://www.newsmedia.report/3276384_putins-spezialflugzeug-landet-in-teheran"
-    },
-    {
-      "article_id": 3276109,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft / Finanzen",
-      "description": "Wer Larry Fink verstehen will, muss mehr betrachten als einen prominenten CEO. Mit BlackRock steht hinter ihm kein gewöhnlicher Finanzkonzern, sondern eine Struktur, die Märkte nicht nur beobachtet, sondern in weiten Teilen mitordnet. Der Einfluss dieses Hauses entsteht aus Vermögen, Technologie, Daten, Infrastruktur und politischer Anschlussfähigkeit zugleich. Gerade deshalb ist BlackRock für die einen unverzichtbare Stabilitätsmaschine und für die anderen ein demokratisch schwer kontrollierbares Machtzentrum.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/larry-fink-und-blackrock-macht-und-einfluss-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-14T11:14:00+00:00",
-      "title": "Larry Fink, BlackRock und die Architektur der Macht | newsmedia.report",
-      "url": "https://www.newsmedia.report/3276109_larry-fink-blackrock-und-die-architektur-der-macht"
     }
   ],
   "version": 1
