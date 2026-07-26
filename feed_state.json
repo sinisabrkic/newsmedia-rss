@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3294579,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Predsednik Srbije Aleksandar Vučić najavio je državnu podršku ljudima koji žele da se iz inostranstva vrate u zemlju. Poruka dolazi u trenutku kada Srbija istovremeno gubi stanovništvo, stručnu radnu snagu i razvojni potencijal čitavih regiona. Ipak, bez poznatog iznosa, pravnog okvira, ciljne grupe i budžeta, najavljena subvencija još je političko obećanje, a ne mera čiji se domet može ozbiljno proceniti.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/vu-i-ev-poziv-dijaspori-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-26T05:40:00+00:00",
+      "title": "Vučićev poziv dijaspori: Srbija najavljuje subvencije | newsmedia.report",
+      "url": "https://www.newsmedia.report/3294579_vucicev-poziv-dijaspori-srbija-najavljuje-subvencije"
+    },
+    {
+      "article_id": 3294456,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Economy",
+      "description": "欧盟碳边境调节机制已进入正式实施阶段。对中国出口企业而言，欧洲市场的竞争不再只取决于价格、质量和交付能力，排放数据能否被追溯、核查并安全地交给欧洲客户，正在成为新的订单标准。",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/chinesischer-beitrag-cbam-zertifikate-newsmedia-report-high-0cghxs.png",
+      "language": "de-AT",
+      "published": "2026-07-26T04:35:00+00:00",
+      "title": "欧盟CBAM重塑中国出口 | newsmedia.report",
+      "url": "https://www.newsmedia.report/3294456_cbam"
+    },
+    {
       "article_id": 3294203,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-07-13T07:45:00+00:00",
       "title": "KI und die Illusion des Denkens | newsmedia.report",
       "url": "https://www.newsmedia.report/3274435_ki-und-die-illusion-des-denkens"
-    },
-    {
-      "article_id": 3273331,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Welt / Religion / Justiz und Recht",
-      "description": "Religionsfreiheit klingt in westlichen Demokratien groß, offen und zivilisiert. Ernst wird sie erst dort, wo sie nicht den Vertrauten, den Etablierten und den kulturell Abgesegneten gilt, sondern jenen Weltanschauungen, von denen sich Politik und Gesellschaft instinktiv abwenden. Genau deshalb ist die Frage nach der Anerkennung des Satanismus als Religion kein schräger Randfall, sondern ein unangenehmer Stresstest für den liberalen Staat und seine oft beschworenen Freiheitsversprechen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/satanismus-und-staat-anerkennung-als-religion-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-12T08:41:00+00:00",
-      "title": "Satanismus und Staat: Anerkennung als Religion | newsmedia.report",
-      "url": "https://www.newsmedia.report/3273331_satanismus-und-staat-anerkennung-als-religion"
-    },
-    {
-      "article_id": 3273277,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Die Morddrohungen gegen Donald J. Trump sind kein Randphänomen der digitalen Erregungskultur. Sie sind Teil einer politischen Landschaft, in der Hass, Enthemmung und operative Nachlässigkeit längst eine gefährliche Verbindung eingegangen sind. Spätestens seit Butler ist klar: Die Bedrohung ist real, die Täterbilder sind unterschiedlich, und der amerikanische Sicherheitsapparat hat an entscheidenden Stellen versagt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/donald-j-trump-unter-morddrohungen-newsmedia-report-high.png",
-      "language": "de-AT",
-      "published": "2026-07-12T01:11:00+00:00",
-      "title": "Donald J. Trump unter Morddrohungen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3273277_donald-j-trump-unter-morddrohungen"
     }
   ],
   "version": 1
