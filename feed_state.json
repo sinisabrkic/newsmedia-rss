@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3297599,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Benjamin Netanyahu has traveled to Washington for talks with President Donald Trump at a moment of growing strategic friction between Israel and its most important ally. Iran officially leads the agenda, but the more immediate dispute concerns Israeli forces in Lebanon, Syria, and Gaza. Reports that Netanyahu intends to reject American demands for a withdrawal are credible enough to shape the meeting, but they have not been officially confirmed.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meeting_netanjahu_trump-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-28T07:03:00+00:00",
+      "title": "Netanyahu in Washington: The Troop Withdrawal Dispute | newsmedia.report",
+      "url": "https://www.newsmedia.report/3297599_netanyahu-in-washington-the-troop-withdrawal-dispute"
+    },
+    {
+      "article_id": 3297562,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Economy",
+      "description": "South Korea has become the center of a rapidly expanding global semiconductor selloff. The KOSPI fell by more than 10 percent at one stage on Tuesday as investors dumped Samsung Electronics, SK Hynix and other technology stocks, forcing the exchange to activate automatic restrictions on program trading. The immediate shock came from Seoul, but the underlying concerns are global. Investors are reassessing the profitability of the artificial intelligence investment boom just as China demonstrates greater financial and technological ambition in memory chips and semiconductor manufacturing equipment.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kospi-plunges-as-ai-doubts-shake-global-markets-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-28T06:35:00+00:00",
+      "title": "KOSPI Falls Sharply as AI Concerns Hit Asian Markets | newsmedia.report",
+      "url": "https://www.newsmedia.report/3297562_kospi-falls-sharply-as-ai-concerns-hit-asian-markets"
+    },
+    {
       "article_id": 3297136,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-07-16T13:01:00+00:00",
       "title": "Parasiten-Ausbruch in den USA: Cyclospora-Fälle steigen | newsmedia.report",
       "url": "https://www.newsmedia.report/3280482_parasiten-ausbruch-in-den-usa-cyclospora-faelle-steigen"
-    },
-    {
-      "article_id": 3280399,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energie",
-      "description": "Die neue Eskalation rund um Iran und die Straße von Hormus trifft Europa in einer Phase, in der die Energielage zwar stabiler wirkt als in den Krisenjahren zuvor, aber keineswegs unverwundbar ist. Die Börsen reagieren bereits, die Preise ziehen an, und mit jedem weiteren Tag wächst der Druck auf Beschaffung, Industrie und Versorgungssicherheit. Ein flächendeckender Stromausfall ist damit nicht automatisch gesetzt. Doch die Gefahr, dass sich aus geopolitischem Schock, teurer Energie und struktureller Anspannung eine ernste Belastungsprobe für Herbst und Winter 2026 entwickelt, ist real.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-risiko-2026-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-16T12:02:00+00:00",
-      "title": "Blackout Risiko 2026: Energiekrise zeichnet sich ab | newsmedia.report",
-      "url": "https://www.newsmedia.report/3280399_blackout-risiko-2026-energiekrise-zeichnet-sich-ab"
-    },
-    {
-      "article_id": 3280331,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Der Konflikt zwischen den USA und Iran hat eine Schwelle überschritten, an der militärische Eskalation nicht mehr regional begrenzt bleibt. Teheran erklärt Hormus zur roten Linie, Washington verschärft die Angriffe und die Weltmärkte reagieren bereits mit wachsender Nervosität. Was hier entsteht, ist kein kalkulierbares Säbelrasseln mehr, sondern ein Machtkampf an einer der empfindlichsten Sollbruchstellen der Weltwirtschaft.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hormus-iran-usa-jetzt-kippt-der-konflikt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-16T11:26:00+00:00",
-      "title": "Hormus, Iran, USA: Jetzt kippt der Konflikt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3280331_hormus-iran-usa-jetzt-kippt-der-konflikt"
     }
   ],
   "version": 1
