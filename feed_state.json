@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3298379,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Österreich steht nicht vor der Zahlungsunfähigkeit, aber vor einer schleichenden fiskalischen Krise. Defizite oberhalb der europäischen Grenzwerte, steigende Staatsschulden und wachsende Zinslasten engen den politischen Handlungsspielraum zunehmend ein. Die entscheidende Frage lautet nicht mehr, ob konsolidiert werden muss, sondern ob der Staat noch die Kraft zu einer strukturellen Sanierung besitzt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreich-wenn-der-staat-seinen-spielraum-verliert-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-28T17:07:00+00:00",
+      "title": "Österreich: Wenn der Staat seinen Spielraum verliert | newsmedia.report",
+      "url": "https://www.newsmedia.report/3298379_oesterreich-wenn-der-staat-seinen-spielraum-verliert"
+    },
+    {
       "article_id": 3298249,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -978,17 +989,6 @@
       "published": "2026-07-17T11:10:00+00:00",
       "title": "Abnehmen ohne Spritze: EU gibt Wegovy Tabletten frei | newsmedia.report",
       "url": "https://www.newsmedia.report/3281666_abnehmen-ohne-spritze-eu-gibt-wegovy-tabletten-frei"
-    },
-    {
-      "article_id": 3281487,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "A federal judge in Florida has concluded that the lawsuit Donald Trump brought against the Internal Revenue Service was used for an improper purpose and that the agreement reached in that case cannot function as a valid settlement. The ruling does not erase the underlying tax data breach that set the litigation in motion. It does, however, draw a hard legal line between a legitimate claim for relief and what the court described as an effort to use judicial process to formalize benefits for the president, his family, and affiliated entities.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/inside-the-judge-s-rejection-of-trump-s-irs-deal-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-17T09:13:00+00:00",
-      "title": "Inside the Judge’s Rejection of Trump’s IRS Deal | newsmedia.report",
-      "url": "https://www.newsmedia.report/3281487_inside-the-judge-s-rejection-of-trump-s-irs-deal"
     }
   ],
   "version": 1
