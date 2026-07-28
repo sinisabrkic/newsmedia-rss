@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "article_id": 3298249,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Geteilte Unterhaltungen mit Anthropics KI-System Claude waren über Suchmaschinen auffindbar. Betroffen waren nach bisherigem Kenntnisstand keine gewöhnlichen privaten Chats, sondern Gespräche, für die Nutzer zuvor einen öffentlich erreichbaren Freigabelink erstellt hatten. Der Vorfall legt dennoch ein grundlegendes Problem offen: Zwischen „jeder mit dem Link“ und „in der öffentlichen Suche auffindbar“ liegt für Nutzer ein erheblicher Unterschied, den Plattformen technisch und sprachlich absichern",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/claude-chats-und-das-datenschutzrisiko-durch-freigabelinks-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-28T15:40:00+00:00",
+      "title": "Claude AI-Chats in der Google-Suche | newsmedia.report",
+      "url": "https://www.newsmedia.report/3298249_claude-ai-chats-in-der-google-suche"
+    },
+    {
+      "article_id": 3297931,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Volodymyr Zelenskyy and Benjamin Netanyahu are arriving at the White House on the same day with different wars, different demands and the same indispensable audience. Their meetings with Donald Trump are formally separate, but they expose a common strategic problem: Washington is being asked to supply weapons, political backing and diplomatic leverage across two conflicts whose costs and risks continue to rise. The decisive question is not which leader receives the warmer welcome. It is whether Trump is prepared to convert presidential attention into durable commitments, and which conflict he considers more useful to pressure, contain or end.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/two-wars-one-white-house-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-28T12:02:00+00:00",
+      "title": "Zelenskyy and Netanyahu Seek Trump’s Support | newsmedia.report",
+      "url": "https://www.newsmedia.report/3297931_zelenskyy-and-netanyahu-seek-trump-s-support"
+    },
+    {
+      "article_id": 3297873,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Health",
+      "description": "The Ebola outbreak in the Democratic Republic of the Congo has reached 3,262 confirmed cases and 1,437 deaths, bringing the country close to the scale of its worst previous epidemic. Uganda has declared its outbreak over, but transmission in eastern Congo continues to accelerate amid armed conflict, disrupted health services, unpaid medical workers and the absence of an approved vaccine for the Bundibugyo virus. The immediate danger remains concentrated in Central and East Africa, yet the crisis is now a test of whether international intervention can move faster than the epidemic.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ebola-at-the-breaking-point-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-28T10:55:00+00:00",
+      "title": "Congo’s Ebola Crisis Enters Its Deadliest Phase | newsmedia.report",
+      "url": "https://www.newsmedia.report/3297873_congo-s-ebola-crisis-enters-its-deadliest-phase"
+    },
+    {
+      "article_id": 3297849,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Österreich ist kein unsicheres Land. Doch die Sicherheitslage verändert sich schneller, als es klassische Kriminalitätszahlen erkennen lassen. Gewalt, digitale Kriminalität, Extremismus und Angriffe auf kritische Systeme verlangen von Polizei und Behörden eine neue Form staatlicher Handlungsfähigkeit: spezialisierter, vernetzter und zugleich rechtsstaatlich kontrolliert.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-innere-sicherheit-im-stresstest-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-28T10:30:00+00:00",
+      "title": "Österreichs innere Sicherheit im Stresstest | newsmedia.report",
+      "url": "https://www.newsmedia.report/3297849_oesterreichs-innere-sicherheit-im-stresstest"
+    },
+    {
+      "article_id": 3297802,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Deutschland darf gefährdeten Afghanen eine bereits persönlich mitgeteilte Aufnahmeentscheidung nicht pauschal entziehen. Das Bundesverfassungsgericht setzt der Bundesregierung damit eine klare Grenze. Einen automatischen Anspruch auf Einreise schafft der Beschluss nicht, wohl aber eine Pflicht zur Prüfung jedes einzelnen Falls.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/karlsruhe-stoppt-berlins-afghanistan-kurs-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-28T09:44:00+00:00",
+      "title": "Karlsruhe stoppt Berlins Afghanistan-Kurs | newsmedia.report",
+      "url": "https://www.newsmedia.report/3297802_karlsruhe-stoppt-berlins-afghanistan-kurs"
+    },
+    {
       "article_id": 3297599,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -934,61 +989,6 @@
       "published": "2026-07-17T09:13:00+00:00",
       "title": "Inside the Judge’s Rejection of Trump’s IRS Deal | newsmedia.report",
       "url": "https://www.newsmedia.report/3281487_inside-the-judge-s-rejection-of-trump-s-irs-deal"
-    },
-    {
-      "article_id": 3281376,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Welt",
-      "description": "Eine globale Hungersnot ist derzeit nicht das wahrscheinlichste Szenario. Wahrscheinlicher ist etwas politisch Brisanteres: dass Nahrung, Dünger, Energie und Versorgungskorridore in einer fragmentierten Welt immer stärker zu Druckmitteln werden. Wer Knappheit steuern, Transporte blockieren, Inputs verteuern oder Zugänge digital kontrollieren kann, gewinnt in Krisenzeiten Macht über Staaten, Märkte und Gesellschaften.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/weltweite-hungersnot-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-17T07:11:00+00:00",
-      "title": "Europa und die Welt: Nahrung wird zur Waffe | newsmedia.report",
-      "url": "https://www.newsmedia.report/3281376_europa-und-die-welt-nahrung-wird-zur-waffe"
-    },
-    {
-      "article_id": 3281332,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft / Politik / Jeffrey Epstein",
-      "description": "Es war ein bemerkenswert offenes Eingeständnis aus dem Zentrum der Macht. US Vizepräsident J. D. Vance hat eingeräumt, dass die Trump Regierung den Umgang mit den Epstein-Files kommunikativ „absolut vermasselt“ habe. Damit ist der Fall politisch neu aufgeladen, nicht weil plötzlich völlig neue Inhalte bekannt wären, sondern weil die Regierung eingestehen muss, an einem der sensibelsten Themen der amerikanischen Öffentlichkeit die Kontrolle über Erwartung, Deutung und Glaubwürdigkeit verloren zu haben.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/j-d-vance-fehler-bei-den-epstein-files-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-17T06:37:00+00:00",
-      "title": "J. D. Vance: Fehler bei den Epstein-Files | newsmedia.report",
-      "url": "https://www.newsmedia.report/3281332_j-d-vance-fehler-bei-den-epstein-files"
-    },
-    {
-      "article_id": 3281310,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft / International",
-      "description": "Washington verschärft den Kurs in der legalen Einwanderung weiter. Neben der Rückkehr der strengen Public Charge Regel wird nun auch über eine Kaution von bis zu 100.000 Dollar für bestimmte Green-Card-Bewerber im Ausland nachgedacht. Das wäre mehr als eine weitere Verfahrenshürde. Es wäre ein Systemwechsel mit klarer sozialer Schlagseite",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/usa-green-card-kaution-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-17T06:17:00+00:00",
-      "title": "USA prüfen 100.000-Dollar-Kaution für Green-Card-Antragsteller | newsmedia.report",
-      "url": "https://www.newsmedia.report/3281310_usa-pruefen-100-000-dollar-kaution-fuer-green-card-antragsteller"
-    },
-    {
-      "article_id": 3280638,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Russlands Angriffe auf Kiew markieren die sichtbare Eskalation. Die eigentliche strategische Verschiebung findet jedoch weiter südlich statt, an Häfen, Schiffsrouten und Verladeketten im Schwarzen Meer. Dort gerät nicht nur ukrainische Infrastruktur unter Beschuss. Dort wird ein Versorgungssystem attackiert, das Preise, Märkte und politische Stabilität weit über die Ukraine hinaus beeinflusst.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraine-eskalation-getreide-wird-jetzt-zur-waffe-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-16T14:54:00+00:00",
-      "title": "Ukraine Eskalation: Getreide wird jetzt zur Waffe | newsmedia.report",
-      "url": "https://www.newsmedia.report/3280638_ukraine-eskalation-getreide-wird-jetzt-zur-waffe"
-    },
-    {
-      "article_id": 3280482,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesundheit",
-      "description": "In den USA wächst ein Ausbruch, der auf den ersten Blick wie ein klassischer Sommeranstieg bei lebensmittelbedingten Infektionen wirkt, in Wahrheit aber tiefer reicht. Mehr als 1.600 laborbestätigte Fälle, tausende weitere Meldungen in Prüfung und eine weiterhin ungeklärte Quelle machen Cyclospora zu einem Fall für Gesundheitsbehörden, Lieferkettenkontrolle und politische Risikobewertung zugleich. Der Erreger ist nicht neu. Neu ist die Größenordnung, mit der er sich wieder in die öffentliche Gesundheitslage drängt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/parasiten-ausbruch-in-den-usa-newsmedia-report-high.png",
-      "language": "de-AT",
-      "published": "2026-07-16T13:01:00+00:00",
-      "title": "Parasiten-Ausbruch in den USA: Cyclospora-Fälle steigen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3280482_parasiten-ausbruch-in-den-usa-cyclospora-faelle-steigen"
     }
   ],
   "version": 1
