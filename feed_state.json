@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "article_id": 3299228,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "BMW will seine Belegschaft bis Ende 2027 um rund 8.000 Stellen verkleinern. Der Abbau soll überwiegend freiwillig erfolgen und zunächst Beschäftigte außerhalb der direkten Produktion betreffen. Hinter dem Programm steht jedoch mehr als eine gewöhnliche Sparrunde: Der Einbruch in China, sinkende Margen und die hohen Kosten des technologischen Umbaus setzen nun auch jenen deutschen Autobauer unter Druck, der lange als besonders widerstandsfähig galt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bmw-stellenabbau-2027-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-29T09:59:00+00:00",
+      "title": "BMW baut 8.000 Stellen ab: Die Autokrise erreicht München | newsmedia.report",
+      "url": "https://www.newsmedia.report/3299228_bmw-baut-8-000-stellen-ab-die-autokrise-erreicht-muenchen"
+    },
+    {
+      "article_id": 3299103,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "La délégation américaine a quitté le Conseil de sécurité pendant l’intervention de la France, transformant une querelle sur les droits humains en confrontation diplomatique ouverte. Derrière le geste se trouve la reconduction de Volker Türk à la tête du Haut-Commissariat des Nations unies aux droits de l’homme, mais aussi un désaccord beaucoup plus profond sur l’autorité du système multilatéral. Entre Washington et Paris, l’incident ne constitue pas une rupture formelle, mais il révèle une relation devenue plus dure, plus publique et moins prévisible.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/delegation-us-verl-sst-un-bei-ansprache-fr-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-29T08:40:00+00:00",
+      "title": "À l’ONU, Washington quitte la salle face à Paris | newsmedia.report",
+      "url": "https://www.newsmedia.report/3299103_a-l-onu-washington-quitte-la-salle-face-a-paris"
+    },
+    {
+      "article_id": 3298957,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Österreich und Deutschland führen keine eigenen Angriffe gegen Iran. Damit ist die entscheidende Frage jedoch nicht beantwortet. Deutsche Rüstungsexporte, die mögliche Nutzung amerikanischer Militärinfrastruktur in Deutschland, vorbereitete Marineeinsätze und genehmigte Überflüge durch den österreichischen Luftraum zeigen, wie schnell aus formaler Nichtbeteiligung eine politisch und rechtlich relevante Mitwirkung werden kann.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-und-deutschlands-rolle-im-krieg-gegen-iran-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-29T06:38:00+00:00",
+      "title": "Österreichs und Deutschlands Rolle im Krieg gegen Iran | newsmedia.report",
+      "url": "https://www.newsmedia.report/3298957_oesterreichs-und-deutschlands-rolle-im-krieg-gegen-iran"
+    },
+    {
+      "article_id": 3298927,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Iran has launched ballistic missiles toward American forces in the Middle East, abruptly ending a brief lull in direct hostilities. U.S. Central Command says every missile was intercepted, while Iran’s Revolutionary Guards say the targets were American military installations in Jordan. The immediate damage may have been contained, but the attack has reopened the most dangerous question in the region: whether Washington and Tehran can still limit a confrontation that is already spilling across borders, energy routes and military alliances.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-fires-on-u-s-forces-shattering-a-fragile-pause-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-29T06:07:00+00:00",
+      "title": "Iran Fires on U.S. Forces, Shattering a Fragile Pause | newsmedia.report",
+      "url": "https://www.newsmedia.report/3298927_iran-fires-on-u-s-forces-shattering-a-fragile-pause"
+    },
+    {
+      "article_id": 3298887,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Ein ukrainischer Drohnenangriff hat im Kaspischen Meer ein iranisches Handelsschiff getroffen. Ein Besatzungsmitglied kam nach iranischen Angaben ums Leben, ein weiteres wurde verletzt. Teheran spricht von einem schweren Verstoß gegen internationales Recht, fordert Entschädigung und hat rechtliche Schritte angekündigt. Die Ukraine erklärt dagegen, das iranische Schiff sei nicht vorsätzlich angegriffen worden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraine-attackiert-iranisches-handelsschiff-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-29T05:07:00+00:00",
+      "title": "Ukraine attackiert iranisches Handelsschiff | newsmedia.report",
+      "url": "https://www.newsmedia.report/3298887_ukraine-attackiert-iranisches-handelsschiff"
+    },
+    {
       "article_id": 3298584,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -934,61 +989,6 @@
       "published": "2026-07-18T16:10:00+00:00",
       "title": "Jens Spahn Rücktritt: Leihmutterschaft stürzt die Union in die Krise | newsmedia.report",
       "url": "https://www.newsmedia.report/3283139_jens-spahn-ruecktritt-leihmutterschaft-stuerzt-die-union-in-die-krise"
-    },
-    {
-      "article_id": 3282905,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Ab dem 27. September 2026 gelten in der Europäischen Union deutlich schärfere Regeln gegen irreführende Umweltwerbung. Was jahrelang als grüne Rhetorik, klimafreundliche Selbstdarstellung oder kommunikative Unschärfe funktionierte, wird nun in weiten Teilen zur Rechtsfrage. Die neue Lage trifft nicht nur Europa. Sie ist Teil eines größeren globalen Umschwungs, in dem Nachhaltigkeitsbehauptungen zunehmend an Nachweis, Methodik und Durchsetzbarkeit gemessen werden.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-verbietet-greenwashing-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-18T11:21:00+00:00",
-      "title": "EU verbietet Greenwashing | newsmedia.report",
-      "url": "https://www.newsmedia.report/3282905_eu-verbietet-greenwashing"
-    },
-    {
-      "article_id": 3282941,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "President Donald Trump is not merely the president of the United States. He is the dominant force in American politics, the defining figure of a movement that reshaped the Republican Party, and a symbol onto whom enemies at home and abroad project power, grievance and revenge. That is why the question of a successful assassination cannot be treated as a narrow security issue. It is a scenario that would strike at the presidency, the American political order, the global balance of risk and the fragile boundary between constitutional continuity and national fracture.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/donald-trump-under-threat-newsmedia-report-high.png",
-      "language": "de-AT",
-      "published": "2026-07-18T09:11:00+00:00",
-      "title": "Donald Trump Under Threat: Iran, Escalation and the America That Follows | newsmedia.report",
-      "url": "https://www.newsmedia.report/3282941_donald-trump-under-threat-iran-escalation-and-the-america-that-follows"
-    },
-    {
-      "article_id": 3282726,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Die Warnung des scheidenden deutschen Botschafters in Moskau, Alexander Graf Lambsdorff, trifft einen neuralgischen Punkt dieses Krieges: die russische Personalfrage. Gesichert ist eine neue Mobilmachung nicht. Doch die Kombination aus Duma Wahl im September, nachlassender freiwilliger Rekrutierung, steigenden materiellen und personellen Kriegskosten sowie dem Ausbau elektronischer Einberufungsinstrumente macht das Szenario politisch plausibel und sicherheitspolitisch brisant. Für die Ukraine ginge es um die Verlängerung eines Abnutzungskrieges. Für Europa ginge es um eine neue Phase strategischer Unsicherheit, möglichen Migrationsdruck und die Frage, wie lange Russland seine…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russland-mobilmachung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-18T08:11:00+00:00",
-      "title": "Russland vor neuer Mobilmachung nach der Duma Wahl? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3282726_russland-vor-neuer-mobilmachung-nach-der-duma-wahl"
-    },
-    {
-      "article_id": 3282349,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "Artificial intelligence is being sold as the force that will redefine civilization. It is supposed to cure disease, replace labor, transform war, and eventually rival the human mind. But the most successful product to come out of Silicon Valley may not be AI itself. It may be the story told about it: a story that turns statistical machinery into destiny, corporate systems into synthetic minds, and a concentration of power into the language of progress.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-silicon-valley-story-the-lie-of-ai-newsmedia-report-high.png",
-      "language": "de-AT",
-      "published": "2026-07-17T20:23:00+00:00",
-      "title": "The Silicon Valley Story: The Lie of AI | newsmedia.report",
-      "url": "https://www.newsmedia.report/3282349_the-silicon-valley-story-the-lie-of-ai"
-    },
-    {
-      "article_id": 3281924,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Die neue politische Lage in Berlin ist ernster, als es routinierte Regierungssprache derzeit erkennen lässt. Das jüngste Politbarometer zeigt nicht nur eine angeschlagene Bundesregierung, sondern einen tiefen Vertrauensverlust gegenüber ihrem Reformkurs, ihrem Krisenmanagement und ihrem Kanzler. Friedrich Merz steht damit unter erheblichem Druck, doch zwischen schlechter Stimmung und einem tatsächlichen Machtwechsel liegt in Deutschland ein verfassungsrechtlich und politisch anspruchsvoller Weg.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-merz-ger-t-massiv-unter-druck-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-17T14:00:00+00:00",
-      "title": "Deutschland: Merz gerät massiv unter Druck | newsmedia.report",
-      "url": "https://www.newsmedia.report/3281924_deutschland-merz-geraet-massiv-unter-druck"
     }
   ],
   "version": 1
