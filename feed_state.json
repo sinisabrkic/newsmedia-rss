@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3299976,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Viele Frauen möchten einem interessanten Mann zeigen, dass eine Annäherung willkommen wäre, ohne selbst den ersten Satz sprechen zu müssen. Ein Blick, ein Lächeln oder eine offene Körperhaltung kann bereits eine Einladung sein. Die Schwierigkeit besteht jedoch darin, dass Männer solche Signale häufig nicht sicher einordnen. Was für eine Frau längst eindeutig erscheint, kann ein Mann für Höflichkeit, Zufall oder reine Freundlichkeit halten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wie-man-als-frau-einen-mann-ohne-worte-anspricht-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-29T20:02:00+00:00",
+      "title": "Wie man als Frau einen Mann anspricht, ohne ein Wort zu sagen und er es trotzdem versteht / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3299976_wie-man-als-frau-einen-mann-anspricht-ohne-ein-wort-zu-sagen-und-er-es-trotzdem-versteht"
+    },
+    {
+      "article_id": 3299856,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Anthony Fauci declined to answer 15 questions before a US Senate committee, repeatedly invoking his constitutional right against self-incrimination. The hearing was meant to clarify questions about federal research funding, the possible origins of SARS-CoV-2, and Fauci’s previous testimony. Instead, it opened a legal and political confrontation whose impact already exceeds the hearing’s limited factual findings.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fauci-senate-hearing-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-29T17:22:00+00:00",
+      "title": "Fauci Invokes the Fifth as Pandemic Reckoning Turns Legal | newsmedia.report",
+      "url": "https://www.newsmedia.report/3299856_fauci-invokes-the-fifth-as-pandemic-reckoning-turns-legal"
+    },
+    {
       "article_id": 3299468,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -967,28 +989,6 @@
       "published": "2026-07-19T16:21:00+00:00",
       "title": "Österreichs Sozialstaat kippt | newsmedia.report",
       "url": "https://www.newsmedia.report/3284982_oesterreichs-sozialstaat-kippt"
-    },
-    {
-      "article_id": 3284398,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "The United States has widened its military campaign against Iran and is now openly striking facilities tied to the Islamic Revolutionary Guard Corps. Washington says the latest attacks were launched after an Iranian strike on US forces in Jordan killed two American service members, left another missing, and injured additional personnel. At the same time, the interim understanding reached only weeks ago between Washington and Tehran has effectively collapsed. The result is a conflict that now extends well beyond bilateral confrontation and is rapidly tightening its grip on regional security, energy markets, and global political risk",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/us-strikes-iran-s-revolutionary-guard-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-19T08:45:00+00:00",
-      "title": "US Strikes Iran’s Revolutionary Guard | newsmedia.report",
-      "url": "https://www.newsmedia.report/3284398_us-strikes-iran-s-revolutionary-guard"
-    },
-    {
-      "article_id": 3284141,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik / USA / Jordanien",
-      "description": "Der iranische Angriff auf den Luftwaffenstützpunkt Muwaffaq Salti in Jordanien markiert eine neue Eskalationsstufe in einem ohnehin hochgefährlichen Krieg. Zwei US-Soldaten wurden getötet, ein weiterer gilt als vermisst, mehrere Militärangehörige wurden verletzt. Für Washington ist das mehr als ein schwerer militärischer Zwischenfall: Der Schlag erhöht den Druck auf Präsident Donald Trump, sichtbar zu reagieren, und verschärft zugleich die Gefahr einer regionalen Ausweitung des Konflikts.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-t-tet-us-soldaten-in-jordanien-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-18T23:01:00+00:00",
-      "title": "Iran tötet US-Soldaten in Jordanien | newsmedia.report",
-      "url": "https://www.newsmedia.report/3284141_iran-toetet-us-soldaten-in-jordanien"
     }
   ],
   "version": 1
