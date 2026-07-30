@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "article_id": 3300597,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Mehr als 100 Mal verweigerte Anthony Fauci vor einem Ausschuss des US-Senats die Antwort, eine veröffentlichte Auszählung kommt auf 111 Berufungen auf den Fünften Verfassungszusatz. Ausschussvorsitzender Rand Paul kündigte daraufhin eine Abstimmung über die Missachtung des Kongresses an. Hinter der spektakulären Anhörung steht ein schwieriger Rechtsstreit über die Reichweite von Joe Bidens Begnadigung, Faucis mögliche Selbstbelastung und die Grenzen parlamentarischer Aufklärung.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/covid19-pandemie-fauci-schweigt-vor-dem-senat-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-30T07:55:00+00:00",
+      "title": "COVID-19-Aufarbeitung: Faucis Schweigen hat Konsequenzen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3300597_covid-19-aufarbeitung-faucis-schweigen-hat-konsequenzen"
+    },
+    {
+      "article_id": 3300577,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Economy",
+      "description": "US mortgage rates have climbed to their highest level in roughly a year, deepening the affordability crisis for buyers and prolonging the wait for homeowners who expected to refinance. The Federal Reserve left its benchmark rate unchanged, but a divided vote, persistent inflation and renewed energy-market pressure offered little reason to expect immediate relief. For millions of households, the central question is no longer when rates will fall, but whether their financial plans can withstand the possibility that they remain elevated.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-refinancing-trap-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-30T07:35:00+00:00",
+      "title": "The Refinancing Trap Deepens | newsmedia.report",
+      "url": "https://www.newsmedia.report/3300577_the-refinancing-trap-deepens"
+    },
+    {
+      "article_id": 3300523,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Iran, Israel und die USA führen längst keinen begrenzten Schattenkrieg mehr. Saudi Arabien greift militärisch ein, Jordanien wird zum Ziel iranischer Raketen, der Irak zum Schlachtfeld fremder Interessen und selbst die Ukraine hat mit einem Angriff im Kaspischen Meer eine Verbindung zwischen zwei bislang getrennten Kriegskomplexen hergestellt. Von einem Weltkrieg zu sprechen wäre noch unpräzise, doch die Architektur einer globalen Eskalation ist inzwischen deutlich erkennbar.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/weltkrieg-in-vorbereitung-high.png",
+      "language": "de-AT",
+      "published": "2026-07-30T06:50:00+00:00",
+      "title": "Noch kein Weltkrieg. Doch die Schwelle rückt näher | newsmedia.report",
+      "url": "https://www.newsmedia.report/3300523_noch-kein-weltkrieg-doch-die-schwelle-rueckt-naeher"
+    },
+    {
+      "article_id": 3300408,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "The United States has launched fresh strikes against Iran after Tehran fired ballistic missiles at American forces in Jordan. At the same time, fires aboard two gas vessels at Egypt’s Damietta port have opened a potentially dangerous new front, although responsibility for the incident remains unconfirmed. With Saudi forces now striking groups aligned with Iran in Iraq, the conflict is no longer contained by its original geographic or political boundaries.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-war-spreads-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-30T03:02:00+00:00",
+      "title": "Iran War Spreads: U.S. Retaliates, Egypt Port Hit | newsmedia.report",
+      "url": "https://www.newsmedia.report/3300408_iran-war-spreads-u-s-retaliates-egypt-port-hit"
+    },
+    {
       "article_id": 3299976,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -945,50 +989,6 @@
       "published": "2026-07-20T06:59:00+00:00",
       "title": "Ebola im Kongo: Kanada stoppt Einreisen nach Kongo-Aufenthalt | newsmedia.report",
       "url": "https://www.newsmedia.report/3285629_ebola-im-kongo-kanada-stoppt-einreisen-nach-kongo-aufenthalt"
-    },
-    {
-      "article_id": 3285548,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Die Debatte um Jens Spahn hat ein Thema in das Zentrum der Öffentlichkeit gerückt, das in Deutschland lange moralisch verhandelt, rechtlich begrenzt und politisch doch nie wirklich entschieden wurde. Es geht um weit mehr als um einen privaten Kinderwunsch. Es geht um einen internationalen Markt, in dem Recht, Geld, Medizin und soziale Ungleichheit in einer Weise zusammenwirken, die die deutsche Debatte nur ungern offenlegt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/das-gesch-ft-mit-der-leihmutterschaft-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-20T04:45:00+00:00",
-      "title": "Das Geschäft mit der Leihmutterschaft | newsmedia.report",
-      "url": "https://www.newsmedia.report/3285548_das-geschaeft-mit-der-leihmutterschaft"
-    },
-    {
-      "article_id": 3285050,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Der Fall Florian Teichtmeister war in Österreich weit mehr als ein prominentes Strafverfahren. Er wurde zu einem Schockmoment für ein Land, das sich plötzlich mit einer unbequemen Wahrheit konfrontiert sah: Zwischen der Schwere des empfundenen Unrechts und der tatsächlichen Reichweite des damaligen Strafrechts klaffte eine Lücke, die politisch und gesellschaftlich nicht mehr vermittelbar wirkte. Genau darin lag die eigentliche Wucht dieses Falls. Nicht allein in der Person des Angeklagten, nicht allein im Urteil, sondern in der schonungslosen Offenlegung eines Systems, das an einer empfindlichen Stelle sichtbar zu schmal geworden war.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/teichtmeister-und-die-grenze-des-strafrechts-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-20T03:27:00+00:00",
-      "title": "Teichtmeister und die Grenze des Strafrechts | newsmedia.report",
-      "url": "https://www.newsmedia.report/3285050_teichtmeister-und-die-grenze-des-strafrechts"
-    },
-    {
-      "article_id": 3285495,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sport",
-      "description": "Österreich ist bei der WM 2026 gegen Argentinien und Spanien gescheitert. Das ist auf den ersten Blick eine ehrenvolle Lesart, zumal Spanien am 19. Juli 2026 mit einem 1:0 nach Verlängerung gegen Argentinien Weltmeister wurde und Argentinien damit Vizeweltmeister ist. Doch genau hier beginnt die eigentliche Analyse: Die Bilanz adelt das Turnier nicht automatisch, sie zeigt vor allem, wie schmal der Grat zwischen respektabler Präsenz und echter Konkurrenzfähigkeit noch immer ist",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-wm-bilanz-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-20T03:00:00+00:00",
-      "title": "Österreich scheitert nur an Spanien und Argentinien | newsmedia.report",
-      "url": "https://www.newsmedia.report/3285495_oesterreich-scheitert-nur-an-spanien-und-argentinien"
-    },
-    {
-      "article_id": 3284982,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Österreich trägt noch immer das Selbstbild eines verlässlichen Sozialstaats. Doch unter dem Druck wachsender Staatsschulden, europäischer Defizitvorgaben und einer spürbar engeren Budgetpolitik beginnt sich dieses Modell zu verändern. Nicht mit einem offenen Bruch, sondern durch eine schleichende Verschiebung: Leistungen bleiben formal bestehen, werden real aber knapper, teurer und schwerer zugänglich.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-sozialstaat-kippt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-19T16:21:00+00:00",
-      "title": "Österreichs Sozialstaat kippt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3284982_oesterreichs-sozialstaat-kippt"
     }
   ],
   "version": 1
