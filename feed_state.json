@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3301972,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Donald Trump präsentiert die geplante Entwaffnung der Hamas als historischen Schritt auf dem Weg zu einem dauerhaften Frieden. Tatsächlich liegt erstmals ein umfassender Rahmen vor, der Waffenabgabe, israelischen Rückzug, internationale Sicherheitskräfte und eine neue palästinensische Verwaltung miteinander verbinden soll. Doch der entscheidende Konflikt ist nicht gelöst: Israel verlangt die Entwaffnung vor dem Rückzug, die Hamas macht ihre Waffenabgabe von israelischen Vorleistungen abhängig.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-machtkampf-hinter-dem-gaza-plan-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-31T09:30:00+00:00",
+      "title": "Der Gaza-Plan: Entwaffnung gegen Rückzug | newsmedia.report",
+      "url": "https://www.newsmedia.report/3301972_der-gaza-plan-entwaffnung-gegen-rueckzug"
+    },
+    {
+      "article_id": 3301835,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Opposition to Donald Trump has developed into one of the broadest protest networks in contemporary American politics. It reaches from national civil rights organizations and labor unions to suburban groups, student organizers and activists in deeply conservative states. Its scale is evident, but its political power remains unproven.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/america-s-anti-trump-network-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-31T07:59:00+00:00",
+      "title": "America’s Anti-Trump Network | newsmedia.report",
+      "url": "https://www.newsmedia.report/3301835_america-s-anti-trump-network"
+    },
+    {
+      "article_id": 3301761,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Haftungsfrei in den Schaden: Wie KI-Falschaussagen Unternehmertum und Vertrauen bedrohen. Unternehmen lassen Sprachmodelle Kunden beraten, Inhalte verfassen, Personen bewerten und geschäftliche Auskünfte erteilen. Zugleich erklären die Anbieter dieser Systeme, dass ihre Antworten falsch sein können und vor der Verwendung geprüft werden müssen. Der wirtschaftliche Schaden trifft dennoch häufig jene, über die eine KI falsche Behauptungen verbreitet, während sich Verantwortung zwischen Modellanbieter, Anwender und Maschine auflöst. Diese Konstruktion gefährdet nicht nur einzelne Unternehmen, sondern die Verlässlichkeit des digitalen Wirtschaftsraums.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ki-haftung-und-unternehmerrisiko-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-31T06:40:00+00:00",
+      "title": "Wenn KI-Falschaussagen Unternehmertum bedrohen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3301761_wenn-ki-falschaussagen-unternehmertum-bedrohen"
+    },
+    {
       "article_id": 3301352,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -956,39 +989,6 @@
       "published": "2026-07-21T13:37:00+00:00",
       "title": "Flash Floods and Severe Storms Threaten New York | newsmedia.report",
       "url": "https://www.newsmedia.report/3287548_flash-floods-and-severe-storms-threaten-new-york"
-    },
-    {
-      "article_id": 3287359,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Eine russische Fregatte hat südlich von Plymouth in ungewöhnlicher Nähe zur britischen Küste eine Übung mit scharfer Munition abgehalten. Das Manöver fand nach bisherigem Stand in internationalen Gewässern statt und war angekündigt, politisch aber ist der Vorfall brisant. Denn er berührt eine heikle Schnittstelle aus Seerecht, militärischer Machtdemonstration und den angespannten Beziehungen zwischen London und Moskau.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russisches-kriegsschiff-feuert-vor-gro-britannien-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-21T11:00:00+00:00",
-      "title": "Russisches Kriegsschiff feuert scharfe Munition vor Großbritannien | newsmedia.report",
-      "url": "https://www.newsmedia.report/3287359_russisches-kriegsschiff-feuert-scharfe-munition-vor-grossbritannien"
-    },
-    {
-      "article_id": 3287248,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Donald Trump has opened a new phase in the US Canada trade conflict by invoking a rarely used law from 1930 and ordering fresh 50 percent tariffs on selected Canadian goods. The move reaches far beyond a bilateral quarrel over cars, alcohol and dairy. It raises difficult questions about the future of North American trade rules, the durability of the USMCA, and the possibility that Washington could revive the same legal instrument against other partners, including Europe.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-intensifies-tariff-dispute-with-canada-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-21T09:11:00+00:00",
-      "title": "Trump Intensifies Tariff Dispute with Canada | newsmedia.report",
-      "url": "https://www.newsmedia.report/3287248_trump-intensifies-tariff-dispute-with-canada"
-    },
-    {
-      "article_id": 3287136,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Mit dem heutigen Dienstag startet die Österreichische Gesundheitskasse den Versand von rund 90.000 Rechnungen für Selbstbehalte bei planbaren Krankentransporten. Betroffen sind Fahrten aus dem ersten Quartal 2026. Für viele Versicherte kommt die Vorschreibung überraschend. Entscheidend ist jetzt, was genau verrechnet wurde, wer tatsächlich zahlen muss und welche Ausnahmen gelten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gk-rechnungen-f-r-krankentransporte-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-21T07:23:00+00:00",
-      "title": "ÖGK schickt 90.000 Rechnungen für Krankentransporte | newsmedia.report",
-      "url": "https://www.newsmedia.report/3287136_oegk-schickt-90-000-rechnungen-fuer-krankentransporte"
     }
   ],
   "version": 1
