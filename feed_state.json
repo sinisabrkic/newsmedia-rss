@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3302609,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Zehntausende Menschen erreichen innerhalb kürzester Zeit die spanische Exklave Ceuta, Dutzende sterben und Europas südwestliche Außengrenze gerät außer Kontrolle. Spanien macht Schleuser, soziale Medien und eine irreführende Auslegung eines Gerichtsurteils verantwortlich. Doch die Dimension der Krise legt zugleich eine strukturelle Schwäche offen: Die Europäische Union finanziert Marokkos Grenzmanagement mit hohen Millionenbeträgen und bleibt dennoch davon abhängig, dass Rabat seine Sicherheitskräfte tatsächlich einsetzt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ceuta-marokkos-gef-hrlicher-hebel-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-31T18:50:00+00:00",
+      "title": "Ceuta: Marokkos gefährlicher Hebel gegen die EU | newsmedia.report",
+      "url": "https://www.newsmedia.report/3302609_ceuta-marokkos-gefaehrlicher-hebel-gegen-die-eu"
+    },
+    {
+      "article_id": 3302510,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Der Angriff auf eine Mädchenschule im südiranischen Minab gehört zu den schwersten Vorfällen mit zivilen Opfern im Krieg zwischen den Vereinigten Staaten und Iran. Vorläufige amerikanische Ermittlungen deuten darauf hin, dass eine von den USA eingesetzte Rakete das Schulgelände traf und veraltete Zieldaten dabei eine entscheidende Rolle gespielt haben könnten. Monate später hält das Pentagon seinen Untersuchungsbericht weiterhin zurück, während frühere Einschnitte bei den Schutzmechanismen für Zivilisten die Frage nach der politischen Verantwortung von Verteidigungsminister Pete Hegseth verschärfen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/m-dchenschule-von-minab-hegseths-pentagon-unter-erkl-rungsdruck-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-07-31T16:30:00+00:00",
+      "title": "Mädchenschule in Minab: Pentagon unter Erklärungsdruck | newsmedia.report",
+      "url": "https://www.newsmedia.report/3302510_maedchenschule-in-minab-pentagon-unter-erklaerungsdruck"
+    },
+    {
       "article_id": 3301972,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -967,28 +989,6 @@
       "published": "2026-07-21T19:03:00+00:00",
       "title": "Cyberangriff auf Rumäniens Grundbuchsystem | newsmedia.report",
       "url": "https://www.newsmedia.report/3287928_cyberangriff-auf-rumaeniens-grundbuchsystem"
-    },
-    {
-      "article_id": 3287859,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Mehrere Konflikte eskalieren gleichzeitig, Großmächte stehen in direkter Gegnerschaft, Seewege geraten unter Druck, und selbst Geheimdienstberichte sprechen offen von einer härteren, riskanteren Weltlage. Das allein ist noch kein Weltkrieg. Aber die internationale Ordnung befindet sich in einer Phase, in der regionale Kriege, hybride Angriffe und strategische Fehlkalkulationen schneller ineinandergreifen können als in vielen Jahren zuvor.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wie-nah-ist-die-welt-an-einem-neuen-weltkrieg-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-21T18:36:00+00:00",
-      "title": "Wie nah ist die Welt an einem neuen Weltkrieg? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3287859_wie-nah-ist-die-welt-an-einem-neuen-weltkrieg"
-    },
-    {
-      "article_id": 3287548,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wetter / USA",
-      "description": "New York City and large parts of the northeastern United States are preparing for severe thunderstorms, torrential rainfall and dangerous flash flooding. Damaging winds, hail and isolated tornadoes are also possible, while roads, public transport and major airports could face significant disruption.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/flash-floods-and-severe-storms-threaten-new-york-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-21T13:37:00+00:00",
-      "title": "Flash Floods and Severe Storms Threaten New York | newsmedia.report",
-      "url": "https://www.newsmedia.report/3287548_flash-floods-and-severe-storms-threaten-new-york"
     }
   ],
   "version": 1
