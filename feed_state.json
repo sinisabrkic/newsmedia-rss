@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3303643,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Mobilität",
+      "description": "Der MG 07 ist nicht einfach eine weitere elektrische Limousine aus China. Das neue Modell führt vor, wie schnell Technologien aus der automobilen Oberklasse in deutlich niedrigere Preisregionen wandern können. Bis zu 845 Kilometer Reichweite, 800 Volt Architektur, extrem schnelles Laden, LiDAR und ein aufwendig geregeltes Fahrwerk treffen auf Preise, die das bisherige Gefüge des Elektroautomarkts infrage stellen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mg-07-845-kilometer-die-den-markt-ver-ndern-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-01T19:07:00+00:00",
+      "title": "MG 07: Bis zu 845 Kilometer, Preise ab 16.000 Euro | newsmedia.report",
+      "url": "https://www.newsmedia.report/3303643_mg-07-bis-zu-845-kilometer-preise-ab-16-000-euro"
+    },
+    {
       "article_id": 3303102,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -978,17 +989,6 @@
       "published": "2026-07-22T14:00:00+00:00",
       "title": "La crise française des pesticides | newsmedia.report",
       "url": "https://www.newsmedia.report/3289042_la-crise-francaise-des-pesticides"
-    },
-    {
-      "article_id": 3288681,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Die internationalen Finanzmärkte wirken im Sommer 2026 erstaunlich robust. Aktienindizes markieren neue Höchststände, die Zinsmärkte haben sich auf ein längeres Hochzinsumfeld eingestellt, und viele Anleger handeln, als ließe sich geopolitischer Stress in Kursverläufen sauber einkalkulieren. Genau darin liegt das Problem: Die Märkte preisen Stärke ein, obwohl das Umfeld zugleich fragiler, teurer und politisch riskanter geworden ist.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/finanzm-rkte-im-ausnahmezustand-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-22T09:11:00+00:00",
-      "title": "Finanzmärkte: Warum die neue Stabilität trügerisch ist | newsmedia.report",
-      "url": "https://www.newsmedia.report/3288681_finanzmaerkte-warum-die-neue-stabilitaet-truegerisch-ist"
     }
   ],
   "version": 1
