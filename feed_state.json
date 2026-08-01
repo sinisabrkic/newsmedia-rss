@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3302968,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Immobilien",
+      "description": "Europas Immobilienbranche hat den Zinsschock überstanden, doch sie kehrt nicht in die vertraute Welt billigen Geldes zurück. Wohnraum bleibt knapp und teuer, Gewerbeimmobilien werden härter nach Qualität getrennt, energetische Anforderungen verändern Bewertungen und Geschäftsmodelle. Der Markt stabilisiert sich, aber diese Stabilisierung folgt einer neuen Ordnung: Kapital, Lage, Nutzung und technische Qualität entscheiden stärker als früher über Erfolg oder Bedeutungsverlust.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-immobilienmarkt-vor-der-neuordnung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-01T07:03:00+00:00",
+      "title": "Europas Immobilienmarkt vor der Neuordnung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3302968_europas-immobilienmarkt-vor-der-neuordnung"
+    },
+    {
+      "article_id": 3302888,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Four days after a powerful earthquake struck southern Japan, the emergency has moved far beyond collapsed buildings. Officials now report 36 deaths, while 72,000 households remain without running water and thousands of residents face extreme heat in shelters, vehicles and damaged homes. At the same time, disruptions across Kyushu’s semiconductor and automotive corridor are raising questions about consequences that could extend well beyond Japan.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/japan-earthquake-emergency-deepens-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-01T03:55:00+00:00",
+      "title": "Japan’s Earthquake Crisis Deepens Amid Heat, Water and Factory Disruptions | newsmedia.report",
+      "url": "https://www.newsmedia.report/3302888_japan-s-earthquake-crisis-deepens-amid-heat-water-and-factory-disruptions"
+    },
+    {
+      "article_id": 3302846,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "More than 30 municipal water systems in Minnesota were targeted within two days, while similar incidents were reported across at least seven US states. The attacks did not contaminate drinking water, but they reached the digital controls responsible for pressure, pumping, treatment, and other physical operations. What initially appeared to be a regional cybersecurity incident has become a national warning about the vulnerability of essential public infrastructure.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/america-s-water-systems-under-attack-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-01T02:20:00+00:00",
+      "title": "America’s Water Systems Under Attack | newsmedia.report",
+      "url": "https://www.newsmedia.report/3302846_america-s-water-systems-under-attack"
+    },
+    {
       "article_id": 3302609,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -956,39 +989,6 @@
       "published": "2026-07-22T07:15:00+00:00",
       "title": "Ukraines EU Weg tritt in die entscheidende Phase ein | newsmedia.report",
       "url": "https://www.newsmedia.report/3288555_ukraines-eu-weg-tritt-in-die-entscheidende-phase-ein"
-    },
-    {
-      "article_id": 3288512,
-      "author": "Sinisa Brkic",
-      "category": "",
-      "description": "Donald Trump has announced a new tariff schedule for imported generic drugs, a move that directly affects the United States, India, and large parts of the global pharmaceutical supply chain. Under the plan, generics would remain tariff free until August 1, 2028, then face a 100 percent tariff for one year, followed by a 200 percent tariff. Much remains unclear. That is precisely why the proposal is so consequential, because it targets a market segment that is indispensable to the U.S. healthcare system.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-s-generic-drug-tariff-plan-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-22T06:26:00+00:00",
-      "title": "Trump’s Generic Drug Tariff Plan | newsmedia.report",
-      "url": "https://www.newsmedia.report/3288512_trump-s-generic-drug-tariff-plan"
-    },
-    {
-      "article_id": 3288494,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Die politische Zuspitzung ist groß, die rechtliche Lage deutlich nüchterner. New Yorks Bürgermeister Zohran Mamdani hat nach juristischer Prüfung eingeräumt, dass die Stadt Benjamin Netanjahu bei einem Besuch nicht eigenständig aufgrund des Haftbefehls des Internationalen Strafgerichtshofs festnehmen kann. Damit verlagert sich der Konflikt aus dem Raum symbolischer Kommunalpolitik in die Sphäre von Bundesrecht, Außenpolitik, Immunitätsfragen und internationalem Statusrecht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/new-york-und-netanjahu-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-22T06:01:00+00:00",
-      "title": "New York kann Netanjahu nicht festnehmen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3288494_new-york-kann-netanjahu-nicht-festnehmen"
-    },
-    {
-      "article_id": 3287928,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Der Angriff auf Rumäniens Kataster und Grundbuchsystem e-Terra ist mehr als ein technischer Störfall. Binnen weniger Stunden wurde aus einer Behördenkrise ein europäischer Belastungstest für digitale Eigentumsverwaltung, Immobilienmärkte und staatliche Resilienz. Vieles ist bestätigt, manches nur behauptet, doch schon jetzt zeigt der Fall mit seltener Klarheit, wie verwundbar hochdigitalisierte Verwaltungsstrukturen sind.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cyberangriff-auf-rum-niens-grundbuchsystem-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-21T19:03:00+00:00",
-      "title": "Cyberangriff auf Rumäniens Grundbuchsystem | newsmedia.report",
-      "url": "https://www.newsmedia.report/3287928_cyberangriff-auf-rumaeniens-grundbuchsystem"
     }
   ],
   "version": 1
