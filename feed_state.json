@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3303764,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "A reported warning from America’s top military commander in Europe has exposed a strategic problem Washington can no longer treat as theoretical. General Alexus Grynkewich is said to have informed Pentagon leaders that without another Navy destroyer, he could be forced to prioritize the defense of the United States over continued missile protection for Israel. The warning has not been publicly confirmed in full, and no decision to reduce Israel’s protection has been announced. Even so, the reported message points to a widening gap between the military commitments the United States has accumulated and the forces immediately available to sustain them.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/israel-or-the-homeland-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-01T21:50:00+00:00",
+      "title": "Israel or the Homeland: U.S. Faces a Defense Tradeoff | newsmedia.report",
+      "url": "https://www.newsmedia.report/3303764_israel-or-the-homeland-u-s-faces-a-defense-tradeoff"
+    },
+    {
+      "article_id": 3303744,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Russische Kriegsschiffe zeigen demonstrativ Präsenz auf einer der wichtigsten Schifffahrtsrouten Europas. Zugleich geht Großbritannien entschlossener gegen sanktionierte Tanker vor, mit denen Moskau seine Ölexporte trotz westlicher Beschränkungen aufrechterhält. Noch ist kein direkter militärischer Zusammenstoß dokumentiert. Doch im Ärmelkanal treffen Sanktionspolitik, Kriegsfinanzierung und maritime Machtdemonstration immer offener aufeinander.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russlands-schattenflotte-im-rmelkanal-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-01T21:23:00+00:00",
+      "title": "Russlands Schattenflotte wird zum Machtkampf im Ärmelkanal | newsmedia.report",
+      "url": "https://www.newsmedia.report/3303744_russlands-schattenflotte-wird-zum-machtkampf-im-aermelkanal"
+    },
+    {
       "article_id": 3303643,
       "author": "Sinisa Brkic (sb)",
       "category": "Mobilität",
@@ -967,28 +989,6 @@
       "published": "2026-07-22T20:22:00+00:00",
       "title": "Der digitale Euro: Schutzversprechen und Eingriff in die Privatsphäre | newsmedia.report",
       "url": "https://www.newsmedia.report/3289697_der-digitale-euro-schutzversprechen-und-eingriff-in-die-privatsphaere"
-    },
-    {
-      "article_id": 3289247,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "The Middle East is sliding into a wider and more dangerous war. Missiles and drones over Jordan, fresh threats from President Donald Trump, expanding flight warnings, and rising oil jitters are all flashing the same message: this fight is breaking out beyond its original battlefield. What was already volatile now looks like a regional crisis with real consequences for security, air travel, shipping, and global prices.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/middle-east-war-spreads-newsmedia-report-high.png",
-      "language": "de-AT",
-      "published": "2026-07-22T15:17:00+00:00",
-      "title": "Middle East: The War Is Spreading | newsmedia.report",
-      "url": "https://www.newsmedia.report/3289247_middle-east-the-war-is-spreading"
-    },
-    {
-      "article_id": 3289042,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "En quelques heures, la France a vu affleurer une fracture que le pouvoir cherchait encore à contenir. Après l’adoption d’une loi agricole ouvrant la voie à des dérogations encadrées pour deux insecticides jusqu’ici bannis en droit français, la ministre de l’Écologie Monique Barbut a annoncé son intention de quitter le gouvernement, avant de rester en poste après l’intervention d’Emmanuel Macron. Cette séquence ne relève pas d’un simple épisode ministériel. Elle concentre, dans un même choc politique, la question agricole, la santé publique, la protection du vivant et la solidité même de la ligne écologique de l’exécutif.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/la-crise-fran-aise-des-pesticides-newsmedia-redaktion-high-fnkqhu.png",
-      "language": "de-AT",
-      "published": "2026-07-22T14:00:00+00:00",
-      "title": "La crise française des pesticides | newsmedia.report",
-      "url": "https://www.newsmedia.report/3289042_la-crise-francaise-des-pesticides"
     }
   ],
   "version": 1
