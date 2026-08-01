@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3303102,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Brigitte Macron und ihr Ehemann, Frankreichs Präsident Emmanuel Macron, führen in den Vereinigten Staaten einen außergewöhnlichen Verleumdungsprozess gegen die politische Kommentatorin Candace Owens. Die Kläger werfen ihr vor, unbelegte Behauptungen über Brigitte Macrons Identität zu einer internationalen Medienkampagne ausgebaut zu haben. Noch geht es vor dem Gericht in Delaware allerdings nicht um die Beweisführung in der Sache, sondern um die Frage, ob das Verfahren dort überhaupt stattfinden darf.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rechtsstreit-um-brigitte-macron-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-01T08:50:00+00:00",
+      "title": "Rechtsstreit um Brigitte Macron: Ein Verfahren über ihre Identität | newsmedia.report",
+      "url": "https://www.newsmedia.report/3303102_rechtsstreit-um-brigitte-macron-ein-verfahren-ueber-ihre-identitaet"
+    },
+    {
       "article_id": 3302968,
       "author": "Sinisa Brkic (sb)",
       "category": "Immobilien",
@@ -978,17 +989,6 @@
       "published": "2026-07-22T09:11:00+00:00",
       "title": "Finanzmärkte: Warum die neue Stabilität trügerisch ist | newsmedia.report",
       "url": "https://www.newsmedia.report/3288681_finanzmaerkte-warum-die-neue-stabilitaet-truegerisch-ist"
-    },
-    {
-      "article_id": 3288555,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europa",
-      "description": "Der Beginn der Beitrittsverhandlungen mit der Ukraine war lange vor allem ein politisches Signal. Inzwischen gewinnt der Prozess erstmals sichtbar an Substanz. Mit der Eröffnung des ersten Verhandlungsclusters im Juni und einem weiteren Schritt im Juli ist klar, dass sich die EU Erweiterung gegenüber Kiew aus der symbolischen Zone herausbewegt. Doch gerade jetzt zeigt sich, wie hart der eigentliche Teil dieses Weges wird.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraines-eu-weg-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-22T07:15:00+00:00",
-      "title": "Ukraines EU Weg tritt in die entscheidende Phase ein | newsmedia.report",
-      "url": "https://www.newsmedia.report/3288555_ukraines-eu-weg-tritt-in-die-entscheidende-phase-ein"
     }
   ],
   "version": 1
