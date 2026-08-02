@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3304088,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Mit dem 2. August 2026 erreicht die europäische KI Regulierung eine entscheidende Stufe. Neue Transparenzpflichten betreffen Chatbots, KI Agenten, synthetische Bilder und Stimmen, Deepfakes sowie bestimmte automatisch erzeugte Texte. Unternehmen müssen nun klären, welche Systeme sie einsetzen, welche Rolle sie rechtlich einnehmen und an welcher Stelle eine technische oder sichtbare Kennzeichnung erforderlich ist.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-ai-act-pflichten-f-r-unternehmen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-02T07:30:00+00:00",
+      "title": "EU AI Act: Diese Pflichten gelten jetzt für Unternehmen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3304088_eu-ai-act-diese-pflichten-gelten-jetzt-fuer-unternehmen"
+    },
+    {
+      "article_id": 3304061,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Ukraine has sunk the Russian container ship Yanina with naval drones in the Black Sea. The vessel was operated by FESCO, a logistics group controlled by Russia’s state nuclear corporation Rosatom, but Moscow says it was carrying only civilian goods. The attack opens a far more consequential dispute over military targets, commercial shipping and the legal boundaries of maritime warfare.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraine-sinks-the-yanina-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-02T07:03:00+00:00",
+      "title": "Ukraine Sinks the Russian Ship Yanina | newsmedia.report",
+      "url": "https://www.newsmedia.report/3304061_ukraine-sinks-the-russian-ship-yanina"
+    },
+    {
       "article_id": 3303764,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -967,28 +989,6 @@
       "published": "2026-07-23T07:33:00+00:00",
       "title": "Jehovah’s Witnesses: Religious Freedom, Internal Discipline and Growing Public Scrutiny | newsmedia.report",
       "url": "https://www.newsmedia.report/3290083_jehovah-s-witnesses-religious-freedom-internal-discipline-and-growing-public-scrutiny"
-    },
-    {
-      "article_id": 3289729,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Kernlose Trauben, Mini Gurken ohne Samen, Wassermelonen ohne harte Kerne, Zitrusfrüchte mit möglichst glattem Innenleben. Was im Regal wie ein harmloser Komfortgewinn wirkt, ist in Wahrheit Teil einer größeren Entwicklung. Der Markt formt Lebensmittel nicht mehr nur nach Geschmack, Ertrag und Haltbarkeit, sondern zunehmend auch nach Friktionsfreiheit. Das hat Vorteile, aber es hat auch einen Preis.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kernloses-obst-und-gem-se-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-22T21:23:00+00:00",
-      "title": "Kernloses Obst und Gemüse: Der Umbau unserer Nahrung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3289729_kernloses-obst-und-gemuese-der-umbau-unserer-nahrung"
-    },
-    {
-      "article_id": 3289697,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Der digitale Euro wird von seinen Befürwortern als europäische Antwort auf die Abhängigkeit von privaten Zahlungsriesen verkauft. Kritiker sehen darin jedoch nicht nur ein neues Zahlungsmittel, sondern den Einstieg in eine Infrastruktur, die sensibles Alltagsverhalten technisch erfassbar, politisch formbar und staatlich rahmbar macht. Der Kern der Debatte ist deshalb nicht bloß monetär. Er ist machtpolitisch, rechtsstaatlich und gesellschaftlich.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-digitale-euro-schutzversprechen-und-privatsph-re-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-22T20:22:00+00:00",
-      "title": "Der digitale Euro: Schutzversprechen und Eingriff in die Privatsphäre | newsmedia.report",
-      "url": "https://www.newsmedia.report/3289697_der-digitale-euro-schutzversprechen-und-eingriff-in-die-privatsphaere"
     }
   ],
   "version": 1
