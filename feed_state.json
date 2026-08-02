@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3304280,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "A shooting near a newly opened In-N-Out Burger in Twin Falls, Idaho, has left three people dead and seven others injured, some critically. The suspected gunman was found dead near the restaurant, but authorities have not yet clarified whether he is included in the reported death toll. As investigators reconstruct the attack, viral videos and unverified claims about a second armed person are complicating an already sensitive case.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/idaho-in-n-out-shooting-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-02T10:33:00+00:00",
+      "title": "Three Dead, Seven Injured in Idaho In-N-Out Shooting | newsmedia.report",
+      "url": "https://www.newsmedia.report/3304280_three-dead-seven-injured-in-idaho-in-n-out-shooting"
+    },
+    {
+      "article_id": 3304114,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "President Donald Trump says the United States has canceled a planned new attack on Iran while regional governments attempt to finalize a framework that could reopen the Strait of Hormuz and address Iran’s nuclear program. Israel will also refrain from launching new strikes for now, according to Trump. Tehran, however, has not publicly confirmed that it has accepted the proposed terms, and no signed peace agreement has been announced.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-halts-iran-strikes-as-hormuz-deal-talks-advance-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-02T08:11:00+00:00",
+      "title": "Trump Halts Planned Iran Strikes | newsmedia.report",
+      "url": "https://www.newsmedia.report/3304114_trump-halts-planned-iran-strikes"
+    },
+    {
       "article_id": 3304088,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -967,28 +989,6 @@
       "published": "2026-07-23T09:01:00+00:00",
       "title": "La France relève l’âge d’accès aux réseaux sociaux | newsmedia.report",
       "url": "https://www.newsmedia.report/3290191_la-france-releve-l-age-d-acces-aux-reseaux-sociaux"
-    },
-    {
-      "article_id": 3290120,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "China verdichtet Planung, Vorfertigung, Logistik und Ausführung zu einem Bautempo, das in Europa regelmäßig wie ein Blick in eine andere industrielle Zeitrechnung wirkt. Gerade dort, wo KI, digitale Zwillinge, BIM und modulare Fertigung ineinandergreifen, verschiebt sich der Maßstab dessen, was als realistisch gilt. Der Unterschied liegt dabei nicht allein in der Technik. Er liegt im System, das diese Technik konsequent in Geschwindigkeit übersetzt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/chinas-infrastrukturbau-im-ki-expressmodus-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-23T08:01:00+00:00",
-      "title": "Chinas Infrastrukturbau im KI Expressmodus | newsmedia.report",
-      "url": "https://www.newsmedia.report/3290120_chinas-infrastrukturbau-im-ki-expressmodus"
-    },
-    {
-      "article_id": 3290083,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Society",
-      "description": "Jehovah’s Witnesses are legally recognized in Austria, active around the world, and organized with an unusual degree of internal unity. At the same time, their practices involving expelled members, medical decisions, child protection, and the handling of abuse allegations remain the subject of sustained public and legal scrutiny. The current picture is complex: the organization is making selective adjustments, while defending the doctrines and disciplinary structures at the center of the controversy.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jehovah-s-witnesses-in-2026-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-23T07:33:00+00:00",
-      "title": "Jehovah’s Witnesses: Religious Freedom, Internal Discipline and Growing Public Scrutiny | newsmedia.report",
-      "url": "https://www.newsmedia.report/3290083_jehovah-s-witnesses-religious-freedom-internal-discipline-and-growing-public-scrutiny"
     }
   ],
   "version": 1
