@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3304993,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Niemand kann seriös vorhersagen, ob Europa im Herbst oder Winter 2026/27 einen flächendeckenden Blackout erleben wird. Sicher ist jedoch, dass ein großräumiger und länger dauernder Stromausfall nicht bei ausgefallenen Lampen endet, sondern Kommunikation, Wasserversorgung, medizinische Betreuung, Handel, Verkehr und öffentliche Sicherheit gleichzeitig unter Druck setzt. PreparedEurope™ wurde als physisches Vorbereitungssystem entwickelt, um Familien vor einer solchen Lage nicht mit allgemeinen Warnungen, sondern mit einer geordneten Handlungsstruktur zu konfrontieren.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-und-private-vorsorge-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-02T21:33:00+00:00",
+      "title": "Ein Blackout als Systemkrise: Private Vorbereitung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3304993_ein-blackout-als-systemkrise-private-vorbereitung"
+    },
+    {
+      "article_id": 3304933,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Russian authorities imposed a drone alert across the Siberian region of Omsk on Sunday, temporarily restricted airport operations and reported the interception of at least one unmanned aircraft near the city. No strike on the region’s vast oil refinery or military infrastructure has been confirmed, but the incident renews a strategic question that Moscow can no longer dismiss: how secure is Russia’s industrial heartland when drones can threaten targets more than 2,500 kilometers from Ukraine?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drones-reach-omsk-again-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-02T20:22:00+00:00",
+      "title": "Drones Reach Omsk Again as Russia’s Industrial Rear Comes Under Pressure | newsmedia.report",
+      "url": "https://www.newsmedia.report/3304933_drones-reach-omsk-again-as-russia-s-industrial-rear-comes-under-pressure"
+    },
+    {
       "article_id": 3304280,
       "author": "Sinisa Brkic (sb)",
       "category": "Security",
@@ -967,28 +989,6 @@
       "published": "2026-07-23T12:02:00+00:00",
       "title": "EU verhängt 890 Millionen Euro Strafe gegen Google | newsmedia.report",
       "url": "https://www.newsmedia.report/3290441_eu-verhaengt-890-millionen-euro-strafe-gegen-google"
-    },
-    {
-      "article_id": 3290262,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "The public message coming out of Washington is stark. The CIA and the broader US intelligence community are not describing a region moving toward stability, but one entering a more dangerous and less predictable phase. Iran may be weakened, but the threat picture has not simplified. It has become more fragmented, more asymmetric, and in some ways more volatile.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cia-warns-middle-east-on-the-brink-of-a-wider-fire-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-23T09:30:00+00:00",
-      "title": "CIA Warns: Middle East on the Brink of a Wider Fire | newsmedia.report",
-      "url": "https://www.newsmedia.report/3290262_cia-warns-middle-east-on-the-brink-of-a-wider-fire"
-    },
-    {
-      "article_id": 3290191,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Le Parlement français a définitivement adopté l’interdiction d’accès aux réseaux sociaux pour les moins de 15 ans. Présentée comme une mesure de protection de l’enfance, la nouvelle règle place désormais les plateformes face à une exigence centrale : vérifier l’âge de leurs utilisateurs sans transformer cette protection en contrôle généralisé de l’identité.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/la-france-rel-ve-l-ge-d-acc-s-aux-r-seaux-sociaux-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-23T09:01:00+00:00",
-      "title": "La France relève l’âge d’accès aux réseaux sociaux | newsmedia.report",
-      "url": "https://www.newsmedia.report/3290191_la-france-releve-l-age-d-acces-aux-reseaux-sociaux"
     }
   ],
   "version": 1
