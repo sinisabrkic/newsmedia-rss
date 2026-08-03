@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "article_id": 3305588,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Turkey’s inflation rate declined again in July, but the figures offer little relief for households facing persistently high food, housing, and service costs. Consumer prices rose another 1.78 percent within a single month, while the new inflation reading raised the maximum rent adjustment benchmark for qualifying August lease renewals to 31.90 percent. The decline in the annual rate therefore marks slower inflation, not lower prices.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/turkey-s-inflation-falls-to-31-75-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-03T10:55:00+00:00",
+      "title": "Turkey’s Inflation Falls to 31.75% | newsmedia.report",
+      "url": "https://www.newsmedia.report/3305588_turkey-s-inflation-falls-to-31-75"
+    },
+    {
+      "article_id": 3305364,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Business",
+      "description": "Washington and Tokyo have taken the exceptional step of intervening together to strengthen the Japanese yen after the currency approached its weakest level in four decades. The operation has moved far beyond a bilateral exchange-rate dispute. It now touches Japanese inflation, US government debt, global carry trades and the credibility of monetary policy in both countries.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/yen-shock-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-03T08:01:00+00:00",
+      "title": "Yen Shock: US and Japan Launch Joint Intervention | newsmedia.report",
+      "url": "https://www.newsmedia.report/3305364_yen-shock-us-and-japan-launch-joint-intervention"
+    },
+    {
+      "article_id": 3305275,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politics",
+      "description": "Acting Attorney General Todd Blanche has formally rescinded the Trump administration’s controversial $1.8 billion Anti-Weaponization Fund, removing a major obstacle to his nomination as the permanent head of the Justice Department. The decision followed sustained resistance from Republican senators who demanded more than verbal assurances that the program would never become operational. Blanche’s nomination can now move forward, but neither his confirmation nor the complete legal extinction of the fund is guaranteed.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/todd-blanche-rescinds-trump-fund-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-03T06:30:00+00:00",
+      "title": "Todd Blanche Rescinds Trump’s $1.8 Billion Fund | newsmedia.report",
+      "url": "https://www.newsmedia.report/3305275_todd-blanche-rescinds-trump-s-1-8-billion-fund"
+    },
+    {
+      "article_id": 3305082,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Vladimir Putin launched the invasion of Ukraine expecting to overwhelm the country politically and militarily within a short period of time. More than four years later, Ukrainian drones are reaching the Moscow region in large numbers, striking logistical and economic targets and forcing Russia to devote growing resources to the defense of its own capital. The war the Kremlin intended to wage on Ukrainian territory, insulated from everyday life in Russia’s political center, has returned to the heart of Putin’s system of power.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putin-s-strategic-miscalculation-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-03T00:14:00+00:00",
+      "title": "Putin’s Strategic Miscalculation: The War Has Reached Moscow | newsmedia.report",
+      "url": "https://www.newsmedia.report/3305082_putin-s-strategic-miscalculation-the-war-has-reached-moscow"
+    },
+    {
       "article_id": 3304993,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -945,50 +989,6 @@
       "published": "2026-07-23T20:01:00+00:00",
       "title": "Wie die CIA Menschen psychologisch liest | newsmedia.report",
       "url": "https://www.newsmedia.report/3291954_wie-die-cia-menschen-psychologisch-liest"
-    },
-    {
-      "article_id": 3291933,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La France s’apprête à rouvrir un front social particulièrement sensible: celui du reste à charge en santé. Le gouvernement a annoncé un relèvement des plafonds annuels applicables aux franchises médicales et aux participations forfaitaires, avec un effet potentiellement très concret pour les patients qui recourent régulièrement aux soins. Derrière une réforme technique en apparence, c’est une question beaucoup plus lourde qui surgit: jusqu’où un système de santé sous pression budgétaire peut-il faire contribuer davantage les malades les plus exposés?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/plafond-du-reste-charge-m-dical-en-france-newsmedia-report-high.png",
-      "language": "de-AT",
-      "published": "2026-07-23T19:21:00+00:00",
-      "title": "France: le reste à charge médical relevé à 200 euros | newsmedia.report",
-      "url": "https://www.newsmedia.report/3291933_france-le-reste-a-charge-medical-releve-a-200-euros"
-    },
-    {
-      "article_id": 3291915,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "BitMEX, once one of the defining names in crypto derivatives, is shutting down its exchange operations on September 23, 2026. Customers are being told to close positions and withdraw assets before the deadline, while key details of the wind down remain under scrutiny. The broader market impact may be limited, but for users with funds still on the platform, this is now a practical story about timing, custody, fees, and risk.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-end-of-bitmex-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-23T19:05:00+00:00",
-      "title": "The End of BitMEX: Exchange to Shut Down in September | newsmedia.report",
-      "url": "https://www.newsmedia.report/3291915_the-end-of-bitmex-exchange-to-shut-down-in-september"
-    },
-    {
-      "article_id": 3291900,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die bekannte Versandapotheke Sanicare befindet sich in einem vorläufigen Insolvenzverfahren in Eigenverwaltung. Der Geschäftsbetrieb soll nach Angaben des Unternehmens weiterlaufen, Medikamente können derzeit weiterhin bestellt werden. Für Kunden bleiben dennoch wichtige Fragen offen, insbesondere bei bereits bezahlten Bestellungen, eingereichten Rezepten, Gutscheinen und zeitkritischen Arzneimitteln.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sanicare-in-eigenverwaltung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-23T18:44:00+00:00",
-      "title": "Versandapotheke Sanicare in Insolvenzverfahren | newsmedia.report",
-      "url": "https://www.newsmedia.report/3291900_versandapotheke-sanicare-in-insolvenzverfahren"
-    },
-    {
-      "article_id": 3290441,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Brüssel zieht die bislang schärfste Linie gegen Google unter dem Digital Markets Act. Die EU-Kommission wirft dem Konzern vor, in der Google-Suche eigene Angebote systematisch bevorzugt und App-Anbieter im Play Store daran gehindert zu haben, Nutzer frei auf günstigere Kaufwege außerhalb des Systems hinzuweisen. Für Verbraucher, Publisher, Reiseportale und Entwickler ist die Entscheidung weit mehr als ein Bußgeldfall. Sie greift in die Architektur digitaler Sichtbarkeit und digitaler Preise ein",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-verh-ngt-890-millionen-euro-strafe-gegen-google-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-23T12:02:00+00:00",
-      "title": "EU verhängt 890 Millionen Euro Strafe gegen Google | newsmedia.report",
-      "url": "https://www.newsmedia.report/3290441_eu-verhaengt-890-millionen-euro-strafe-gegen-google"
     }
   ],
   "version": 1
