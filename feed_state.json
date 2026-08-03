@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3305909,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Dubais Wirtschaft kühlt sich nach mehreren außergewöhnlich starken Jahren deutlich ab. Regionale Unsicherheit, schwächere Reisetätigkeit und nachlassende Kreditnachfrage belasten das Geschäftsmodell des Emirats, während Banken und Finanzdienstleister verstärkt um Kunden werben. Die verfügbaren Daten zeigen ernst zu nehmende Risiken, aber keinen wirtschaftlichen freien Fall.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dubai-verliert-tempo-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-03T14:40:00+00:00",
+      "title": "Dubai verliert Tempo, nicht den Boden | newsmedia.report",
+      "url": "https://www.newsmedia.report/3305909_dubai-verliert-tempo-nicht-den-boden"
+    },
+    {
       "article_id": 3305588,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-07-23T21:01:00+00:00",
       "title": "Warum wir manche Menschen niemals vergessen / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3291992_warum-wir-manche-menschen-niemals-vergessen"
-    },
-    {
-      "article_id": 3291954,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Wer verstehen will, wie Nachrichtendienste arbeiten, muss früher ansetzen als bei Satellitenbildern, Funküberwachung oder geopolitischen Lagezentren. Ein erheblicher Teil ihrer Macht liegt in der Fähigkeit, Menschen zu lesen: Motive, Belastbarkeit, Widersprüche, Schwächen, Loyalitäten und wahrscheinliche Reaktionen unter Druck. Gerade die CIA hat aus dieser Praxis nie ein öffentliches Schaufenster gemacht, wohl aber ein System, das zwischen Auswahl, Deutung und Projektion verläuft.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wie-die-cia-menschen-psychologisch-liest-newsmedia-redaktion-high-nl8goa.png",
-      "language": "de-AT",
-      "published": "2026-07-23T20:01:00+00:00",
-      "title": "Wie die CIA Menschen psychologisch liest | newsmedia.report",
-      "url": "https://www.newsmedia.report/3291954_wie-die-cia-menschen-psychologisch-liest"
     }
   ],
   "version": 1
