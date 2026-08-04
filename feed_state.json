@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3311035,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Zalando meldet mehr Kunden, steigende Umsätze und einen höheren operativen Gewinn. Dennoch brach die Aktie zeitweise um bis zu 18 Prozent ein und schloss den Xetra Handel mit einem Minus von 13,36 Prozent. Hinter der scheinbaren Unlogik steht eine zentrale Frage: Wie viel des Wachstums trägt das bestehende Geschäft tatsächlich und wie viel stammt aus der Übernahme von About You?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/zalando-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-04T20:15:00+00:00",
+      "title": "Zalando: Börse verliert den Glauben | newsmedia.report",
+      "url": "https://www.newsmedia.report/3311035_zalando-boerse-verliert-den-glauben"
+    },
+    {
+      "article_id": 3310994,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Indirect talks involving Iran, Oman and the United States are moving toward a possible arrangement for restoring commercial traffic through the Strait of Hormuz. The prospect of a controlled reopening sent oil prices sharply lower, but the emerging framework remains incomplete and politically fragile. What is taking shape is not yet a peace agreement, but a limited deal designed to reduce the immediate risk to one of the world’s most important energy corridors.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hormuz-deal-takes-shape-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-04T19:47:00+00:00",
+      "title": "Hormuz Deal Takes Shape | newsmedia.report",
+      "url": "https://www.newsmedia.report/3310994_hormuz-deal-takes-shape"
+    },
+    {
       "article_id": 3310367,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-07-25T04:33:00+00:00",
       "title": "Neue Euro-Scheine als Kulisse für den digitalen Euro | newsmedia.report",
       "url": "https://www.newsmedia.report/3293514_neue-euro-scheine-als-kulisse-fuer-den-digitalen-euro"
-    },
-    {
-      "article_id": 3293509,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Künstliche Intelligenz entwickelt sich vom sprachbasierten Assistenzwerkzeug zu einer operativen Infrastruktur, die Daten verarbeitet, Software bedient, Entscheidungen vorbereitet und zunehmend eigenständig Aufgaben ausführt. Der technische Fortschritt liegt dabei längst nicht mehr allein in größeren Modellen. Entscheidend werden Schlussfolgerungsfähigkeit, Systemzugriff, Speicherkonzepte, spezialisierte Modelle, neue Schnittstellen und eine Sicherheitsarchitektur, die autonome Aktionen kontrollierbar hält.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-technische-neuordnung-der-ki-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-25T04:12:00+00:00",
-      "title": "KI wird Infrastruktur: Was Unternehmen jetzt entscheiden müssen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3293509_ki-wird-infrastruktur-was-unternehmen-jetzt-entscheiden-muessen"
-    },
-    {
-      "article_id": 3293505,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Former Senator Joe Manchin is returning to national politics with an organization designed to recruit and support independent candidates for Congress. The Independent Leadership Council insists that it is not creating a third party. Its larger ambition, however, is unmistakable: to weaken the political monopoly of Democrats and Republicans by establishing a new center of power inside Congress.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/joe-manchin-s-independent-movement-enters-the-real-test-of-power-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-25T03:40:00+00:00",
-      "title": "Joe Manchin’s Independent Movement | newsmedia.report",
-      "url": "https://www.newsmedia.report/3293505_joe-manchin-s-independent-movement"
     }
   ],
   "version": 1
