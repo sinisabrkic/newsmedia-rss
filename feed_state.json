@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3311370,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "SpaceX’s first quarterly report as a public company delivered exceptional growth, driven by Starlink and a rapidly expanding artificial intelligence business. Revenue almost doubled, the group sharply reduced its quarterly loss and operating performance exceeded market expectations. The shares nevertheless fell after the report because the figures exposed the scale of the capital required to sustain the company’s ambitions.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/spacex-delivers-the-growth-wall-street-prices-the-risk-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-05T05:04:00+00:00",
+      "title": "SpaceX Delivers the Growth. Wall Street Prices the Risk. | newsmedia.report",
+      "url": "https://www.newsmedia.report/3311370_spacex-delivers-the-growth-wall-street-prices-the-risk"
+    },
+    {
       "article_id": 3311035,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-07-25T05:17:00+00:00",
       "title": "Der Fall Walter Ruck | newsmedia.report",
       "url": "https://www.newsmedia.report/3293533_der-fall-walter-ruck"
-    },
-    {
-      "article_id": 3293514,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Neue Motive, europäische Identität, öffentliche Abstimmung: Die Europäische Zentralbank inszeniert die künftigen Eurobanknoten als sichtbares Bekenntnis zum Bargeld. Gleichzeitig sind die politischen, rechtlichen und technischen Vorbereitungen für den digitalen Euro weiter fortgeschritten als je zuvor. Der neue Schein könnte deshalb vor allem eines bewirken: Er beruhigt eine Öffentlichkeit, während Europas Geldordnung im Hintergrund grundlegend umgebaut wird.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-gescheine-augenwischerei-vor-dem-digitalen-euro-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-25T04:33:00+00:00",
-      "title": "Neue Euro-Scheine als Kulisse für den digitalen Euro | newsmedia.report",
-      "url": "https://www.newsmedia.report/3293514_neue-euro-scheine-als-kulisse-fuer-den-digitalen-euro"
     }
   ],
   "version": 1
