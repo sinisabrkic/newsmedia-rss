@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3311567,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Die abschlagsfreie Altersrente nach 45 Versicherungsjahren wird zum Belastungstest für die Bundesregierung. Führende Unionspolitiker halten an ihrer Abschaffung fest, während sich der Widerstand aus der SPD und den ostdeutschen Ländern verschärft. Für Millionen Beschäftigte geht es um weit mehr als eine rentenpolitische Detailfrage, denn auf dem Spiel stehen langjährige Lebensplanungen, der Schutz erworbener Erwartungen und die Anerkennung besonders langer Erwerbsbiografien.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rentenreform-2026-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-05T08:41:00+00:00",
+      "title": "Deutschland: Rente mit 63 vor dem Aus? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3311567_deutschland-rente-mit-63-vor-dem-aus"
+    },
+    {
       "article_id": 3311370,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -978,17 +989,6 @@
       "published": "2026-07-25T09:30:00+00:00",
       "title": "Die große Corona-Täuschung: Pandemie der Ungeimpften | newsmedia.report",
       "url": "https://www.newsmedia.report/3293541_die-grosse-corona-taeuschung-pandemie-der-ungeimpften"
-    },
-    {
-      "article_id": 3293533,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Der Ausschluss Walter Rucks aus der ÖVP beendet eine politische Zugehörigkeit, nicht aber seine institutionelle Macht. Der Präsident der Wirtschaftskammer Wien kündigte an, trotz schwerer Vorwürfe im Amt bleiben zu wollen. Der Fall legt damit ein grundlegendes Problem offen: Zwischen Partei, Wirtschaftsbund und gesetzlicher Interessenvertretung verlaufen Grenzen, an denen politische Verantwortung enden kann, ohne dass die Machtstellung verloren geht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-fall-walter-ruck-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-25T05:17:00+00:00",
-      "title": "Der Fall Walter Ruck | newsmedia.report",
-      "url": "https://www.newsmedia.report/3293533_der-fall-walter-ruck"
     }
   ],
   "version": 1
