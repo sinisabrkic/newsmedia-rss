@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3312360,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Männer sollen heute verständnisvoll, gepflegt, emotional erreichbar und partnerschaftlich sein. Gleichzeitig erwarten viele Frauen Entschlossenheit, Belastbarkeit, Eigenständigkeit und einen Mann, der nicht bei jeder schwierigen Entscheidung Orientierung benötigt. Werden Männer tatsächlich immer weiblicher, oder erleben wir vielmehr eine Generation, die traditionelle Rollen abgelegt hat, ohne eine neue Form männlicher Stärke zu entwickeln?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/werden-m-nner-immer-weiblicher-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-05T18:22:00+00:00",
+      "title": "Werden neue Generationen von Männern immer weiblicher? / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3312360_werden-neue-generationen-von-maennern-immer-weiblicher"
+    },
+    {
       "article_id": 3312322,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -978,17 +989,6 @@
       "published": "2026-07-25T19:05:00+00:00",
       "title": "Österreichs Insolvenzfonds vor dem finanziellen Kipppunkt | newsmedia.report",
       "url": "https://www.newsmedia.report/3294161_oesterreichs-insolvenzfonds-vor-dem-finanziellen-kipppunkt"
-    },
-    {
-      "article_id": 3294135,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "The confrontation between the United States and Iran has turned the Strait of Hormuz into the most dangerous pressure point in the global economy. Military strikes, attacks on commercial shipping and the disruption of energy exports have transformed a regional war into a test of international power, economic resilience and political credibility. Diplomatic contacts have resumed, but neither Washington nor Tehran has yet produced a viable path out of the conflict.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hormuz-under-fire-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-25T18:36:00+00:00",
-      "title": "Hormuz Under Fire: The War Reshaping Global Power | newsmedia.report",
-      "url": "https://www.newsmedia.report/3294135_hormuz-under-fire-the-war-reshaping-global-power"
     }
   ],
   "version": 1
