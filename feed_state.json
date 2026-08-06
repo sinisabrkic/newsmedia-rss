@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3312878,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Abdul El Sayed has won Michigan’s Democratic Senate primary by less than one percentage point, defeating Representative Haley Stevens and a formidable alliance of party leaders and outside spending groups. His victory marks a serious breakthrough for the progressive wing of the Democratic Party, but it does not yet prove that the same coalition can win a statewide general election. The decisive test now comes against Republican Mike Rogers in a race that could help determine control of the United States Senate.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/abdul-el-sayed-s-michigan-senate-primary-victory-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-06T06:50:00+00:00",
+      "title": "AIPAC Spent More Than $30 Million to Stop Him. Abdul El Sayed Won Anyway | newsmedia.report",
+      "url": "https://www.newsmedia.report/3312878_aipac-spent-more-than-30-million-to-stop-him-abdul-el-sayed-won-anyway"
+    },
+    {
       "article_id": 3312360,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-07-25T19:21:00+00:00",
       "title": "Soupçons d’espionnage au cœur de l’OTAN | newsmedia.report",
       "url": "https://www.newsmedia.report/3294174_soupcons-d-espionnage-au-coeur-de-l-otan"
-    },
-    {
-      "article_id": 3294161,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft / Österreich",
-      "description": "Der österreichische Insolvenz-Entgelt-Fonds steht nicht vor einem Konkurs im rechtlichen Sinn. Doch seine Reserven schmelzen in einem Tempo, das die Finanzierung ab 2027 infrage stellt. Rund 160 Millionen Euro könnten fehlen, um offene Löhne, Gehälter und Abfertigungen insolventer Unternehmen weiterhin verlässlich abzusichern.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-insolvenzfonds-vor-dem-finanziellen-kipppunkt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-25T19:05:00+00:00",
-      "title": "Österreichs Insolvenzfonds vor dem finanziellen Kipppunkt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3294161_oesterreichs-insolvenzfonds-vor-dem-finanziellen-kipppunkt"
     }
   ],
   "version": 1
