@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "article_id": 3314317,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "La campagne présidentielle française n’a pas encore atteint sa phase décisive que la bataille pour le contrôle de l’espace numérique est déjà ouverte. Marine Tondelier, candidate des Écologistes, estime qu’une suspension temporaire de plateformes comme X devrait pouvoir être envisagée si des ingérences étrangères étaient constatées avant ou pendant l’élection. La réaction immédiate d’Elon Musk transforme une question de sécurité électorale en confrontation politique majeure, au moment où plusieurs candidats français viennent précisément d’être visés par des opérations de désinformation attribuées à des réseaux liés à la Russie.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pr-sidentielle-2027-marine-tondelier-et-x-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-07T08:05:00+00:00",
+      "title": "Présidentielle 2027: Tondelier veut pouvoir suspendre X | newsmedia.report",
+      "url": "https://www.newsmedia.report/3314317_presidentielle-2027-tondelier-veut-pouvoir-suspendre-x"
+    },
+    {
+      "article_id": 3314299,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Business",
+      "description": "India has taken a significant step toward changing the economics of its vast digital payments system. The Lok Sabha has approved legislation that would give the government greater authority to permit charges on certain electronic payment transactions, potentially including payments made through the Unified Payments Interface, or UPI. What it has not done is introduce a general UPI fee for consumers.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-upi-merchant-fees-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-07T07:40:00+00:00",
+      "title": "India Opens the Door to UPI Merchant Fees | newsmedia.report",
+      "url": "https://www.newsmedia.report/3314299_india-opens-the-door-to-upi-merchant-fees"
+    },
+    {
+      "article_id": 3314262,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "The U.S. Food and Drug Administration has approved Moderna’s MFLUSIVA for adults age 50 and older, making it the first seasonal influenza vaccine based on mRNA technology to receive approval in the United States. The decision extends the mRNA platform beyond COVID vaccination and into one of the world’s largest recurring vaccine markets, while important questions remain about real world performance, availability and its eventual role in U.S. vaccination policy.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fda-approves-first-mrna-flu-vaccine-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-07T07:00:00+00:00",
+      "title": "FDA Approves First mRNA Flu Vaccine in the U.S. | newsmedia.report",
+      "url": "https://www.newsmedia.report/3314262_fda-approves-first-mrna-flu-vaccine-in-the-u-s"
+    },
+    {
+      "article_id": 3314243,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energie",
+      "description": "Deutschland steht vor einer grundlegenden Neuordnung der Stromnetzentgelte. Die Bundesnetzagentur hat die Konsultation für eine Reform gestartet, die künftig stärker berücksichtigen soll, wie viel Netzkapazität Verbraucher beanspruchen, wann Strom genutzt wird und welchen Beitrag einzelne Akteure zur Stabilität des Systems leisten. Es geht um die Verteilung von rund 37 Milliarden Euro Netzkosten pro Jahr und damit um einen Kostenblock, der für Haushalte, Industrie, Speicherbetreiber und neue Großverbraucher erhebliche Bedeutung hat.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/stromnetzentgelte-2029-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-07T06:35:00+00:00",
+      "title": "Deutschland baut die Stromrechnung um | newsmedia.report",
+      "url": "https://www.newsmedia.report/3314243_deutschland-baut-die-stromrechnung-um"
+    },
+    {
       "article_id": 3314034,
       "author": "Sinisa Brkic (sb)",
       "category": "Economy",
@@ -945,50 +989,6 @@
       "published": "2026-07-27T15:39:00+00:00",
       "title": "Paris: trois femmes blessées au couteau, mobile inconnu | newsmedia.report",
       "url": "https://www.newsmedia.report/3296738_paris-trois-femmes-blessees-au-couteau-mobile-inconnu"
-    },
-    {
-      "article_id": 3296686,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "The United States has stopped its latest strikes on Iran, Tehran has suspended direct retaliation, and Israel is pressing Washington over what comes next. Yet the conflict has not entered a genuine ceasefire. Washington controls the military tempo, Israel contests the terms of any settlement, and Iran retains the power to make restraint economically and strategically expensive.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/three-vetoes-no-peace-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-27T15:30:00+00:00",
-      "title": "Middle East: Three Vetoes, No Peace | newsmedia.report",
-      "url": "https://www.newsmedia.report/3296686_middle-east-three-vetoes-no-peace"
-    },
-    {
-      "article_id": 3296639,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Terrorismus, Vergewaltigung, Körperverletzung und Raub werden in Österreich, Afghanistan und Syrien nach grundverschiedenen Maßstäben verfolgt. Die Unterschiede reichen von klar geregelten Haftstrafen über Peitschenhiebe und Vergeltungsstrafen bis zur Todesstrafe. Entscheidend ist jedoch nicht allein die Härte einer Sanktion, sondern auch die Frage, ob Tatbestand, Beweisführung und Urteil vorhersehbar und rechtlich überprüfbar sind.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/strafvergleich-sterreich-afghanistan-und-syrien-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-27T14:30:00+00:00",
-      "title": "Rechtssysteme im Vergleich: Österreich, Syrien, Afghanistan | newsmedia.report",
-      "url": "https://www.newsmedia.report/3296639_rechtssysteme-im-vergleich-oesterreich-syrien-afghanistan"
-    },
-    {
-      "article_id": 3296291,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Sanierung ist gescheitert, der Produktionsstandort nicht mehr zu retten. Die Franz Schneider GmbH & Co. KG, Herstellerin der bekannten Kinderfahrzeuge von Rolly Toys, will ihren Betrieb in Neustadt bei Coburg zum 31. Dezember 2026 vollständig einstellen. Mehr als 110 Beschäftigte verlieren voraussichtlich ihre Arbeitsplätze, während die Zukunft der Marke, der Produktionsrechte und des Ersatzteilgeschäfts weiterhin offen ist.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rolly-toys-schlie-t-das-ende-des-traditionswerks-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-27T09:45:00+00:00",
-      "title": "Rolly Toys schließt: Das Ende des Traditionswerks | newsmedia.report",
-      "url": "https://www.newsmedia.report/3296291_rolly-toys-schliesst-das-ende-des-traditionswerks"
-    },
-    {
-      "article_id": 3296111,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit / Österreich",
-      "description": "Ein Stromausfall hat am Morgen des 27. Juli 2026 ein Amtsgebäude des österreichischen Innenministeriums in Wien zeitweise lahmgelegt. Türen wurden gesperrt, der Telefonbetrieb war gestört, Beschäftigte konnten das Gebäude vorübergehend weder betreten noch verlassen. Es war kein österreichweiter Blackout, doch gerade die begrenzte Dimension des Vorfalls macht sichtbar, wie schnell technische Abhängigkeiten den Betrieb einer zentralen staatlichen Institution beeinträchtigen können.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-im-innenministerium-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-27T07:33:00+00:00",
-      "title": "Österreich: Blackout im Innenministerium | newsmedia.report",
-      "url": "https://www.newsmedia.report/3296111_oesterreich-blackout-im-innenministerium"
     }
   ],
   "version": 1
