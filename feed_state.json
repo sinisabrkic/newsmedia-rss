@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3315808,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sport",
+      "description": "Die Zukunft von David Alaba bekommt eine neue Wendung. Nach den jüngsten Spekulationen um AC Milan beschäftigt sich nun auch Juventus Turin mit Österreichs Teamkapitän. Eine Einigung gibt es nicht, doch die neue Spur zeigt, dass Alaba auf dem europäischen Spitzenmarkt weiterhin eine ernsthafte Option ist.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/david-alaba-juventus-zeigt-interesse-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-08T12:34:00+00:00",
+      "title": "David Alaba: Nächster europäischer Topclub zeigt Interesse | newsmedia.report",
+      "url": "https://www.newsmedia.report/3315808_david-alaba-naechster-europaeischer-topclub-zeigt-interesse"
+    },
+    {
+      "article_id": 3315765,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politics",
+      "description": "Nearly two years after Joe Biden used presidential power to shield his son from federal prosecution, Hunter Biden is revisiting a decision that became one of the most controversial acts of his father’s presidency. In a new BBC Newsnight interview, his account adds an unexpected voice to a debate that never fully disappeared, while also offering a personal glimpse into the former president’s continuing battle with advanced prostate cancer.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hunter-biden-reopens-the-pardon-debate-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-08T11:50:00+00:00",
+      "title": "Hunter Biden Reopens the Pardon Debate | newsmedia.report",
+      "url": "https://www.newsmedia.report/3315765_hunter-biden-reopens-the-pardon-debate"
+    },
+    {
       "article_id": 3315726,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -967,28 +989,6 @@
       "published": "2026-07-28T12:02:00+00:00",
       "title": "Zelenskyy and Netanyahu Seek Trump’s Support | newsmedia.report",
       "url": "https://www.newsmedia.report/3297931_zelenskyy-and-netanyahu-seek-trump-s-support"
-    },
-    {
-      "article_id": 3297873,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Health",
-      "description": "The Ebola outbreak in the Democratic Republic of the Congo has reached 3,262 confirmed cases and 1,437 deaths, bringing the country close to the scale of its worst previous epidemic. Uganda has declared its outbreak over, but transmission in eastern Congo continues to accelerate amid armed conflict, disrupted health services, unpaid medical workers and the absence of an approved vaccine for the Bundibugyo virus. The immediate danger remains concentrated in Central and East Africa, yet the crisis is now a test of whether international intervention can move faster than the epidemic.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ebola-at-the-breaking-point-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-28T10:55:00+00:00",
-      "title": "Congo’s Ebola Crisis Enters Its Deadliest Phase | newsmedia.report",
-      "url": "https://www.newsmedia.report/3297873_congo-s-ebola-crisis-enters-its-deadliest-phase"
-    },
-    {
-      "article_id": 3297849,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Österreich ist kein unsicheres Land. Doch die Sicherheitslage verändert sich schneller, als es klassische Kriminalitätszahlen erkennen lassen. Gewalt, digitale Kriminalität, Extremismus und Angriffe auf kritische Systeme verlangen von Polizei und Behörden eine neue Form staatlicher Handlungsfähigkeit: spezialisierter, vernetzter und zugleich rechtsstaatlich kontrolliert.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-innere-sicherheit-im-stresstest-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-28T10:30:00+00:00",
-      "title": "Österreichs innere Sicherheit im Stresstest | newsmedia.report",
-      "url": "https://www.newsmedia.report/3297849_oesterreichs-innere-sicherheit-im-stresstest"
     }
   ],
   "version": 1
