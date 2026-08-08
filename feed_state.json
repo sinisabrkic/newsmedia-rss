@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3316182,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "A serving Indian Air Force Wing Commander is at the center of an espionage investigation involving sensitive military information, an alleged Pakistani intelligence contact and a suspected attempt to gain access to another officer’s device. The case did not begin this weekend. What has changed is that authorities are now revealing how the officer was detected, how the alleged contact developed and why investigators are examining whether the operation reached beyond a single compromised individual.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/inside-india-s-air-force-the-spy-case-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-08T16:25:00+00:00",
+      "title": "Inside India’s Air Force: The Spy Case | newsmedia.report",
+      "url": "https://www.newsmedia.report/3316182_inside-india-s-air-force-the-spy-case"
+    },
+    {
       "article_id": 3316016,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-07-28T20:55:00+00:00",
       "title": "Frauen wollen Sicherheit, begehren jedoch Unsicherheit / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3298584_frauen-wollen-sicherheit-begehren-jedoch-unsicherheit"
-    },
-    {
-      "article_id": 3298379,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Österreich steht nicht vor der Zahlungsunfähigkeit, aber vor einer schleichenden fiskalischen Krise. Defizite oberhalb der europäischen Grenzwerte, steigende Staatsschulden und wachsende Zinslasten engen den politischen Handlungsspielraum zunehmend ein. Die entscheidende Frage lautet nicht mehr, ob konsolidiert werden muss, sondern ob der Staat noch die Kraft zu einer strukturellen Sanierung besitzt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreich-wenn-der-staat-seinen-spielraum-verliert-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-28T17:07:00+00:00",
-      "title": "Österreich: Wenn der Staat seinen Spielraum verliert | newsmedia.report",
-      "url": "https://www.newsmedia.report/3298379_oesterreich-wenn-der-staat-seinen-spielraum-verliert"
     }
   ],
   "version": 1
