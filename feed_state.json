@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3316441,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Les États-Unis font face à leur plus forte résurgence de rougeole depuis des décennies. Avec 2 465 cas confirmés en 2026 et des dizaines de foyers recensés à travers le pays, la question n’est désormais plus seulement celle d’une succession d’épidémies locales. Elle touche à un acquis de santé publique que Washington pensait durablement établi depuis 2000 : l’élimination de la transmission endémique de la rougeole.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rougeole-aux-tats-unis-le-retour-d-une-maladie-limin-e-newsmedia-redaktion-high-ww3xv3.png",
+      "language": "de-AT",
+      "published": "2026-08-08T21:05:00+00:00",
+      "title": "Rougeole aux États-Unis: le grand retour | newsmedia.report",
+      "url": "https://www.newsmedia.report/3316441_rougeole-aux-etats-unis-le-grand-retour"
+    },
+    {
       "article_id": 3316250,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-07-29T06:07:00+00:00",
       "title": "Iran Fires on U.S. Forces, Shattering a Fragile Pause | newsmedia.report",
       "url": "https://www.newsmedia.report/3298927_iran-fires-on-u-s-forces-shattering-a-fragile-pause"
-    },
-    {
-      "article_id": 3298887,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Ein ukrainischer Drohnenangriff hat im Kaspischen Meer ein iranisches Handelsschiff getroffen. Ein Besatzungsmitglied kam nach iranischen Angaben ums Leben, ein weiteres wurde verletzt. Teheran spricht von einem schweren Verstoß gegen internationales Recht, fordert Entschädigung und hat rechtliche Schritte angekündigt. Die Ukraine erklärt dagegen, das iranische Schiff sei nicht vorsätzlich angegriffen worden.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraine-attackiert-iranisches-handelsschiff-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-29T05:07:00+00:00",
-      "title": "Ukraine attackiert iranisches Handelsschiff | newsmedia.report",
-      "url": "https://www.newsmedia.report/3298887_ukraine-attackiert-iranisches-handelsschiff"
     }
   ],
   "version": 1
