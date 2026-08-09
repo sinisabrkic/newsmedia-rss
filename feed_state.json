@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3317798,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Une situation de tuberculose signalée à Ivry-sur-Seine, aux portes de Paris, a déclenché une procédure de recherche et de dépistage des personnes ayant été en contact avec les malades. Une famille est concernée, mais les autorités n’ont pas rendu public le nombre exact de cas actifs. À ce stade, aucun élément disponible ne permet de parler d’une épidémie à Paris ou d’un risque généralisé pour la population.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tuberculose-ivry-sur-seine-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T20:55:00+00:00",
+      "title": "Tuberculose près de Paris: ce que l’on sait | newsmedia.report",
+      "url": "https://www.newsmedia.report/3317798_tuberculose-pres-de-paris-ce-que-l-on-sait"
+    },
+    {
+      "article_id": 3317769,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Immobilien",
+      "description": "Deutschlands Immobilienmarkt steht vor einem Generationenwechsel, dessen Folgen weit über Erbschaften und einzelne Hausverkäufe hinausreichen könnten. Millionen ältere Eigentümer werden ihre Wohnsituation in den kommenden Jahren verändern, doch daraus eine unmittelbar bevorstehende Verkaufswelle oder gar einen bundesweiten Preissturz abzuleiten, wäre voreilig. Entscheidend wird sein, welche Immobilien tatsächlich auf den Markt kommen, in welchen Regionen sie liegen und in welchem Zustand sie an die nächste Generation übergehen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/babyboomer-und-immobilienpreise-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T20:22:00+00:00",
+      "title": "Immobilien: \"Babyboomer\" verkaufen ihre Häuser | newsmedia.report",
+      "url": "https://www.newsmedia.report/3317769_immobilien-babyboomer-verkaufen-ihre-haeuser"
+    },
+    {
       "article_id": 3317571,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-07-30T07:55:00+00:00",
       "title": "COVID-19-Aufarbeitung: Faucis Schweigen hat Konsequenzen | newsmedia.report",
       "url": "https://www.newsmedia.report/3300597_covid-19-aufarbeitung-faucis-schweigen-hat-konsequenzen"
-    },
-    {
-      "article_id": 3300577,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Economy",
-      "description": "US mortgage rates have climbed to their highest level in roughly a year, deepening the affordability crisis for buyers and prolonging the wait for homeowners who expected to refinance. The Federal Reserve left its benchmark rate unchanged, but a divided vote, persistent inflation and renewed energy-market pressure offered little reason to expect immediate relief. For millions of households, the central question is no longer when rates will fall, but whether their financial plans can withstand the possibility that they remain elevated.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-refinancing-trap-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-30T07:35:00+00:00",
-      "title": "The Refinancing Trap Deepens | newsmedia.report",
-      "url": "https://www.newsmedia.report/3300577_the-refinancing-trap-deepens"
-    },
-    {
-      "article_id": 3300523,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Iran, Israel und die USA führen längst keinen begrenzten Schattenkrieg mehr. Saudi Arabien greift militärisch ein, Jordanien wird zum Ziel iranischer Raketen, der Irak zum Schlachtfeld fremder Interessen und selbst die Ukraine hat mit einem Angriff im Kaspischen Meer eine Verbindung zwischen zwei bislang getrennten Kriegskomplexen hergestellt. Von einem Weltkrieg zu sprechen wäre noch unpräzise, doch die Architektur einer globalen Eskalation ist inzwischen deutlich erkennbar.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/weltkrieg-in-vorbereitung-high.png",
-      "language": "de-AT",
-      "published": "2026-07-30T06:50:00+00:00",
-      "title": "Noch kein Weltkrieg. Doch die Schwelle rückt näher | newsmedia.report",
-      "url": "https://www.newsmedia.report/3300523_noch-kein-weltkrieg-doch-die-schwelle-rueckt-naeher"
     }
   ],
   "version": 1
