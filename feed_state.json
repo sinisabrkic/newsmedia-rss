@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3317571,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Manchmal dauert eine große Liebe Jahre. Manchmal nur einige Monate. Und manchmal besteht das, was uns Jahrzehnte später noch beschäftigt, lediglich aus einem Abend, einigen Blicken und wenigen Sätzen. Trotzdem kann ein Mensch plötzlich wieder im Kopf auftauchen und eine fast körperlich schmerzhafte Frage auslösen: Was wäre gewesen, wenn ich mich damals anders entschieden hätte? Frauen und Männer berichten davon, dass sie erst viele Jahre später erkennen, welchen Menschen sie möglicherweise verloren haben. Psychologisch ist diese Erfahrung hochinteressant, weil wir dabei nicht nur um eine Person trauern. Wir trauern um eine mögliche Version unseres eigenen Lebens.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/zu-sp-t-erkannt-es-war-der-mensch-f-rs-leben-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T18:55:00+00:00",
+      "title": "Zu spät erkannt: Es war der Mensch fürs Leben / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3317571_zu-spaet-erkannt-es-war-der-mensch-fuers-leben"
+    },
+    {
+      "article_id": 3317422,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Health",
+      "description": "A multistate Salmonella outbreak linked to recalled jalapeños is expanding beyond fresh produce and into processed foods. The U.S. Department of Agriculture has issued a public health alert covering certain meat and poultry products made with jalapeños tied to the contamination, adding a new layer of complexity for consumers trying to determine what remains safe to eat. Federal health officials have reported 345 illnesses across 27 states and 36 hospitalizations, with no deaths reported so far. The investigation remains active as authorities work to trace the full distribution network and identify additional products that may have used the affected peppers.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/salmonella-jalape-o-recall-special-report-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T17:52:00+00:00",
+      "title": "Salmonella Alert Expands to Meat and Poultry | newsmedia.report",
+      "url": "https://www.newsmedia.report/3317422_salmonella-alert-expands-to-meat-and-poultry"
+    },
+    {
       "article_id": 3317216,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -967,28 +989,6 @@
       "published": "2026-07-30T06:50:00+00:00",
       "title": "Noch kein Weltkrieg. Doch die Schwelle rückt näher | newsmedia.report",
       "url": "https://www.newsmedia.report/3300523_noch-kein-weltkrieg-doch-die-schwelle-rueckt-naeher"
-    },
-    {
-      "article_id": 3300408,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "The United States has launched fresh strikes against Iran after Tehran fired ballistic missiles at American forces in Jordan. At the same time, fires aboard two gas vessels at Egypt’s Damietta port have opened a potentially dangerous new front, although responsibility for the incident remains unconfirmed. With Saudi forces now striking groups aligned with Iran in Iraq, the conflict is no longer contained by its original geographic or political boundaries.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-war-spreads-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-30T03:02:00+00:00",
-      "title": "Iran War Spreads: U.S. Retaliates, Egypt Port Hit | newsmedia.report",
-      "url": "https://www.newsmedia.report/3300408_iran-war-spreads-u-s-retaliates-egypt-port-hit"
-    },
-    {
-      "article_id": 3299976,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Viele Frauen möchten einem interessanten Mann zeigen, dass eine Annäherung willkommen wäre, ohne selbst den ersten Satz sprechen zu müssen. Ein Blick, ein Lächeln oder eine offene Körperhaltung kann bereits eine Einladung sein. Die Schwierigkeit besteht jedoch darin, dass Männer solche Signale häufig nicht sicher einordnen. Was für eine Frau längst eindeutig erscheint, kann ein Mann für Höflichkeit, Zufall oder reine Freundlichkeit halten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wie-man-als-frau-einen-mann-ohne-worte-anspricht-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-29T20:02:00+00:00",
-      "title": "Wie man als Frau einen Mann anspricht, ohne ein Wort zu sagen und er es trotzdem versteht / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3299976_wie-man-als-frau-einen-mann-anspricht-ohne-ein-wort-zu-sagen-und-er-es-trotzdem-versteht"
     }
   ],
   "version": 1
