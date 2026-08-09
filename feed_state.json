@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3316695,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Sie erlässt keine Gesetze, führt keine Regierung und bestimmt nicht unmittelbar über die Zinssätze einzelner Staaten. Trotzdem gehört die Bank für Internationalen Zahlungsausgleich in Basel zu jenen Institutionen, deren Arbeit tief in das globale Finanzsystem hineinreicht. Seit 1930 bringt sie Zentralbanken zusammen, verwaltet Reserven, liefert Daten, begleitet internationale Standards und arbeitet heute an jener Infrastruktur, auf der das Geld der digitalen Zukunft zirkulieren könnte. Wer verstehen will, wie finanzielle Macht jenseits von Parlamenten, Regierungen und gewöhnlichen Geschäftsbanken organisiert wird, kommt an der BIS nicht vorbei.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-macht-von-basel-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T07:11:00+00:00",
+      "title": "Die Macht von Basel: BIS Bank für Internationalen Zahlungsausgleich | newsmedia.report",
+      "url": "https://www.newsmedia.report/3316695_die-macht-von-basel-bis-bank-fuer-internationalen-zahlungsausgleich"
+    },
+    {
+      "article_id": 3316654,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Die Krise des europäischen Fahrradkonzerns Accell erreicht unmittelbar den deutschen Markt. Mehrere deutsche Gesellschaften rund um bekannte Marken wie Haibike, Ghost und Winora haben Insolvenzverfahren in Eigenverwaltung beantragt. Für Kunden, Händler und Beschäftigte beginnt damit eine Phase erheblicher Unsicherheit, doch die Verfahren bedeuten keineswegs automatisch das Ende der Marken.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/accell-insolvenz-deutschland-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T06:40:00+00:00",
+      "title": "Accell-Insolvenz erreicht Deutschland | newsmedia.report",
+      "url": "https://www.newsmedia.report/3316654_accell-insolvenz-erreicht-deutschland"
+    },
+    {
       "article_id": 3316441,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-07-29T08:40:00+00:00",
       "title": "À l’ONU, Washington quitte la salle face à Paris | newsmedia.report",
       "url": "https://www.newsmedia.report/3299103_a-l-onu-washington-quitte-la-salle-face-a-paris"
-    },
-    {
-      "article_id": 3298957,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Österreich und Deutschland führen keine eigenen Angriffe gegen Iran. Damit ist die entscheidende Frage jedoch nicht beantwortet. Deutsche Rüstungsexporte, die mögliche Nutzung amerikanischer Militärinfrastruktur in Deutschland, vorbereitete Marineeinsätze und genehmigte Überflüge durch den österreichischen Luftraum zeigen, wie schnell aus formaler Nichtbeteiligung eine politisch und rechtlich relevante Mitwirkung werden kann.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-und-deutschlands-rolle-im-krieg-gegen-iran-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-29T06:38:00+00:00",
-      "title": "Österreichs und Deutschlands Rolle im Krieg gegen Iran | newsmedia.report",
-      "url": "https://www.newsmedia.report/3298957_oesterreichs-und-deutschlands-rolle-im-krieg-gegen-iran"
-    },
-    {
-      "article_id": 3298927,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Iran has launched ballistic missiles toward American forces in the Middle East, abruptly ending a brief lull in direct hostilities. U.S. Central Command says every missile was intercepted, while Iran’s Revolutionary Guards say the targets were American military installations in Jordan. The immediate damage may have been contained, but the attack has reopened the most dangerous question in the region: whether Washington and Tehran can still limit a confrontation that is already spilling across borders, energy routes and military alliances.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-fires-on-u-s-forces-shattering-a-fragile-pause-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-29T06:07:00+00:00",
-      "title": "Iran Fires on U.S. Forces, Shattering a Fragile Pause | newsmedia.report",
-      "url": "https://www.newsmedia.report/3298927_iran-fires-on-u-s-forces-shattering-a-fragile-pause"
     }
   ],
   "version": 1
