@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3317010,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Eine mit professionellem Sprengstoff versehene Drohne am Flughafen Leipzig/Halle, kurz darauf unbekannte Drohnen über einem Bundeswehrstandort in Nordrhein-Westfalen: Innerhalb weniger Tage geraten zwei strategisch sensible Orte in den Mittelpunkt deutscher Sicherheitsbehörden. Ein Zusammenhang zwischen den Vorfällen ist bislang nicht belegt, ebenso wenig eine staatliche Urheberschaft. Dennoch zeigt die Entwicklung, wie schwierig Deutschland auf Bedrohungen vorbereitet ist, die sich zwischen Spionage, Sabotage und offenem Angriff bewegen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drohnenbedrohung-in-deutschland-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T12:07:00+00:00",
+      "title": "Drohnenalarm über Deutschland | newsmedia.report",
+      "url": "https://www.newsmedia.report/3317010_drohnenalarm-ueber-deutschland"
+    },
+    {
       "article_id": 3316882,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-07-29T17:22:00+00:00",
       "title": "Fauci Invokes the Fifth as Pandemic Reckoning Turns Legal | newsmedia.report",
       "url": "https://www.newsmedia.report/3299856_fauci-invokes-the-fifth-as-pandemic-reckoning-turns-legal"
-    },
-    {
-      "article_id": 3299468,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Das Bundeskabinett hat den grundlegenden Umbau des Erneuerbare Energien Gesetzes gebilligt. Für neue Photovoltaikanlagen soll die über Jahrzehnte prägende feste Einspeisevergütung schrittweise einem stärker marktbasierten System weichen. Bestehende Anlagen behalten ihre zugesagten Zahlungen, doch für neue Investitionen werden Eigenverbrauch, Batteriespeicher, Direktvermarktung und digitale Steuerung erheblich wichtiger.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschlands-solarf-rderung-vor-wechsel-newmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-29T13:15:00+00:00",
-      "title": "Deutschlands Solarförderung vor dem Systemwechsel | newsmedia.report",
-      "url": "https://www.newsmedia.report/3299468_deutschlands-solarfoerderung-vor-dem-systemwechsel"
     }
   ],
   "version": 1
