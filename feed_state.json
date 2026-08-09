@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3316882,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Война все заметнее влияет не только на военную инфраструктуру и приграничные территории России, но и на системы, напрямую связанные с повседневной жизнью миллионов людей. Серия атак на объекты Wildberries показывает, насколько уязвимой может оказаться крупная логистическая сеть, если вооруженный конфликт начинает затрагивать гражданскую экономику. Для покупателей это прежде всего вопрос доставки и доступности товаров, для бизнеса вопрос устойчивости всей цепочки поставок.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wildberries-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T10:04:00+00:00",
+      "title": "Wildberries: российский онлайн-ритейл ощущает последствия войны | newsmedia.report",
+      "url": "https://www.newsmedia.report/3316882_wildberries-rossiyskiy-onlayn-riteyl-oshchushchaet-posledstviya-voyny"
+    },
+    {
       "article_id": 3316855,
       "author": "Sinisa Brkic (sb)",
       "category": "Economy",
@@ -978,17 +989,6 @@
       "published": "2026-07-29T13:15:00+00:00",
       "title": "Deutschlands Solarförderung vor dem Systemwechsel | newsmedia.report",
       "url": "https://www.newsmedia.report/3299468_deutschlands-solarfoerderung-vor-dem-systemwechsel"
-    },
-    {
-      "article_id": 3299302,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Die Vatikanbank hat 2025 einen Nettogewinn von 51 Millionen Euro erzielt und damit das beste Ergebnis seit zehn Jahren vorgelegt. Der jüngste Nachhaltigkeitsbericht des Instituts zeigt nun, wie der geschaffene wirtschaftliche Wert verteilt wurde. Besonders stark profitierte der Heilige Stuhl, während das Ergebnis vor allem durch Wertpapiergeschäfte und ein günstiges Marktumfeld getragen wurde.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/vatikanbank-steigert-gewinn-high.png",
-      "language": "de-AT",
-      "published": "2026-07-29T11:00:00+00:00",
-      "title": "Vatikanbank: Gewinn steigt um 55,5 Prozent | newsmedia.report",
-      "url": "https://www.newsmedia.report/3299302_vatikanbank-gewinn-steigt-um-55-5-prozent"
     }
   ],
   "version": 1
