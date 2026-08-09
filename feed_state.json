@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3317844,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Neue amerikanische Geheimdiensteinschätzungen stellen ein Szenario in den Raum, das Europas Sicherheitsdebatte erheblich verschärft: Russland könnte versuchen, die Geschlossenheit der NATO mit einer begrenzten Aktion zu testen, möglicherweise früher als bislang öffentlich diskutiert. Gemeint ist nicht zwingend eine groß angelegte Invasion, sondern eine Eskalation unterhalb oder unmittelbar an der Schwelle zum offenen Bündnisfall. Entscheidend ist deshalb die Unterscheidung zwischen konkreter Angriffsplanung, nachrichtendienstlicher Risikoanalyse und einer wachsenden Zahl realer hybrider Sicherheitsvorfälle in Europa",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putin-und-die-nato-was-steckt-hinter-der-neuen-warnung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T21:32:00+00:00",
+      "title": "Putin und die NATO: Was steckt hinter der neuen Warnung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3317844_putin-und-die-nato-was-steckt-hinter-der-neuen-warnung"
+    },
+    {
       "article_id": 3317798,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-07-30T11:05:00+00:00",
       "title": "Einschlag in Polen: Was für die NATO auf dem Spiel steht | newsmedia.report",
       "url": "https://www.newsmedia.report/3300792_einschlag-in-polen-was-fuer-die-nato-auf-dem-spiel-steht"
-    },
-    {
-      "article_id": 3300597,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Mehr als 100 Mal verweigerte Anthony Fauci vor einem Ausschuss des US-Senats die Antwort, eine veröffentlichte Auszählung kommt auf 111 Berufungen auf den Fünften Verfassungszusatz. Ausschussvorsitzender Rand Paul kündigte daraufhin eine Abstimmung über die Missachtung des Kongresses an. Hinter der spektakulären Anhörung steht ein schwieriger Rechtsstreit über die Reichweite von Joe Bidens Begnadigung, Faucis mögliche Selbstbelastung und die Grenzen parlamentarischer Aufklärung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/covid19-pandemie-fauci-schweigt-vor-dem-senat-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-30T07:55:00+00:00",
-      "title": "COVID-19-Aufarbeitung: Faucis Schweigen hat Konsequenzen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3300597_covid-19-aufarbeitung-faucis-schweigen-hat-konsequenzen"
     }
   ],
   "version": 1
