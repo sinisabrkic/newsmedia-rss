@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3317216,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Neue Berichte über US Geheimdiensteinschätzungen haben die Debatte über einen möglichen russischen Angriff auf ein NATO Land erneut verschärft. In großen russischen Medien wird dieses Szenario zwar aufgegriffen, zugleich aber entschieden zurückgewiesen und in eine gegenteilige Erzählung eingebettet: Nicht Russland bereite einen Angriff auf die NATO vor, sondern der Westen bewege sich auf eine direkte militärische Konfrontation mit Russland zu. Die Unterschiede zwischen staatsnahen Medien und unabhängigen russischsprachigen Redaktionen sind dabei erheblich.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/moskau-dreht-die-bedrohungsachse-um-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-09T15:17:00+00:00",
+      "title": "Putin beschuldigt den Westen: NATO bereitet Krieg gegen Russland vor | newsmedia.report",
+      "url": "https://www.newsmedia.report/3317216_putin-beschuldigt-den-westen-nato-bereitet-krieg-gegen-russland-vor"
+    },
+    {
       "article_id": 3317010,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-07-29T20:02:00+00:00",
       "title": "Wie man als Frau einen Mann anspricht, ohne ein Wort zu sagen und er es trotzdem versteht / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3299976_wie-man-als-frau-einen-mann-anspricht-ohne-ein-wort-zu-sagen-und-er-es-trotzdem-versteht"
-    },
-    {
-      "article_id": 3299856,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Anthony Fauci declined to answer 15 questions before a US Senate committee, repeatedly invoking his constitutional right against self-incrimination. The hearing was meant to clarify questions about federal research funding, the possible origins of SARS-CoV-2, and Fauci’s previous testimony. Instead, it opened a legal and political confrontation whose impact already exceeds the hearing’s limited factual findings.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fauci-senate-hearing-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-29T17:22:00+00:00",
-      "title": "Fauci Invokes the Fifth as Pandemic Reckoning Turns Legal | newsmedia.report",
-      "url": "https://www.newsmedia.report/3299856_fauci-invokes-the-fifth-as-pandemic-reckoning-turns-legal"
     }
   ],
   "version": 1
