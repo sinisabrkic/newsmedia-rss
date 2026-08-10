@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "article_id": 3318306,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Deutschland plant eine umfassende Reform der Einkommensteuer. Millionen Beschäftigte sollen entlastet werden, doch ausgerechnet die kalte Progression könnte einen Teil dieser Entlastung wieder aufzehren. Dahinter steckt ein Mechanismus, der besonders tückisch ist: Das Einkommen steigt auf dem Papier, die Kaufkraft kaum, die Steuerbelastung aber trotzdem.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mehr-lohn-mehr-steuer-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-10T08:45:00+00:00",
+      "title": "Deutschland: Steuerreform und mehr Steuern | newsmedia.report",
+      "url": "https://www.newsmedia.report/3318306_deutschland-steuerreform-und-mehr-steuern"
+    },
+    {
+      "article_id": 3318247,
+      "author": "Sinisa Brkic",
+      "category": "Technology & AI",
+      "description": "South Korea is pushing its semiconductor strategy into a new phase. President Lee Jae Myung wants a military air base in Gwangju relocated by mid 2028 to create space for a new semiconductor hub, while Samsung Electronics and SK Hynix continue to expand investments tied to advanced chips, memory and artificial intelligence.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-chip-race-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-10T07:45:00+00:00",
+      "title": "South Korea Raises the Stakes in the Global Chip Race | newsmedia.report",
+      "url": "https://www.newsmedia.report/3318247_south-korea-raises-the-stakes-in-the-global-chip-race"
+    },
+    {
+      "article_id": 3318127,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Il cosiddetto “batterio mangiacarne” sta attirando crescente attenzione in Italia, soprattutto dopo le notizie che parlano della presenza di Vibrio vulnificus nello Stretto di Messina. Il batterio può provocare infezioni gravi e, in alcuni casi, mortali. Ma la presunta scoperta italiana non è nuova: gli studi citati risalgono a oltre vent’anni fa e non dimostrano l’esistenza di un’emergenza sanitaria in corso.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/batterio-mangiacarne-in-italia-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-10T06:01:00+00:00",
+      "title": "“Batterio mangiacarne” in Italia: cosa sappiamo davvero | newsmedia.report",
+      "url": "https://www.newsmedia.report/3318127_batterio-mangiacarne-in-italia-cosa-sappiamo-davvero"
+    },
+    {
+      "article_id": 3318106,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Wolodymyr Selenskyjs erster offizieller Besuch in Serbien setzt ein bemerkenswertes Signal. Aleksandar Vučić vertieft die Beziehungen zur Ukraine, spricht über Freihandel und bekräftigt die territoriale Integrität des Landes. Ein Bruch mit Russland ist das noch nicht. Doch Belgrads jahrzehntelang gepflegte Balance beginnt sich sichtbar zu verschieben.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/serbien-auf-abstand-zu-moskau-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-10T05:36:00+00:00",
+      "title": "Vucic: Serbien auf Abstand zu Moskau? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3318106_vucic-serbien-auf-abstand-zu-moskau"
+    },
+    {
       "article_id": 3317844,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -945,50 +989,6 @@
       "published": "2026-07-30T16:30:00+00:00",
       "title": "Epstein Files: Die nächste Enthüllung | newsmedia.report",
       "url": "https://www.newsmedia.report/3301195_epstein-files-die-naechste-enthuellung"
-    },
-    {
-      "article_id": 3301150,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energie",
-      "description": "Das amerikanische Energieministerium hat für das Gebiet des Southwest Power Pool zusätzliche Kraftwerkskapazitäten und Notstromreserven freigegeben. Die Anordnung ist kein Befehl zu Stromabschaltungen, sondern eine Schutzmaßnahme, bevor kontrollierte Lastabwürfe erforderlich werden. Dennoch zeigt die Lage, wie schnell extreme Hitze, Kraftwerksausfälle, schwache Windproduktion und begrenzte Stromimporte die Sicherheitsreserven eines regionalen Netzes aufzehren können.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-alarm-im-us-stromnetz-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-30T15:55:00+00:00",
-      "title": "Blackout-Alarm im US-Stromnetz | newsmedia.report",
-      "url": "https://www.newsmedia.report/3301150_blackout-alarm-im-us-stromnetz"
-    },
-    {
-      "article_id": 3301060,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Inflation und Shrinkflation tragen zum neuen Konsumverhalten sicherlich bei, doch das Konsumverhalten kehrt nicht zur alten Normalität zurück. Europas Haushalte vergleichen genauer, sparen bewusster und verschieben Anschaffungen häufiger. Für Handel und Marken entsteht ein Markt, in dem Vertrauen, Preiswürdigkeit und klarer Nutzen entscheidend werden.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-kontrollierte-konsum-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-30T14:26:00+00:00",
-      "title": "Konsum: Europas Haushalte ordnen ihre Ausgaben neu | newsmedia.report",
-      "url": "https://www.newsmedia.report/3301060_konsum-europas-haushalte-ordnen-ihre-ausgaben-neu"
-    },
-    {
-      "article_id": 3301021,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Die Europäische Union erlaubt Onlineplattformen erneut, private Kommunikation automatisiert auf Hinweise auf sexuellen Kindesmissbrauch zu untersuchen. Die Regelung soll eine rechtliche Lücke schließen, verlängert jedoch zugleich einen Ausnahmezustand, der seit Jahren keine dauerhafte politische Lösung gefunden hat. Verschlüsselte Kommunikation bleibt vorerst ausgenommen, doch der grundsätzliche Konflikt zwischen wirksamem Kinderschutz, privater Kommunikation und staatlicher Verantwortung ist damit keineswegs entschieden.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kinderschutz-und-private-kommunikation-in-europa-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-30T13:51:00+00:00",
-      "title": "Kinderschutz mit Zugriff auf private Kommunikation | newsmedia.report",
-      "url": "https://www.newsmedia.report/3301021_kinderschutz-mit-zugriff-auf-private-kommunikation"
-    },
-    {
-      "article_id": 3300792,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europa",
-      "description": "Während einer massiven russischen Angriffswelle gegen die Ukraine ist in Ostpolen ein bislang nicht identifiziertes Flugobjekt niedergegangen. Behörden fanden nahe Tarnawa Kolonia einen etwa zehn Meter breiten Krater und verstreute Trümmer, nachdem militärische Systeme ein Objekt im polnischen Luftraum erfasst hatten. Noch ist weder bewiesen, dass es sich um eine russische Rakete handelte, noch dass Polen gezielt angegriffen wurde. Der Vorfall trifft dennoch einen der sensibelsten Punkte der europäischen Sicherheitsordnung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/einschlag-in-polen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-30T11:05:00+00:00",
-      "title": "Einschlag in Polen: Was für die NATO auf dem Spiel steht | newsmedia.report",
-      "url": "https://www.newsmedia.report/3300792_einschlag-in-polen-was-fuer-die-nato-auf-dem-spiel-steht"
     }
   ],
   "version": 1
