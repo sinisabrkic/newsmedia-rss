@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3318964,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "Revolut has secured a full banking licence in France, giving one of Europe’s largest digital banking groups a second major banking hub inside the European Union. The immediate move concerns France, but Germany, Ireland, Italy, Portugal and Spain are set to follow. For millions of customers, the decisive questions now concern account migration, deposit protection and the services Revolut will eventually be able to offer through its new French bank.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/revolut-french-banking-licence-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-10T17:40:00+00:00",
+      "title": "Revolut Gets French Banking Licence | newsmedia.report",
+      "url": "https://www.newsmedia.report/3318964_revolut-gets-french-banking-licence"
+    },
+    {
+      "article_id": 3318920,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Medien",
+      "description": "Der Rundfunkbeitrag sorgt in Deutschland erneut für erhebliches Suchinteresse. Innerhalb weniger Stunden hat sich das Suchvolumen im NEWSMEDIA Trend-Radar auf mehr als 20.000 Suchanfragen verdoppelt. Eine neue Beitragserhöhung ist damit jedoch nicht verbunden: Aktuell gelten weiterhin 18,36 Euro pro Monat und Wohnung. Die häufig genannten 18,64 Euro sind eine Empfehlung der KEF für 2027 und 2028, während das Bundesverfassungsgericht über den grundlegenden Finanzierungsstreit noch nicht entschieden hat.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rundfunkbeitrag-2027-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-10T17:10:00+00:00",
+      "title": "Deutschland: Rundfunkbeitrag 2027 | newsmedia.report",
+      "url": "https://www.newsmedia.report/3318920_deutschland-rundfunkbeitrag-2027"
+    },
+    {
       "article_id": 3318506,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-07-31T09:30:00+00:00",
       "title": "Der Gaza-Plan: Entwaffnung gegen Rückzug | newsmedia.report",
       "url": "https://www.newsmedia.report/3301972_der-gaza-plan-entwaffnung-gegen-rueckzug"
-    },
-    {
-      "article_id": 3301835,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Opposition to Donald Trump has developed into one of the broadest protest networks in contemporary American politics. It reaches from national civil rights organizations and labor unions to suburban groups, student organizers and activists in deeply conservative states. Its scale is evident, but its political power remains unproven.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/america-s-anti-trump-network-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-31T07:59:00+00:00",
-      "title": "America’s Anti-Trump Network | newsmedia.report",
-      "url": "https://www.newsmedia.report/3301835_america-s-anti-trump-network"
-    },
-    {
-      "article_id": 3301761,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Haftungsfrei in den Schaden: Wie KI-Falschaussagen Unternehmertum und Vertrauen bedrohen. Unternehmen lassen Sprachmodelle Kunden beraten, Inhalte verfassen, Personen bewerten und geschäftliche Auskünfte erteilen. Zugleich erklären die Anbieter dieser Systeme, dass ihre Antworten falsch sein können und vor der Verwendung geprüft werden müssen. Der wirtschaftliche Schaden trifft dennoch häufig jene, über die eine KI falsche Behauptungen verbreitet, während sich Verantwortung zwischen Modellanbieter, Anwender und Maschine auflöst. Diese Konstruktion gefährdet nicht nur einzelne Unternehmen, sondern die Verlässlichkeit des digitalen Wirtschaftsraums.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ki-haftung-und-unternehmerrisiko-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-31T06:40:00+00:00",
-      "title": "Wenn KI-Falschaussagen Unternehmertum bedrohen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3301761_wenn-ki-falschaussagen-unternehmertum-bedrohen"
     }
   ],
   "version": 1
