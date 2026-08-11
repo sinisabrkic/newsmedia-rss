@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3319607,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Sony and Taiwan Semiconductor Manufacturing Company are reportedly preparing a roughly $6.3 billion joint investment in next generation image sensor chips in Japan. The project would deepen a partnership already outlined earlier this year and could give Kumamoto an even more important role in the global semiconductor industry, particularly as demand expands across automotive systems, robotics and physical artificial intelligence.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sony-tsmc-kumamoto-chip-venture-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-11T08:10:00+00:00",
+      "title": "Sony and TSMC Reportedly Plan $6.3 Billion Kumamoto Chip Venture | newsmedia.report",
+      "url": "https://www.newsmedia.report/3319607_sony-and-tsmc-reportedly-plan-6-3-billion-kumamoto-chip-venture"
+    },
+    {
+      "article_id": 3319591,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Die NÖM AG ruft in Österreich eine bestimmte Charge ihres Vanillejoghurts zurück. Betroffen ist NÖM Mix Vanille im 180 Gramm Becher mit dem Mindesthaltbarkeitsdatum 30.08.2026. Grund sind mögliche Spuren von Pistazie, die auf der Verpackung nicht als Allergen ausgewiesen sind. Menschen mit Pistazienallergie sollen das betroffene Produkt keinesfalls konsumieren.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/n-m-vanillejoghurt-r-ckruf-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-11T07:45:00+00:00",
+      "title": "NÖM ruft Vanillejoghurt zurück: Dieses Produkt ist betroffen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3319591_noem-ruft-vanillejoghurt-zurueck-dieses-produkt-ist-betroffen"
+    },
+    {
       "article_id": 3318964,
       "author": "Sinisa Brkic (sb)",
       "category": "Finance",
@@ -967,28 +989,6 @@
       "published": "2026-07-31T18:50:00+00:00",
       "title": "Ceuta: Marokkos gefährlicher Hebel gegen die EU | newsmedia.report",
       "url": "https://www.newsmedia.report/3302609_ceuta-marokkos-gefaehrlicher-hebel-gegen-die-eu"
-    },
-    {
-      "article_id": 3302510,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Der Angriff auf eine Mädchenschule im südiranischen Minab gehört zu den schwersten Vorfällen mit zivilen Opfern im Krieg zwischen den Vereinigten Staaten und Iran. Vorläufige amerikanische Ermittlungen deuten darauf hin, dass eine von den USA eingesetzte Rakete das Schulgelände traf und veraltete Zieldaten dabei eine entscheidende Rolle gespielt haben könnten. Monate später hält das Pentagon seinen Untersuchungsbericht weiterhin zurück, während frühere Einschnitte bei den Schutzmechanismen für Zivilisten die Frage nach der politischen Verantwortung von Verteidigungsminister Pete Hegseth verschärfen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/m-dchenschule-von-minab-hegseths-pentagon-unter-erkl-rungsdruck-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-31T16:30:00+00:00",
-      "title": "Mädchenschule in Minab: Pentagon unter Erklärungsdruck | newsmedia.report",
-      "url": "https://www.newsmedia.report/3302510_maedchenschule-in-minab-pentagon-unter-erklaerungsdruck"
-    },
-    {
-      "article_id": 3301972,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Donald Trump präsentiert die geplante Entwaffnung der Hamas als historischen Schritt auf dem Weg zu einem dauerhaften Frieden. Tatsächlich liegt erstmals ein umfassender Rahmen vor, der Waffenabgabe, israelischen Rückzug, internationale Sicherheitskräfte und eine neue palästinensische Verwaltung miteinander verbinden soll. Doch der entscheidende Konflikt ist nicht gelöst: Israel verlangt die Entwaffnung vor dem Rückzug, die Hamas macht ihre Waffenabgabe von israelischen Vorleistungen abhängig.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-machtkampf-hinter-dem-gaza-plan-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-07-31T09:30:00+00:00",
-      "title": "Der Gaza-Plan: Entwaffnung gegen Rückzug | newsmedia.report",
-      "url": "https://www.newsmedia.report/3301972_der-gaza-plan-entwaffnung-gegen-rueckzug"
     }
   ],
   "version": 1
