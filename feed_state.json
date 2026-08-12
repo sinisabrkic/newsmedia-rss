@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3321419,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "What began as a scheduled deployment has become an increasingly demanding test of American naval endurance. The USS Abraham Lincoln has been away from San Diego since November 2025, with roughly 5,000 sailors and Marines facing an extended mission, limited time in port and no publicly announced homecoming date. As the confrontation with Iran continues, questions about operational necessity are now converging with concerns about crew fatigue, living conditions and how long the Navy can sustain its current tempo.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/uss-abraham-lincoln-deployment-report-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-12T13:30:00+00:00",
+      "title": "USS Abraham Lincoln Under Pressure | newsmedia.report",
+      "url": "https://www.newsmedia.report/3321419_uss-abraham-lincoln-under-pressure"
+    },
+    {
       "article_id": 3321175,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-03T06:30:00+00:00",
       "title": "Todd Blanche Rescinds Trump’s $1.8 Billion Fund | newsmedia.report",
       "url": "https://www.newsmedia.report/3305275_todd-blanche-rescinds-trump-s-1-8-billion-fund"
-    },
-    {
-      "article_id": 3305082,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Vladimir Putin launched the invasion of Ukraine expecting to overwhelm the country politically and militarily within a short period of time. More than four years later, Ukrainian drones are reaching the Moscow region in large numbers, striking logistical and economic targets and forcing Russia to devote growing resources to the defense of its own capital. The war the Kremlin intended to wage on Ukrainian territory, insulated from everyday life in Russia’s political center, has returned to the heart of Putin’s system of power.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putin-s-strategic-miscalculation-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-03T00:14:00+00:00",
-      "title": "Putin’s Strategic Miscalculation: The War Has Reached Moscow | newsmedia.report",
-      "url": "https://www.newsmedia.report/3305082_putin-s-strategic-miscalculation-the-war-has-reached-moscow"
     }
   ],
   "version": 1
