@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3321784,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Sie provoziert eine Reaktion, zieht sich plötzlich zurück, erwähnt beiläufig einen anderen Mann oder stellt eine Frage, deren eigentliche Antwort sie längst kennt. Im Internet werden solche Situationen häufig als „Shit Tests“ bezeichnet. Psychologisch ist der Begriff ungenau, denn dahinter können sehr unterschiedliche Mechanismen stehen: Bindungsunsicherheit, das Bedürfnis nach Bestätigung, Verlustangst, Eifersucht oder schlicht die Frage, ob der Partner nach Jahren noch genauso entschieden hinter der Beziehung steht wie am Anfang. Entscheidend ist dabei nicht nur, warum manche Frauen solche Prüfungen einsetzen, sondern was diese Tests langfristig mit einer Beziehung machen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/shit-tests-in-beziehungen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-12T19:35:00+00:00",
+      "title": "„Shit Tests“: Warum Frauen ihren Partner immer wieder prüfen / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3321784_shit-tests-warum-frauen-ihren-partner-immer-wieder-pruefen"
+    },
+    {
+      "article_id": 3321739,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Im Fall Jeffrey Epstein verschiebt sich der Schwerpunkt erneut von Spekulationen auf konkrete juristische Auseinandersetzungen. Ein Bundesgericht in New York hat die Freigabe weiterer bislang geschützter Unterlagen ermöglicht, während New Mexico das US Justizministerium auf Herausgabe ungeschwärzter Ermittlungsakten verklagt. Parallel wächst der politische Druck auf die neue Führung des Justizministeriums.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/akten-im-fall-epstein-unter-neuem-druck-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-12T19:00:00+00:00",
+      "title": "Fall Jeffrey Epstein: Gericht öffnet weitere Unterlagen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3321739_fall-jeffrey-epstein-gericht-oeffnet-weitere-unterlagen"
+    },
+    {
       "article_id": 3321706,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-03T14:40:00+00:00",
       "title": "Dubai verliert Tempo, nicht den Boden | newsmedia.report",
       "url": "https://www.newsmedia.report/3305909_dubai-verliert-tempo-nicht-den-boden"
-    },
-    {
-      "article_id": 3305588,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Turkey’s inflation rate declined again in July, but the figures offer little relief for households facing persistently high food, housing, and service costs. Consumer prices rose another 1.78 percent within a single month, while the new inflation reading raised the maximum rent adjustment benchmark for qualifying August lease renewals to 31.90 percent. The decline in the annual rate therefore marks slower inflation, not lower prices.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/turkey-s-inflation-falls-to-31-75-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-03T10:55:00+00:00",
-      "title": "Turkey’s Inflation Falls to 31.75% | newsmedia.report",
-      "url": "https://www.newsmedia.report/3305588_turkey-s-inflation-falls-to-31-75"
-    },
-    {
-      "article_id": 3305364,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Business",
-      "description": "Washington and Tokyo have taken the exceptional step of intervening together to strengthen the Japanese yen after the currency approached its weakest level in four decades. The operation has moved far beyond a bilateral exchange-rate dispute. It now touches Japanese inflation, US government debt, global carry trades and the credibility of monetary policy in both countries.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/yen-shock-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-03T08:01:00+00:00",
-      "title": "Yen Shock: US and Japan Launch Joint Intervention | newsmedia.report",
-      "url": "https://www.newsmedia.report/3305364_yen-shock-us-and-japan-launch-joint-intervention"
     }
   ],
   "version": 1
