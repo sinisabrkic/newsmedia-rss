@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3321175,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Österreichs Außenministerin Beate Meinl-Reisinger hat am 11. August 2026 in Washington ihren amerikanischen Amtskollegen Marco Rubio getroffen. Das Gespräch reichte weit über bilaterale Beziehungen hinaus: Ukraine, Iran, europäische Sicherheit, der Westbalkan und Österreichs bevorstehende Mitgliedschaft im Sicherheitsrat der Vereinten Nationen standen im Zentrum. Für Wien ist der Termin Teil einer außenpolitischen Strategie, die Österreich stärker als Gesprächspartner und diplomatischen Standort positionieren soll.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meinl-reisinger_marco-rubio-washington-high.png",
+      "language": "de-AT",
+      "published": "2026-08-12T10:21:00+00:00",
+      "title": "Rubio trifft Meinl-Reisinger: Hintergrund des Treffens in Washington | newsmedia.report",
+      "url": "https://www.newsmedia.report/3321175_rubio-trifft-meinl-reisinger-hintergrund-des-treffens-in-washington"
+    },
+    {
+      "article_id": 3321143,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Ein Drohnenangriff hat einen Getreideterminal im russischen Schwarzmeerhafen Novorossiysk außer Betrieb gesetzt. Was zunächst wie ein weiterer Schlag gegen russische Infrastruktur wirkt, berührt weit größere Zusammenhänge: Getreideexporte, kasachisches Öl, westliche Energiekonzerne und Europas künftige Gasversorgung konzentrieren sich in derselben strategisch hochsensiblen Region. Noch ist keine globale Versorgungskrise eingetreten. Doch die Verwundbarkeit der Schwarzmeerroute tritt mit neuer Schärfe hervor.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russlands-exportdrehscheibe-getroffen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-12T09:50:00+00:00",
+      "title": "Getreideterminal Novorossiysk getroffen: Globale Lieferketten unter Druck | newsmedia.report",
+      "url": "https://www.newsmedia.report/3321143_getreideterminal-novorossiysk-getroffen-globale-lieferketten-unter-druck"
+    },
+    {
       "article_id": 3321083,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-03T00:14:00+00:00",
       "title": "Putin’s Strategic Miscalculation: The War Has Reached Moscow | newsmedia.report",
       "url": "https://www.newsmedia.report/3305082_putin-s-strategic-miscalculation-the-war-has-reached-moscow"
-    },
-    {
-      "article_id": 3304993,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Niemand kann seriös vorhersagen, ob Europa im Herbst oder Winter 2026/27 einen flächendeckenden Blackout erleben wird. Sicher ist jedoch, dass ein großräumiger und länger dauernder Stromausfall nicht bei ausgefallenen Lampen endet, sondern Kommunikation, Wasserversorgung, medizinische Betreuung, Handel, Verkehr und öffentliche Sicherheit gleichzeitig unter Druck setzt. PreparedEurope™ wurde als physisches Vorbereitungssystem entwickelt, um Familien vor einer solchen Lage nicht mit allgemeinen Warnungen, sondern mit einer geordneten Handlungsstruktur zu konfrontieren.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-und-private-vorsorge-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-02T21:33:00+00:00",
-      "title": "Ein Blackout als Systemkrise: Private Vorbereitung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3304993_ein-blackout-als-systemkrise-private-vorbereitung"
-    },
-    {
-      "article_id": 3304933,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Russian authorities imposed a drone alert across the Siberian region of Omsk on Sunday, temporarily restricted airport operations and reported the interception of at least one unmanned aircraft near the city. No strike on the region’s vast oil refinery or military infrastructure has been confirmed, but the incident renews a strategic question that Moscow can no longer dismiss: how secure is Russia’s industrial heartland when drones can threaten targets more than 2,500 kilometers from Ukraine?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drones-reach-omsk-again-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-02T20:22:00+00:00",
-      "title": "Drones Reach Omsk Again as Russia’s Industrial Rear Comes Under Pressure | newsmedia.report",
-      "url": "https://www.newsmedia.report/3304933_drones-reach-omsk-again-as-russia-s-industrial-rear-comes-under-pressure"
     }
   ],
   "version": 1
