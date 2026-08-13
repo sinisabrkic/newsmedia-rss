@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3322074,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "La mort d’un adolescent de 17 ans à Marseille replace le protoxyde d’azote au centre des préoccupations sanitaires françaises. Le jeune avait consommé une quantité importante de ce gaz avant d’être pris en charge à l’hôpital, mais les autorités n’ont à ce stade établi aucun lien causal définitif entre cette consommation et son décès. Une enquête, une autopsie et des analyses doivent désormais déterminer les causes exactes de la mort.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/protoxyde-d-azote-marseille-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-13T04:06:00+00:00",
+      "title": "Mort à Marseille: le protoxyde d’azote en cause? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3322074_mort-a-marseille-le-protoxyde-d-azote-en-cause"
+    },
+    {
+      "article_id": 3322061,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "A confrontation in Northern Virginia is drawing national attention after video showed a masked ICE officer pointing a handgun at 36-year-old U.S. citizen Carolina Molina. Federal officials say Molina tried to endanger agents with her vehicle, an allegation she firmly denies, while publicly released dashcam footage does not show her attempting to strike them. The dispute has turned a brief encounter in a parking lot into a larger test of evidence, federal authority and accountability.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ice-agent-points-gun-at-u-s-citizen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-13T03:31:00+00:00",
+      "title": "ICE Agent Points Gun at U.S. Citizen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3322061_ice-agent-points-gun-at-u-s-citizen"
+    },
+    {
       "article_id": 3321784,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-03T20:22:00+00:00",
       "title": "Warum Ungewissheit emotional abhängig machen kann / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3306327_warum-ungewissheit-emotional-abhaengig-machen-kann"
-    },
-    {
-      "article_id": 3306254,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Gianni Infantino wollte das kommerzielle Zentrum der FIFA in eine mit 20 Milliarden US-Dollar bewertete Gesellschaft überführen und einen Minderheitsanteil an private Investoren abgeben. Als führender Kapitalgeber war ein von Joshua Kushner gegründetes Investmentvehikel vorgesehen. Der Plan ist zurückgezogen, doch der Vorgang legt offen, wie nah privates Kapital, politische Netzwerke und die Kontrolle über den Weltfußball inzwischen zusammengerückt sind.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/joshua-kushner-und-der-gescheiterte-fifa-milliardenumbau-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-03T19:21:00+00:00",
-      "title": "Joshua Kushner und der gescheiterte Milliardenumbau der FIFA | newsmedia.report",
-      "url": "https://www.newsmedia.report/3306254_joshua-kushner-und-der-gescheiterte-milliardenumbau-der-fifa"
-    },
-    {
-      "article_id": 3305909,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Dubais Wirtschaft kühlt sich nach mehreren außergewöhnlich starken Jahren deutlich ab. Regionale Unsicherheit, schwächere Reisetätigkeit und nachlassende Kreditnachfrage belasten das Geschäftsmodell des Emirats, während Banken und Finanzdienstleister verstärkt um Kunden werben. Die verfügbaren Daten zeigen ernst zu nehmende Risiken, aber keinen wirtschaftlichen freien Fall.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dubai-verliert-tempo-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-03T14:40:00+00:00",
-      "title": "Dubai verliert Tempo, nicht den Boden | newsmedia.report",
-      "url": "https://www.newsmedia.report/3305909_dubai-verliert-tempo-nicht-den-boden"
     }
   ],
   "version": 1
