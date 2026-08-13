@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3322779,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Giorgia Meloni governa l’Italia da quasi quattro anni e resta una delle figure politiche più influenti del Paese e dell’Europa. Eppure proprio tra gli elettori più giovani il suo schieramento mostra una debolezza sempre più evidente. Dietro il calo del consenso non c’è soltanto una questione elettorale, ma un problema più profondo fatto di salari bassi, precarietà, difficoltà di accesso alla casa, emigrazione qualificata e crescente distanza tra la politica e la vita reale di una generazione.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meloni-perde-i-giovani-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-13T14:51:00+00:00",
+      "title": "Meloni perde i giovani | newsmedia.report",
+      "url": "https://www.newsmedia.report/3322779_meloni-perde-i-giovani"
+    },
+    {
       "article_id": 3322514,
       "author": "Sinisa Brkic (sb)",
       "category": "Deutschland",
@@ -978,17 +989,6 @@
       "published": "2026-08-04T11:55:00+00:00",
       "title": "Lufthansa: Quartalsgewinn über 50 Prozent eingebrochen | newsmedia.report",
       "url": "https://www.newsmedia.report/3307590_lufthansa-quartalsgewinn-ueber-50-prozent-eingebrochen"
-    },
-    {
-      "article_id": 3307058,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Valerii Zaluzhnyi has stated what Kyiv’s allies have avoided saying openly: Ukraine may never join NATO. His assessment does not change the country’s official policy, but it exposes the widening distance between the alliance’s promises, its political willingness and the security Ukraine can realistically expect.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraine-s-nato-dream-is-fading-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-04T10:06:00+00:00",
-      "title": "Ukraine’s NATO Dream Is Fading | newsmedia.report",
-      "url": "https://www.newsmedia.report/3307058_ukraine-s-nato-dream-is-fading"
     }
   ],
   "version": 1
