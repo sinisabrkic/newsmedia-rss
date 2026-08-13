@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3322164,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Deutschland",
+      "description": "Während Deutschland seine Streitkräfte massiv vergrößern will, erreicht die Zahl der Anträge auf Kriegsdienstverweigerung eine neue Größenordnung. Bis Ende Juli wurden 8.302 Anträge registriert, mehr als doppelt so viele wie im gesamten Jahr 2025. Die Entwicklung trifft die Bundeswehr ausgerechnet zu Beginn der neuen Wehrerfassung und legt einen politischen Widerspruch offen: Der Staat sucht mehr Soldaten, während zugleich deutlich mehr Menschen vorsorglich erklären, keinen Kriegsdienst mit der Waffe leisten zu wollen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-r-stet-auf-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-13T06:12:00+00:00",
+      "title": "Deutschland rüstet auf, Verweigerungen steigen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3322164_deutschland-ruestet-auf-verweigerungen-steigen"
+    },
+    {
       "article_id": 3322074,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-04T09:00:00+00:00",
       "title": "Palantir’s AI Power Play: The $8 Billion Bet | newsmedia.report",
       "url": "https://www.newsmedia.report/3306901_palantir-s-ai-power-play-the-8-billion-bet"
-    },
-    {
-      "article_id": 3306327,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Ein Mensch zeigt intensive Nähe, zieht sich plötzlich zurück und kehrt später mit neuer Aufmerksamkeit wieder. Was zunächst nach einer komplizierten Liebesgeschichte aussieht, kann eine starke emotionale Bindung erzeugen, die weniger durch Sicherheit als durch ständige Ungewissheit genährt wird. Betroffene denken immer häufiger an die Verbindung, analysieren jedes Signal und verwechseln ihre innere Anspannung möglicherweise mit außergewöhnlich tiefer Liebe.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/warum-ungewissheit-emotional-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-03T20:22:00+00:00",
-      "title": "Warum Ungewissheit emotional abhängig machen kann / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3306327_warum-ungewissheit-emotional-abhaengig-machen-kann"
     }
   ],
   "version": 1
