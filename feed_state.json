@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3323453,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Ibrahim Traoré has turned Burkina Faso into one of the most closely watched political experiments in Africa. His government has pushed France out, expanded state control over gold, joined forces with Mali and Niger, and embraced a language of sovereignty that resonates far beyond the Sahel. But behind the symbolism lies a harder question: can a military revolution deliver genuine independence while political freedom contracts at home?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/traor-vs-the-west-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T05:30:00+00:00",
+      "title": "Traoré vs. The West | newsmedia.report",
+      "url": "https://www.newsmedia.report/3323453_traore-vs-the-west"
+    },
+    {
+      "article_id": 3323441,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technology / Travelling",
+      "description": "A fractured fan blade, debris penetrating the fuselage, a missing cabin window and a seriously injured passenger have turned Ryanair Flight 1879 into a major aviation safety investigation. The NTSB’s preliminary findings add two technically important elements: evidence of fatigue in the failed blade and bird remains inside the engine. They also raise a broader question over Boeing 737 NG safety modifications that are not due for full implementation under US requirements until 2028.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ryanair-737-engine-failure-under-scrutiny-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T05:04:00+00:00",
+      "title": "Ryanair 737 Engine Failure Under Scrutiny | newsmedia.report",
+      "url": "https://www.newsmedia.report/3323441_ryanair-737-engine-failure-under-scrutiny"
+    },
+    {
+      "article_id": 3323322,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "President Donald Trump has ordered the Pentagon and U.S. Navy to prepare a fundamental redesign of the future USS Doris Miller, replacing its advanced electromagnetic aircraft launch system with traditional steam catapults. The decision reaches deep into a carrier already designed around a different technological architecture and could add billions of dollars in cost while creating new schedule and integration risks. It also puts Washington on a strikingly different technological path from China and France.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-orders-u-s-navy-back-to-steam-catapults-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T01:03:00+00:00",
+      "title": "Trump Rethinks America’s Most Advanced Carrier | newsmedia.report",
+      "url": "https://www.newsmedia.report/3323322_trump-rethinks-america-s-most-advanced-carrier"
+    },
+    {
       "article_id": 3323053,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -956,39 +989,6 @@
       "published": "2026-08-04T20:15:00+00:00",
       "title": "Zalando: Börse verliert den Glauben | newsmedia.report",
       "url": "https://www.newsmedia.report/3311035_zalando-boerse-verliert-den-glauben"
-    },
-    {
-      "article_id": 3310994,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Indirect talks involving Iran, Oman and the United States are moving toward a possible arrangement for restoring commercial traffic through the Strait of Hormuz. The prospect of a controlled reopening sent oil prices sharply lower, but the emerging framework remains incomplete and politically fragile. What is taking shape is not yet a peace agreement, but a limited deal designed to reduce the immediate risk to one of the world’s most important energy corridors.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hormuz-deal-takes-shape-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-04T19:47:00+00:00",
-      "title": "Hormuz Deal Takes Shape | newsmedia.report",
-      "url": "https://www.newsmedia.report/3310994_hormuz-deal-takes-shape"
-    },
-    {
-      "article_id": 3310367,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Anziehung entsteht selten nur durch Aussehen. Blickkontakt, Stimme, Haltung, Aufmerksamkeit, Eigenständigkeit und das Gefühl, von einem interessanten Menschen wirklich wahrgenommen zu werden, können Begehren deutlich verstärken. Trotzdem lässt sich kein Mensch dazu bringen, Gefühle zu entwickeln. Psychologische Anziehung kann gefördert werden, wenn bereits Offenheit vorhanden ist. Sie darf jedoch niemals durch Eifersucht, absichtlichen Rückzug oder emotionale Verunsicherung erzwungen werden.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/anziehung-psychologisch-aktivieren-newsmedia_datingworld-high.png",
-      "language": "de-AT",
-      "published": "2026-08-04T14:55:00+00:00",
-      "title": "Die Psychologie der Anziehung: Begehren aktivieren / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3310367_die-psychologie-der-anziehung-begehren-aktivieren"
-    },
-    {
-      "article_id": 3309918,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La France veut fermer les réseaux sociaux aux moins de quinze ans. Derrière la promesse de protéger les enfants se dessine pourtant une question plus vaste : comment vérifier l’âge de millions d’utilisateurs sans installer une surveillance permanente de la population numérique ? Le pays ouvre ainsi un débat qui dépasse largement les écrans et touche à la liberté, à la responsabilité parentale et au pouvoir des plateformes.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/r-seaux-sociaux-l-enfance-sous-contr-le-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-04T14:16:00+00:00",
-      "title": "Réseaux sociaux : l’enfance sous contrôle | newsmedia.report",
-      "url": "https://www.newsmedia.report/3309918_reseaux-sociaux-l-enfance-sous-controle"
     }
   ],
   "version": 1
