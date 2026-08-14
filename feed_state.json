@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3323632,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Eine Warnung des Bundesheeres vor mutmaßlichen russischen Nachrichtendienstmitarbeitern bringt im August 2026 ein Sicherheitsproblem zurück ins Zentrum der österreichischen Politik, das weit über einen einzelnen Spionagefall hinausreicht. Wien ist diplomatische Drehscheibe, Sitz internationaler Organisationen, politischer Begegnungsraum und seit Jahrzehnten ein bevorzugtes Terrain ausländischer Dienste. Was früher oft als beinahe folkloristische Begleiterscheinung der österreichischen Neutralität behandelt wurde, berührt heute unmittelbar militärische Sicherheit, internationale Verpflichtungen, kritische Infrastruktur, politische Stabilität und Österreichs Vertrauen bei seinen Partnern.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russische-spionage-in-sterreich-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T09:30:00+00:00",
+      "title": "Russische Spionage in Österreich | newsmedia.report",
+      "url": "https://www.newsmedia.report/3323632_russische-spionage-in-oesterreich"
+    },
+    {
+      "article_id": 3323647,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Rubrik: Justiz & Recht Format: Spezialbericht Autor: Sinisa Brkic (sb)",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/anzeige-gegen-michael-ludwig-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T08:50:00+00:00",
+      "title": "Anzeige wegen Amtsmissbrauch gegen Michael Ludwig | newsmedia.report",
+      "url": "https://www.newsmedia.report/3323647_anzeige-wegen-amtsmissbrauch-gegen-michael-ludwig"
+    },
+    {
+      "article_id": 3323610,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Deutschland",
+      "description": "Die anhaltende Trockenheit führt in immer mehr Teilen Deutschlands zu konkreten Eingriffen in die Wassernutzung. Landkreise und Städte begrenzen die Entnahme aus Flüssen und Seen, beschränken die Nutzung privater Brunnen und greifen vereinzelt sogar bei der Bewässerung mit Trinkwasser ein. Ein bundesweites Wasserentnahmeverbot gibt es nicht, doch der regionale Flickenteppich wird dichter und die Lage an wichtigen Wasserstraßen verschärft den wirtschaftlichen Druck zusätzlich.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-schr-nkt-wasserentnahme-ein-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T08:10:00+00:00",
+      "title": "Deutschland schränkt Wasserentnahme ein | newsmedia.report",
+      "url": "https://www.newsmedia.report/3323610_deutschland-schraenkt-wasserentnahme-ein"
+    },
+    {
       "article_id": 3323453,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -956,39 +989,6 @@
       "published": "2026-08-05T14:25:00+00:00",
       "title": "Shopify’s Breakout Quarter Recasts the Race for AI Commerce | newsmedia.report",
       "url": "https://www.newsmedia.report/3312062_shopify-s-breakout-quarter-recasts-the-race-for-ai-commerce"
-    },
-    {
-      "article_id": 3311567,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Die abschlagsfreie Altersrente nach 45 Versicherungsjahren wird zum Belastungstest für die Bundesregierung. Führende Unionspolitiker halten an ihrer Abschaffung fest, während sich der Widerstand aus der SPD und den ostdeutschen Ländern verschärft. Für Millionen Beschäftigte geht es um weit mehr als eine rentenpolitische Detailfrage, denn auf dem Spiel stehen langjährige Lebensplanungen, der Schutz erworbener Erwartungen und die Anerkennung besonders langer Erwerbsbiografien.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rentenreform-2026-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-05T08:41:00+00:00",
-      "title": "Deutschland: Rente mit 63 vor dem Aus? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3311567_deutschland-rente-mit-63-vor-dem-aus"
-    },
-    {
-      "article_id": 3311370,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "SpaceX’s first quarterly report as a public company delivered exceptional growth, driven by Starlink and a rapidly expanding artificial intelligence business. Revenue almost doubled, the group sharply reduced its quarterly loss and operating performance exceeded market expectations. The shares nevertheless fell after the report because the figures exposed the scale of the capital required to sustain the company’s ambitions.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/spacex-delivers-the-growth-wall-street-prices-the-risk-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-05T05:04:00+00:00",
-      "title": "SpaceX Delivers the Growth. Wall Street Prices the Risk. | newsmedia.report",
-      "url": "https://www.newsmedia.report/3311370_spacex-delivers-the-growth-wall-street-prices-the-risk"
-    },
-    {
-      "article_id": 3311035,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Zalando meldet mehr Kunden, steigende Umsätze und einen höheren operativen Gewinn. Dennoch brach die Aktie zeitweise um bis zu 18 Prozent ein und schloss den Xetra Handel mit einem Minus von 13,36 Prozent. Hinter der scheinbaren Unlogik steht eine zentrale Frage: Wie viel des Wachstums trägt das bestehende Geschäft tatsächlich und wie viel stammt aus der Übernahme von About You?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/zalando-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-04T20:15:00+00:00",
-      "title": "Zalando: Börse verliert den Glauben | newsmedia.report",
-      "url": "https://www.newsmedia.report/3311035_zalando-boerse-verliert-den-glauben"
     }
   ],
   "version": 1
