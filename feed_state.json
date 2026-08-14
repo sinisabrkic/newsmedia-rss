@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3324282,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Russland lehnt eine Initiative zur Eindämmung der Angriffe auf zivile Ziele im Schwarzen Meer ab. Während Moskau und Kiew ihre gegenseitigen Vorwürfe verschärfen, geraten Handelsschiffe, Exporthäfen und internationale Getreideströme zunehmend unter Druck. Zugleich wächst in Europa die Sorge, dass der Konflikt um Russlands sogenannte Schattenflotte eine neue maritime Eskalationsstufe erreichen könnte.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russland-weist-waffenstillstand-f-r-zivile-schifffahrt-zur-ck-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T16:45:00+00:00",
+      "title": "Russland weist Waffenstillstand für zivile Schifffahrt zurück | newsmedia.report",
+      "url": "https://www.newsmedia.report/3324282_russland-weist-waffenstillstand-fuer-zivile-schifffahrt-zurueck"
+    },
+    {
+      "article_id": 3324208,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europe",
+      "description": "Britain’s rail network is facing urgent questions after two passenger trains derailed in southern England within less than 24 hours. The incidents at Lewes and Wickford occurred during a period of extreme heat, but investigators have not established a common cause, and there is currently no evidence that temperature alone was responsible for either derailment.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/two-uk-passenger-trains-derail-in-less-than-24-hours-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T15:50:00+00:00",
+      "title": "Two UK Trains Derail Within 24 Hours | newsmedia.report",
+      "url": "https://www.newsmedia.report/3324208_two-uk-trains-derail-within-24-hours"
+    },
+    {
       "article_id": 3323802,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-06T06:50:00+00:00",
       "title": "AIPAC Spent More Than $30 Million to Stop Him. Abdul El Sayed Won Anyway | newsmedia.report",
       "url": "https://www.newsmedia.report/3312878_aipac-spent-more-than-30-million-to-stop-him-abdul-el-sayed-won-anyway"
-    },
-    {
-      "article_id": 3312360,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Männer sollen heute verständnisvoll, gepflegt, emotional erreichbar und partnerschaftlich sein. Gleichzeitig erwarten viele Frauen Entschlossenheit, Belastbarkeit, Eigenständigkeit und einen Mann, der nicht bei jeder schwierigen Entscheidung Orientierung benötigt. Werden Männer tatsächlich immer weiblicher, oder erleben wir vielmehr eine Generation, die traditionelle Rollen abgelegt hat, ohne eine neue Form männlicher Stärke zu entwickeln?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/werden-m-nner-immer-weiblicher-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-05T18:22:00+00:00",
-      "title": "Werden neue Generationen von Männern immer weiblicher? / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3312360_werden-neue-generationen-von-maennern-immer-weiblicher"
-    },
-    {
-      "article_id": 3312322,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "China is tightening its control over drones, critical components and related technologies destined for the United States. The move is not a complete export ban, but it gives Beijing greater power to delay deliveries, reject applications and expose weaknesses in America’s attempt to build an independent drone industry. What appears to be a narrow trade measure is part of a much broader struggle over technology, certification, human rights and national security.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/china-targets-america-s-drone-supply-chain-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-05T18:02:00+00:00",
-      "title": "China Targets America’s Drone Supply Chain | newsmedia.report",
-      "url": "https://www.newsmedia.report/3312322_china-targets-america-s-drone-supply-chain"
     }
   ],
   "version": 1
