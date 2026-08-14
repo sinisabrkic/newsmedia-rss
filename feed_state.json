@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3323802,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Japan has raised the volcanic alert for Mount Aso in Kumamoto Prefecture to Level 3 after monitoring showed a sharp increase in volcanic tremor and sulfur dioxide emissions. Authorities are warning of a possible eruption capable of affecting an area within roughly two kilometers of Nakadake First Crater, but no new eruption has been confirmed.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/japan-raises-mount-aso-alert-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T10:31:00+00:00",
+      "title": "Japan Raises Mount Aso Alert to Level 3 | newsmedia.report",
+      "url": "https://www.newsmedia.report/3323802_japan-raises-mount-aso-alert-to-level-3"
+    },
+    {
+      "article_id": 3323692,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Im November 1996 stirbt im texanischen Fort Worth die dreijährige Kasandra White. Ihre damals 19 Jahre alte Mutter Maria Narez gerät unter schweren Mordverdacht, wird festgenommen und später gegen Kaution freigelassen. Noch bevor der Fall vor Gericht entschieden werden kann, verschwindet sie. Fast drei Jahrzehnte später ist die heute 48-Jährige in Mexiko gefasst worden. Nun holt sie ein Verfahren ein, das seit 1997 offen ist und juristisch komplizierter werden könnte, als die spektakuläre Festnahme zunächst vermuten lässt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/maria-narez-nach-29-jahren-gefasst-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-14T10:01:00+00:00",
+      "title": "Ein Kind stirbt, die Mutter verschwindet: Maria Narez nach 29 Jahren gefasst | newsmedia.report",
+      "url": "https://www.newsmedia.report/3323692_ein-kind-stirbt-die-mutter-verschwindet-maria-narez-nach-29-jahren-gefasst"
+    },
+    {
       "article_id": 3323632,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -967,28 +989,6 @@
       "published": "2026-08-05T18:02:00+00:00",
       "title": "China Targets America’s Drone Supply Chain | newsmedia.report",
       "url": "https://www.newsmedia.report/3312322_china-targets-america-s-drone-supply-chain"
-    },
-    {
-      "article_id": 3312241,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Am Flughafen Leipzig/Halle ist eine Drohne mit einer Sprengvorrichtung in einem gesicherten Bereich entdeckt worden. Ein weiterer Zwischenfall mit einem DHL-Frachtflugzeug, das nach der Kollision mit einem unbekannten Objekt beschädigt in Hannover landete, verschärft die Lage. Noch ist weder geklärt, wer hinter den Vorgängen steht, noch ob eine ukrainische Transportmaschine gezielt angegriffen werden sollte.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sprengstoffdrohne-in-leipzig-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-05T16:45:00+00:00",
-      "title": "Sprengstoffdrohne am Flughafen Leipzig/Halle | newsmedia.report",
-      "url": "https://www.newsmedia.report/3312241_sprengstoffdrohne-am-flughafen-leipzig-halle"
-    },
-    {
-      "article_id": 3312062,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "Shopify has delivered one of the strongest quarters in its recent history, exceeding market expectations on revenue, merchandise volume and its outlook for the months ahead. The results suggest that the company is gaining strength across several parts of its platform at once, from payments and international commerce to larger merchants and physical retail. Artificial intelligence is becoming central to Shopify’s strategy, but the available figures do not yet show how much of the current growth is directly attributable to AI based shopping.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/shopify-s-breakout-quarter-recasts-ai-commerce-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-05T14:25:00+00:00",
-      "title": "Shopify’s Breakout Quarter Recasts the Race for AI Commerce | newsmedia.report",
-      "url": "https://www.newsmedia.report/3312062_shopify-s-breakout-quarter-recasts-the-race-for-ai-commerce"
     }
   ],
   "version": 1
