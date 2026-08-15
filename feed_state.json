@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3324812,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Un terremoto de magnitud 5,0 sacudió durante la noche el área metropolitana de Granada y se sintió en amplias zonas de Andalucía. Hay daños materiales, más de 200 avisos a los servicios de emergencia y un edificio evacuado de forma preventiva, pero hasta ahora no se han confirmado víctimas ni heridos. Las autoridades mantienen activo el plan de emergencia mientras continúan las inspecciones y el seguimiento de las réplicas.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/granada-tiembla-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T07:45:00+00:00",
+      "title": "Granada tiembla | newsmedia.report",
+      "url": "https://www.newsmedia.report/3324812_granada-tiembla"
+    },
+    {
       "article_id": 3324770,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-08-06T16:45:00+00:00",
       "title": "Russian Drone Strike Hits German-Managed Bulk Carrier | newsmedia.report",
       "url": "https://www.newsmedia.report/3313618_russian-drone-strike-hits-german-managed-bulk-carrier"
-    },
-    {
-      "article_id": 3313486,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Immobilien",
-      "description": "Die Bachler Immobilien GmbH aus Söll ist insolvent. Das Unternehmen weist nach derzeitigen Angaben Verbindlichkeiten von rund 21 Millionen Euro auf. Für Käufer, Eigentümergemeinschaften und Geschäftspartner beginnt nun die entscheidende Prüfung, welche Projekte, Forderungen und Sicherheiten tatsächlich betroffen sind.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bachler-immobilien-insolvent-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-06T14:40:00+00:00",
-      "title": "Bachler insolvent: rund 21 Millionen Euro Verbindlichkeiten | newsmedia.report",
-      "url": "https://www.newsmedia.report/3313486_bachler-insolvent-rund-21-millionen-euro-verbindlichkeiten"
     }
   ],
   "version": 1
