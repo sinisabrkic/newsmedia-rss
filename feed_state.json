@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3325147,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Deutschland / Politik",
+      "description": "Wenige Wochen vor der Landtagswahl in Sachsen-Anhalt führt die AfD mit deutlichem Abstand in den veröffentlichten Umfragen. Ihr Spitzenkandidat Ulrich Siegmund könnte damit vor einer Konstellation stehen, die es in Deutschland bislang nicht gegeben hat. Entscheidend ist allerdings nicht allein der Stimmenanteil der AfD, sondern die spätere Sitzverteilung und die Wahl des Ministerpräsidenten im Landtag.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ulrich-siegmund-und-die-aussicht-auf-das-ministerpr-sidentenamt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T13:35:00+00:00",
+      "title": "Wird Ulrich Siegmund erster AfD-Ministerpräsident? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325147_wird-ulrich-siegmund-erster-afd-ministerpraesident"
+    },
+    {
       "article_id": 3324998,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-08-06T17:45:00+00:00",
       "title": "Fauci Faces Department of Justice Referral | newsmedia.report",
       "url": "https://www.newsmedia.report/3313688_fauci-faces-department-of-justice-referral"
-    },
-    {
-      "article_id": 3313644,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sport",
-      "description": "David Alaba ist nach seinem Abschied von Real Madrid einer der prominentesten vereinslosen Spieler Europas. Neue Berichte über ein mögliches Engagement bei der AC Milan haben die Spekulationen um seine Zukunft erneut angeheizt. Hinter der Transferfrage steht jedoch eine größere Entscheidung: Welche Rolle kann und will Österreichs Teamkapitän in der späten Phase seiner außergewöhnlichen Karriere noch übernehmen?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/david-alaba-milan-ger-chte-und-offene-zukunft-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-06T17:10:00+00:00",
-      "title": "David Alaba vor der nächsten Entscheidung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3313644_david-alaba-vor-der-naechsten-entscheidung"
     }
   ],
   "version": 1
