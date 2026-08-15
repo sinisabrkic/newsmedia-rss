@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3325548,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Japan has just reinforced the male line at the heart of its imperial succession system. Now Crown Prince Akishino, the next man in line to the throne, has publicly acknowledged mixed feelings about the reform, reopening a question Parliament appeared to have settled only weeks ago.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/japan-s-succession-divide-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T20:44:00+00:00",
+      "title": "Japan’s Succession Divide | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325548_japan-s-succession-divide"
+    },
+    {
+      "article_id": 3325523,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "President Donald Trump is moving to intensify his role in the 2026 midterms, authorizing millions of dollars for vulnerable Republicans and preparing a heavier campaign schedule as GOP strategists confront a harder political environment. The strategy is increasingly clear: mobilize Trump voters who often disappear in midterm elections and use the Republican financial advantage to protect control of Congress. Whether that is enough is now one of the central questions of the campaign.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-s-midterm-offensive-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T20:02:00+00:00",
+      "title": "Trump’s Midterm Offensive | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325523_trump-s-midterm-offensive"
+    },
+    {
+      "article_id": 3325512,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Deutschland",
+      "description": "Mehrere Waldbrände halten Einsatzkräfte in Deutschland weiter in Atem. Besonders angespannt bleibt die Situation im Hürtgenwald in Nordrhein Westfalen, wo rund 2.000 Menschen ihre Häuser verlassen mussten und etwa 300 Hektar Wald betroffen sind. Während sich die Lage dort stabilisiert hat, bleibt eine Rückkehr nach Gey vorerst offen. Zugleich rückt ein großer Brand im Hohen Venn gefährlich nahe an die deutsche Grenze.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/waldbr-nde-in-deutschland-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T19:50:00+00:00",
+      "title": "Waldbrände in Deutschland | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325512_waldbraende-in-deutschland"
+    },
+    {
       "article_id": 3325366,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -956,39 +989,6 @@
       "published": "2026-08-07T08:05:00+00:00",
       "title": "Présidentielle 2027: Tondelier veut pouvoir suspendre X | newsmedia.report",
       "url": "https://www.newsmedia.report/3314317_presidentielle-2027-tondelier-veut-pouvoir-suspendre-x"
-    },
-    {
-      "article_id": 3314299,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Business",
-      "description": "India has taken a significant step toward changing the economics of its vast digital payments system. The Lok Sabha has approved legislation that would give the government greater authority to permit charges on certain electronic payment transactions, potentially including payments made through the Unified Payments Interface, or UPI. What it has not done is introduce a general UPI fee for consumers.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-upi-merchant-fees-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-07T07:40:00+00:00",
-      "title": "India Opens the Door to UPI Merchant Fees | newsmedia.report",
-      "url": "https://www.newsmedia.report/3314299_india-opens-the-door-to-upi-merchant-fees"
-    },
-    {
-      "article_id": 3314262,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "The U.S. Food and Drug Administration has approved Moderna’s MFLUSIVA for adults age 50 and older, making it the first seasonal influenza vaccine based on mRNA technology to receive approval in the United States. The decision extends the mRNA platform beyond COVID vaccination and into one of the world’s largest recurring vaccine markets, while important questions remain about real world performance, availability and its eventual role in U.S. vaccination policy.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fda-approves-first-mrna-flu-vaccine-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-07T07:00:00+00:00",
-      "title": "FDA Approves First mRNA Flu Vaccine in the U.S. | newsmedia.report",
-      "url": "https://www.newsmedia.report/3314262_fda-approves-first-mrna-flu-vaccine-in-the-u-s"
-    },
-    {
-      "article_id": 3314243,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energie",
-      "description": "Deutschland steht vor einer grundlegenden Neuordnung der Stromnetzentgelte. Die Bundesnetzagentur hat die Konsultation für eine Reform gestartet, die künftig stärker berücksichtigen soll, wie viel Netzkapazität Verbraucher beanspruchen, wann Strom genutzt wird und welchen Beitrag einzelne Akteure zur Stabilität des Systems leisten. Es geht um die Verteilung von rund 37 Milliarden Euro Netzkosten pro Jahr und damit um einen Kostenblock, der für Haushalte, Industrie, Speicherbetreiber und neue Großverbraucher erhebliche Bedeutung hat.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/stromnetzentgelte-2029-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-07T06:35:00+00:00",
-      "title": "Deutschland baut die Stromrechnung um | newsmedia.report",
-      "url": "https://www.newsmedia.report/3314243_deutschland-baut-die-stromrechnung-um"
     }
   ],
   "version": 1
