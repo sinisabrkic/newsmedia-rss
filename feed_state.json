@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3324998,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Der Siemens Gesamtbetriebsratschef Tobias Bäumler stellt eine der folgenreichsten industriepolitischen Entscheidungen der vergangenen Jahre infrage. Die Trennung von Siemens Energy und die Verselbstständigung von Siemens Healthineers seien strategische Fehler gewesen, argumentiert der Arbeitnehmervertreter. Die Börsenwerte der drei Unternehmen verleihen der Kritik auf den ersten Blick enorme Wucht. Doch eine genauere Betrachtung zeigt, dass die Milliardenrechnung deutlich komplizierter ist.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/siemens-energy-healthineers-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T11:05:00+00:00",
+      "title": "Siemens: Konzernumbau ein Fehler von Joe Kaesers? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3324998_siemens-konzernumbau-ein-fehler-von-joe-kaesers"
+    },
+    {
       "article_id": 3324812,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-06T17:10:00+00:00",
       "title": "David Alaba vor der nächsten Entscheidung | newsmedia.report",
       "url": "https://www.newsmedia.report/3313644_david-alaba-vor-der-naechsten-entscheidung"
-    },
-    {
-      "article_id": 3313618,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "The bulk carrier EMIL, commercially managed by a Hamburg shipping company, was struck during a Russian attack near Odesa and temporarily left without propulsion. The incident does not amount to a military attack on Germany, but it exposes a widening threat to merchant shipping, Ukrainian exports, and the fragile security architecture of the Black Sea.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/black-sea-maritime-security-analysis-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-06T16:45:00+00:00",
-      "title": "Russian Drone Strike Hits German-Managed Bulk Carrier | newsmedia.report",
-      "url": "https://www.newsmedia.report/3313618_russian-drone-strike-hits-german-managed-bulk-carrier"
     }
   ],
   "version": 1
