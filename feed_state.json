@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3325183,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Society",
+      "description": "Five people were wounded in an early morning shooting at Virginia State University in Virginia, with one victim in critical condition. The campus lockdown imposed after the gunfire has been lifted, but police remain on the scene as investigators search for multiple suspects and work to determine what led to the shooting.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/virginia-state-university-shooting-report-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T14:33:00+00:00",
+      "title": "Virginia State University Shooting: Five Injured, One Critical | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325183_virginia-state-university-shooting-five-injured-one-critical"
+    },
+    {
       "article_id": 3325147,
       "author": "Sinisa Brkic (sb)",
       "category": "Deutschland / Politik",
@@ -978,17 +989,6 @@
       "published": "2026-08-06T23:11:00+00:00",
       "title": "Feminismus: Befreiung der Frau, Krise der Familie? / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3314009_feminismus-befreiung-der-frau-krise-der-familie"
-    },
-    {
-      "article_id": 3313688,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "A Republican led Senate committee has approved a contempt resolution against Anthony Fauci after he invoked the Fifth Amendment more than 100 times during subpoenaed testimony on the federal response to COVID 19. Committee Chairman Rand Paul says he intends to send the matter directly to the U.S. Department of Justice, a route Democrats argue may not be legally valid without a vote by the full Senate. The decision sharply increases the pressure on Fauci, but it is not an arrest order, an indictment or a criminal conviction.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fauci-doj-referral-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-06T17:45:00+00:00",
-      "title": "Fauci Faces Department of Justice Referral | newsmedia.report",
-      "url": "https://www.newsmedia.report/3313688_fauci-faces-department-of-justice-referral"
     }
   ],
   "version": 1
