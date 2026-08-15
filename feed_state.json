@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3324770,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Es ist ein Satz, der provoziert, weil er provozieren muss: Deutschland benötigt einen Krieg. Nicht als moralischen Wunsch, nicht als Aufforderung zu militärischer Aggression, sondern als radikale wirtschaftspolitische These über ein Land, das offenbar erst unter existenziellem Druck bereit ist, Kapital, Industrie, Technologie und staatliche Handlungsfähigkeit in einer Größenordnung zu mobilisieren, die seinem tatsächlichen Problem entspricht. Die aktuellen Zahlen liefern keinen Beweis dafür, dass Krieg Wohlstand schafft. Sie liefern aber bemerkenswert starke Hinweise darauf, dass ausgerechnet die Vorbereitung auf Krieg jene wirtschaftliche Mobilisierung auslöst, zu der Deutschland im…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-ben-tigt-einen-krieg-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T06:26:00+00:00",
+      "title": "Deutschland benötigt Ausnahmezustände und einen Krieg | newsmedia.report",
+      "url": "https://www.newsmedia.report/3324770_deutschland-benoetigt-ausnahmezustaende-und-einen-krieg"
+    },
+    {
       "article_id": 3324758,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-06T14:40:00+00:00",
       "title": "Bachler insolvent: rund 21 Millionen Euro Verbindlichkeiten | newsmedia.report",
       "url": "https://www.newsmedia.report/3313486_bachler-insolvent-rund-21-millionen-euro-verbindlichkeiten"
-    },
-    {
-      "article_id": 3313424,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Ein koordinierter Zugriff in Deutschland und Serbien richtet sich gegen mutmaßliche Führungspersonen zweier miteinander verbundener syrischer Schleusernetzwerke. Mehr als 900 Menschen sollen seit 2022 über das zentrale Mittelmeer und die Westbalkanroute in die Europäische Union gebracht worden sein. Der Fall zeigt, wie professionell, grenzüberschreitend und wirtschaftlich organisiert das Geschäft mit irregulärer Migration inzwischen betrieben wird.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-schleuserarchitektur-hinter-europas-migrationsrouten-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-06T13:30:00+00:00",
-      "title": "Deutschland und Serbien: Zugriff auf mutmaßliche syrische Schleusernetzwerke | newsmedia.report",
-      "url": "https://www.newsmedia.report/3313424_deutschland-und-serbien-zugriff-auf-mutmassliche-syrische-schleusernetzwerke"
     }
   ],
   "version": 1
