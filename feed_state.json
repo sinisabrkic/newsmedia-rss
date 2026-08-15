@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3325366,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "La cyberattaque contre la Direction générale des finances publiques prend une dimension nettement plus grave. Le ministère français des Finances confirme désormais que des données concernant 678 000 particuliers et professionnels ont été consultées et extraites, parmi lesquelles des informations fiscales particulièrement sensibles. Les comptes personnels sur les services fiscaux et les mots de passe des contribuables ne sont pas annoncés comme compromis, mais la nature des informations dérobées crée un risque sérieux de fraude ciblée et d’usurpation.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cyberattaque-de-la-dgfip-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T17:40:00+00:00",
+      "title": "Cyberattaque DGFiP : 678 000 usagers touchés | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325366_cyberattaque-dgfip-678-000-usagers-touches"
+    },
+    {
+      "article_id": 3325347,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Mehr Informationen über Gehälter, neue Auskunftsrechte für Beschäftigte und strengere Pflichten für Unternehmen: Die EU will mit ihrer Entgelttransparenzrichtlinie geschlechtsspezifische Unterschiede bei der Bezahlung sichtbar und rechtlich besser angreifbar machen. Österreich hätte die Vorgaben bis 7. Juni 2026 vollständig in nationales Recht umsetzen müssen, doch das zentrale Gesetz fehlt weiterhin. Hinter dem nachvollziehbaren Ziel gleicher Bezahlung steht zugleich ein regulatorischer Umbau, dessen Reichweite, Bürokratie und praktische Folgen durchaus kritisch betrachtet werden müssen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/entgelttransparenz-in-sterreich-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-15T17:14:00+00:00",
+      "title": "Österreich: Was hinter der neuen Entgelttransparenz steckt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325347_oesterreich-was-hinter-der-neuen-entgelttransparenz-steckt"
+    },
+    {
       "article_id": 3325183,
       "author": "Sinisa Brkic (sb)",
       "category": "Society",
@@ -967,28 +989,6 @@
       "published": "2026-08-07T06:35:00+00:00",
       "title": "Deutschland baut die Stromrechnung um | newsmedia.report",
       "url": "https://www.newsmedia.report/3314243_deutschland-baut-die-stromrechnung-um"
-    },
-    {
-      "article_id": 3314034,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Economy",
-      "description": "US mortgage rates have risen for a fifth consecutive week, placing fresh pressure on buyers already struggling with high home prices and limited affordability. The average rate for a 30 year fixed mortgage reached 6.69 percent on August 6, while higher Treasury yields and renewed uncertainty surrounding Federal Reserve policy continue to weigh on the housing market. The weekly increase appears modest, but the cumulative effect is steadily reducing purchasing power across the country.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mortgage-rates-deepen-america-s-housing-squeeze-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-06T23:40:00+00:00",
-      "title": "Mortgage Rates Deepen America’s Housing Squeeze | newsmedia.report",
-      "url": "https://www.newsmedia.report/3314034_mortgage-rates-deepen-america-s-housing-squeeze"
-    },
-    {
-      "article_id": 3314009,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Der Feminismus hat Frauen politische Rechte, Bildung, Eigentum, wirtschaftliche Selbstständigkeit und die Möglichkeit gegeben, schlechte oder gewalttätige Beziehungen zu verlassen. Gleichzeitig entstand eine Gesellschaft, in der häufig beide Eltern vollständig erwerbstätig sein müssen, während Partnerschaft, Kinderbetreuung und familiäre Fürsorge weiterhin nebenbei organisiert werden sollen. Hat die Befreiung der Frau deshalb unbeabsichtigt Ehe und Familie geschwächt, oder haben Staat und Wirtschaft eine berechtigte Bewegung für ihre eigenen Interessen vereinnahmt?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/feminismus-befreiung-der-frau-krise-der-familie-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-06T23:11:00+00:00",
-      "title": "Feminismus: Befreiung der Frau, Krise der Familie? / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3314009_feminismus-befreiung-der-frau-krise-der-familie"
     }
   ],
   "version": 1
