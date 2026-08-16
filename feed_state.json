@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3326278,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "A federal agency that Nigeria says was never legally created acquired the appearance of government legitimacy, entered official administrative processes and ultimately appeared in the country’s 2026 budget with an allocation of roughly 1.3 billion Naira. Investigators now say no federal funds were approved or disbursed to the entity or its operators. That finding does not close the scandal. It sharpens the central question: How did an institution with no lawful existence get this far inside the machinery of the state?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nigeria-s-phantom-agency-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T12:14:00+00:00",
+      "title": "Nigeria’s Phantom Agency: The 1.3 Billion Naira Question | newsmedia.report",
+      "url": "https://www.newsmedia.report/3326278_nigeria-s-phantom-agency-the-1-3-billion-naira-question"
+    },
+    {
       "article_id": 3326198,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -978,17 +989,6 @@
       "published": "2026-08-08T11:50:00+00:00",
       "title": "Hunter Biden Reopens the Pardon Debate | newsmedia.report",
       "url": "https://www.newsmedia.report/3315765_hunter-biden-reopens-the-pardon-debate"
-    },
-    {
-      "article_id": 3315726,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Witwenrente gehört zu den festen Säulen der deutschen Alterssicherung. Nun fordert der Wirtschaftsweise Martin Werding einen grundlegenden Systemwechsel: Statt einer eigenen Hinterbliebenenrente sollen Ehepartner ihre während der Ehe erworbenen Rentenpunkte teilen. Doch eine Abschaffung ist weder beschlossen noch konkret gesetzlich vorbereitet. Entscheidend ist deshalb, was hinter dem Vorschlag steckt, wer bei einem Rentensplitting gewinnen könnte und für wen es teuer werden dürfte.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wirtschaftsweiser-will-witwenrente-ersetzen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T11:18:00+00:00",
-      "title": "Deutschland: Wird die Witwenrente ersetzt? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315726_deutschland-wird-die-witwenrente-ersetzt"
     }
   ],
   "version": 1
