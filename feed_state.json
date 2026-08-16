@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3325941,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "South Korean troops fired warning shots after several North Korean soldiers crossed the Military Demarcation Line, creating a fresh security test on one of the world’s most heavily guarded frontiers. No exchange of fire followed and no casualties were reported, but the timing gives the incident unusual political weight as President Lee Jae myung calls for renewed dialogue with Pyongyang and major military exercises with the United States are about to begin.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/warning-shots-at-the-dmz-test-seoul-s-new-peace-push-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T07:33:00+00:00",
+      "title": "South Korea: Warning Shots at the Military Demarcation Line | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325941_south-korea-warning-shots-at-the-military-demarcation-line"
+    },
+    {
+      "article_id": 3325884,
+      "author": "Sinisa Brkic (sb) | Redaktion",
+      "category": "Medien",
+      "description": "Digitale Geschwindigkeit, automatisierte Inhalte und der permanente Kampf um Aufmerksamkeit verändern den Journalismus grundlegend. Je leichter Inhalte produziert und verbreitet werden können, desto wertvoller wird das, was sich nicht automatisieren lässt: redaktionelle Verantwortung, belastbare Einordnung und kontrollierte publizistische Qualität. Für Medien wird Glaubwürdigkeit damit zunehmend zu einer Frage von Einfluss und Macht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/qualit-t-wird-zur-machtfrage-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T06:40:00+00:00",
+      "title": "Qualität wird zur Machtfrage | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325884_qualitaet-wird-zur-machtfrage"
+    },
+    {
       "article_id": 3325822,
       "author": "Sinisa Brkic (sb)",
       "category": "Energie",
@@ -967,28 +989,6 @@
       "published": "2026-08-08T05:11:00+00:00",
       "title": "Trump’s Iran Exit? | newsmedia.report",
       "url": "https://www.newsmedia.report/3315467_trump-s-iran-exit"
-    },
-    {
-      "article_id": 3315457,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Neue US Geheimdiensteinschätzungen halten es für möglich, dass Russland die Geschlossenheit der NATO früher auf die Probe stellt als bislang öffentlich angenommen. Das denkbare Zeitfenster beginnt bereits im Herbst 2026, doch ein unmittelbar bevorstehender russischer Großangriff wird daraus ausdrücklich nicht abgeleitet. Die entscheidende Gefahr liegt vielmehr in einer begrenzten Aktion, deren militärische Wirkung überschaubar bleibt, deren politische Folgen für das Bündnis aber erheblich sein könnten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putins-nato-test-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T04:10:00+00:00",
-      "title": "Putins NATO-Test? Risikofenster ab Herbst 2026 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315457_putins-nato-test-risikofenster-ab-herbst-2026"
-    },
-    {
-      "article_id": 3315444,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Wolodymyr Selenskyj trifft heute in Belgrad auf Aleksandar Vučić. Es ist der erste offizielle Besuch des ukrainischen Präsidenten in Serbien und ein diplomatisch bemerkenswerter Moment für ein Land, das seinen Weg in die Europäische Union mit engen Beziehungen zu Russland zu verbinden versucht. Hinter Gesprächen über Wirtschaft, Energie und europäische Integration steht deshalb eine wesentlich größere Frage: Wie lange kann Serbien seine strategische Balance zwischen Brüssel, Kiew und Moskau aufrechterhalten?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/selenskyj-in-belgrad-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T03:45:00+00:00",
-      "title": "Selenskyj in Belgrad: Serbien zwischen Kiew und Moskau | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315444_selenskyj-in-belgrad-serbien-zwischen-kiew-und-moskau"
     }
   ],
   "version": 1
