@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3325822,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energie",
+      "description": "Historisches Niedrigwasser setzt eines der wichtigsten Kraftwerke Ungarns unter Druck. Um weitere Leistungsausfälle zu verhindern, greift die Regierung an der Donau zu einer außergewöhnlichen technischen Intervention. Der Fall Paks zeigt, wie unmittelbar Wasserknappheit inzwischen die europäische Energieinfrastruktur trifft.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/paks-in-not-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T05:46:00+00:00",
+      "title": "Paks in Not: Ungarn greift zu drastischer Maßnahme | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325822_paks-in-not-ungarn-greift-zu-drastischer-massnahme"
+    },
+    {
+      "article_id": 3325798,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Ceuta vuelve a situarse en el centro de la presión migratoria entre Marruecos, España y la Unión Europea. Un nuevo intento de alcanzar el enclave español fue contenido el 15 de agosto por las fuerzas de seguridad marroquíes, evitando por ahora una repetición de la crisis de finales de julio. Pero el episodio abre un frente más incómodo para Madrid: sindicatos de trabajadores fronterizos aseguran que el Gobierno había recibido reiteradas advertencias antes de la llegada masiva que dejó decenas de muertos.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ceuta-bajo-presi-n-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T05:04:00+00:00",
+      "title": "Ceuta bajo presión: las alertas previas abren un frente político | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325798_ceuta-bajo-presion-las-alertas-previas-abren-un-frente-politico"
+    },
+    {
       "article_id": 3325787,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -967,28 +989,6 @@
       "published": "2026-08-08T03:45:00+00:00",
       "title": "Selenskyj in Belgrad: Serbien zwischen Kiew und Moskau | newsmedia.report",
       "url": "https://www.newsmedia.report/3315444_selenskyj-in-belgrad-serbien-zwischen-kiew-und-moskau"
-    },
-    {
-      "article_id": 3315437,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "The United States says Iran and Oman are making progress toward an agreement on the Strait of Hormuz and that a deal could come soon. Washington has now attached a major incentive to that prospect, offering to lift its blockade of Iranian ports once an agreement restoring unimpeded commercial shipping is announced and Iran begins carrying out its commitments. The signal is potentially the most important diplomatic development in weeks. It is not, however, a reopening of the Strait, a final agreement with Tehran or evidence that the five month war is approaching a definitive end.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/washington-says-hormuz-deal-is-near-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T03:20:00+00:00",
-      "title": "Washington Says Hormuz Deal Is Near | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315437_washington-says-hormuz-deal-is-near"
-    },
-    {
-      "article_id": 3314555,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Несмотря на продолжающуюся войну России против Украины и масштабную санкционную политику Европейского союза, поездки российских граждан в страны Шенгенской зоны не прекратились. В 2025 году граждане России подали более 670 000 заявлений на шенгенские визы, а выдано было более 620 000 виз. Более 477 000 из них относились к туристическим поездкам. Эти цифры вновь ставят перед Европой сложный вопрос: насколько открытой должна оставаться Шенгенская зона для российских туристов в условиях войны, санкций и растущих опасений в сфере безопасности?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/schengen-visa-f-r-russische-b-rger-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-07T10:45:00+00:00",
-      "title": "Европа выдала россиянам более 620 000 шенгенских виз | newsmedia.report",
-      "url": "https://www.newsmedia.report/3314555_evropa-vydala-rossiyanam-bolee-620-000-shengenskih-viz"
     }
   ],
   "version": 1
