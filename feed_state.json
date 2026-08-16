@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3326033,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Business",
+      "description": "A major change in U.S. naval procurement has created an opening that would have been politically difficult to imagine only a few years ago. President Donald Trump is allowing qualified foreign shipbuilders to construct a limited number of U.S. Navy vessels abroad, and South Korea’s industrial giants are among the companies best positioned to test how far Washington is prepared to take the new model.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/could-south-korea-build-america-s-next-warships-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T09:10:00+00:00",
+      "title": "Could South Korea Build America’s Next Warships? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3326033_could-south-korea-build-america-s-next-warships"
+    },
+    {
+      "article_id": 3326010,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europa",
+      "description": "Ursula von der Leyen führt die Europäische Kommission in einer Phase, in der sich die Europäische Union außenpolitisch behaupten, militärisch neu aufstellen und wirtschaftlich gegen die USA und China bestehen muss. Gleichzeitig begleiten die Kommissionspräsidentin seit Jahren Fragen nach Transparenz, Machtkonzentration und ihrem Umgang mit institutioneller Kontrolle. Der Sommer 2026 zeigt deshalb deutlicher denn je: Bei von der Leyen geht es längst nicht nur um ihre Person, sondern um die Frage, wie politisch mächtig die Europäische Kommission werden soll und welche Kontrolle dieser Macht gegenübersteht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ursula-von-der-leyen-unter-druck-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T09:01:00+00:00",
+      "title": "Von der Leyen: Macht, Skandale und Europas Kurs | newsmedia.report",
+      "url": "https://www.newsmedia.report/3326010_von-der-leyen-macht-skandale-und-europas-kurs"
+    },
+    {
       "article_id": 3325941,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -967,28 +989,6 @@
       "published": "2026-08-08T06:03:00+00:00",
       "title": "Ibrahim Traoré: Burkina Fasos Wandel seit 2022 | newsmedia.report",
       "url": "https://www.newsmedia.report/3315477_ibrahim-traore-burkina-fasos-wandel-seit-2022"
-    },
-    {
-      "article_id": 3315473,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "На протяжении последних лет жителям Европы всё чаще говорят о том, что после войны в Украине Россия может стать прямой угрозой для НАТО. Некоторые западные оценки теперь допускают возможность проверки устойчивости альянса уже с осени 2026 года. Однако между публичным предупреждением, военным потенциалом и реальным намерением начать конфликт существует принципиальная разница. Чтобы понять, чего Запад действительно ожидает от России, эти уровни необходимо рассматривать отдельно.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russland_nato_sicht-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T05:33:00+00:00",
-      "title": "Россия и НАТО: чего ждёт Запад? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315473_rossiya-i-nato-chego-zhdet-zapad"
-    },
-    {
-      "article_id": 3315467,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politics",
-      "description": "The United States can still hit Iran hard. The more difficult question in Washington is whether further escalation can still deliver the political outcome President Donald Trump wants. America’s top military adviser is reportedly pressing the case for an off-ramp, critical weapons stocks are under strain, and negotiations over the Strait of Hormuz are creating the first credible path toward de-escalation.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-s-iran-exit-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T05:11:00+00:00",
-      "title": "Trump’s Iran Exit? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315467_trump-s-iran-exit"
     }
   ],
   "version": 1
