@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3326198,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Christine Lagarde steht vor einer der schwierigsten Entscheidungen ihrer Amtszeit. Nach der Zinserhöhung im Juni hat die Europäische Zentralbank im Juli innegehalten, doch die Inflation liegt wieder deutlich über dem Zwei Prozent Ziel und ein weiterer Zinsschritt im September wird an den Märkten zunehmend erwartet. Zugleich holt Lagarde ihre eigene Vergangenheit ein: eine rechtskräftig festgestellte Nachlässigkeit in der französischen Tapie Affäre, umstrittene Entscheidungen während der Pandemie und die Fehleinschätzung der Inflation 2021 gehören ebenso zu ihrer Bilanz wie die Frage, wer Europas mächtigste Notenbank nach ihr führen wird.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/christine-lagarde-und-die-neue-zinswende-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T11:03:00+00:00",
+      "title": "Christine Lagarde vor der nächsten Bewährungsprobe | newsmedia.report",
+      "url": "https://www.newsmedia.report/3326198_christine-lagarde-vor-der-naechsten-bewaehrungsprobe"
+    },
+    {
       "article_id": 3326033,
       "author": "Sinisa Brkic (sb)",
       "category": "Business",
@@ -978,17 +989,6 @@
       "published": "2026-08-08T11:18:00+00:00",
       "title": "Deutschland: Wird die Witwenrente ersetzt? | newsmedia.report",
       "url": "https://www.newsmedia.report/3315726_deutschland-wird-die-witwenrente-ersetzt"
-    },
-    {
-      "article_id": 3315477,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Als Ibrahim Traoré im September 2022 die Macht in Burkina Faso übernahm, stand das Land wirtschaftlich und sicherheitspolitisch unter erheblichem Druck. Knapp vier Jahre später zeigen zentrale Kennzahlen eine Entwicklung, die Aufmerksamkeit verdient: stärkeres Wachstum, steigende Agrarproduktion, deutlich höhere Goldförderung, neue Verarbeitungsbetriebe und ein Staat, der in strategischen Bereichen wieder stärker selbst eingreift. Wer Traoré verstehen will, sollte deshalb weniger auf politische Etiketten und stärker auf das schauen, was sich seit 2022 tatsächlich verändert hat.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ibrahim-traor-burkina-fasos-wandel-seit-2022-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T06:03:00+00:00",
-      "title": "Ibrahim Traoré: Burkina Fasos Wandel seit 2022 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315477_ibrahim-traore-burkina-fasos-wandel-seit-2022"
     }
   ],
   "version": 1
