@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3325174,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Jesus Christus ist für Milliarden Menschen mit einer Religion verbunden. Dieser Spezialbericht stellt eine andere These zur Diskussion: Jesus Christus ist nicht mit Katholizismus, Protestantismus, Vatikan oder später entstandenen religiösen Institutionen gleichzusetzen, sondern als Messias und Sohn Gottes eigenständig zu betrachten. Gerade Jerusalem eröffnet dabei einen bemerkenswerten Widerspruch, denn während Jesus Christus weltweit mit dieser Stadt verbunden wird, wird seine Stellung als Messias und Sohn Gottes im rabbinischen Judentum ausdrücklich verworfen, und offene Bekenntnisse zu ihm können in bestimmten Milieus bis heute heftige Ablehnung hervorrufen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jesus-christus-in-jerusalem-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T20:24:00+00:00",
+      "title": "Jesus Christus in Jerusalem: Wenn sein Name zum Risiko wird | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325174_jesus-christus-in-jerusalem-wenn-sein-name-zum-risiko-wird"
+    },
+    {
       "article_id": 3326783,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-08T14:30:00+00:00",
       "title": "Kryptomarkt am Wendepunkt: Szenarien | newsmedia.report",
       "url": "https://www.newsmedia.report/3315843_kryptomarkt-am-wendepunkt-szenarien"
-    },
-    {
-      "article_id": 3315808,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sport",
-      "description": "Die Zukunft von David Alaba bekommt eine neue Wendung. Nach den jüngsten Spekulationen um AC Milan beschäftigt sich nun auch Juventus Turin mit Österreichs Teamkapitän. Eine Einigung gibt es nicht, doch die neue Spur zeigt, dass Alaba auf dem europäischen Spitzenmarkt weiterhin eine ernsthafte Option ist.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/david-alaba-juventus-zeigt-interesse-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T12:34:00+00:00",
-      "title": "David Alaba: Nächster europäischer Topclub zeigt Interesse | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315808_david-alaba-naechster-europaeischer-topclub-zeigt-interesse"
     }
   ],
   "version": 1
