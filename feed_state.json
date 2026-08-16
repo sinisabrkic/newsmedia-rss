@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3326783,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Just days after taking office as the nation’s top law enforcement official, Attorney General Todd Blanche has declined to promise that the Justice Department will operate independently from President Donald Trump’s White House. The statement does not mean Blanche has agreed to unlawful presidential orders. But coming from Trump’s former personal criminal defense lawyer, it places one of Washington’s most sensitive institutional questions directly at the center of his tenure.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-s-attorney-general-refuses-doj-independence-pledge-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T19:12:00+00:00",
+      "title": "Trump’s Attorney General Won’t Pledge DOJ Independence | newsmedia.report",
+      "url": "https://www.newsmedia.report/3326783_trump-s-attorney-general-won-t-pledge-doj-independence"
+    },
+    {
       "article_id": 3326278,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-08-08T12:34:00+00:00",
       "title": "David Alaba: Nächster europäischer Topclub zeigt Interesse | newsmedia.report",
       "url": "https://www.newsmedia.report/3315808_david-alaba-naechster-europaeischer-topclub-zeigt-interesse"
-    },
-    {
-      "article_id": 3315765,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politics",
-      "description": "Nearly two years after Joe Biden used presidential power to shield his son from federal prosecution, Hunter Biden is revisiting a decision that became one of the most controversial acts of his father’s presidency. In a new BBC Newsnight interview, his account adds an unexpected voice to a debate that never fully disappeared, while also offering a personal glimpse into the former president’s continuing battle with advanced prostate cancer.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hunter-biden-reopens-the-pardon-debate-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-08T11:50:00+00:00",
-      "title": "Hunter Biden Reopens the Pardon Debate | newsmedia.report",
-      "url": "https://www.newsmedia.report/3315765_hunter-biden-reopens-the-pardon-debate"
     }
   ],
   "version": 1
