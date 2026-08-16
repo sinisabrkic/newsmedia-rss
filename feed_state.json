@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3325787,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Die mögliche Übernahme von PayPal erreicht eine neue Phase. Nachdem ein gemeinsames Angebot von Stripe und Advent International über 60,50 Dollar je Aktie dem PayPal-Verwaltungsrat zu niedrig war, wird inzwischen direkt über einen höheren Preis gesprochen. Ein Abschluss steht weiterhin nicht fest, doch aus einem Übernahmeversuch ist ein ernsthafter Milliardenpoker um einen der bekanntesten Namen der globalen Finanztechnologie geworden",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/paypal-bernahmepoker-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-16T04:41:00+00:00",
+      "title": "PayPal im Übernahmepoker: Stripe und Advent verhandeln | newsmedia.report",
+      "url": "https://www.newsmedia.report/3325787_paypal-im-uebernahmepoker-stripe-und-advent-verhandeln"
+    },
+    {
       "article_id": 3325548,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-08-07T10:45:00+00:00",
       "title": "Европа выдала россиянам более 620 000 шенгенских виз | newsmedia.report",
       "url": "https://www.newsmedia.report/3314555_evropa-vydala-rossiyanam-bolee-620-000-shengenskih-viz"
-    },
-    {
-      "article_id": 3314317,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La campagne présidentielle française n’a pas encore atteint sa phase décisive que la bataille pour le contrôle de l’espace numérique est déjà ouverte. Marine Tondelier, candidate des Écologistes, estime qu’une suspension temporaire de plateformes comme X devrait pouvoir être envisagée si des ingérences étrangères étaient constatées avant ou pendant l’élection. La réaction immédiate d’Elon Musk transforme une question de sécurité électorale en confrontation politique majeure, au moment où plusieurs candidats français viennent précisément d’être visés par des opérations de désinformation attribuées à des réseaux liés à la Russie.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pr-sidentielle-2027-marine-tondelier-et-x-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-07T08:05:00+00:00",
-      "title": "Présidentielle 2027: Tondelier veut pouvoir suspendre X | newsmedia.report",
-      "url": "https://www.newsmedia.report/3314317_presidentielle-2027-tondelier-veut-pouvoir-suspendre-x"
     }
   ],
   "version": 1
