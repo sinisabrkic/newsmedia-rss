@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3327956,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "It was built fast, opened without the inspection ICE policy required and backed by a service contract valued at up to $1.3 billion. Federal auditors later documented wasted millions, serious medical failures, inadequate oversight, a loaded firearm that disappeared inside the facility and evidence that was missing or destroyed after a detainee death classified as a homicide. The original contractor was replaced, but the camp remained open and ICE moved toward another massive sole-source contract to keep it running.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ice-the-billion-dollar-detention-camp-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-17T15:30:00+00:00",
+      "title": "ICE: THE BILLION-DOLLAR DETENTION CAMP | newsmedia.report",
+      "url": "https://www.newsmedia.report/3327956_ice-the-billion-dollar-detention-camp"
+    },
+    {
       "article_id": 3327899,
       "author": "Sinisa Brkic (sb)",
       "category": "Politics",
@@ -978,17 +989,6 @@
       "published": "2026-08-09T12:07:00+00:00",
       "title": "Drohnenalarm über Deutschland | newsmedia.report",
       "url": "https://www.newsmedia.report/3317010_drohnenalarm-ueber-deutschland"
-    },
-    {
-      "article_id": 3316882,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Война все заметнее влияет не только на военную инфраструктуру и приграничные территории России, но и на системы, напрямую связанные с повседневной жизнью миллионов людей. Серия атак на объекты Wildberries показывает, насколько уязвимой может оказаться крупная логистическая сеть, если вооруженный конфликт начинает затрагивать гражданскую экономику. Для покупателей это прежде всего вопрос доставки и доступности товаров, для бизнеса вопрос устойчивости всей цепочки поставок.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wildberries-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T10:04:00+00:00",
-      "title": "Wildberries: российский онлайн-ритейл ощущает последствия войны | newsmedia.report",
-      "url": "https://www.newsmedia.report/3316882_wildberries-rossiyskiy-onlayn-riteyl-oshchushchaet-posledstviya-voyny"
     }
   ],
   "version": 1
