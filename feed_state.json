@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3328066,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit / Deutschland",
+      "description": "Mit der „Admiral Kasatonov“ hat Russland eines seiner moderneren Kriegsschiffe in die Ostsee verlegt. Die Fregatte wurde vor Fehmarn beobachtet, nachdem bereits Ende Juli der russische Zerstörer „Admiral Levchenko“ in das Seegebiet eingelaufen war. Für sich genommen ist die Passage eines Kriegsschiffs noch keine Eskalation, doch Zeitpunkt, Bewaffnung und die wachsende Verknüpfung russischer Marineoperationen mit dem Schutz strategisch wichtiger Handelsschiffe geben der Verlegung eine politische Bedeutung, die weit über eine gewöhnliche Durchfahrt hinausreicht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russlands-fregatte-vor-fehmarn-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-17T17:19:00+00:00",
+      "title": "Russlands Fregatte in der Ostsee | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328066_russlands-fregatte-in-der-ostsee"
+    },
+    {
       "article_id": 3328023,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-09T17:52:00+00:00",
       "title": "Salmonella Alert Expands to Meat and Poultry | newsmedia.report",
       "url": "https://www.newsmedia.report/3317422_salmonella-alert-expands-to-meat-and-poultry"
-    },
-    {
-      "article_id": 3317216,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Neue Berichte über US Geheimdiensteinschätzungen haben die Debatte über einen möglichen russischen Angriff auf ein NATO Land erneut verschärft. In großen russischen Medien wird dieses Szenario zwar aufgegriffen, zugleich aber entschieden zurückgewiesen und in eine gegenteilige Erzählung eingebettet: Nicht Russland bereite einen Angriff auf die NATO vor, sondern der Westen bewege sich auf eine direkte militärische Konfrontation mit Russland zu. Die Unterschiede zwischen staatsnahen Medien und unabhängigen russischsprachigen Redaktionen sind dabei erheblich.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/moskau-dreht-die-bedrohungsachse-um-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T15:17:00+00:00",
-      "title": "Putin beschuldigt den Westen: NATO bereitet Krieg gegen Russland vor | newsmedia.report",
-      "url": "https://www.newsmedia.report/3317216_putin-beschuldigt-den-westen-nato-bereitet-krieg-gegen-russland-vor"
     }
   ],
   "version": 1
