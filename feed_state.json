@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3327899,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politics",
+      "description": "Attorney General Todd Blanche says President Donald Trump should have a voice in decisions involving individual prosecutions. That position does not by itself establish unlawful political interference, but it reaches directly into one of Washington’s most sensitive institutional boundaries: how much influence a president should exercise over the federal machinery of criminal justice.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/who-controls-trump-s-doj-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-17T14:50:00+00:00",
+      "title": "Who Controls Trump’s DOJ? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3327899_who-controls-trump-s-doj"
+    },
+    {
+      "article_id": 3327803,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "KPMG is paid to examine controls, challenge corporate governance and protect confidence in financial reporting. In Australia, the auditor is now confronting failures inside its own walls after confidential client information was misused, internal investigations failed to establish what had happened and new whistleblowers began approaching parliament. What started as a complaint about client data has become something larger: a test of whether one of the world’s most powerful professional services firms was capable of policing itself.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kpmg-s-trust-crisis-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-17T14:05:00+00:00",
+      "title": "KPMG’S TRUST CRISIS: INSIDE THE FAILURE OF CONTROL | newsmedia.report",
+      "url": "https://www.newsmedia.report/3327803_kpmg-s-trust-crisis-inside-the-failure-of-control"
+    },
+    {
       "article_id": 3327775,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-09T10:04:00+00:00",
       "title": "Wildberries: российский онлайн-ритейл ощущает последствия войны | newsmedia.report",
       "url": "https://www.newsmedia.report/3316882_wildberries-rossiyskiy-onlayn-riteyl-oshchushchaet-posledstviya-voyny"
-    },
-    {
-      "article_id": 3316855,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Economy",
-      "description": "Jared Kushner’s investment push in Albania has grown into something far larger than a luxury resort story. At stake are billions of euros in planned development, valuable coastal land, Albania’s ambition to move decisively into high-end tourism, and the terms on which a relatively small European economy opens strategic assets to international capital. What began as an investment proposition has become a test of whether large-scale tourism development can generate durable economic value without weakening property rights, environmental safeguards and public confidence",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kushner-s-albania-bet-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T09:46:00+00:00",
-      "title": "Kushner’s Albania Gamble | newsmedia.report",
-      "url": "https://www.newsmedia.report/3316855_kushner-s-albania-gamble"
-    },
-    {
-      "article_id": 3316830,
-      "author": "Sinisa Brkic (sb",
-      "category": "Sicherheit",
-      "description": "Innerhalb weniger Tage verlor das Kernkraftwerk Saporischschja zweimal seine externe Stromversorgung. Notstromaggregate übernahmen die Versorgung sicherheitsrelevanter Systeme. Der Fall zeigt weit über die Ukraine hinaus, wie abhängig moderne Gesellschaften von funktionierenden Stromnetzen, Kommunikationswegen und belastbaren Notfallstrukturen geworden sind. Die vernünftige Antwort darauf ist weder Alarmismus noch Verdrängung, sondern Vorbereitung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/saporischschja-und-europas-krisenvorsorge-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T09:30:00+00:00",
-      "title": "Saporischschja ohne Strom: Europas Warnsignal | newsmedia.report",
-      "url": "https://www.newsmedia.report/3316830_saporischschja-ohne-strom-europas-warnsignal"
     }
   ],
   "version": 1
