@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3328365,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "President Donald Trump’s plan for a roughly $400 million White House ballroom has become something considerably larger than a dispute over architecture. The administration is now asking the Supreme Court to let construction continue after a federal appeals court concluded that the executive branch cannot erect such a major new structure on White House grounds without congressional authorization. At stake is not simply whether Trump gets his ballroom, but who ultimately controls the physical seat of the American presidency. The Justice Department says the project is inseparable from an extensive new security complex and is vital to national security. The appellate majority saw the matter…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/who-controls-the-white-house-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-17T22:34:00+00:00",
+      "title": "Trump’s $400 Million Ballroom Fight | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328365_trump-s-400-million-ballroom-fight"
+    },
+    {
       "article_id": 3328234,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-09T20:55:00+00:00",
       "title": "Tuberculose près de Paris: ce que l’on sait | newsmedia.report",
       "url": "https://www.newsmedia.report/3317798_tuberculose-pres-de-paris-ce-que-l-on-sait"
-    },
-    {
-      "article_id": 3317769,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Immobilien",
-      "description": "Deutschlands Immobilienmarkt steht vor einem Generationenwechsel, dessen Folgen weit über Erbschaften und einzelne Hausverkäufe hinausreichen könnten. Millionen ältere Eigentümer werden ihre Wohnsituation in den kommenden Jahren verändern, doch daraus eine unmittelbar bevorstehende Verkaufswelle oder gar einen bundesweiten Preissturz abzuleiten, wäre voreilig. Entscheidend wird sein, welche Immobilien tatsächlich auf den Markt kommen, in welchen Regionen sie liegen und in welchem Zustand sie an die nächste Generation übergehen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/babyboomer-und-immobilienpreise-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T20:22:00+00:00",
-      "title": "Immobilien: \"Babyboomer\" verkaufen ihre Häuser | newsmedia.report",
-      "url": "https://www.newsmedia.report/3317769_immobilien-babyboomer-verkaufen-ihre-haeuser"
     }
   ],
   "version": 1
