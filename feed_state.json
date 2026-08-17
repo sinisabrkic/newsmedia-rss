@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3327775,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Un avion léger d’entraînement Cirrus SR-20 de l’Armée de l’Air et de l’Espace a été accidenté lundi matin à Salon-de-Provence, dans les Bouches-du-Rhône, alors qu’il effectuait un vol d’instruction. L’instructeur et l’élève pilote présents à bord ont réussi à éviter les zones habitées et à quitter l’appareil. Tous deux sont légèrement blessés, tandis qu’aucune victime n’est à déplorer parmi la population.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/crash-d-un-cirrus-sr-20-salon-de-provence-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-17T13:38:00+00:00",
+      "title": "Salon-de-Provence : crash d’un Cirrus SR-20 militaire | newsmedia.report",
+      "url": "https://www.newsmedia.report/3327775_salon-de-provence-crash-d-un-cirrus-sr-20-militaire"
+    },
+    {
       "article_id": 3327372,
       "author": "Sinisa Brkic (sb)",
       "category": "Deutschland / Politik",
@@ -978,17 +989,6 @@
       "published": "2026-08-09T09:30:00+00:00",
       "title": "Saporischschja ohne Strom: Europas Warnsignal | newsmedia.report",
       "url": "https://www.newsmedia.report/3316830_saporischschja-ohne-strom-europas-warnsignal"
-    },
-    {
-      "article_id": 3316732,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Dimension der verlustreichen Geldanlagen deutscher Krankenkassen und Kassenärztlicher Vereinigungen wächst. Nach jüngsten Recherchen summieren sich die bislang bekannt gewordenen Verluste und massiv wertgeminderten Engagements auf knapp 220 Millionen Euro. Aus Finanzkreisen steht sogar eine wesentlich größere Summe im Raum: 28 Einrichtungen sollen mehr als 500 Millionen Euro in Produkte rund um die Verius-Fonds investiert haben. Damit geht es längst nicht mehr nur um missglückte Finanzanlagen einzelner Institutionen. Im Zentrum stehen die Fragen, wie öffentlich gebundene Beitragsgelder in Produkte mit erheblichen Risiken gelangen konnten, welche Verantwortung Vorstände, Berater und…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/krankenkassen-aff-re-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T08:11:00+00:00",
-      "title": "Deutschland: Krankenkassen-Affäre Beitragsgelder | newsmedia.report",
-      "url": "https://www.newsmedia.report/3316732_deutschland-krankenkassen-affaere-beitragsgelder"
     }
   ],
   "version": 1
