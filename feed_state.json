@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3328023,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "President Donald Trump has threatened military action against Oman if the Gulf state obstructs U.S. objectives in the Strait of Hormuz, placing extraordinary pressure on a longtime American partner that is simultaneously trying to mediate between Washington and Tehran. The confrontation comes as Iran and Oman work toward a shipping arrangement for the strait, while a 60-day diplomatic window between the United States and Iran expires without a comprehensive settlement.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-threatens-oman-as-iran-hormuz-talks-reach-critical-point-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-17T16:18:00+00:00",
+      "title": "Trump Threatens Oman Over Hormuz | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328023_trump-threatens-oman-over-hormuz"
+    },
+    {
       "article_id": 3327956,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-08-09T15:17:00+00:00",
       "title": "Putin beschuldigt den Westen: NATO bereitet Krieg gegen Russland vor | newsmedia.report",
       "url": "https://www.newsmedia.report/3317216_putin-beschuldigt-den-westen-nato-bereitet-krieg-gegen-russland-vor"
-    },
-    {
-      "article_id": 3317010,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Eine mit professionellem Sprengstoff versehene Drohne am Flughafen Leipzig/Halle, kurz darauf unbekannte Drohnen über einem Bundeswehrstandort in Nordrhein-Westfalen: Innerhalb weniger Tage geraten zwei strategisch sensible Orte in den Mittelpunkt deutscher Sicherheitsbehörden. Ein Zusammenhang zwischen den Vorfällen ist bislang nicht belegt, ebenso wenig eine staatliche Urheberschaft. Dennoch zeigt die Entwicklung, wie schwierig Deutschland auf Bedrohungen vorbereitet ist, die sich zwischen Spionage, Sabotage und offenem Angriff bewegen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drohnenbedrohung-in-deutschland-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T12:07:00+00:00",
-      "title": "Drohnenalarm über Deutschland | newsmedia.report",
-      "url": "https://www.newsmedia.report/3317010_drohnenalarm-ueber-deutschland"
     }
   ],
   "version": 1
