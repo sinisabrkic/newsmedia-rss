@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3328206,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Eine Tonne CO₂ hat längst keinen einheitlichen Preis mehr. Im europäischen Emissionshandel kostet das Recht zum Ausstoß einer Tonne derzeit rund 81 Euro, während hochwertige Zertifikate am freiwilligen Markt nach völlig anderen Regeln bewertet werden. Der Carbon Protocol Council, CPC, setzt seinen aktuellen Preis mit 45 Euro je Tonne an und positioniert sich damit bewusst außerhalb des verpflichtenden EU Emissionshandels. Bis 2030 dürften Regulierung, Qualitätsanforderungen und strengere Regeln für Klimaversprechen die Unterschiede zwischen beiden Märkten noch deutlicher sichtbar machen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-preis-der-tonne-co-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-17T19:25:00+00:00",
+      "title": "Europas Kohlenstoffmarkt: CO₂ vor dem Preissprung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328206_europas-kohlenstoffmarkt-co2-vor-dem-preissprung"
+    },
+    {
       "article_id": 3328066,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit / Deutschland",
@@ -978,17 +989,6 @@
       "published": "2026-08-09T18:55:00+00:00",
       "title": "Zu spät erkannt: Es war der Mensch fürs Leben / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3317571_zu-spaet-erkannt-es-war-der-mensch-fuers-leben"
-    },
-    {
-      "article_id": 3317422,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Health",
-      "description": "A multistate Salmonella outbreak linked to recalled jalapeños is expanding beyond fresh produce and into processed foods. The U.S. Department of Agriculture has issued a public health alert covering certain meat and poultry products made with jalapeños tied to the contamination, adding a new layer of complexity for consumers trying to determine what remains safe to eat. Federal health officials have reported 345 illnesses across 27 states and 36 hospitalizations, with no deaths reported so far. The investigation remains active as authorities work to trace the full distribution network and identify additional products that may have used the affected peppers.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/salmonella-jalape-o-recall-special-report-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T17:52:00+00:00",
-      "title": "Salmonella Alert Expands to Meat and Poultry | newsmedia.report",
-      "url": "https://www.newsmedia.report/3317422_salmonella-alert-expands-to-meat-and-poultry"
     }
   ],
   "version": 1
