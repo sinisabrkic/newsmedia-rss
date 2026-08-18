@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3329789,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Die PlayStation 6 kommt, doch wann sie erscheint, ist selbst bei Sony noch nicht entschieden. Hinter der ungewöhnlichen Unsicherheit steckt weit mehr als die gewöhnliche Planung eines neuen Konsolenzyklus. Der weltweite Ausbau von KI Rechenzentren verschärft die Konkurrenz um Speicher und andere Komponenten und zwingt Sony zu einer heiklen Abwägung zwischen Leistung, Preis, Verfügbarkeit und dem richtigen Zeitpunkt für die nächste PlayStation Generation.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/playstation-6-unter-ki-druck-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T21:01:00+00:00",
+      "title": "KI Boom stellt die PlayStation 6 unter Druck | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329789_ki-boom-stellt-die-playstation-6-unter-druck"
+    },
+    {
       "article_id": 3329641,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-11T12:20:00+00:00",
       "title": "U.S. Military Secrets Case Rocks South Korea | newsmedia.report",
       "url": "https://www.newsmedia.report/3319884_u-s-military-secrets-case-rocks-south-korea"
-    },
-    {
-      "article_id": 3319859,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Delhi has reported 1,344 H1N1 cases so far this season, a sharp increase from the 229 cases recorded through September 2025. Health authorities are intensifying screening and treatment as H1N1 emerges as the dominant influenza A subtype reported in the capital this season, but the available evidence continues to place the outbreak within the context of seasonal influenza.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/delhi-h1n1-influenza-surge-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T11:53:00+00:00",
-      "title": "Delhi Reports 1,344 H1N1 Cases as Seasonal Influenza Activity Rises Sharply | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319859_delhi-reports-1-344-h1n1-cases-as-seasonal-influenza-activity-rises-sharply"
     }
   ],
   "version": 1
