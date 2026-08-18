@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3329571,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politics",
+      "description": "Natalie Harp is not a Cabinet secretary, a senior policy strategist or one of the familiar public faces of the Trump administration. Yet she occupies an unusually close position around the president, helping deliver information, assisting with his communications and traveling with him. After Democratic Senator Jon Ossoff invoked her name in a campaign attack and the White House responded with striking intensity, a little known presidential aide has suddenly become a national political story.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/who-controls-the-white-house-newsmedia-redaktion-high-wtf42x.png",
+      "language": "de-AT",
+      "published": "2026-08-18T18:05:00+00:00",
+      "title": "Who Is Natalie Harp, Mr. President? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329571_who-is-natalie-harp-mr-president"
+    },
+    {
       "article_id": 3329396,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-11T10:40:00+00:00",
       "title": "Italia e Spagna, la crisi di Ceuta mette Schengen alla prova | newsmedia.report",
       "url": "https://www.newsmedia.report/3319786_italia-e-spagna-la-crisi-di-ceuta-mette-schengen-alla-prova"
-    },
-    {
-      "article_id": 3319742,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "President Donald Trump was secretly transferred from Air Force One to a smaller U.S. military aircraft after the NATO summit in Turkey because American officials were responding to what was described as a credible Iranian assassination threat. The extraordinary security operation concealed the president’s actual departure from journalists and even some members of the White House traveling party, turning the visible presidential aircraft into an effective decoy.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-threat-forced-trump-plane-switch-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T09:52:00+00:00",
-      "title": "Iran Threat Forced Trump Plane Switch | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319742_iran-threat-forced-trump-plane-switch"
     }
   ],
   "version": 1
