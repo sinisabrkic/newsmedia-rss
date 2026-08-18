@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3329155,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "India made E20 the nationwide petrol standard on 1 April 2026, leaving drivers without a conventional E10 alternative at the pump. Now one of the government’s most senior economic advisers is calling for E10 to return for older vehicles, turning a technical dispute over mileage and compatibility into a much larger argument about consumer choice, energy security, agriculture and the limits of India’s ethanol strategy.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-s-e20-petrol-push-faces-a-consumer-backlash-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T12:33:00+00:00",
+      "title": "India’s E20 Petrol Push Faces a Consumer Backlash | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329155_india-s-e20-petrol-push-faces-a-consumer-backlash"
+    },
+    {
+      "article_id": 3329117,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Russia has warned Britain of unspecified consequences following reports that British made drones have been used by Ukraine for strikes inside Russian territory. The UK has not confirmed the reported deployments and continues to describe its military assistance as support for Ukraine’s defence. Behind the exchange lies a wider question about where military assistance ends and direct involvement begins.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russia-warns-uk-over-drones-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T12:11:00+00:00",
+      "title": "Russia Warns UK Over Drones | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329117_russia-warns-uk-over-drones"
+    },
+    {
       "article_id": 3328982,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -967,28 +989,6 @@
       "published": "2026-08-11T08:10:00+00:00",
       "title": "Sony and TSMC Reportedly Plan $6.3 Billion Kumamoto Chip Venture | newsmedia.report",
       "url": "https://www.newsmedia.report/3319607_sony-and-tsmc-reportedly-plan-6-3-billion-kumamoto-chip-venture"
-    },
-    {
-      "article_id": 3319591,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Die NÖM AG ruft in Österreich eine bestimmte Charge ihres Vanillejoghurts zurück. Betroffen ist NÖM Mix Vanille im 180 Gramm Becher mit dem Mindesthaltbarkeitsdatum 30.08.2026. Grund sind mögliche Spuren von Pistazie, die auf der Verpackung nicht als Allergen ausgewiesen sind. Menschen mit Pistazienallergie sollen das betroffene Produkt keinesfalls konsumieren.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/n-m-vanillejoghurt-r-ckruf-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T07:45:00+00:00",
-      "title": "NÖM ruft Vanillejoghurt zurück: Dieses Produkt ist betroffen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319591_noem-ruft-vanillejoghurt-zurueck-dieses-produkt-ist-betroffen"
-    },
-    {
-      "article_id": 3318964,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "Revolut has secured a full banking licence in France, giving one of Europe’s largest digital banking groups a second major banking hub inside the European Union. The immediate move concerns France, but Germany, Ireland, Italy, Portugal and Spain are set to follow. For millions of customers, the decisive questions now concern account migration, deposit protection and the services Revolut will eventually be able to offer through its new French bank.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/revolut-french-banking-licence-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-10T17:40:00+00:00",
-      "title": "Revolut Gets French Banking Licence | newsmedia.report",
-      "url": "https://www.newsmedia.report/3318964_revolut-gets-french-banking-licence"
     }
   ],
   "version": 1
