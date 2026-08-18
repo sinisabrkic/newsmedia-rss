@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3328705,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "Newly declassified FBI records provide the most detailed public account yet of the bureau’s investigation involving former Rep. Eric Swalwell and Christine Fang, the Chinese national long suspected by U.S. counterintelligence officials of ties to Beijing’s intelligence apparatus. The files contain significant new details about their personal relationship, campaign fundraising, congressional interns and an undercover FBI operation. They also contain something equally important: investigators did not establish a criminal quid pro quo or federal corruption offense by Swalwell.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/what-the-swalwell-fbi-files-actually-reveal-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T07:15:00+00:00",
+      "title": "What the Swalwell FBI Files Actually Reveal | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328705_what-the-swalwell-fbi-files-actually-reveal"
+    },
+    {
+      "article_id": 3328649,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Los grandes grupos energéticos españoles vuelven a beneficiarse de un entorno favorable para el refino, mientras el petróleo recupera peso económico y político. Repsol y Moeve presentan resultados sólidos en 2026 y una reciente estimación europea sitúa a España entre los mercados donde el aumento calculado de los beneficios del sector resulta especialmente significativo. Detrás de las cifras aparece una cuestión de mayor alcance: cómo conciliar rentabilidad, fiscalidad, seguridad energética y una transición que continúa necesitando enormes inversiones.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/el-petr-leo-vuelve-a-mandar-en-espa-a-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T06:32:00+00:00",
+      "title": "El petróleo vuelve a mandar en España | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328649_el-petroleo-vuelve-a-mandar-en-espana"
+    },
+    {
       "article_id": 3328601,
       "author": "Sinisa Brkic (sb)",
       "category": "Technology & AI",
@@ -967,28 +989,6 @@
       "published": "2026-08-10T08:45:00+00:00",
       "title": "Deutschland: Steuerreform und mehr Steuern | newsmedia.report",
       "url": "https://www.newsmedia.report/3318306_deutschland-steuerreform-und-mehr-steuern"
-    },
-    {
-      "article_id": 3318247,
-      "author": "Sinisa Brkic",
-      "category": "Technology & AI",
-      "description": "South Korea is pushing its semiconductor strategy into a new phase. President Lee Jae Myung wants a military air base in Gwangju relocated by mid 2028 to create space for a new semiconductor hub, while Samsung Electronics and SK Hynix continue to expand investments tied to advanced chips, memory and artificial intelligence.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-chip-race-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-10T07:45:00+00:00",
-      "title": "South Korea Raises the Stakes in the Global Chip Race | newsmedia.report",
-      "url": "https://www.newsmedia.report/3318247_south-korea-raises-the-stakes-in-the-global-chip-race"
-    },
-    {
-      "article_id": 3318127,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Il cosiddetto “batterio mangiacarne” sta attirando crescente attenzione in Italia, soprattutto dopo le notizie che parlano della presenza di Vibrio vulnificus nello Stretto di Messina. Il batterio può provocare infezioni gravi e, in alcuni casi, mortali. Ma la presunta scoperta italiana non è nuova: gli studi citati risalgono a oltre vent’anni fa e non dimostrano l’esistenza di un’emergenza sanitaria in corso.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/batterio-mangiacarne-in-italia-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-10T06:01:00+00:00",
-      "title": "“Batterio mangiacarne” in Italia: cosa sappiamo davvero | newsmedia.report",
-      "url": "https://www.newsmedia.report/3318127_batterio-mangiacarne-in-italia-cosa-sappiamo-davvero"
     }
   ],
   "version": 1
