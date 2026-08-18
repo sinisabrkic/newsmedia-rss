@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3328982,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Mercedes-Benz öffnet am 18. August 2026 die Bestellbücher für die umfassend überarbeitete C-Klasse. Doch hinter neuen Leuchten und einem beleuchteten Kühlergrill steckt eine wesentlich größere Entscheidung: Während parallel eine völlig neu entwickelte elektrische C-Klasse antritt, investiert Mercedes weiter in Benziner, Diesel und Plug-in-Hybride. Gleichzeitig zieht mit MB.OS eine Softwarearchitektur ein, die ChatGPT, Microsoft Bing und Google Gemini in einem KI-Assistenten zusammenführt. Die C-Klasse wird damit zum sichtbaren Beispiel dafür, wie Mercedes die automobile Transformation tatsächlich angeht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mercedes-c-klasse-facelift-spezialbericht-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T10:44:00+00:00",
+      "title": "Mercedes C-Klasse 2027: KI, Hybrid und Verbrenner | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328982_mercedes-c-klasse-2027-ki-hybrid-und-verbrenner"
+    },
+    {
+      "article_id": 3328945,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Österreich erlebt eine Trockenperiode von historischer Dimension. Niedrige Flussstände drücken die Wasserkraftproduktion, die Landwirtschaft rechnet mit erheblichen Ernteeinbußen und in Teilen des Landes geraten Böden, Grundwasser und Almwirtschaft zunehmend unter Druck. Von einer flächendeckenden Trinkwasserkrise kann dennoch keine Rede sein. Das eigentliche Problem liegt tiefer: Ein Land, das seinen Wasserreichtum lange als selbstverständlich betrachten konnte, muss seine Energieversorgung, Landwirtschaft und Wasserinfrastruktur auf deutlich größere Schwankungen vorbereiten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-historische-d-rre-wird-zum-wirtschaftlichen-stresstest-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T10:15:00+00:00",
+      "title": "Österreichs historische Dürre: wirtschaftlicher Stresstest | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328945_oesterreichs-historische-duerre-wirtschaftlicher-stresstest"
+    },
+    {
       "article_id": 3328902,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-10T17:40:00+00:00",
       "title": "Revolut Gets French Banking Licence | newsmedia.report",
       "url": "https://www.newsmedia.report/3318964_revolut-gets-french-banking-licence"
-    },
-    {
-      "article_id": 3318920,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Medien",
-      "description": "Der Rundfunkbeitrag sorgt in Deutschland erneut für erhebliches Suchinteresse. Innerhalb weniger Stunden hat sich das Suchvolumen im NEWSMEDIA Trend-Radar auf mehr als 20.000 Suchanfragen verdoppelt. Eine neue Beitragserhöhung ist damit jedoch nicht verbunden: Aktuell gelten weiterhin 18,36 Euro pro Monat und Wohnung. Die häufig genannten 18,64 Euro sind eine Empfehlung der KEF für 2027 und 2028, während das Bundesverfassungsgericht über den grundlegenden Finanzierungsstreit noch nicht entschieden hat.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rundfunkbeitrag-2027-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-10T17:10:00+00:00",
-      "title": "Deutschland: Rundfunkbeitrag 2027 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3318920_deutschland-rundfunkbeitrag-2027"
-    },
-    {
-      "article_id": 3318506,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Uganda has approved the deployment of national troops to the Gaza Strip as part of an international stabilization mission, placing the East African country inside one of the most sensitive security arrangements currently taking shape in the Middle East. Kampala describes the mission as neutral and focused on stabilization, civilian protection and the implementation of security arrangements. Yet the mandate also raises difficult questions over disarmament, military authority and the circumstances under which Ugandan forces could be required to use force.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/uganda-gaza-stabilization-mission-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-10T11:15:00+00:00",
-      "title": "Uganda Approves Troop Deployment to Gaza for International Stabilization Mission | newsmedia.report",
-      "url": "https://www.newsmedia.report/3318506_uganda-approves-troop-deployment-to-gaza-for-international-stabilization-mission"
     }
   ],
   "version": 1
