@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3329396,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "North Korea’s intervention in Russia’s war has grown from covert munitions shipments into a state-to-state military enterprise involving troops, ballistic missiles, construction units, money, battlefield experience and possible technology transfers. Behind the public language of friendship lies a harder question: what exactly is being exchanged, who controls the money, what happens when North Korean soldiers die, and how far can Moscow and Pyongyang push a partnership that collides with a sanctions system Russia itself once voted to create?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/north_korea_and_russia_the_alliance_reshaping_the_war_investigations-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T15:33:00+00:00",
+      "title": "NORTH KOREA AND RUSSIA: THE ALLIANCE RESHAPING THE WAR | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329396_north-korea-and-russia-the-alliance-reshaping-the-war"
+    },
+    {
+      "article_id": 3329344,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "La contestazione interna alla Lega non è più confinata alle riunioni di partito. Con le parole di Attilio Fontana, presidente della Lombardia e figura storica del movimento, anche la permanenza di Matteo Salvini alla guida del partito è entrata apertamente nel dibattito. Nessun cambio al vertice è stato deciso, ma il tabù è caduto e il confronto tra il Nord autonomista e la Lega nazionale costruita da Salvini si avvicina a un passaggio decisivo.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/la-lega-sfida-salvini-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T15:04:00+00:00",
+      "title": "La Lega mette in discussione Salvini | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329344_la-lega-mette-in-discussione-salvini"
+    },
+    {
       "article_id": 3329304,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -958,17 +980,6 @@
       "url": "https://www.newsmedia.report/3319786_italia-e-spagna-la-crisi-di-ceuta-mette-schengen-alla-prova"
     },
     {
-      "article_id": 3319693,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Österreich ist reich an Substanz, aber arm an Zeit. Hohe Steuern auf Arbeit, schwache Produktivitätszuwächse, ein schwerfälliger Staat, demografischer Druck, Bildungsdefizite und ungelöste Integrationsfragen gefährden nicht den Wohlstand von heute, sondern den von morgen. Wer Österreich wieder an die europäische Spitze führen will, braucht deshalb mehr als einzelne Reformen. Es braucht einen neuen wirtschaftlichen und gesellschaftlichen Vertrag, klare Ziele bis 2030 und 2040 und einen Staat, der Entscheidungen wieder umsetzt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreich-zur-ck-an-die-spitze-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T09:59:00+00:00",
-      "title": "Österreich zurück an die Spitze: Was jetzt passieren muss | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319693_oesterreich-zurueck-an-die-spitze-was-jetzt-passieren-muss"
-    },
-    {
       "article_id": 3319742,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -978,17 +989,6 @@
       "published": "2026-08-11T09:52:00+00:00",
       "title": "Iran Threat Forced Trump Plane Switch | newsmedia.report",
       "url": "https://www.newsmedia.report/3319742_iran-threat-forced-trump-plane-switch"
-    },
-    {
-      "article_id": 3319662,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energie",
-      "description": "Zehntausende suchen plötzlich nach Stromausfällen und der Bundesnetzagentur. Hintergrund ist die geplante Sicherheitsplattform Strom, über die große Verbraucher in einer schweren Mangellage koordiniert und im äußersten Fall zur Verbrauchsreduzierung verpflichtet werden könnten. Ein unmittelbar bevorstehender Blackout lässt sich daraus nicht ableiten. Die Entwicklung zeigt jedoch, wie ernst staatliche Stellen Vorsorge für extreme Situationen inzwischen nehmen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-in-deutschland-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T08:51:00+00:00",
-      "title": "Blackout in Deutschland? Was die Bundesnetzagentur jetzt plant | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319662_blackout-in-deutschland-was-die-bundesnetzagentur-jetzt-plant"
     }
   ],
   "version": 1
