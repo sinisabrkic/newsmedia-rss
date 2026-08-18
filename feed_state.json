@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3329271,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Business",
+      "description": "State Farm is distributing roughly $5 billion to qualifying auto insurance customers in the largest policyholder dividend in the company’s history. The payments are now moving across the United States in waves, raising an obvious question for millions of drivers: Who gets money, how much will they receive, and why is America’s largest auto insurer returning billions of dollars after years of painful insurance costs?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/why-state-farm-is-sending-customers-5-billion-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T14:16:00+00:00",
+      "title": "Why State Farm Is Sending Customers $5 Billion | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329271_why-state-farm-is-sending-customers-5-billion"
+    },
+    {
       "article_id": 3329155,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-11T08:51:00+00:00",
       "title": "Blackout in Deutschland? Was die Bundesnetzagentur jetzt plant | newsmedia.report",
       "url": "https://www.newsmedia.report/3319662_blackout-in-deutschland-was-die-bundesnetzagentur-jetzt-plant"
-    },
-    {
-      "article_id": 3319607,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Sony and Taiwan Semiconductor Manufacturing Company are reportedly preparing a roughly $6.3 billion joint investment in next generation image sensor chips in Japan. The project would deepen a partnership already outlined earlier this year and could give Kumamoto an even more important role in the global semiconductor industry, particularly as demand expands across automotive systems, robotics and physical artificial intelligence.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sony-tsmc-kumamoto-chip-venture-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T08:10:00+00:00",
-      "title": "Sony and TSMC Reportedly Plan $6.3 Billion Kumamoto Chip Venture | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319607_sony-and-tsmc-reportedly-plan-6-3-billion-kumamoto-chip-venture"
     }
   ],
   "version": 1
