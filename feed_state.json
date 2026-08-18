@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3329828,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Die Sicherheitslage am Persischen Golf verschärft sich erneut. Die Vereinigten Arabischen Emirate melden zwei aus Iran gestartete ballistische Raketen, die nach emiratischer Darstellung gegen den Schiffsverkehr gerichtet waren und ins Meer stürzten. Teheran weist die Darstellung zurück. Zugleich bleibt die Straße von Hormus politisch und militärisch umkämpft, während ein weiterer Zwischenfall mit einem Handelsschiff die Risiken für eine der wichtigsten Energierouten der Welt sichtbar macht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/neue-eskalation-am-golf-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T21:42:00+00:00",
+      "title": "Eskalation am Golf: Feuert Iran Raketen auf die VAE? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329828_eskalation-am-golf-feuert-iran-raketen-auf-die-vae"
+    },
+    {
       "article_id": 3329789,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -978,17 +989,6 @@
       "published": "2026-08-11T12:55:00+00:00",
       "title": "Rhein-Niedrigwasser eskaliert: Erste Frachtschiffe stoppen Fahrten | newsmedia.report",
       "url": "https://www.newsmedia.report/3319957_rhein-niedrigwasser-eskaliert-erste-frachtschiffe-stoppen-fahrten"
-    },
-    {
-      "article_id": 3319884,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "South Korean authorities have arrested two Chinese nationals who previously served in China’s People’s Liberation Army over separate allegations involving military information tied to South Korean and U.S. facilities. The cases raise immediate questions about possible intelligence gathering around key American military assets, but they also expose an unusual legal problem for Seoul: a newly expanded espionage law that could cover such conduct will not take effect until September. Investigators have not established publicly that either suspect was acting on behalf of the Chinese government or a Chinese intelligence service. Nor has any organizational connection between the two cases been…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-arrests-two-ex-pla-men-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T12:20:00+00:00",
-      "title": "U.S. Military Secrets Case Rocks South Korea | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319884_u-s-military-secrets-case-rocks-south-korea"
     }
   ],
   "version": 1
