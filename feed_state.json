@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3328601,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technology & AI",
+      "description": "A customer at Sainsbury’s in East Dulwich was wrongly removed from the store after staff acted in connection with a Facewatch facial recognition alert. Sainsbury’s and Facewatch insist that the technology itself did not identify the wrong person and say the failure occurred when staff handled a valid alert. That distinction matters, but it does not settle the larger issue. As Sainsbury’s prepares to expand facial recognition from about 55 stores to more than 200, a private biometric system is acquiring the power to influence who is treated as a suspect during one of the most ordinary activities of daily life.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sainsbury-s-facial-recognition-problem-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T05:50:00+00:00",
+      "title": "Sainsbury’s Facial Recognition Problem | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328601_sainsbury-s-facial-recognition-problem"
+    },
+    {
+      "article_id": 3328594,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Die Deutsche Telekom will mit der Übernahme von Fiberhost und Inea ihre Position auf dem polnischen Telekommunikationsmarkt grundlegend verändern. Für rund eine Milliarde Euro soll T-Mobile Polska Zugang zu einer Glasfaserinfrastruktur erhalten, die mehr als 1,4 Millionen Haushalte erreicht, hinzu kommen mehr als 300.000 Kunden des Breitband und TV Anbieters Inea. Hinter dem Deal steht mehr als ein klassischer Zukauf: Die Telekom treibt die Verzahnung von Mobilfunk und Festnetz voran und positioniert sich für die nächste Phase der europäischen Glasfaserkonsolidierung.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutsche-telekom-plant-milliardenkauf-in-polen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T05:30:00+00:00",
+      "title": "Deutsche Telekom plant Milliardenkauf in Polen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328594_deutsche-telekom-plant-milliardenkauf-in-polen"
+    },
+    {
+      "article_id": 3328565,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Ein Softwarefehler zwingt Stellantis zu einem weltweiten Rückruf von rund 955.000 Fahrzeugen der Marken Chrysler, Dodge, Jeep und Ram. Die Rückfahrkamera kann ausfallen, die Reparatur soll per Softwareupdate erfolgen. Der Fall trifft einen Konzern, der wirtschaftlich ohnehin unter erheblichem Druck steht, und zeigt zugleich, wie tief digitale Systeme inzwischen in die Sicherheitsarchitektur moderner Fahrzeuge eingreifen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/stellantis-r-ckruf-fast-eine-million-fahrzeuge-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T05:06:00+00:00",
+      "title": "Stellantis ruft fast eine Million Autos zurück | newsmedia.report",
+      "url": "https://www.newsmedia.report/3328565_stellantis-ruft-fast-eine-million-autos-zurueck"
+    },
+    {
       "article_id": 3328365,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -956,39 +989,6 @@
       "published": "2026-08-10T06:01:00+00:00",
       "title": "“Batterio mangiacarne” in Italia: cosa sappiamo davvero | newsmedia.report",
       "url": "https://www.newsmedia.report/3318127_batterio-mangiacarne-in-italia-cosa-sappiamo-davvero"
-    },
-    {
-      "article_id": 3318106,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Wolodymyr Selenskyjs erster offizieller Besuch in Serbien setzt ein bemerkenswertes Signal. Aleksandar Vučić vertieft die Beziehungen zur Ukraine, spricht über Freihandel und bekräftigt die territoriale Integrität des Landes. Ein Bruch mit Russland ist das noch nicht. Doch Belgrads jahrzehntelang gepflegte Balance beginnt sich sichtbar zu verschieben.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/serbien-auf-abstand-zu-moskau-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-10T05:36:00+00:00",
-      "title": "Vucic: Serbien auf Abstand zu Moskau? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3318106_vucic-serbien-auf-abstand-zu-moskau"
-    },
-    {
-      "article_id": 3317844,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Neue amerikanische Geheimdiensteinschätzungen stellen ein Szenario in den Raum, das Europas Sicherheitsdebatte erheblich verschärft: Russland könnte versuchen, die Geschlossenheit der NATO mit einer begrenzten Aktion zu testen, möglicherweise früher als bislang öffentlich diskutiert. Gemeint ist nicht zwingend eine groß angelegte Invasion, sondern eine Eskalation unterhalb oder unmittelbar an der Schwelle zum offenen Bündnisfall. Entscheidend ist deshalb die Unterscheidung zwischen konkreter Angriffsplanung, nachrichtendienstlicher Risikoanalyse und einer wachsenden Zahl realer hybrider Sicherheitsvorfälle in Europa",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putin-und-die-nato-was-steckt-hinter-der-neuen-warnung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T21:32:00+00:00",
-      "title": "Putin und die NATO: Was steckt hinter der neuen Warnung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3317844_putin-und-die-nato-was-steckt-hinter-der-neuen-warnung"
-    },
-    {
-      "article_id": 3317798,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Une situation de tuberculose signalée à Ivry-sur-Seine, aux portes de Paris, a déclenché une procédure de recherche et de dépistage des personnes ayant été en contact avec les malades. Une famille est concernée, mais les autorités n’ont pas rendu public le nombre exact de cas actifs. À ce stade, aucun élément disponible ne permet de parler d’une épidémie à Paris ou d’un risque généralisé pour la population.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tuberculose-ivry-sur-seine-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-09T20:55:00+00:00",
-      "title": "Tuberculose près de Paris: ce que l’on sait | newsmedia.report",
-      "url": "https://www.newsmedia.report/3317798_tuberculose-pres-de-paris-ce-que-l-on-sait"
     }
   ],
   "version": 1
