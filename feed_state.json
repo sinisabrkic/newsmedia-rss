@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3329641,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Der Krieg zwischen Russland und der Ukraine verändert erneut seine räumliche Dimension. Nach russischen Angaben flogen in der Nacht auf Dienstag 620 ukrainische Drohnen in Richtung Moskau und der umliegenden Region, nur zwei Tage nach einem weiteren außergewöhnlich großen Angriff. Während Russland seine Raketenangriffe auf ukrainische Städte verschärft, versucht die Ukraine zunehmend, militärische, logistische und wirtschaftliche Strukturen weit hinter der russischen Front unter Druck zu setzen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/moskau-unter-massivem-drohnendruck-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-18T18:49:00+00:00",
+      "title": "Moskau unter massivem Drohnendruck | newsmedia.report",
+      "url": "https://www.newsmedia.report/3329641_moskau-unter-massivem-drohnendruck"
+    },
+    {
       "article_id": 3329571,
       "author": "Sinisa Brkic (sb)",
       "category": "Politics",
@@ -978,17 +989,6 @@
       "published": "2026-08-11T11:53:00+00:00",
       "title": "Delhi Reports 1,344 H1N1 Cases as Seasonal Influenza Activity Rises Sharply | newsmedia.report",
       "url": "https://www.newsmedia.report/3319859_delhi-reports-1-344-h1n1-cases-as-seasonal-influenza-activity-rises-sharply"
-    },
-    {
-      "article_id": 3319786,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "La crisi migratoria esplosa a Ceuta ha aperto un fronte che ormai supera largamente i confini dell’enclave spagnola in Nord Africa. Italia e Spagna hanno reintrodotto controlli reciproci, trasformando una disputa sulla gestione della migrazione in uno scontro politico tra due grandi Stati dell’Unione europea. Al centro non c’è più soltanto la sicurezza delle frontiere, ma una questione più profonda: fino a che punto Schengen può resistere quando i governi iniziano a utilizzare i controlli interni anche come risposta alle decisioni degli altri partner europei?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/crisi-di-schengen-tra-italia-e-spagna-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T10:40:00+00:00",
-      "title": "Italia e Spagna, la crisi di Ceuta mette Schengen alla prova | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319786_italia-e-spagna-la-crisi-di-ceuta-mette-schengen-alla-prova"
     }
   ],
   "version": 1
