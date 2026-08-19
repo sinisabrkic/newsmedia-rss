@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3330143,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technology & AI",
+      "description": "Alleged GTA VI footage and what is claimed to be a map of the game have spread online just days before Rockstar Games is due to present an official extended look at its most important upcoming release. The material has not been fully authenticated, but reports of copyright takedowns have intensified speculation. The larger story is no longer simply what may have leaked. It is whether Rockstar can retain control of the narrative surrounding one of the most commercially important launches in entertainment.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gta-6-leak-puts-rockstar-s-launch-control-to-the-test-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T07:25:00+00:00",
+      "title": "GTA 6 Leak: Rockstar Loses Control | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330143_gta-6-leak-rockstar-loses-control"
+    },
+    {
       "article_id": 3330120,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-12T06:58:00+00:00",
       "title": "Shiprocket IPO: Hype Meets Reality | newsmedia.report",
       "url": "https://www.newsmedia.report/3320938_shiprocket-ipo-hype-meets-reality"
-    },
-    {
-      "article_id": 3320880,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Zwei unidentifizierte Drohnen treiben im Schwarzen Meer nahe Neptun Deep, einem der strategisch wichtigsten neuen Gasprojekte Europas. Rumänische Militärtaucher zerstören die Fluggeräte kontrolliert. Der Vorfall trifft einen hochsensiblen Punkt europäischer Energiepolitik und führt über OMV Petrom direkt nach Österreich.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drohnenalarm-bei-omv-gasprojekt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-12T06:08:00+00:00",
-      "title": "Drohnenalarm bei OMV-Gasprojekt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3320880_drohnenalarm-bei-omv-gasprojekt"
     }
   ],
   "version": 1
