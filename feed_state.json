@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3330504,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "भारत का सक्रिय IPO बाजार अब एक ऐसी कंपनी की परीक्षा ले रहा है जिसकी कहानी तेज लिस्टिंग लाभ से कहीं बड़ी है। Blackstone समर्थित Horizon Industrial Parks ₹2,600 करोड़ जुटाने बाजार में उतरी है, लेकिन कमजोर Grey Market Premium और शुरुआती संयमित मांग ने इस निर्गम को भारत के लॉजिस्टिक्स विस्तार, भारी कर्ज और सार्वजनिक बाजार की बढ़ती चयनात्मकता के संगम पर खड़ा कर दिया है। कंपनी के लिए निर्णायक प्रश्न यह नहीं है कि शेयर किस प्रीमियम पर सूचीबद्ध होगा, बल्कि यह है कि क्या कर्ज में बड़ी कटौती उसके मजबूत परिचालन ढांचे को टिकाऊ लाभप्रदता में बदल सकती है।",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/horizon-industrial-parks-ipo-blackstone-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T11:33:00+00:00",
+      "title": "Horizon IPO: ₹2,600 करोड़ की परीक्षा | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330504_horizon-ipo-2-600-kara-ugdha-ka-para-ka-shha"
+    },
+    {
       "article_id": 3330424,
       "author": "Sinisa Brkic (sb)",
       "category": "Europa",
@@ -978,17 +989,6 @@
       "published": "2026-08-12T13:30:00+00:00",
       "title": "USS Abraham Lincoln Under Pressure | newsmedia.report",
       "url": "https://www.newsmedia.report/3321419_uss-abraham-lincoln-under-pressure"
-    },
-    {
-      "article_id": 3321175,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Österreichs Außenministerin Beate Meinl-Reisinger hat am 11. August 2026 in Washington ihren amerikanischen Amtskollegen Marco Rubio getroffen. Das Gespräch reichte weit über bilaterale Beziehungen hinaus: Ukraine, Iran, europäische Sicherheit, der Westbalkan und Österreichs bevorstehende Mitgliedschaft im Sicherheitsrat der Vereinten Nationen standen im Zentrum. Für Wien ist der Termin Teil einer außenpolitischen Strategie, die Österreich stärker als Gesprächspartner und diplomatischen Standort positionieren soll.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meinl-reisinger_marco-rubio-washington-high.png",
-      "language": "de-AT",
-      "published": "2026-08-12T10:21:00+00:00",
-      "title": "Rubio trifft Meinl-Reisinger: Hintergrund des Treffens in Washington | newsmedia.report",
-      "url": "https://www.newsmedia.report/3321175_rubio-trifft-meinl-reisinger-hintergrund-des-treffens-in-washington"
     }
   ],
   "version": 1
