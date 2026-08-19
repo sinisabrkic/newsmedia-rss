@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3330083,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "The United States has imposed sanctions on International Criminal Court President Tomoko Akane and senior trial lawyer Abdoulaye Seye, pushing Washington’s confrontation with the Hague tribunal directly into its senior leadership. The measures are formally directed at two individuals, but their significance reaches much further. At stake is whether the financial power of the United States can be used to constrain an international court whose jurisdiction Washington fundamentally disputes.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-sanctions-icc-president-tomoko-akane-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T06:23:00+00:00",
+      "title": "Trump Sanctions ICC President Tomoko Akane | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330083_trump-sanctions-icc-president-tomoko-akane"
+    },
+    {
       "article_id": 3329828,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-11T13:55:00+00:00",
       "title": "Syrien verurteilt Bashar al-Assad zum Tode | newsmedia.report",
       "url": "https://www.newsmedia.report/3320028_syrien-verurteilt-bashar-al-assad-zum-tode"
-    },
-    {
-      "article_id": 3319957,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die extrem niedrigen Wasserstände des Rheins erreichen eine neue wirtschaftliche Eskalationsstufe. Einzelne Frachtschiffbetreiber stellen Fahrten auf besonders kritischen Abschnitten inzwischen vollständig ein, während Unternehmen und Logistiker Transporte zunehmend auf die Straße verlagern. Von einer vollständigen Sperre des Rheins kann weiterhin keine Rede sein, doch aus einem hydrologischen Problem wird immer deutlicher ein Kosten- und Versorgungsrisiko für Europas wichtigste Industrieregionen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rhein-niedrigwasser-eskaliert-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T12:55:00+00:00",
-      "title": "Rhein-Niedrigwasser eskaliert: Erste Frachtschiffe stoppen Fahrten | newsmedia.report",
-      "url": "https://www.newsmedia.report/3319957_rhein-niedrigwasser-eskaliert-erste-frachtschiffe-stoppen-fahrten"
     }
   ],
   "version": 1
