@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3330227,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Die österreichische Finanzmarktaufsicht (FMA) hat gegen Bitpanda eine rechtskräftige Geldstrafe von 70.000 Euro wegen mehrerer Verstöße gegen die europäische Kryptoregulierung MiCA verhängt. Beanstandet wurden Fristen und Pflichtangaben rund um ein Kryptowerte-Whitepaper und dazugehörige Marketingmitteilungen. Für Kunden gibt es keinen Hinweis auf eine Einschränkung von Konten oder Kundengeldern. Für die europäische Kryptobranche ist der Fall dennoch relevant, weil MiCA damit sichtbar von der Zulassungsphase in die praktische Durchsetzung übergeht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bitpanda-und-die-70-000-euro-strafe-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T08:42:00+00:00",
+      "title": "Bitpanda und die 70.000-Euro-Strafe | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330227_bitpanda-und-die-70-000-euro-strafe"
+    },
+    {
       "article_id": 3330143,
       "author": "Sinisa Brkic (sb)",
       "category": "Technology & AI",
@@ -978,17 +989,6 @@
       "published": "2026-08-12T09:01:00+00:00",
       "title": "India: Tata’s Succession Crisis | newsmedia.report",
       "url": "https://www.newsmedia.report/3321083_india-tata-s-succession-crisis"
-    },
-    {
-      "article_id": 3320938,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Shiprocket has entered India’s public markets with strong retail attention, a heavily watched grey market premium and backing from major institutional investors. Yet behind the excitement sits a more consequential question: can one of India’s most prominent ecommerce infrastructure companies turn rapid growth into durable profitability?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/shiprocket-ipo-hype-meets-reality-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-12T06:58:00+00:00",
-      "title": "Shiprocket IPO: Hype Meets Reality | newsmedia.report",
-      "url": "https://www.newsmedia.report/3320938_shiprocket-ipo-hype-meets-reality"
     }
   ],
   "version": 1
