@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3330424,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europa",
+      "description": "Der frühere ukrainische Verteidigungsminister Mykhailo Fedorov fordert die Wiederaufnahme des demokratischen Wahlprozesses, obwohl das Land weiterhin unter Kriegsrecht steht. Seine Intervention trifft Präsident Volodymyr Zelenskyy in einer politisch sensiblen Phase, in der Personalentscheidungen, Korruptionsvorwürfe und die Frage staatlicher Führung zunehmend ineinandergreifen. Fedorov hat keine Präsidentschaftskandidatur angekündigt. Dennoch ist aus einem Streit über Verteidigungsreformen inzwischen eine Debatte über Macht, Legitimation und die politische Ordnung der Ukraine geworden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wahlen-im-krieg-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T10:30:00+00:00",
+      "title": "Fedorov fordert Wahlen: Zelenskyy unter Druck | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330424_fedorov-fordert-wahlen-zelenskyy-unter-druck"
+    },
+    {
       "article_id": 3330287,
       "author": "Sinisa Brkic (sb)",
       "category": "Business",
@@ -978,17 +989,6 @@
       "published": "2026-08-12T10:21:00+00:00",
       "title": "Rubio trifft Meinl-Reisinger: Hintergrund des Treffens in Washington | newsmedia.report",
       "url": "https://www.newsmedia.report/3321175_rubio-trifft-meinl-reisinger-hintergrund-des-treffens-in-washington"
-    },
-    {
-      "article_id": 3321143,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Ein Drohnenangriff hat einen Getreideterminal im russischen Schwarzmeerhafen Novorossiysk außer Betrieb gesetzt. Was zunächst wie ein weiterer Schlag gegen russische Infrastruktur wirkt, berührt weit größere Zusammenhänge: Getreideexporte, kasachisches Öl, westliche Energiekonzerne und Europas künftige Gasversorgung konzentrieren sich in derselben strategisch hochsensiblen Region. Noch ist keine globale Versorgungskrise eingetreten. Doch die Verwundbarkeit der Schwarzmeerroute tritt mit neuer Schärfe hervor.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russlands-exportdrehscheibe-getroffen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-12T09:50:00+00:00",
-      "title": "Getreideterminal Novorossiysk getroffen: Globale Lieferketten unter Druck | newsmedia.report",
-      "url": "https://www.newsmedia.report/3321143_getreideterminal-novorossiysk-getroffen-globale-lieferketten-unter-druck"
     }
   ],
   "version": 1
