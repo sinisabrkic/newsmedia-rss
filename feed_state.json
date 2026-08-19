@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3331130,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Der chinesische Roboterhersteller Unitree hat einen der spektakulärsten Börsenstarts des Jahres hingelegt. Nach einem zwischenzeitlichen Kursanstieg von rund 629 Prozent schloss die Aktie am ersten Handelstag noch 460 Prozent über dem Ausgabepreis und bewertete das Unternehmen mit rund 50 Milliarden Dollar. Hinter dem Börsenrausch steht jedoch eine wesentlich größere Frage: Beginnt mit humanoiden Robotern tatsächlich der nächste große Technologiemarkt oder bezahlt die Börse bereits heute für eine Zukunft, deren wirtschaftliches Fundament erst entstehen muss?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/unitree-und-die-50-milliarden-dollar-wette-auf-humanoide-roboter-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T18:27:00+00:00",
+      "title": "Unitree: Die 50 Milliarden Dollar Wette auf humanoide Roboter | newsmedia.report",
+      "url": "https://www.newsmedia.report/3331130_unitree-die-50-milliarden-dollar-wette-auf-humanoide-roboter"
+    },
+    {
       "article_id": 3330573,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-12T19:35:00+00:00",
       "title": "„Shit Tests“: Warum Frauen ihren Partner immer wieder prüfen / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3321784_shit-tests-warum-frauen-ihren-partner-immer-wieder-pruefen"
-    },
-    {
-      "article_id": 3321739,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Im Fall Jeffrey Epstein verschiebt sich der Schwerpunkt erneut von Spekulationen auf konkrete juristische Auseinandersetzungen. Ein Bundesgericht in New York hat die Freigabe weiterer bislang geschützter Unterlagen ermöglicht, während New Mexico das US Justizministerium auf Herausgabe ungeschwärzter Ermittlungsakten verklagt. Parallel wächst der politische Druck auf die neue Führung des Justizministeriums.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/akten-im-fall-epstein-unter-neuem-druck-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-12T19:00:00+00:00",
-      "title": "Fall Jeffrey Epstein: Gericht öffnet weitere Unterlagen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3321739_fall-jeffrey-epstein-gericht-oeffnet-weitere-unterlagen"
     }
   ],
   "version": 1
