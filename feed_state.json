@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3330573,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Britain’s State Pension is heading for another substantial increase, with the latest wage figures pointing to a rise of roughly £500 a year for someone receiving the full new State Pension. But the increase is not yet fixed, and the bigger story is now the tax system surrounding it. A frozen Personal Allowance means the full new State Pension is on course to move above the standard tax free threshold in April 2027, exposing an increasingly uncomfortable collision between the Triple Lock and fiscal drag.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/britain-s-500-pension-rise-has-a-tax-problem-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T12:30:00+00:00",
+      "title": "Britain’s £500 Pension Rise Has a Tax Problem | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330573_britain-s-500-pension-rise-has-a-tax-problem"
+    },
+    {
+      "article_id": 3330545,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "SK Hynix reagiert auf den abrupten Druck an den Halbleiterbörsen mit einem Schritt von historischer Dimension. Der südkoreanische Speicherchiphersteller will eigene Aktien im Wert von 40 Billionen Won, rund 28,6 Milliarden Dollar, zurückkaufen und vollständig einziehen. Hinter der spektakulären Summe steht jedoch eine größere Frage: Wie belastbar ist die Bewertung der globalen KI Lieferkette, wenn selbst einer ihrer profitabelsten Gewinner beginnt, seine enorme Cash Position offensiv zur Verteidigung des Aktionärswerts einzusetzen?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sk-hynix-aktienr-ckkauf-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T12:06:00+00:00",
+      "title": "SK Hynix setzt 28,6 Milliarden Dollar auf sich selbst | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330545_sk-hynix-setzt-28-6-milliarden-dollar-auf-sich-selbst"
+    },
+    {
       "article_id": 3330504,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-12T19:00:00+00:00",
       "title": "Fall Jeffrey Epstein: Gericht öffnet weitere Unterlagen | newsmedia.report",
       "url": "https://www.newsmedia.report/3321739_fall-jeffrey-epstein-gericht-oeffnet-weitere-unterlagen"
-    },
-    {
-      "article_id": 3321706,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Josh Kushner and Bob Iger have agreed to acquire control of the Los Angeles Lakers in a transaction valuing the franchise at $12.5 billion. The price would establish a new record for a U.S. professional sports team and comes less than a year after Mark Walter took control at a $10 billion valuation. More important than the record itself is what the deal may now do to the price of every other scarce, globally recognized sports franchise.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/josh-kushner-s-12-5-billion-lakers-deal-resets-the-sports-market-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-12T18:22:00+00:00",
-      "title": "Josh Kushner’s $12.5 Billion Lakers Deal | newsmedia.report",
-      "url": "https://www.newsmedia.report/3321706_josh-kushner-s-12-5-billion-lakers-deal"
-    },
-    {
-      "article_id": 3321419,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "What began as a scheduled deployment has become an increasingly demanding test of American naval endurance. The USS Abraham Lincoln has been away from San Diego since November 2025, with roughly 5,000 sailors and Marines facing an extended mission, limited time in port and no publicly announced homecoming date. As the confrontation with Iran continues, questions about operational necessity are now converging with concerns about crew fatigue, living conditions and how long the Navy can sustain its current tempo.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/uss-abraham-lincoln-deployment-report-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-12T13:30:00+00:00",
-      "title": "USS Abraham Lincoln Under Pressure | newsmedia.report",
-      "url": "https://www.newsmedia.report/3321419_uss-abraham-lincoln-under-pressure"
     }
   ],
   "version": 1
