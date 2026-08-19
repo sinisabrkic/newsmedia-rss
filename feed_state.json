@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3331287,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "La France rappelle à compter du 19 août 2026 tous les lots encore disponibles de Tavneos 10 mg, un médicament contenant de l’avacopan utilisé contre certaines vascularites rares et potentiellement graves. La décision intervient après le retrait de son autorisation de mise sur le marché dans l’ensemble de l’Union européenne, à la suite d’une réévaluation de son efficacité et de risques hépatiques graves déjà connus. Pour les quelque 600 patients récemment traités en France, le message des autorités sanitaires est essentiel : le médicament ne doit pas être interrompu de sa propre initiative. Une transition rapide vers une autre stratégie thérapeutique doit être organisée avec le médecin…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/france-tous-les-lots-de-tavneos-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T20:40:00+00:00",
+      "title": "France: Tavneos retiré du marché | newsmedia.report",
+      "url": "https://www.newsmedia.report/3331287_france-tavneos-retire-du-marche"
+    },
+    {
       "article_id": 3331195,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-13T04:06:00+00:00",
       "title": "Mort à Marseille: le protoxyde d’azote en cause? | newsmedia.report",
       "url": "https://www.newsmedia.report/3322074_mort-a-marseille-le-protoxyde-d-azote-en-cause"
-    },
-    {
-      "article_id": 3322061,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "A confrontation in Northern Virginia is drawing national attention after video showed a masked ICE officer pointing a handgun at 36-year-old U.S. citizen Carolina Molina. Federal officials say Molina tried to endanger agents with her vehicle, an allegation she firmly denies, while publicly released dashcam footage does not show her attempting to strike them. The dispute has turned a brief encounter in a parking lot into a larger test of evidence, federal authority and accountability.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ice-agent-points-gun-at-u-s-citizen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-13T03:31:00+00:00",
-      "title": "ICE Agent Points Gun at U.S. Citizen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3322061_ice-agent-points-gun-at-u-s-citizen"
     }
   ],
   "version": 1
