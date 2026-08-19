@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3330287,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Business",
+      "description": "The U.S. Army has selected Hanwha Defense USA to supply prototypes for its Mobile Tactical Cannon program, giving South Korea’s largest defense company its first major U.S. Army contract. The initial award is worth about $100.3 million and could rise to $262.9 million, but the significance extends well beyond the contract value. Washington is testing whether a Korean rooted artillery platform, produced through an increasingly American industrial network, can help reshape how selected U.S. formations fight.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-breaks-into-the-u-s-army-s-artillery-market-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T09:30:00+00:00",
+      "title": "South Korea Breaks Into the U.S. Army’s Artillery Market | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330287_south-korea-breaks-into-the-u-s-army-s-artillery-market"
+    },
+    {
       "article_id": 3330227,
       "author": "Sinisa Brkic (sb)",
       "category": "Österreich",
@@ -978,17 +989,6 @@
       "published": "2026-08-12T09:50:00+00:00",
       "title": "Getreideterminal Novorossiysk getroffen: Globale Lieferketten unter Druck | newsmedia.report",
       "url": "https://www.newsmedia.report/3321143_getreideterminal-novorossiysk-getroffen-globale-lieferketten-unter-druck"
-    },
-    {
-      "article_id": 3321083,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "N. Chandrasekaran will not seek another term as chairman of Tata Sons, opening a leadership contest at the center of one of India’s most powerful corporate groups. He will remain in office until February 2027, but the announcement has already hit Tata stocks and exposed deeper tensions over governance, ownership and strategy. The question confronting investors is no longer whether Tata will face a succession battle, but how disruptive that battle could become",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tata-s-succession-crisis-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-12T09:01:00+00:00",
-      "title": "India: Tata’s Succession Crisis | newsmedia.report",
-      "url": "https://www.newsmedia.report/3321083_india-tata-s-succession-crisis"
     }
   ],
   "version": 1
