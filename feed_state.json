@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3330120,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "À compter du 1er septembre 2026, une nouvelle grille des prix du tabac s’appliquera en France continentale. Contrairement à ce que pourrait laisser penser une nouvelle nomenclature officielle, il ne s’agit pas d’une augmentation générale : plusieurs références restent au même tarif, quelques produits progressent de dix centimes et certains deviennent même moins chers. Les principales marques du marché, dont Marlboro, Camel, Winston et plusieurs Lucky Strike, échappent cette fois à une nouvelle hausse.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/prix-du-tabac-en-septembre-2026-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-19T07:07:00+00:00",
+      "title": "Prix du tabac en septembre 2026 | newsmedia.report",
+      "url": "https://www.newsmedia.report/3330120_prix-du-tabac-en-septembre-2026"
+    },
+    {
       "article_id": 3330083,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-08-12T06:08:00+00:00",
       "title": "Drohnenalarm bei OMV-Gasprojekt | newsmedia.report",
       "url": "https://www.newsmedia.report/3320880_drohnenalarm-bei-omv-gasprojekt"
-    },
-    {
-      "article_id": 3320028,
-      "author": "Sinisa Brkic (sb",
-      "category": "International",
-      "description": "Ein syrisches Gericht hat den gestürzten Präsidenten Bashar al-Assad in Abwesenheit zum Tode verurteilt. Das Urteil ist die erste strafrechtliche Verurteilung des früheren Machthabers in Syrien seit seinem Sturz Ende 2024 und markiert einen Einschnitt in der Aufarbeitung der Assad Ära. Doch zwischen Urteil und tatsächlicher Strafverfolgung liegt eine entscheidende Hürde: Assad lebt im russischen Exil, und Moskau hat ihn bislang nicht ausgeliefert.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/syrien-verurteilt-assad-zum-tode-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-11T13:55:00+00:00",
-      "title": "Syrien verurteilt Bashar al-Assad zum Tode | newsmedia.report",
-      "url": "https://www.newsmedia.report/3320028_syrien-verurteilt-bashar-al-assad-zum-tode"
     }
   ],
   "version": 1
