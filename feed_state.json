@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3331817,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "भारत में ब्याज दरों को लेकर बाजार की धारणा कुछ ही सप्ताह में उल्लेखनीय रूप से बदल गई है। नीतिगत रेपो दर अभी 5.25 प्रतिशत पर स्थिर है, लेकिन आरबीआई की अगस्त बैठक के विवरण ने स्पष्ट कर दिया है कि तेल, खाद्य और अन्य लागतों से पैदा महंगाई यदि व्यापक हुई तो मौद्रिक सख्ती फिर जरूरी हो सकती है। अक्टूबर में कदम उठाने की संभावना अब पूरी तरह खारिज नहीं की जा रही, हालांकि बाजार के कुछ अर्थशास्त्री दिसंबर को अधिक संभावित मानते हैं।",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rbi_india-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T09:10:00+00:00",
+      "title": "आरबीआई के संकेत बदले, भारत में ब्याज दर वृद्धि फिर वास्तविक संभावना | newsmedia.report",
+      "url": "https://www.newsmedia.report/3331817_aarab-aaii-ka-sa-ka-ta-bthal-bha-rata-ma-b-ya-ja-thara-va-tha-thha-fa-ra-va-sa-tava-ka-sa-bha-vana"
+    },
+    {
       "article_id": 3331747,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-13T18:55:00+00:00",
       "title": "Москва держит курс | newsmedia.report",
       "url": "https://www.newsmedia.report/3323047_moskva-derzhit-kurs"
-    },
-    {
-      "article_id": 3322779,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Giorgia Meloni governa l’Italia da quasi quattro anni e resta una delle figure politiche più influenti del Paese e dell’Europa. Eppure proprio tra gli elettori più giovani il suo schieramento mostra una debolezza sempre più evidente. Dietro il calo del consenso non c’è soltanto una questione elettorale, ma un problema più profondo fatto di salari bassi, precarietà, difficoltà di accesso alla casa, emigrazione qualificata e crescente distanza tra la politica e la vita reale di una generazione.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meloni-perde-i-giovani-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-13T14:51:00+00:00",
-      "title": "Meloni perde i giovani | newsmedia.report",
-      "url": "https://www.newsmedia.report/3322779_meloni-perde-i-giovani"
     }
   ],
   "version": 1
