@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3332695,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Zwei Menschen können sich noch lieben und sich trotzdem gegenseitig zerstören. Sie können gemeinsame Jahre, Kinder, Erinnerungen, körperliche Anziehung und sogar tiefe emotionale Bindung besitzen, während etwas Entscheidendes längst verloren gegangen ist: der Respekt vor dem Menschen gegenüber. Ein Streit allein beendet keine Beziehung. Doch wenn aus Kritik Verachtung, aus Verletzung Demütigung und aus Vertrautheit die Fähigkeit wird, gezielt die empfindlichsten Stellen des anderen zu treffen, stellt sich eine unbequeme Frage: Reicht Liebe überhaupt noch, wenn zwei Menschen einander nicht mehr achten?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wenn-respekt-verschwindet-reicht-liebe-dann-noch-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T19:56:00+00:00",
+      "title": "Wenn Respekt verschwindet, reicht Liebe dann noch? / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3332695_wenn-respekt-verschwindet-reicht-liebe-dann-noch"
+    },
+    {
       "article_id": 3332672,
       "author": "Sinisa Brkic (sb)",
       "category": "Politik",
@@ -978,17 +989,6 @@
       "published": "2026-08-14T05:30:00+00:00",
       "title": "Traoré vs. The West | newsmedia.report",
       "url": "https://www.newsmedia.report/3323453_traore-vs-the-west"
-    },
-    {
-      "article_id": 3323441,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology / Travelling",
-      "description": "A fractured fan blade, debris penetrating the fuselage, a missing cabin window and a seriously injured passenger have turned Ryanair Flight 1879 into a major aviation safety investigation. The NTSB’s preliminary findings add two technically important elements: evidence of fatigue in the failed blade and bird remains inside the engine. They also raise a broader question over Boeing 737 NG safety modifications that are not due for full implementation under US requirements until 2028.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ryanair-737-engine-failure-under-scrutiny-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-14T05:04:00+00:00",
-      "title": "Ryanair 737 Engine Failure Under Scrutiny | newsmedia.report",
-      "url": "https://www.newsmedia.report/3323441_ryanair-737-engine-failure-under-scrutiny"
     }
   ],
   "version": 1
