@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3331747,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Xu Jiayin, the founder of China Evergrande Group and once one of Asia’s richest men, has been sentenced to life in prison by a court in Shenzhen after being convicted of eight criminal offenses. The ruling closes one chapter in the collapse of a property empire that accumulated more than $300 billion in liabilities, but it does not settle the far larger question facing creditors, homebuyers and China itself: how much of Evergrande’s missing value can still be recovered.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/evergrande-founder-xu-jiayin-sentenced-to-life-in-prison-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T08:00:00+00:00",
+      "title": "Evergrande Founder Xu Jiayin Sentenced to Life in Prison | newsmedia.report",
+      "url": "https://www.newsmedia.report/3331747_evergrande-founder-xu-jiayin-sentenced-to-life-in-prison"
+    },
+    {
       "article_id": 3331678,
       "author": "Sinisa Brkic (sb)",
       "category": "Deutschland",
@@ -978,17 +989,6 @@
       "published": "2026-08-13T14:51:00+00:00",
       "title": "Meloni perde i giovani | newsmedia.report",
       "url": "https://www.newsmedia.report/3322779_meloni-perde-i-giovani"
-    },
-    {
-      "article_id": 3322514,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Das Amtsgericht Chemnitz hat einen Haftbefehl gegen den AfD Bundestagsabgeordneten Maximilian Krah erlassen. Hintergrund ist ein zivilrechtliches Vollstreckungsverfahren nach seinem verlorenen Rechtsstreit mit Jan Böhmermann und ein noch umstrittener Betrag von 296,26 Euro. Entscheidend für die Einordnung ist jedoch: Der Haftbefehl beruht nicht auf dem Verdacht einer neuen Straftat.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/haftbefehl-gegen-maximilian-krah-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-13T11:13:00+00:00",
-      "title": "Haftbefehl gegen Maximilian Krah (AfD): Streit um 296,26 Euro | newsmedia.report",
-      "url": "https://www.newsmedia.report/3322514_haftbefehl-gegen-maximilian-krah-afd-streit-um-296-26-euro"
     }
   ],
   "version": 1
