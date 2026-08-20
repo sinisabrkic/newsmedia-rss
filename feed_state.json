@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3331593,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "A new anti-corruption operation has reached into Ukraine’s parliament and the Office of the President at a moment when the country’s democratic institutions, wartime governance and European future are already under intense scrutiny. This investigation traces what is known, what is not known, how Ukraine’s anti-corruption system was built, why it came under political pressure, how earlier cases reached senior officials and what the latest operation could mean for Kyiv’s rule-of-law credibility.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/inside_ukraines_new_corruption_crisis_investigations-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T05:37:00+00:00",
+      "title": "INSIDE UKRAINE'S NEW CORRUPTION CRISIS | newsmedia.report",
+      "url": "https://www.newsmedia.report/3331593_inside-ukraine-s-new-corruption-crisis"
+    },
+    {
       "article_id": 3331287,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-13T06:12:00+00:00",
       "title": "Deutschland rüstet auf, Verweigerungen steigen | newsmedia.report",
       "url": "https://www.newsmedia.report/3322164_deutschland-ruestet-auf-verweigerungen-steigen"
-    },
-    {
-      "article_id": 3322074,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La mort d’un adolescent de 17 ans à Marseille replace le protoxyde d’azote au centre des préoccupations sanitaires françaises. Le jeune avait consommé une quantité importante de ce gaz avant d’être pris en charge à l’hôpital, mais les autorités n’ont à ce stade établi aucun lien causal définitif entre cette consommation et son décès. Une enquête, une autopsie et des analyses doivent désormais déterminer les causes exactes de la mort.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/protoxyde-d-azote-marseille-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-13T04:06:00+00:00",
-      "title": "Mort à Marseille: le protoxyde d’azote en cause? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3322074_mort-a-marseille-le-protoxyde-d-azote-en-cause"
     }
   ],
   "version": 1
