@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3332711,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Umwelt & Klima",
+      "description": "Europäische Städte haben sich für 2030 ambitionierte Klimaziele gesetzt. Eine aktuelle Untersuchung von 103 sogenannten Mission Cities zeigt jedoch, dass zwischen weitreichender Emissionsreduktion und tatsächlich belastbarer Klimaneutralität eine erhebliche Lücke bleibt. Das Problem liegt zunehmend nicht mehr allein darin, Emissionen zu senken, sondern nachvollziehbar zu bestimmen, welche Emissionen verbleiben, weshalb sie verbleiben und wie mit ihnen glaubwürdig umgegangen werden soll.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-offene-rechnung-der-klimaneutralit-t-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T20:22:00+00:00",
+      "title": "Europas Städte und Millionen Tonnen Restemissionen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3332711_europas-staedte-und-millionen-tonnen-restemissionen"
+    },
+    {
       "article_id": 3332695,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-14T08:10:00+00:00",
       "title": "Deutschland schränkt Wasserentnahme ein | newsmedia.report",
       "url": "https://www.newsmedia.report/3323610_deutschland-schraenkt-wasserentnahme-ein"
-    },
-    {
-      "article_id": 3323453,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Ibrahim Traoré has turned Burkina Faso into one of the most closely watched political experiments in Africa. His government has pushed France out, expanded state control over gold, joined forces with Mali and Niger, and embraced a language of sovereignty that resonates far beyond the Sahel. But behind the symbolism lies a harder question: can a military revolution deliver genuine independence while political freedom contracts at home?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/traor-vs-the-west-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-14T05:30:00+00:00",
-      "title": "Traoré vs. The West | newsmedia.report",
-      "url": "https://www.newsmedia.report/3323453_traore-vs-the-west"
     }
   ],
   "version": 1
