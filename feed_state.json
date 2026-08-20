@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3332389,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Per mesi Giorgia Meloni ha trasformato il rapporto privilegiato con Donald Trump in una risorsa politica, cercando di accreditare l’Italia come interlocutore speciale di Washington e possibile ponte con l’Europa. La crisi iraniana, le divergenze sull’impiego delle basi militari e il successivo scontro pubblico hanno mostrato quanto possa durare un’intesa quando l’America First incontra interessi italiani diversi. L’alleanza tra Roma e Washington resta solida. È il rapporto politico tra i due leader ad avere cambiato natura.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meloni-e-trump-il-limite-dell-intesa-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T15:57:00+00:00",
+      "title": "Meloni e Trump, il limite dell’intesa | newsmedia.report",
+      "url": "https://www.newsmedia.report/3332389_meloni-e-trump-il-limite-dell-intesa"
+    },
+    {
       "article_id": 3331883,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-08-14T01:03:00+00:00",
       "title": "Trump Rethinks America’s Most Advanced Carrier | newsmedia.report",
       "url": "https://www.newsmedia.report/3323322_trump-rethinks-america-s-most-advanced-carrier"
-    },
-    {
-      "article_id": 3323053,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Porsche vollzieht beim europäischen CO₂ Management einen bemerkenswerten Kurswechsel. Der Sportwagenhersteller verlässt für 2026 und 2027 den bisherigen Emissionspool des Volkswagen Konzerns und bildet stattdessen einen offenen Pool mit dem chinesischen Elektroautohersteller Xpeng. Der Schritt ist regulatorisch zulässig, wirtschaftlich nachvollziehbar und strategisch dennoch brisant: Eine der wertvollsten deutschen Automarken stützt ihre europäische CO₂ Rechnung künftig auf einen chinesischen Elektrospezialisten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/porsche-sucht-co-hilfe-bei-chinas-xpeng-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-13T19:12:00+00:00",
-      "title": "Porsche sucht CO₂ Hilfe bei Chinas Xpeng | newsmedia.report",
-      "url": "https://www.newsmedia.report/3323053_porsche-sucht-co2-hilfe-bei-chinas-xpeng"
     }
   ],
   "version": 1
