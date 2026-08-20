@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3331678,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Deutschland",
+      "description": "Der CDU-Kommunalpolitiker Bernd Prange hat 10.000 Euro an die AfD Sachsen-Anhalt gespendet und angekündigt, sie bei der Landtagswahl am 6. September wählen zu wollen. Der zuständige CDU-Kreisvorstand will sich mit dem Vorgang befassen, auch ein Parteiausschlussverfahren steht im Raum. Entschieden ist darüber noch nichts. Politisch reicht der Fall dennoch weit über einen einzelnen Bürgermeister hinaus, weil er die Abgrenzungsstrategie der CDU in einer Phase außergewöhnlichen Drucks trifft.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/10-000-euro-f-r-die-afd-cdu-b-rgermeister-bernd-prange-stellt-seine-partei-vor-eine-grundsatzfrage-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T07:09:00+00:00",
+      "title": "CDU-Bürgermeister Bernd Prange: 10.000 Euro für die AfD | newsmedia.report",
+      "url": "https://www.newsmedia.report/3331678_cdu-buergermeister-bernd-prange-10-000-euro-fuer-die-afd"
+    },
+    {
+      "article_id": 3331613,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "David Morens, a former senior adviser in the director’s office of the National Institute of Allergy and Infectious Diseases, has pleaded guilty to a federal conspiracy charge involving efforts to keep communications about coronavirus research funding outside government record systems. The case reaches directly into one of the most disputed episodes of the pandemic, involving an EcoHealth Alliance grant, the Wuhan Institute of Virology and internal NIAID communications. But the guilty plea establishes something far more specific than many of the political claims now surrounding it: Morens admitted criminal conduct involving federal records and government transparency. It does not…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/what-david-morens-actually-admitted-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T06:41:00+00:00",
+      "title": "COVID 19 Records Scandal: Former Fauci Adviser Pleads Guilty | newsmedia.report",
+      "url": "https://www.newsmedia.report/3331613_covid-19-records-scandal-former-fauci-adviser-pleads-guilty"
+    },
+    {
       "article_id": 3331593,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-13T11:13:00+00:00",
       "title": "Haftbefehl gegen Maximilian Krah (AfD): Streit um 296,26 Euro | newsmedia.report",
       "url": "https://www.newsmedia.report/3322514_haftbefehl-gegen-maximilian-krah-afd-streit-um-296-26-euro"
-    },
-    {
-      "article_id": 3322472,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Wladimir Putins Besuch auf der von Russland kontrollierten und von Japan beanspruchten Insel Iturup, die in Japan Etorofu heißt, rückt einen der ältesten ungelösten Territorialkonflikte Asiens zurück ins Zentrum der internationalen Politik. Tokio reagiert mit scharfem Protest. Hinter dem Streit um vier Inseln steht weit mehr als historische Symbolik: militärische Interessen, die Sicherheitsordnung im Pazifik und ein Friedensvertrag, der mehr als 80 Jahre nach dem Zweiten Weltkrieg noch immer fehlt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putin-auf-etorofu-japan-protestiert-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-13T10:21:00+00:00",
-      "title": "Putin auf Etorofu: Japan protestiert | newsmedia.report",
-      "url": "https://www.newsmedia.report/3322472_putin-auf-etorofu-japan-protestiert"
-    },
-    {
-      "article_id": 3322164,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Während Deutschland seine Streitkräfte massiv vergrößern will, erreicht die Zahl der Anträge auf Kriegsdienstverweigerung eine neue Größenordnung. Bis Ende Juli wurden 8.302 Anträge registriert, mehr als doppelt so viele wie im gesamten Jahr 2025. Die Entwicklung trifft die Bundeswehr ausgerechnet zu Beginn der neuen Wehrerfassung und legt einen politischen Widerspruch offen: Der Staat sucht mehr Soldaten, während zugleich deutlich mehr Menschen vorsorglich erklären, keinen Kriegsdienst mit der Waffe leisten zu wollen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-r-stet-auf-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-13T06:12:00+00:00",
-      "title": "Deutschland rüstet auf, Verweigerungen steigen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3322164_deutschland-ruestet-auf-verweigerungen-steigen"
     }
   ],
   "version": 1
