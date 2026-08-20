@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3332672,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Erst verlor Jens Spahn den Vorsitz der Unionsfraktion, nun verzichtet er auch auf eine erneute Kandidatur an der Spitze der CDU Münsterland. Ein vollständiger Abschied aus der Politik ist das nicht, doch die Machtbasis des früheren Gesundheitsministers ist innerhalb weniger Wochen erheblich kleiner geworden. Entscheidend ist inzwischen nicht mehr nur die Kontroverse, die seinen Rücktritt ausgelöst hat, sondern die Frage, welche politische Rolle Spahn nach dem Verlust seiner zentralen Führungspositionen überhaupt noch spielen kann.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jens-spahn-gibt-den-n-chsten-cdu-posten-auf-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-20T19:21:00+00:00",
+      "title": "Jens Spahn gibt den nächsten CDU Posten auf | newsmedia.report",
+      "url": "https://www.newsmedia.report/3332672_jens-spahn-gibt-den-naechsten-cdu-posten-auf"
+    },
+    {
       "article_id": 3332389,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-14T05:04:00+00:00",
       "title": "Ryanair 737 Engine Failure Under Scrutiny | newsmedia.report",
       "url": "https://www.newsmedia.report/3323441_ryanair-737-engine-failure-under-scrutiny"
-    },
-    {
-      "article_id": 3323322,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "President Donald Trump has ordered the Pentagon and U.S. Navy to prepare a fundamental redesign of the future USS Doris Miller, replacing its advanced electromagnetic aircraft launch system with traditional steam catapults. The decision reaches deep into a carrier already designed around a different technological architecture and could add billions of dollars in cost while creating new schedule and integration risks. It also puts Washington on a strikingly different technological path from China and France.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-orders-u-s-navy-back-to-steam-catapults-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-14T01:03:00+00:00",
-      "title": "Trump Rethinks America’s Most Advanced Carrier | newsmedia.report",
-      "url": "https://www.newsmedia.report/3323322_trump-rethinks-america-s-most-advanced-carrier"
     }
   ],
   "version": 1
