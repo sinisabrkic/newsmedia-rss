@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3333304,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "Bitcoin has surged roughly 20 percent in a week and moved above $75,000, producing its strongest weekly advance in more than two years. The move is being driven by an unusually powerful combination of forces: a weaker dollar, intervention in the US Treasury market, renewed institutional demand, massive short liquidations and fresh political pressure from President Donald Trump for Congress to advance comprehensive crypto legislation. What makes the rally more significant than another speculative burst is the role Bitcoin is beginning to occupy across very different investment narratives. It is being bought as a high volatility risk asset when financial conditions appear to improve, while…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bitcoin-above-75-000-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-21T10:02:00+00:00",
+      "title": "Bitcoin's $75,000 Rally | newsmedia.report",
+      "url": "https://www.newsmedia.report/3333304_bitcoin-s-75-000-rally"
+    },
+    {
       "article_id": 3333122,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -978,17 +989,6 @@
       "published": "2026-08-14T10:31:00+00:00",
       "title": "Japan Raises Mount Aso Alert to Level 3 | newsmedia.report",
       "url": "https://www.newsmedia.report/3323802_japan-raises-mount-aso-alert-to-level-3"
-    },
-    {
-      "article_id": 3323692,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Im November 1996 stirbt im texanischen Fort Worth die dreijährige Kasandra White. Ihre damals 19 Jahre alte Mutter Maria Narez gerät unter schweren Mordverdacht, wird festgenommen und später gegen Kaution freigelassen. Noch bevor der Fall vor Gericht entschieden werden kann, verschwindet sie. Fast drei Jahrzehnte später ist die heute 48-Jährige in Mexiko gefasst worden. Nun holt sie ein Verfahren ein, das seit 1997 offen ist und juristisch komplizierter werden könnte, als die spektakuläre Festnahme zunächst vermuten lässt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/maria-narez-nach-29-jahren-gefasst-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-14T10:01:00+00:00",
-      "title": "Ein Kind stirbt, die Mutter verschwindet: Maria Narez nach 29 Jahren gefasst | newsmedia.report",
-      "url": "https://www.newsmedia.report/3323692_ein-kind-stirbt-die-mutter-verschwindet-maria-narez-nach-29-jahren-gefasst"
     }
   ],
   "version": 1
