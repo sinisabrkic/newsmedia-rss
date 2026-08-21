@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3333050,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "The USS George Washington has arrived in the Middle East to relieve the USS Abraham Lincoln after one of the most punishing carrier deployments in recent U.S. Navy history. But the rotation solves one problem by exposing another. Washington has moved its only forward deployed aircraft carrier based in Japan away from the western Pacific, revealing how the war with Iran is beginning to compete directly with America’s long declared strategic priority in Asia.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-iran-war-is-pulling-america-s-last-carrier-out-of-asia-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-21T06:13:00+00:00",
+      "title": "America’s Asia Carrier Moves to Iran | newsmedia.report",
+      "url": "https://www.newsmedia.report/3333050_america-s-asia-carrier-moves-to-iran"
+    },
+    {
       "article_id": 3332711,
       "author": "Sinisa Brkic (sb)",
       "category": "Umwelt & Klima",
@@ -978,17 +989,6 @@
       "published": "2026-08-14T08:50:00+00:00",
       "title": "Anzeige wegen Amtsmissbrauch gegen Michael Ludwig | newsmedia.report",
       "url": "https://www.newsmedia.report/3323647_anzeige-wegen-amtsmissbrauch-gegen-michael-ludwig"
-    },
-    {
-      "article_id": 3323610,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Die anhaltende Trockenheit führt in immer mehr Teilen Deutschlands zu konkreten Eingriffen in die Wassernutzung. Landkreise und Städte begrenzen die Entnahme aus Flüssen und Seen, beschränken die Nutzung privater Brunnen und greifen vereinzelt sogar bei der Bewässerung mit Trinkwasser ein. Ein bundesweites Wasserentnahmeverbot gibt es nicht, doch der regionale Flickenteppich wird dichter und die Lage an wichtigen Wasserstraßen verschärft den wirtschaftlichen Druck zusätzlich.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-schr-nkt-wasserentnahme-ein-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-14T08:10:00+00:00",
-      "title": "Deutschland schränkt Wasserentnahme ein | newsmedia.report",
-      "url": "https://www.newsmedia.report/3323610_deutschland-schraenkt-wasserentnahme-ein"
     }
   ],
   "version": 1
