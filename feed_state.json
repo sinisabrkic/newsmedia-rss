@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3333122,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Japan hat erstmals seit rund 14 Monaten wieder ein Todesurteil vollstreckt. Der 58 Jahre alte Sunao Takami wurde am 21. August 2026 wegen eines Brandanschlags auf eine Pachinko Spielhalle in Osaka gehängt, bei dem fünf Menschen starben und zehn weitere verletzt wurden. Der Fall betrifft einen rechtskräftig verurteilten Mehrfachmörder, doch seine Hinrichtung rückt zugleich ein Justizsystem in den Mittelpunkt, das in einer hochentwickelten Demokratie an einer der endgültigsten staatlichen Strafen festhält und deren Vollzug weitgehend der Öffentlichkeit entzieht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/japan-vollstreckt-wieder-die-hinrichtung-von-sunao-takami-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-21T07:33:00+00:00",
+      "title": "Japan vollstreckt wieder: Die Hinrichtung von Sunao Takami | newsmedia.report",
+      "url": "https://www.newsmedia.report/3333122_japan-vollstreckt-wieder-die-hinrichtung-von-sunao-takami"
+    },
+    {
       "article_id": 3333082,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-08-14T10:01:00+00:00",
       "title": "Ein Kind stirbt, die Mutter verschwindet: Maria Narez nach 29 Jahren gefasst | newsmedia.report",
       "url": "https://www.newsmedia.report/3323692_ein-kind-stirbt-die-mutter-verschwindet-maria-narez-nach-29-jahren-gefasst"
-    },
-    {
-      "article_id": 3323647,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Rubrik: Justiz & Recht Format: Spezialbericht Autor: Sinisa Brkic (sb)",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/anzeige-gegen-michael-ludwig-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-14T08:50:00+00:00",
-      "title": "Anzeige wegen Amtsmissbrauch gegen Michael Ludwig | newsmedia.report",
-      "url": "https://www.newsmedia.report/3323647_anzeige-wegen-amtsmissbrauch-gegen-michael-ludwig"
     }
   ],
   "version": 1
