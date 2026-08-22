@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3334392,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Tata Consultancy Services says it does not track individual employee activity on company laptops and has rejected reports of employee surveillance as inaccurate. Yet the controversy has exposed a larger question that extends far beyond TCS: how much information can modern workplace monitoring systems collect, and where does legitimate IT oversight end and employee surveillance begin?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tcs-employee-monitoring-privacy-report-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-22T06:50:00+00:00",
+      "title": "Inside the TCS Monitoring Controversy | newsmedia.report",
+      "url": "https://www.newsmedia.report/3334392_inside-the-tcs-monitoring-controversy"
+    },
+    {
+      "article_id": 3334375,
+      "author": "Sinisa Brkic (sb)",
+      "category": "USA",
+      "description": "The Justice Department plans to deploy roughly 1,000 election monitors for the November 3 midterms, a scale that would exceed its recent Election Day operations and has intensified scrutiny of federal involvement in voting. But the number alone obscures the central legal question. DOJ personnel can observe, document and enforce federal voting laws, yet they do not acquire general authority to run polling places, overrule local election officials or take control of state election administration.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/what-trump-s-doj-election-monitors-can-actually-do-newdmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-22T06:35:00+00:00",
+      "title": "Trump’s 1,000 DOJ Election Monitors | newsmedia.report",
+      "url": "https://www.newsmedia.report/3334375_trump-s-1-000-doj-election-monitors"
+    },
+    {
       "article_id": 3333304,
       "author": "Sinisa Brkic (sb)",
       "category": "Finance",
@@ -967,28 +989,6 @@
       "published": "2026-08-14T16:45:00+00:00",
       "title": "Russland weist Waffenstillstand für zivile Schifffahrt zurück | newsmedia.report",
       "url": "https://www.newsmedia.report/3324282_russland-weist-waffenstillstand-fuer-zivile-schifffahrt-zurueck"
-    },
-    {
-      "article_id": 3324208,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europe",
-      "description": "Britain’s rail network is facing urgent questions after two passenger trains derailed in southern England within less than 24 hours. The incidents at Lewes and Wickford occurred during a period of extreme heat, but investigators have not established a common cause, and there is currently no evidence that temperature alone was responsible for either derailment.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/two-uk-passenger-trains-derail-in-less-than-24-hours-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-14T15:50:00+00:00",
-      "title": "Two UK Trains Derail Within 24 Hours | newsmedia.report",
-      "url": "https://www.newsmedia.report/3324208_two-uk-trains-derail-within-24-hours"
-    },
-    {
-      "article_id": 3323802,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Japan has raised the volcanic alert for Mount Aso in Kumamoto Prefecture to Level 3 after monitoring showed a sharp increase in volcanic tremor and sulfur dioxide emissions. Authorities are warning of a possible eruption capable of affecting an area within roughly two kilometers of Nakadake First Crater, but no new eruption has been confirmed.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/japan-raises-mount-aso-alert-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-14T10:31:00+00:00",
-      "title": "Japan Raises Mount Aso Alert to Level 3 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3323802_japan-raises-mount-aso-alert-to-level-3"
     }
   ],
   "version": 1
