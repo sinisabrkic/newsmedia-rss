@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3334535,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "भारतीय निवेशकों के लिए विदेशी शेयर बाजारों तक पहुंच का एक सीमित रास्ता फिर खुल गया है। HSBC Mutual Fund ने 18 अगस्त 2026 से अपने तीन अंतरराष्ट्रीय Fund of Funds में नई SIP, एकमुश्त निवेश और अन्य निर्धारित निवेश माध्यमों के जरिए नई रकम स्वीकार करना दोबारा शुरू किया है। लेकिन यह वापसी किसी नए वैश्विक निवेश उछाल की घोषणा नहीं है, बल्कि भारत में विदेशी निवेश के लिए उपलब्ध सीमित नियामकीय क्षमता की कहानी है। - इस घटनाक्रम का सबसे महत्वपूर्ण पक्ष फंडों का खुलना नहीं, बल्कि वह व्यवस्था है जिसके कारण वे कभी खुलते और कभी बंद होते हैं। ₹2 लाख की मासिक सीमा भी इसी संदर्भ में महत्वपूर्ण है। निवेशकों के लिए इसका अर्थ अवसर से अधिक अनुशासन, विविधीकरण और जोखिम को समझना है।",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hsbc-global-funds-reopening-report-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-22T09:59:00+00:00",
+      "title": "HSBC के तीन ग्लोबल फंड फिर खुले: निवेशकों के लिए नई खिड़की | newsmedia.report",
+      "url": "https://www.newsmedia.report/3334535_hsbc-ka-ta-na-ga-l-bl-fa-da-fa-ra-kha-l-na-va-shaka-ka-l-e-naii-kha-ugdhaka"
+    },
+    {
       "article_id": 3334471,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T05:36:00+00:00",
       "title": "China Steps Up Pressure Around Taiwan | newsmedia.report",
       "url": "https://www.newsmedia.report/3324758_china-steps-up-pressure-around-taiwan"
-    },
-    {
-      "article_id": 3324752,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "The BBC is seeking testimony and records from Donald Trump Jr., Ivanka Trump and Jared Kushner as it defends itself against President Donald Trump’s $10 billion lawsuit over a documentary about January 6. The request has opened a new front in the case, one that reaches directly into Trump’s family and the circumstances surrounding his speech before the attack on the U.S. Capitol. For now, however, the three have not been ordered to testify.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bbc-subpoena-report-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T05:07:00+00:00",
-      "title": "BBC Seeks Trump Family Subpoenas in $10 Billion Case | newsmedia.report",
-      "url": "https://www.newsmedia.report/3324752_bbc-seeks-trump-family-subpoenas-in-10-billion-case"
     }
   ],
   "version": 1
