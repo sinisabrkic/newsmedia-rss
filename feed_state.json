@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3334471,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Acht israelische Luftangriffe auf einen weitgehend leeren syrischen Militärflugplatz haben eine Frage aufgeworfen, die vor wenigen Jahren noch abwegig erschien: Können Israel und die Türkei in Syrien militärisch aneinandergeraten? Hinter dem Angriff auf Abu al Duhur steht kein gewöhnlicher Streit um Einfluss. Israel will verhindern, dass türkische Militärstrukturen seine Handlungsfreiheit in Syrien einschränken. Ankara wiederum baut genau dort die Streitkräfte eines neuen syrischen Staates mit auf.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/israels-warnschuss-an-erdo-an-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-22T08:59:00+00:00",
+      "title": "Israels Warnschuss an Erdoğan | newsmedia.report",
+      "url": "https://www.newsmedia.report/3334471_israels-warnschuss-an-erdogan"
+    },
+    {
       "article_id": 3334430,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T05:07:00+00:00",
       "title": "BBC Seeks Trump Family Subpoenas in $10 Billion Case | newsmedia.report",
       "url": "https://www.newsmedia.report/3324752_bbc-seeks-trump-family-subpoenas-in-10-billion-case"
-    },
-    {
-      "article_id": 3324742,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "A magnitude 7.7 earthquake off the Indonesian island of Flores has killed at least two people, damaged buildings, triggered landslides and forced hospitals to move patients into outdoor treatment areas. A tsunami warning issued after the powerful offshore quake has been lifted, but dozens of aftershocks and an incomplete assessment of remote communities mean the scale of the disaster is still developing.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/indonesia-deadly-quake-strikes-flores-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T04:43:00+00:00",
-      "title": "Indonesia: Deadly Quake Strikes Flores | newsmedia.report",
-      "url": "https://www.newsmedia.report/3324742_indonesia-deadly-quake-strikes-flores"
     }
   ],
   "version": 1
