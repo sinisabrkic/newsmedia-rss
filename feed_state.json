@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3336557,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Eine japanische Langzeitstudie sorgt international für Aufmerksamkeit: Ältere Menschen, die aktuell mit einem Hund leben, wiesen in einem statistischen Modell ein um 48 Prozent niedrigeres Risiko für eine pflegebedürftige Demenz auf als Menschen, die nie einen Hund gehalten hatten. Hinter der spektakulären Zahl steht jedoch eine wesentlich komplexere Frage. Schützt tatsächlich der Hund, oder sind Bewegung, regelmäßige Tagesabläufe und soziale Kontakte die entscheidenden Faktoren?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/studien-hundebesitzer-und-demenzrisiko-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-23T21:52:00+00:00",
+      "title": "Studie: Hund gegen Demenz? 48 Prozent weniger Risiko | newsmedia.report",
+      "url": "https://www.newsmedia.report/3336557_studie-hund-gegen-demenz-48-prozent-weniger-risiko"
+    },
+    {
       "article_id": 3336177,
       "author": "Sinisa Brkic (sb)",
       "category": "Finance",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T19:50:00+00:00",
       "title": "Waldbrände in Deutschland | newsmedia.report",
       "url": "https://www.newsmedia.report/3325512_waldbraende-in-deutschland"
-    },
-    {
-      "article_id": 3325366,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La cyberattaque contre la Direction générale des finances publiques prend une dimension nettement plus grave. Le ministère français des Finances confirme désormais que des données concernant 678 000 particuliers et professionnels ont été consultées et extraites, parmi lesquelles des informations fiscales particulièrement sensibles. Les comptes personnels sur les services fiscaux et les mots de passe des contribuables ne sont pas annoncés comme compromis, mais la nature des informations dérobées crée un risque sérieux de fraude ciblée et d’usurpation.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cyberattaque-de-la-dgfip-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T17:40:00+00:00",
-      "title": "Cyberattaque DGFiP : 678 000 usagers touchés | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325366_cyberattaque-dgfip-678-000-usagers-touches"
     }
   ],
   "version": 1
