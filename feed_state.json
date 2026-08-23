@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3335588,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "A magnitude 5.9 earthquake beneath southern Ibaraki Prefecture shook Tokyo and large parts of eastern Japan shortly after 2 a.m. on Sunday, injuring at least 37 people and triggering emergency alerts across the capital region. The earthquake caused limited infrastructure disruption, but its effect across one of the world’s largest metropolitan areas was striking. The event also produced an apparent contradiction that quickly spread through alerts and online reports. Early calculations put the earthquake above magnitude 6, including estimates of 6.4 and even higher during the first seconds of analysis, while the Japan Meteorological Agency later reported a magnitude of 5.9. The difference…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tokyo-shaken-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-23T06:41:00+00:00",
+      "title": "Tokyo Shaken: What Really Happened | newsmedia.report",
+      "url": "https://www.newsmedia.report/3335588_tokyo-shaken-what-really-happened"
+    },
+    {
       "article_id": 3335559,
       "author": "Sinisa Brkic (sb) / Redaktion",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T07:45:00+00:00",
       "title": "Granada tiembla | newsmedia.report",
       "url": "https://www.newsmedia.report/3324812_granada-tiembla"
-    },
-    {
-      "article_id": 3324770,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Es ist ein Satz, der provoziert, weil er provozieren muss: Deutschland benötigt einen Krieg. Nicht als moralischen Wunsch, nicht als Aufforderung zu militärischer Aggression, sondern als radikale wirtschaftspolitische These über ein Land, das offenbar erst unter existenziellem Druck bereit ist, Kapital, Industrie, Technologie und staatliche Handlungsfähigkeit in einer Größenordnung zu mobilisieren, die seinem tatsächlichen Problem entspricht. Die aktuellen Zahlen liefern keinen Beweis dafür, dass Krieg Wohlstand schafft. Sie liefern aber bemerkenswert starke Hinweise darauf, dass ausgerechnet die Vorbereitung auf Krieg jene wirtschaftliche Mobilisierung auslöst, zu der Deutschland im…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-ben-tigt-einen-krieg-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T06:26:00+00:00",
-      "title": "Deutschland benötigt Ausnahmezustände und einen Krieg | newsmedia.report",
-      "url": "https://www.newsmedia.report/3324770_deutschland-benoetigt-ausnahmezustaende-und-einen-krieg"
     }
   ],
   "version": 1
