@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3335669,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "South Korea wants to replace its separate Army, Navy and Air Force academies with a new four year National Military Academy in Daejeon. The government says the overhaul is necessary for joint operations, demographic pressure and a military increasingly shaped by artificial intelligence, cyber capabilities and space. But questions over specialized training, a price tag above 3 trillion won and growing institutional resistance are converging ahead of a critical public hearing on August 26.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-military-academy-merger-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-23T08:35:00+00:00",
+      "title": "South Korea’s Military Academy Merger | newsmedia.report",
+      "url": "https://www.newsmedia.report/3335669_south-korea-s-military-academy-merger"
+    },
+    {
       "article_id": 3335626,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T13:35:00+00:00",
       "title": "Wird Ulrich Siegmund erster AfD-Ministerpräsident? | newsmedia.report",
       "url": "https://www.newsmedia.report/3325147_wird-ulrich-siegmund-erster-afd-ministerpraesident"
-    },
-    {
-      "article_id": 3324998,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Der Siemens Gesamtbetriebsratschef Tobias Bäumler stellt eine der folgenreichsten industriepolitischen Entscheidungen der vergangenen Jahre infrage. Die Trennung von Siemens Energy und die Verselbstständigung von Siemens Healthineers seien strategische Fehler gewesen, argumentiert der Arbeitnehmervertreter. Die Börsenwerte der drei Unternehmen verleihen der Kritik auf den ersten Blick enorme Wucht. Doch eine genauere Betrachtung zeigt, dass die Milliardenrechnung deutlich komplizierter ist.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/siemens-energy-healthineers-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T11:05:00+00:00",
-      "title": "Siemens: Konzernumbau ein Fehler von Joe Kaesers? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3324998_siemens-konzernumbau-ein-fehler-von-joe-kaesers"
     }
   ],
   "version": 1
