@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3336177,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "Claims that Social Security is preparing to cut its annual cost of living adjustment by 1 percentage point in 2027 are spreading rapidly. The number appears on an official Social Security Administration website, but the conclusion being drawn from it is wrong. What is being presented as a newly approved benefit cut is actually a long standing actuarial policy option, modeled to show how hypothetical reforms could affect Social Security’s deteriorating finances.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-myth-of-the-2027-social-security-cola-cut-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-23T16:18:00+00:00",
+      "title": "The Myth of the 2027 Social Security COLA Cut | newsmedia.report",
+      "url": "https://www.newsmedia.report/3336177_the-myth-of-the-2027-social-security-cola-cut"
+    },
+    {
       "article_id": 3335956,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T17:40:00+00:00",
       "title": "Cyberattaque DGFiP : 678 000 usagers touchés | newsmedia.report",
       "url": "https://www.newsmedia.report/3325366_cyberattaque-dgfip-678-000-usagers-touches"
-    },
-    {
-      "article_id": 3325347,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Mehr Informationen über Gehälter, neue Auskunftsrechte für Beschäftigte und strengere Pflichten für Unternehmen: Die EU will mit ihrer Entgelttransparenzrichtlinie geschlechtsspezifische Unterschiede bei der Bezahlung sichtbar und rechtlich besser angreifbar machen. Österreich hätte die Vorgaben bis 7. Juni 2026 vollständig in nationales Recht umsetzen müssen, doch das zentrale Gesetz fehlt weiterhin. Hinter dem nachvollziehbaren Ziel gleicher Bezahlung steht zugleich ein regulatorischer Umbau, dessen Reichweite, Bürokratie und praktische Folgen durchaus kritisch betrachtet werden müssen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/entgelttransparenz-in-sterreich-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T17:14:00+00:00",
-      "title": "Österreich: Was hinter der neuen Entgelttransparenz steckt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325347_oesterreich-was-hinter-der-neuen-entgelttransparenz-steckt"
     }
   ],
   "version": 1
