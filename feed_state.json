@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3335956,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Ein Cyberangriff hat einen kleineren britischen Stromerzeuger vier Tage lang außer Betrieb gesetzt. Die landesweite Energieversorgung war nicht gefährdet, doch genau darin liegt die eigentliche Bedeutung des Falls: Ein digitaler Angriff hatte eine reale betriebliche Folge für eine Anlage der Energieversorgung. Berichte über eine Verbindung der Angreifer zum Iran verschärfen die sicherheitspolitische Dimension, diese Zuordnung ist von britischen Behörden bislang jedoch nicht öffentlich bestätigt worden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cyberangriff_britisches_kraftwerk-high.png",
+      "language": "de-AT",
+      "published": "2026-08-23T13:15:00+00:00",
+      "title": "Cyberangriff auf britisches Kraftwerk offenbart Europas neue Verwundbarkeit | newsmedia.report",
+      "url": "https://www.newsmedia.report/3335956_cyberangriff-auf-britisches-kraftwerk-offenbart-europas-neue-verwundbarkeit"
+    },
+    {
       "article_id": 3335850,
       "author": "Sinisa Brkic (sb) / Redaktion",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T17:14:00+00:00",
       "title": "Österreich: Was hinter der neuen Entgelttransparenz steckt | newsmedia.report",
       "url": "https://www.newsmedia.report/3325347_oesterreich-was-hinter-der-neuen-entgelttransparenz-steckt"
-    },
-    {
-      "article_id": 3325183,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Society",
-      "description": "Five people were wounded in an early morning shooting at Virginia State University in Virginia, with one victim in critical condition. The campus lockdown imposed after the gunfire has been lifted, but police remain on the scene as investigators search for multiple suspects and work to determine what led to the shooting.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/virginia-state-university-shooting-report-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T14:33:00+00:00",
-      "title": "Virginia State University Shooting: Five Injured, One Critical | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325183_virginia-state-university-shooting-five-injured-one-critical"
     }
   ],
   "version": 1
