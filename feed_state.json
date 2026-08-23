@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3335626,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Israel und die Türkei stehen auf gegensätzlichen Seiten mehrerer Konfliktlinien im Nahen Osten. Besonders Syrien birgt inzwischen ein Risiko, das weit über die Beziehungen zwischen Ankara und Jerusalem hinausreicht: Was geschieht, wenn aus politischen Drohungen und militärischer Konkurrenz ein direkter bewaffneter Zusammenstoß wird? Ein israelischer Angriff auf türkisches Staatsgebiet könnte die NATO mit einer ihrer schwierigsten Entscheidungen seit ihrer Gründung konfrontieren. Denn die Türkei ist vollwertiges Mitglied des Bündnisses, ihr Territorium fällt ausdrücklich unter den Schutzbereich des Washingtoner Vertrags. Doch Artikel 5 bedeutet weder einen automatischen Krieg gegen Israel…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/artikel-5-der-nato-israel-und-t-rkei-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-23T07:39:00+00:00",
+      "title": "Artikel 5 der NATO: Was passiert, wenn Israel die Türkei angreift? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3335626_artikel-5-der-nato-was-passiert-wenn-israel-die-tuerkei-angreift"
+    },
+    {
       "article_id": 3335588,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T11:05:00+00:00",
       "title": "Siemens: Konzernumbau ein Fehler von Joe Kaesers? | newsmedia.report",
       "url": "https://www.newsmedia.report/3324998_siemens-konzernumbau-ein-fehler-von-joe-kaesers"
-    },
-    {
-      "article_id": 3324812,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Un terremoto de magnitud 5,0 sacudió durante la noche el área metropolitana de Granada y se sintió en amplias zonas de Andalucía. Hay daños materiales, más de 200 avisos a los servicios de emergencia y un edificio evacuado de forma preventiva, pero hasta ahora no se han confirmado víctimas ni heridos. Las autoridades mantienen activo el plan de emergencia mientras continúan las inspecciones y el seguimiento de las réplicas.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/granada-tiembla-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T07:45:00+00:00",
-      "title": "Granada tiembla | newsmedia.report",
-      "url": "https://www.newsmedia.report/3324812_granada-tiembla"
     }
   ],
   "version": 1
