@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3335768,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Russlands Krieg gegen die Ukraine könnte vor einer neuen Eskalationsphase stehen. Wladimir Putin kündigt Vergeltung gegen besonders empfindliche Bereiche der ukrainischen Wirtschaft an, während Wolodymyr Selenskyj davor warnt, Moskau könne nach der russischen Parlamentswahl im September weitere 300.000 Soldaten mobilisieren. Noch ist diese Mobilisierung nicht bestätigt, doch das Zusammentreffen beider Signale rückt eine entscheidende Frage in den Mittelpunkt: Bereitet Russland den nächsten großen Kraftaufbau vor?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putin-und-selenskyj-neue-eskalationssignale-im-ukraine-krieg-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-23T10:01:00+00:00",
+      "title": "Moskau eskaliert: Kiew warnt vor 300.000 Soldaten | newsmedia.report",
+      "url": "https://www.newsmedia.report/3335768_moskau-eskaliert-kiew-warnt-vor-300-000-soldaten"
+    },
+    {
       "article_id": 3335669,
       "author": "Sinisa Brkic (sb)",
       "category": "Security",
@@ -978,17 +989,6 @@
       "published": "2026-08-15T14:33:00+00:00",
       "title": "Virginia State University Shooting: Five Injured, One Critical | newsmedia.report",
       "url": "https://www.newsmedia.report/3325183_virginia-state-university-shooting-five-injured-one-critical"
-    },
-    {
-      "article_id": 3325147,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland / Politik",
-      "description": "Wenige Wochen vor der Landtagswahl in Sachsen-Anhalt führt die AfD mit deutlichem Abstand in den veröffentlichten Umfragen. Ihr Spitzenkandidat Ulrich Siegmund könnte damit vor einer Konstellation stehen, die es in Deutschland bislang nicht gegeben hat. Entscheidend ist allerdings nicht allein der Stimmenanteil der AfD, sondern die spätere Sitzverteilung und die Wahl des Ministerpräsidenten im Landtag.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ulrich-siegmund-und-die-aussicht-auf-das-ministerpr-sidentenamt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T13:35:00+00:00",
-      "title": "Wird Ulrich Siegmund erster AfD-Ministerpräsident? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325147_wird-ulrich-siegmund-erster-afd-ministerpraesident"
     }
   ],
   "version": 1
