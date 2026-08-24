@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3337002,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Joshua Aviles has spent more than nine months deployed aboard the USS Abraham Lincoln, serving through one of the most demanding carrier deployments in the modern U.S. Navy. While he remained thousands of miles from home, U.S. Border Patrol detained his father in Florida and transferred him into federal immigration custody. The case brings an increasingly consequential question into sharp focus: what protection does military service actually provide when immigration enforcement reaches a service member’s own family?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/uss-abraham-lincoln-sailor-s-father-detained-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T09:03:00+00:00",
+      "title": "Son Serves in U.S. Navy. Border Patrol Detains His Father. | newsmedia.report",
+      "url": "https://www.newsmedia.report/3337002_son-serves-in-u-s-navy-border-patrol-detains-his-father"
+    },
+    {
       "article_id": 3336939,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-16T04:41:00+00:00",
       "title": "PayPal im Übernahmepoker: Stripe und Advent verhandeln | newsmedia.report",
       "url": "https://www.newsmedia.report/3325787_paypal-im-uebernahmepoker-stripe-und-advent-verhandeln"
-    },
-    {
-      "article_id": 3325548,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Japan has just reinforced the male line at the heart of its imperial succession system. Now Crown Prince Akishino, the next man in line to the throne, has publicly acknowledged mixed feelings about the reform, reopening a question Parliament appeared to have settled only weeks ago.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/japan-s-succession-divide-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T20:44:00+00:00",
-      "title": "Japan’s Succession Divide | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325548_japan-s-succession-divide"
     }
   ],
   "version": 1
