@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3337515,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europa",
+      "description": "Fast vier Wochen nach dem massenhaften Grenzübertritt aus Marokko ist die Krise in Ceuta nicht beendet. Spaniens Ministerpräsident Pedro Sánchez beruft für Dienstag den Nationalen Sicherheitsrat ein, während weiterhin mehrere Tausend Migranten in der Exklave leben und Madrid zusätzliche Impfstoffe bereitstellt. Zugleich halten Italien und Spanien an vorübergehenden Grenzkontrollen fest. Was Ende Juli an der nordafrikanischen EU Außengrenze begann, ist damit zu einer europäischen Sicherheitsfrage geworden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ceuta-krise-spaniens-sicherheitsrat-tritt-zusammen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T14:45:00+00:00",
+      "title": "Ceuta-Krise: Spaniens Sicherheitsrat tritt zusammen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3337515_ceuta-krise-spaniens-sicherheitsrat-tritt-zusammen"
+    },
+    {
       "article_id": 3337180,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-16T09:01:00+00:00",
       "title": "Von der Leyen: Macht, Skandale und Europas Kurs | newsmedia.report",
       "url": "https://www.newsmedia.report/3326010_von-der-leyen-macht-skandale-und-europas-kurs"
-    },
-    {
-      "article_id": 3325941,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "South Korean troops fired warning shots after several North Korean soldiers crossed the Military Demarcation Line, creating a fresh security test on one of the world’s most heavily guarded frontiers. No exchange of fire followed and no casualties were reported, but the timing gives the incident unusual political weight as President Lee Jae myung calls for renewed dialogue with Pyongyang and major military exercises with the United States are about to begin.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/warning-shots-at-the-dmz-test-seoul-s-new-peace-push-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T07:33:00+00:00",
-      "title": "South Korea: Warning Shots at the Military Demarcation Line | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325941_south-korea-warning-shots-at-the-military-demarcation-line"
     }
   ],
   "version": 1
