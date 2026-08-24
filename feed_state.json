@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3338050,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Ein bestätigter Fall illegaler Formaldehydbehandlung von Chinakohl in der nordchinesischen Provinz Hebei hat eine landesweite Kontrollaktion ausgelöst. Chinesische Behörden verfolgen die Lieferwege der betroffenen Ware, während Südkorea seine Importkontrollen verschärft und auch in anderen Teilen Ostasiens die Aufmerksamkeit wächst. Noch ist offen, wie weit die behandelten Chargen tatsächlich gelangten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/formaldehyd-auf-chinakohl-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T21:23:00+00:00",
+      "title": "Formaldehyd auf Chinakohl | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338050_formaldehyd-auf-chinakohl"
+    },
+    {
       "article_id": 3337950,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-16T11:03:00+00:00",
       "title": "Christine Lagarde vor der nächsten Bewährungsprobe | newsmedia.report",
       "url": "https://www.newsmedia.report/3326198_christine-lagarde-vor-der-naechsten-bewaehrungsprobe"
-    },
-    {
-      "article_id": 3326033,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Business",
-      "description": "A major change in U.S. naval procurement has created an opening that would have been politically difficult to imagine only a few years ago. President Donald Trump is allowing qualified foreign shipbuilders to construct a limited number of U.S. Navy vessels abroad, and South Korea’s industrial giants are among the companies best positioned to test how far Washington is prepared to take the new model.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/could-south-korea-build-america-s-next-warships-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T09:10:00+00:00",
-      "title": "Could South Korea Build America’s Next Warships? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3326033_could-south-korea-build-america-s-next-warships"
     }
   ],
   "version": 1
