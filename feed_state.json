@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3337180,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "La acusación presentada en Estados Unidos contra Rubén Rocha Moya ha dejado de ser un problema político limitado a Sinaloa. El gobernador volvió al cargo después de más de tres meses de licencia, resistió apenas unas 34 horas y terminó solicitando una nueva separación por tiempo indefinido bajo una creciente presión política. El caso coloca ahora en el centro del debate la relación entre poder público, crimen organizado, soberanía mexicana y cooperación judicial con Estados Unidos.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sinaloa-bajo-presi-n-el-caso-rub-n-rocha-moya-sacude-al-poder-en-m-xico-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T10:44:00+00:00",
+      "title": "Rocha Moya: Sinaloa bajo presión | newsmedia.report",
+      "url": "https://www.newsmedia.report/3337180_rocha-moya-sinaloa-bajo-presion"
+    },
+    {
+      "article_id": 3337161,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Klaus-Michael Kühne ist im Alter von 89 Jahren gestorben. Aus dem Erben eines traditionsreichen Speditionsunternehmens wurde einer der einflussreichsten deutschen Unternehmer und Investoren, Großaktionär bedeutender Konzerne, Stifter, Mäzen und leidenschaftlicher Förderer seiner Heimatstadt Hamburg. Sein Tod beendet ein außergewöhnliches Unternehmerleben, nicht aber das wirtschaftliche Geflecht, das er hinterlässt. Die entscheidende Frage lautet nun, wie sein Milliardenvermögen, seine Beteiligungen und seine Stiftung ohne ihn weitergeführt werden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/klaus-michael-k-hne-ist-tot-leben-und-verm-chtnis-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T10:17:00+00:00",
+      "title": "Milliardär Klaus-Michael Kühne ist tot: Leben und Vermächtnis | newsmedia.report",
+      "url": "https://www.newsmedia.report/3337161_milliardaer-klaus-michael-kuehne-ist-tot-leben-und-vermaechtnis"
+    },
+    {
       "article_id": 3337114,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-16T07:33:00+00:00",
       "title": "South Korea: Warning Shots at the Military Demarcation Line | newsmedia.report",
       "url": "https://www.newsmedia.report/3325941_south-korea-warning-shots-at-the-military-demarcation-line"
-    },
-    {
-      "article_id": 3325884,
-      "author": "Sinisa Brkic (sb) | Redaktion",
-      "category": "Medien",
-      "description": "Digitale Geschwindigkeit, automatisierte Inhalte und der permanente Kampf um Aufmerksamkeit verändern den Journalismus grundlegend. Je leichter Inhalte produziert und verbreitet werden können, desto wertvoller wird das, was sich nicht automatisieren lässt: redaktionelle Verantwortung, belastbare Einordnung und kontrollierte publizistische Qualität. Für Medien wird Glaubwürdigkeit damit zunehmend zu einer Frage von Einfluss und Macht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/qualit-t-wird-zur-machtfrage-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T06:40:00+00:00",
-      "title": "Qualität wird zur Machtfrage | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325884_qualitaet-wird-zur-machtfrage"
-    },
-    {
-      "article_id": 3325822,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energie",
-      "description": "Historisches Niedrigwasser setzt eines der wichtigsten Kraftwerke Ungarns unter Druck. Um weitere Leistungsausfälle zu verhindern, greift die Regierung an der Donau zu einer außergewöhnlichen technischen Intervention. Der Fall Paks zeigt, wie unmittelbar Wasserknappheit inzwischen die europäische Energieinfrastruktur trifft.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/paks-in-not-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T05:46:00+00:00",
-      "title": "Paks in Not: Ungarn greift zu drastischer Maßnahme | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325822_paks-in-not-ungarn-greift-zu-drastischer-massnahme"
     }
   ],
   "version": 1
