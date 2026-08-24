@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3337114,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "A Rimini, Papa Leone XIV ha pronunciato un intervento che supera nettamente i confini del dibattito ecclesiale. Davanti al pubblico del Meeting per l’amicizia fra i popoli ha parlato di guerra, interessi economici, tecnologia, finanza e disuguaglianze sociali. Il messaggio è chiaro: quando il potere perde il rapporto con la dignità umana, la neutralità diventa una forma di rinuncia alla responsabilità.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/leone-xiv-a-rimini-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T09:55:00+00:00",
+      "title": "Leone XIV a Rimini: potere e profitto sotto esame | newsmedia.report",
+      "url": "https://www.newsmedia.report/3337114_leone-xiv-a-rimini-potere-e-profitto-sotto-esame"
+    },
+    {
+      "article_id": 3337054,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Tempsens Instruments का ₹650 करोड़ का IPO भारतीय प्राथमिक बाजार की सबसे तेज कहानियों में शामिल हो गया है। अंतिम दिन दोपहर 2:04 बजे तक इश्यू 100.3 गुना सब्सक्राइब हो चुका था, जबकि ग्रे मार्केट में प्रीमियम ऊपरी इश्यू प्राइस के 100 प्रतिशत से ऊपर बना हुआ है। लेकिन इस असाधारण मांग के पीछे एक महत्वपूर्ण संरचनात्मक तथ्य भी है: IPO का लगभग 85 प्रतिशत हिस्सा मौजूदा शेयरधारकों की बिक्री है और कंपनी को नई पूंजी के रूप में केवल ₹95 करोड़ जुटाने हैं।",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tempsens-ipo-gmp-100-100-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T09:25:00+00:00",
+      "title": "Tempsens IPO: GMP 100% पार, मांग 100 गुना | newsmedia.report",
+      "url": "https://www.newsmedia.report/3337054_tempsens-ipo-gmp-100-pa-ra-ma-ga-100-ga-na"
+    },
+    {
       "article_id": 3337002,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -967,28 +989,6 @@
       "published": "2026-08-16T05:46:00+00:00",
       "title": "Paks in Not: Ungarn greift zu drastischer Maßnahme | newsmedia.report",
       "url": "https://www.newsmedia.report/3325822_paks-in-not-ungarn-greift-zu-drastischer-massnahme"
-    },
-    {
-      "article_id": 3325798,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Ceuta vuelve a situarse en el centro de la presión migratoria entre Marruecos, España y la Unión Europea. Un nuevo intento de alcanzar el enclave español fue contenido el 15 de agosto por las fuerzas de seguridad marroquíes, evitando por ahora una repetición de la crisis de finales de julio. Pero el episodio abre un frente más incómodo para Madrid: sindicatos de trabajadores fronterizos aseguran que el Gobierno había recibido reiteradas advertencias antes de la llegada masiva que dejó decenas de muertos.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ceuta-bajo-presi-n-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T05:04:00+00:00",
-      "title": "Ceuta bajo presión: las alertas previas abren un frente político | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325798_ceuta-bajo-presion-las-alertas-previas-abren-un-frente-politico"
-    },
-    {
-      "article_id": 3325787,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die mögliche Übernahme von PayPal erreicht eine neue Phase. Nachdem ein gemeinsames Angebot von Stripe und Advent International über 60,50 Dollar je Aktie dem PayPal-Verwaltungsrat zu niedrig war, wird inzwischen direkt über einen höheren Preis gesprochen. Ein Abschluss steht weiterhin nicht fest, doch aus einem Übernahmeversuch ist ein ernsthafter Milliardenpoker um einen der bekanntesten Namen der globalen Finanztechnologie geworden",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/paypal-bernahmepoker-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T04:41:00+00:00",
-      "title": "PayPal im Übernahmepoker: Stripe und Advent verhandeln | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325787_paypal-im-uebernahmepoker-stripe-und-advent-verhandeln"
     }
   ],
   "version": 1
