@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3336939,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Samsung Electronics has outlined what could become the largest shareholder return program in its history, with an estimated 90 trillion to 110 trillion won, roughly $65 billion to $80 billion, expected for 2026. Instead of rewarding the company with another rally, investors sent the shares sharply lower. The reaction reveals how far expectations have shifted in the AI chip boom: enormous profits alone are no longer enough when shareholders want clearer, faster and more permanent returns of capital.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/samsung-s-80-billion-problem-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T08:04:00+00:00",
+      "title": "Samsung’s $80 Billion Problem | newsmedia.report",
+      "url": "https://www.newsmedia.report/3336939_samsung-s-80-billion-problem"
+    },
+    {
+      "article_id": 3336914,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justice & Law",
+      "description": "Sean Grayson, the former Illinois sheriff’s deputy convicted of second-degree murder in the killing of Sonya Massey, has died while serving a 20-year prison sentence. His death closes one chapter of a case that became nationally significant far beyond the criminal trial. The deeper question is what changed after Massey called police for help and was killed inside her own home, and how much of the reform promised in her name has actually become part of the system",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sean-grayson-and-the-sonya-massey-reforms-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-24T07:37:00+00:00",
+      "title": "What Sonya Massey’s Killing Changed | newsmedia.report",
+      "url": "https://www.newsmedia.report/3336914_what-sonya-massey-s-killing-changed"
+    },
+    {
       "article_id": 3336557,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesundheit",
@@ -967,28 +989,6 @@
       "published": "2026-08-15T20:44:00+00:00",
       "title": "Japan’s Succession Divide | newsmedia.report",
       "url": "https://www.newsmedia.report/3325548_japan-s-succession-divide"
-    },
-    {
-      "article_id": 3325523,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "President Donald Trump is moving to intensify his role in the 2026 midterms, authorizing millions of dollars for vulnerable Republicans and preparing a heavier campaign schedule as GOP strategists confront a harder political environment. The strategy is increasingly clear: mobilize Trump voters who often disappear in midterm elections and use the Republican financial advantage to protect control of Congress. Whether that is enough is now one of the central questions of the campaign.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-s-midterm-offensive-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T20:02:00+00:00",
-      "title": "Trump’s Midterm Offensive | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325523_trump-s-midterm-offensive"
-    },
-    {
-      "article_id": 3325512,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Mehrere Waldbrände halten Einsatzkräfte in Deutschland weiter in Atem. Besonders angespannt bleibt die Situation im Hürtgenwald in Nordrhein Westfalen, wo rund 2.000 Menschen ihre Häuser verlassen mussten und etwa 300 Hektar Wald betroffen sind. Während sich die Lage dort stabilisiert hat, bleibt eine Rückkehr nach Gey vorerst offen. Zugleich rückt ein großer Brand im Hohen Venn gefährlich nahe an die deutsche Grenze.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/waldbr-nde-in-deutschland-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-15T19:50:00+00:00",
-      "title": "Waldbrände in Deutschland | newsmedia.report",
-      "url": "https://www.newsmedia.report/3325512_waldbraende-in-deutschland"
     }
   ],
   "version": 1
