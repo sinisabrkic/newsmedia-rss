@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3339434,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Am Flughafen Leipzig/Halle sollte nach Erkenntnissen der Bundesanwaltschaft mit einer präparierten Drohne eine Explosion verursacht werden. Drei Wochen später kündigt Bundeskanzler Friedrich Merz an, die Bundesregierung werde sich in Kürze zur Zuordnung des Angriffs äußern. Damit rückt eine Frage ins Zentrum, die weit über das laufende Strafverfahren hinausgeht: Kann Deutschland den Angriff belastbar einem staatlichen Akteur zurechnen, und welche Folgen hätte eine solche Attribution?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drohnenangriff-auf-leipzig-halle-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T19:12:00+00:00",
+      "title": "Drohnenangriff auf Leipzig/Halle | newsmedia.report",
+      "url": "https://www.newsmedia.report/3339434_drohnenangriff-auf-leipzig-halle"
+    },
+    {
       "article_id": 3339079,
       "author": "Sinisa Brkic (sb)",
       "category": "Business",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T13:38:00+00:00",
       "title": "Salon-de-Provence : crash d’un Cirrus SR-20 militaire | newsmedia.report",
       "url": "https://www.newsmedia.report/3327775_salon-de-provence-crash-d-un-cirrus-sr-20-militaire"
-    },
-    {
-      "article_id": 3327372,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland / Politik",
-      "description": "Der frühere SPD-Chef Sigmar Gabriel greift den sozialpolitischen Kurs seiner Partei ungewöhnlich hart an. Bürgergeld, Rentenpolitik und der Umgang mit der AfD stehen für ihn für ein tieferes Problem: Die Sozialdemokratie habe einen Teil jener Arbeitnehmer aus dem Blick verloren, deren Interessen sie einst politisch bündelte. Die Wahldaten geben dieser Diagnose Gewicht, doch bei den Ursachen greift Gabriels Abrechnung an entscheidenden Stellen zu kurz.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sigmar-gabriel-rechnet-mit-dem-sozialkurs-der-spd-ab-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T09:01:00+00:00",
-      "title": "Sigmar Gabriel rechnet mit dem Sozialkurs der SPD ab | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327372_sigmar-gabriel-rechnet-mit-dem-sozialkurs-der-spd-ab"
     }
   ],
   "version": 1
