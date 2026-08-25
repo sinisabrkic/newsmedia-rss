@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3338929,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Armenien treibt seine politische Annäherung an die Europäische Union weiter voran. Ministerpräsident Nikol Paschinjan kündigt nun an, den Prozess für einen formellen EU Beitrittsantrag beginnen zu wollen, während er eine Rückkehr in das von Russland geführte Militärbündnis OVKS ausschließt. Für Moskau geht es damit um weit mehr als diplomatische Verstimmungen: Im Südkaukasus droht Russland ein traditioneller Verbündeter endgültig aus seiner strategischen Einflusszone zu entgleiten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/armenien-bald-in-der-eu-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T13:45:00+00:00",
+      "title": "Armenien: Antrag auf EU-Mitgliedschaft in Vorbereitung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338929_armenien-antrag-auf-eu-mitgliedschaft-in-vorbereitung"
+    },
+    {
       "article_id": 3338844,
       "author": "Sinisa Brkic (sb) / Redaktion",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T08:11:00+00:00",
       "title": "BINANCE, MOSCOW AND THE DATA TRAIL | newsmedia.report",
       "url": "https://www.newsmedia.report/3327310_binance-moscow-and-the-data-trail"
-    },
-    {
-      "article_id": 3327271,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Peter Thiel hat sich einen Ruf als Investor erworben, der nicht nur auf Unternehmen setzt, sondern auf Verschiebungen von Macht, Technologie und staatlicher Ordnung. Sein jüngstes Engagement in Argentinien, eine Millionenbeteiligung am Energieproduzenten Vista, auffällige Positionen im amerikanischen Stromsektor und Investitionen in neue Rechenzentrumsmodelle ergeben deshalb ein Bild, das weit über eine gewöhnliche Portfolioumschichtung hinausweist. Ein nachgewiesener Masterplan lässt sich daraus nicht ableiten. Doch die Richtung ist bemerkenswert: Energie, künstliche Intelligenz, politische Deregulierung und strategische Autonomie rücken in Thiels Welt immer näher zusammen",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/peter-thiel-argentinien-energie-ki-und-politik-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T07:49:00+00:00",
-      "title": "Peter Thiel: Argentinien, Energie, KI und Politik | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327271_peter-thiel-argentinien-energie-ki-und-politik"
     }
   ],
   "version": 1
