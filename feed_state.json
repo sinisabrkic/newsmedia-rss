@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3338268,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Ein Öltanker wird vor Oman von einem unbekannten Projektil getroffen, der Maschinenraum beschädigt, das Schiff manövrierunfähig. Der Zwischenfall ereignet sich ausgerechnet dort, wo sich Sanktionen, iranische Drohungen und massive Einschränkungen des Schiffsverkehrs zu einem hochgefährlichen Gemisch verdichten. Wer für den Treffer verantwortlich ist, bleibt offen. Für die Weltwirtschaft ist diese Ungewissheit längst Teil des Problems.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/treffer-vor-oman-weltwirtschaft-in-alarmbereitschaft-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T04:43:00+00:00",
+      "title": "Treffer vor Oman: Weltwirtschaft in Alarmbereitschaft | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338268_treffer-vor-oman-weltwirtschaft-in-alarmbereitschaft"
+    },
+    {
       "article_id": 3338050,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesundheit",
@@ -978,17 +989,6 @@
       "published": "2026-08-16T12:14:00+00:00",
       "title": "Nigeria’s Phantom Agency: The 1.3 Billion Naira Question | newsmedia.report",
       "url": "https://www.newsmedia.report/3326278_nigeria-s-phantom-agency-the-1-3-billion-naira-question"
-    },
-    {
-      "article_id": 3326198,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Christine Lagarde steht vor einer der schwierigsten Entscheidungen ihrer Amtszeit. Nach der Zinserhöhung im Juni hat die Europäische Zentralbank im Juli innegehalten, doch die Inflation liegt wieder deutlich über dem Zwei Prozent Ziel und ein weiterer Zinsschritt im September wird an den Märkten zunehmend erwartet. Zugleich holt Lagarde ihre eigene Vergangenheit ein: eine rechtskräftig festgestellte Nachlässigkeit in der französischen Tapie Affäre, umstrittene Entscheidungen während der Pandemie und die Fehleinschätzung der Inflation 2021 gehören ebenso zu ihrer Bilanz wie die Frage, wer Europas mächtigste Notenbank nach ihr führen wird.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/christine-lagarde-und-die-neue-zinswende-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T11:03:00+00:00",
-      "title": "Christine Lagarde vor der nächsten Bewährungsprobe | newsmedia.report",
-      "url": "https://www.newsmedia.report/3326198_christine-lagarde-vor-der-naechsten-bewaehrungsprobe"
     }
   ],
   "version": 1
