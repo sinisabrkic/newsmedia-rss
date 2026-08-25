@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3338461,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Deutschland",
+      "description": "Die geplante deutsche Zuckersteuer könnte deutlich umfassender ausfallen als bislang angenommen. Nach dem aktuell bekannt gewordenen Arbeitsstand aus dem Bundesfinanzministerium könnten neben klassischen Limonaden auch Säfte, Eistees, Milchgetränke und sogar zuckerfreie Produkte mit Süßstoffen wie Cola Zero erfasst werden. Die politische Richtung ist klar, die entscheidenden Details sind es noch nicht: Die Bundesregierung will die Steuer 2027, das konkrete Modell ist jedoch noch kein beschlossenes Gesetz.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-zuckersteuer-2027-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T08:30:00+00:00",
+      "title": "Deutschland: Zuckersteuer. Das neue BMF-Modell für 2027 | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338461_deutschland-zuckersteuer-das-neue-bmf-modell-fuer-2027"
+    },
+    {
       "article_id": 3338290,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T06:05:00+00:00",
       "title": "Fukuoka Earthquake: What Is Known After Shindo 4 Tremor | newsmedia.report",
       "url": "https://www.newsmedia.report/3327178_fukuoka-earthquake-what-is-known-after-shindo-4-tremor"
-    },
-    {
-      "article_id": 3326783,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Just days after taking office as the nation’s top law enforcement official, Attorney General Todd Blanche has declined to promise that the Justice Department will operate independently from President Donald Trump’s White House. The statement does not mean Blanche has agreed to unlawful presidential orders. But coming from Trump’s former personal criminal defense lawyer, it places one of Washington’s most sensitive institutional questions directly at the center of his tenure.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-s-attorney-general-refuses-doj-independence-pledge-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T19:12:00+00:00",
-      "title": "Trump’s Attorney General Won’t Pledge DOJ Independence | newsmedia.report",
-      "url": "https://www.newsmedia.report/3326783_trump-s-attorney-general-won-t-pledge-doj-independence"
     }
   ],
   "version": 1
