@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3338995,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "कर्नाटक ने Amazon, Swiggy Instamart और BigBasket के खाद्य लाइसेंस और पंजीकरण अगले आदेश तक निलंबित कर दिए हैं। कार्रवाई का कारण धतूरे के फल और बीजों का भोजन या मानव उपभोग के लिए ऑनलाइन उपलब्ध कराया जाना है, जबकि यह पौधा गंभीर विषाक्तता पैदा कर सकता है। मामला अब किसी एक गलत उत्पाद सूची से आगे बढ़कर खाद्य सुरक्षा, प्लेटफॉर्म नियंत्रण और ऑनलाइन कारोबार की जिम्मेदारी का प्रश्न बन गया है।",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/amazon_stechapfel_indien-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T14:25:00+00:00",
+      "title": "कर्नाटक में Amazon समेत तीन प्लेटफॉर्म पर धतूरा बिक्री की कार्रवाई | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338995_kara-na-taka-ma-amazon-sama-ta-ta-na-pa-l-tafa-ra-ma-para-thhata-ra-b-ka-ra-ka-ka-ra-rava-ii"
+    },
+    {
       "article_id": 3338929,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T08:45:00+00:00",
       "title": "Hayden Panettiere: causa della morte ancora ignota | newsmedia.report",
       "url": "https://www.newsmedia.report/3327355_hayden-panettiere-causa-della-morte-ancora-ignota"
-    },
-    {
-      "article_id": 3327310,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Binance said it had fully exited Russia in 2023. Two years later, Russian investigators received detailed personal and transaction data from the cryptocurrency exchange about a customer accused of sending crypto to Ukrainian fundraising campaigns, and those records became part of a terrorism financing case. The issue is not the roughly $700 involved. It is what the case reveals about personal data, corporate exits and the reach of state authorities across digital borders.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/binance-moscow-and-the-data-trail-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T08:11:00+00:00",
-      "title": "BINANCE, MOSCOW AND THE DATA TRAIL | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327310_binance-moscow-and-the-data-trail"
     }
   ],
   "version": 1
