@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3339481,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Kultur",
+      "description": "Dolly Parton ist im Alter von 80 Jahren in Nashville gestorben. Mit ihr verliert die Musikwelt eine der bedeutendsten Songwriterinnen und unverwechselbarsten Persönlichkeiten der amerikanischen Unterhaltungskultur. Ihr Vermächtnis reicht von „Jolene“ und „9 to 5“ bis zu jenem Lied, das durch Whitney Houston zum Welthit wurde und doch immer Dolly Partons Werk blieb: „I Will Always Love You“.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dolly-parton-ist-tot-eine-stimme-die-weit-ber-die-countrymusik-hinausreichte-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T20:05:00+00:00",
+      "title": "Dolly Parton ist tot: Eine Stimme für die Ewigkeit | newsmedia.report",
+      "url": "https://www.newsmedia.report/3339481_dolly-parton-ist-tot-eine-stimme-fuer-die-ewigkeit"
+    },
+    {
       "article_id": 3339434,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T14:05:00+00:00",
       "title": "KPMG’S TRUST CRISIS: INSIDE THE FAILURE OF CONTROL | newsmedia.report",
       "url": "https://www.newsmedia.report/3327803_kpmg-s-trust-crisis-inside-the-failure-of-control"
-    },
-    {
-      "article_id": 3327775,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Un avion léger d’entraînement Cirrus SR-20 de l’Armée de l’Air et de l’Espace a été accidenté lundi matin à Salon-de-Provence, dans les Bouches-du-Rhône, alors qu’il effectuait un vol d’instruction. L’instructeur et l’élève pilote présents à bord ont réussi à éviter les zones habitées et à quitter l’appareil. Tous deux sont légèrement blessés, tandis qu’aucune victime n’est à déplorer parmi la population.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/crash-d-un-cirrus-sr-20-salon-de-provence-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T13:38:00+00:00",
-      "title": "Salon-de-Provence : crash d’un Cirrus SR-20 militaire | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327775_salon-de-provence-crash-d-un-cirrus-sr-20-militaire"
     }
   ],
   "version": 1
