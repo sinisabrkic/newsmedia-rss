@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3338844,
+      "author": "Sinisa Brkic (sb) / Redaktion",
+      "category": "",
+      "description": "Washington’s new pressure campaign against Iran is aimed far beyond Tehran. Its real targets include the foreign banks, refiners, shipping companies, insurers, brokers, technology suppliers and digital-asset networks that keep Iran connected to the world economy. This report examines how secondary sanctions work, why access to the dollar gives the United States extraordinary leverage, how Iran has learned to route oil and money around restrictions, where China and the Gulf fit into the system, and where the legal and geopolitical limits of American economic power begin.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran_sanctions_how_washington_can_isolate_an_economy_investigations-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T13:15:00+00:00",
+      "title": "IRAN SANCTIONS: HOW WASHINGTON CAN ISOLATE AN ECONOMY | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338844_iran-sanctions-how-washington-can-isolate-an-economy"
+    },
+    {
+      "article_id": 3338814,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "The Trump administration is preparing a sweeping visa action that could affect up to 200,000 B1 and B2 visas held by people who sought asylum after entering the United States. The potential scale is extraordinary, but the legal consequences are more complex than the headline number suggests. Visa revocation, loss of nonimmigrant status, a pending asylum case and removal from the United States are related issues, but they are not the same legal event.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-visa-revocation-plan-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T12:34:00+00:00",
+      "title": "Trump’s Visa Revocation Plan Could Affect Up to 200,000 U.S. Visas | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338814_trump-s-visa-revocation-plan-could-affect-up-to-200-000-u-s-visas"
+    },
+    {
       "article_id": 3338522,
       "author": "Sinisa Brkic (sb)",
       "category": "Business",
@@ -967,28 +989,6 @@
       "published": "2026-08-17T07:49:00+00:00",
       "title": "Peter Thiel: Argentinien, Energie, KI und Politik | newsmedia.report",
       "url": "https://www.newsmedia.report/3327271_peter-thiel-argentinien-energie-ki-und-politik"
-    },
-    {
-      "article_id": 3327214,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Dhoot Transmission made a striking entrance on India’s public markets, opening nearly 38 percent above its IPO price after an offering that drew extraordinary investor demand. Behind the first day surge lies a broader bet on India’s electric vehicle supply chain, but also questions about valuation, customer concentration and how much future growth the company can actually deliver.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dhoot-transmission-ipo-debut-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T06:50:00+00:00",
-      "title": "Dhoot Transmission Surges 38% | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327214_dhoot-transmission-surges-38"
-    },
-    {
-      "article_id": 3327194,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "Flock cameras have become one of the most powerful and controversial tools in American policing, allowing agencies to search vehicle sightings across a rapidly expanding network of automated license plate readers. Now documented cases of alleged police misuse, new restrictions from Flock Safety and mounting resistance from cities are forcing a larger question into public view: how much vehicle tracking should law enforcement be able to conduct without a warrant?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/flock-cameras-privacy-backlash-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T06:33:00+00:00",
-      "title": "Flock Cameras Are Everywhere. Who Is Watching? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327194_flock-cameras-are-everywhere-who-is-watching"
     }
   ],
   "version": 1
