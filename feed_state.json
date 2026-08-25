@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3338522,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Business",
+      "description": "Leonardo Maria Del Vecchio is stepping down as chairman of Ray-Ban and chief strategy officer of EssilorLuxottica, bringing questions of succession, control and management back into focus. His departure from executive office does not remove him from the ownership structure behind the global eyewear group. It comes at a critical moment for a company whose future increasingly extends beyond luxury eyewear into artificial intelligence and wearable technology.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/del-vecchio-exits-ray-ban-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T09:01:00+00:00",
+      "title": "Del Vecchio Exits Ray-Ban | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338522_del-vecchio-exits-ray-ban"
+    },
+    {
       "article_id": 3338461,
       "author": "Sinisa Brkic (sb)",
       "category": "Deutschland",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T06:33:00+00:00",
       "title": "Flock Cameras Are Everywhere. Who Is Watching? | newsmedia.report",
       "url": "https://www.newsmedia.report/3327194_flock-cameras-are-everywhere-who-is-watching"
-    },
-    {
-      "article_id": 3327178,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "A magnitude 4.4 earthquake struck Japan’s Fukuoka region on Monday morning, producing strong local shaking in parts of northern Kyushu and triggering a rapid surge in public interest. Search demand has now doubled from more than 50,000 to more than 100,000 queries, but authorities have so far reported no tsunami threat and no confirmed major damage or casualties. The sharp rise in searches reflects an escalating demand for information rather than evidence of a worsening disaster. As local assessments continue, the central questions concern damage, transportation disruptions, possible aftershocks and whether the tremor has any connection to the recent earthquake sequence elsewhere in Kyushu.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fukuoka-earthquake-what-is-known-after-shindo-4-tremor-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T06:05:00+00:00",
-      "title": "Fukuoka Earthquake: What Is Known After Shindo 4 Tremor | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327178_fukuoka-earthquake-what-is-known-after-shindo-4-tremor"
     }
   ],
   "version": 1
