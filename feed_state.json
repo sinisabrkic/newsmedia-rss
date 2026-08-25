@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3338290,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Prudential Life Insurance Company in Japan is investigating a new suspected case of improper money collection involving a sales employee who had been assigned to its Tama branch. The case is particularly sensitive because the alleged conduct may have continued after Prudential suspended new policy sales in February, raising fresh questions about the effectiveness of controls introduced during one of the most serious governance crises in the company’s Japanese operations.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/new-prudential-japan-case-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-25T05:15:00+00:00",
+      "title": "Prudential Japan: New Misconduct Case During Sales Freeze | newsmedia.report",
+      "url": "https://www.newsmedia.report/3338290_prudential-japan-new-misconduct-case-during-sales-freeze"
+    },
+    {
       "article_id": 3338268,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-16T19:12:00+00:00",
       "title": "Trump’s Attorney General Won’t Pledge DOJ Independence | newsmedia.report",
       "url": "https://www.newsmedia.report/3326783_trump-s-attorney-general-won-t-pledge-doj-independence"
-    },
-    {
-      "article_id": 3326278,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "A federal agency that Nigeria says was never legally created acquired the appearance of government legitimacy, entered official administrative processes and ultimately appeared in the country’s 2026 budget with an allocation of roughly 1.3 billion Naira. Investigators now say no federal funds were approved or disbursed to the entity or its operators. That finding does not close the scandal. It sharpens the central question: How did an institution with no lawful existence get this far inside the machinery of the state?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nigeria-s-phantom-agency-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-16T12:14:00+00:00",
-      "title": "Nigeria’s Phantom Agency: The 1.3 Billion Naira Question | newsmedia.report",
-      "url": "https://www.newsmedia.report/3326278_nigeria-s-phantom-agency-the-1-3-billion-naira-question"
     }
   ],
   "version": 1
