@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3339981,
+      "author": "newsmedia.report Editorial Desk",
+      "category": "",
+      "description": "Two 737 MAX crashes killed 346 people. Five years after the aircraft returned to service, a door plug blew out of a nearly new MAX 9 and exposed another chain of production and oversight failures. Boeing has since changed leaders, slowed factories and promised a safety reset. Yet federal oversight remains unusually intense. This report traces the deeper history: the McDonnell Douglas merger, financial and production pressures, MCAS, delegated certification, the crashes, criminal proceedings, Alaska Airlines Flight 1282, whistleblower warnings, supplier problems and the question Boeing still has to answer — has the system changed, or only the response to each crisis?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/boeing_how_a_culture_of_failure_became_a_safety_crisis_investigations-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-26T09:03:00+00:00",
+      "title": "BOEING: HOW A CULTURE OF FAILURE BECAME A SAFETY CRISIS | newsmedia.report",
+      "url": "https://www.newsmedia.report/3339981_boeing-how-a-culture-of-failure-became-a-safety-crisis"
+    },
+    {
       "article_id": 3339156,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T15:30:00+00:00",
       "title": "ICE: THE BILLION-DOLLAR DETENTION CAMP | newsmedia.report",
       "url": "https://www.newsmedia.report/3327956_ice-the-billion-dollar-detention-camp"
-    },
-    {
-      "article_id": 3327899,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politics",
-      "description": "Attorney General Todd Blanche says President Donald Trump should have a voice in decisions involving individual prosecutions. That position does not by itself establish unlawful political interference, but it reaches directly into one of Washington’s most sensitive institutional boundaries: how much influence a president should exercise over the federal machinery of criminal justice.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/who-controls-trump-s-doj-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T14:50:00+00:00",
-      "title": "Who Controls Trump’s DOJ? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327899_who-controls-trump-s-doj"
     }
   ],
   "version": 1
