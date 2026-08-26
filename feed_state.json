@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3340101,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Handel & E Commerce",
+      "description": "Produkte für wenige Euro, Rabatte im Sekundentakt und ein Sortiment, das beinahe grenzenlos wirkt. TEMU hat den extrem niedrigen Preis zum Prinzip gemacht und sich innerhalb weniger Jahre tief in den europäischen Onlinehandel geschoben. Doch hinter dem Billigversprechen steht weit mehr als ein günstiger Marktplatz. Es ist ein Geschäftsmodell, das Produktion, Plattformsteuerung, Werbung und globale Logistik verbindet und Europa inzwischen auch regulatorisch herausfordert.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/temu-das-gesch-ft-mit-dem-billigpreis-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-26T10:50:00+00:00",
+      "title": "TEMU: Das Geschäft mit dem Billigpreis | newsmedia.report",
+      "url": "https://www.newsmedia.report/3340101_temu-das-geschaeft-mit-dem-billigpreis"
+    },
+    {
       "article_id": 3340087,
       "author": "Sinisa Brkic (sb)",
       "category": "Economics",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T19:59:00+00:00",
       "title": "Wenn Beziehung zur Gewohnheit wird: Der Routine entkommen / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3328234_wenn-beziehung-zur-gewohnheit-wird-der-routine-entkommen"
-    },
-    {
-      "article_id": 3328206,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Eine Tonne CO₂ hat längst keinen einheitlichen Preis mehr. Im europäischen Emissionshandel kostet das Recht zum Ausstoß einer Tonne derzeit rund 81 Euro, während hochwertige Zertifikate am freiwilligen Markt nach völlig anderen Regeln bewertet werden. Der Carbon Protocol Council, CPC, setzt seinen aktuellen Preis mit 45 Euro je Tonne an und positioniert sich damit bewusst außerhalb des verpflichtenden EU Emissionshandels. Bis 2030 dürften Regulierung, Qualitätsanforderungen und strengere Regeln für Klimaversprechen die Unterschiede zwischen beiden Märkten noch deutlicher sichtbar machen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-preis-der-tonne-co-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T19:25:00+00:00",
-      "title": "Europas Kohlenstoffmarkt: CO₂ vor dem Preissprung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328206_europas-kohlenstoffmarkt-co2-vor-dem-preissprung"
     }
   ],
   "version": 1
