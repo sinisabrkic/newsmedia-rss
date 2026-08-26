@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3340087,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Economics",
+      "description": "A new connection into Delhi and fresh progress in western India are pushing the Delhi-Mumbai Expressway into a more consequential phase. The highway is not yet a fully continuous Delhi-to-Mumbai route, but its expanding network of operational sections is beginning to change the economics of freight, industrial development and investment across western and central India.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/delhi-mumbai-expressway-economic-corridor-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-26T10:30:00+00:00",
+      "title": "Delhi-Mumbai Expressway Becomes an Economic Corridor | newsmedia.report",
+      "url": "https://www.newsmedia.report/3340087_delhi-mumbai-expressway-becomes-an-economic-corridor"
+    },
+    {
       "article_id": 3340059,
       "author": "Sinisa Brkic (sb)",
       "category": "Technology & AI",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T19:25:00+00:00",
       "title": "Europas Kohlenstoffmarkt: CO₂ vor dem Preissprung | newsmedia.report",
       "url": "https://www.newsmedia.report/3328206_europas-kohlenstoffmarkt-co2-vor-dem-preissprung"
-    },
-    {
-      "article_id": 3328066,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit / Deutschland",
-      "description": "Mit der „Admiral Kasatonov“ hat Russland eines seiner moderneren Kriegsschiffe in die Ostsee verlegt. Die Fregatte wurde vor Fehmarn beobachtet, nachdem bereits Ende Juli der russische Zerstörer „Admiral Levchenko“ in das Seegebiet eingelaufen war. Für sich genommen ist die Passage eines Kriegsschiffs noch keine Eskalation, doch Zeitpunkt, Bewaffnung und die wachsende Verknüpfung russischer Marineoperationen mit dem Schutz strategisch wichtiger Handelsschiffe geben der Verlegung eine politische Bedeutung, die weit über eine gewöhnliche Durchfahrt hinausreicht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russlands-fregatte-vor-fehmarn-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T17:19:00+00:00",
-      "title": "Russlands Fregatte in der Ostsee | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328066_russlands-fregatte-in-der-ostsee"
     }
   ],
   "version": 1
