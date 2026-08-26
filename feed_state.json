@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3340483,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "A catastrophic flash flood has struck the Himalayan border region between Nepal and Tibet, leaving at least 95 bodies recovered and hundreds of people missing as rescue operations continue across devastated mountain valleys. Foreign travellers, local residents and workers are among those unaccounted for, while roads, bridges, power facilities and a strategically important border corridor have suffered extensive damage. The disaster reaches far beyond the immediate humanitarian emergency. It has exposed the vulnerability of a region where tourism, cross border trade, hydropower and settlements are concentrated along narrow river valleys that can turn into destructive channels within minutes.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nepal-tibet-flood-hundreds-missing-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-26T14:45:00+00:00",
+      "title": "Nepal-Tibet Flood: Hundreds Missing | newsmedia.report",
+      "url": "https://www.newsmedia.report/3340483_nepal-tibet-flood-hundreds-missing"
+    },
+    {
+      "article_id": 3340445,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "The DWP has begun reviewing selected Pension Credit claims, with some pensioners being asked to provide updated financial information, including bank statements. The checks can affect future payments, but being selected for review does not mean a claimant is suspected of fraud.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dwp-pension-credit-reviews-explained-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-26T14:29:00+00:00",
+      "title": "UK: DWP Pension Credit Reviews Explained | newsmedia.report",
+      "url": "https://www.newsmedia.report/3340445_uk-dwp-pension-credit-reviews-explained"
+    },
+    {
       "article_id": 3340152,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-18T05:50:00+00:00",
       "title": "Sainsbury’s Facial Recognition Problem | newsmedia.report",
       "url": "https://www.newsmedia.report/3328601_sainsbury-s-facial-recognition-problem"
-    },
-    {
-      "article_id": 3328594,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Deutsche Telekom will mit der Übernahme von Fiberhost und Inea ihre Position auf dem polnischen Telekommunikationsmarkt grundlegend verändern. Für rund eine Milliarde Euro soll T-Mobile Polska Zugang zu einer Glasfaserinfrastruktur erhalten, die mehr als 1,4 Millionen Haushalte erreicht, hinzu kommen mehr als 300.000 Kunden des Breitband und TV Anbieters Inea. Hinter dem Deal steht mehr als ein klassischer Zukauf: Die Telekom treibt die Verzahnung von Mobilfunk und Festnetz voran und positioniert sich für die nächste Phase der europäischen Glasfaserkonsolidierung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutsche-telekom-plant-milliardenkauf-in-polen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-18T05:30:00+00:00",
-      "title": "Deutsche Telekom plant Milliardenkauf in Polen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328594_deutsche-telekom-plant-milliardenkauf-in-polen"
-    },
-    {
-      "article_id": 3328565,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Ein Softwarefehler zwingt Stellantis zu einem weltweiten Rückruf von rund 955.000 Fahrzeugen der Marken Chrysler, Dodge, Jeep und Ram. Die Rückfahrkamera kann ausfallen, die Reparatur soll per Softwareupdate erfolgen. Der Fall trifft einen Konzern, der wirtschaftlich ohnehin unter erheblichem Druck steht, und zeigt zugleich, wie tief digitale Systeme inzwischen in die Sicherheitsarchitektur moderner Fahrzeuge eingreifen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/stellantis-r-ckruf-fast-eine-million-fahrzeuge-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-18T05:06:00+00:00",
-      "title": "Stellantis ruft fast eine Million Autos zurück | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328565_stellantis-ruft-fast-eine-million-autos-zurueck"
     }
   ],
   "version": 1
