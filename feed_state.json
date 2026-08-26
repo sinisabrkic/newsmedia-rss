@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3340059,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technology & AI",
+      "description": "South Korea is approaching a record year for traffic fines, but the more consequential change is taking place far beyond police cameras. Thousands of drivers now submit dashcam and smartphone footage of other motorists every day, turning ordinary citizens into an increasingly important part of traffic enforcement. What appears at first to be a question of road discipline is becoming a broader debate about surveillance, privacy and the changing boundary between citizen and state.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-s-roads-under-citizen-watch-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-26T09:59:00+00:00",
+      "title": "South Korea’s Roads Under Citizen Watch | newsmedia.report",
+      "url": "https://www.newsmedia.report/3340059_south-korea-s-roads-under-citizen-watch"
+    },
+    {
+      "article_id": 3340027,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Das Licht erlischt, das WLAN verschwindet, Aufzüge stehen und aus alltäglichen Selbstverständlichkeiten werden innerhalb kurzer Zeit offene Fragen. Ein großflächiger Stromausfall ist kein Stoff für Katastrophenfantasien, sondern ein Szenario, auf das europäische Behörden inzwischen ausdrücklich mit Empfehlungen zur privaten Eigenvorsorge reagieren. Entscheidend ist dabei nicht, ob ein Haushalt Angst vor einem Blackout hat. Entscheidend ist, ob er weiß, was zu tun ist, wenn Strom, Kommunikation und gewohnte Versorgung tatsächlich ausfallen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-vorsorge-spezialbericht-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-26T09:30:00+00:00",
+      "title": "Der Blackout beginnt lange vor der Panik | newsmedia.report",
+      "url": "https://www.newsmedia.report/3340027_der-blackout-beginnt-lange-vor-der-panik"
+    },
+    {
       "article_id": 3339981,
       "author": "newsmedia.report Editorial Desk",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-17T17:19:00+00:00",
       "title": "Russlands Fregatte in der Ostsee | newsmedia.report",
       "url": "https://www.newsmedia.report/3328066_russlands-fregatte-in-der-ostsee"
-    },
-    {
-      "article_id": 3328023,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "President Donald Trump has threatened military action against Oman if the Gulf state obstructs U.S. objectives in the Strait of Hormuz, placing extraordinary pressure on a longtime American partner that is simultaneously trying to mediate between Washington and Tehran. The confrontation comes as Iran and Oman work toward a shipping arrangement for the strait, while a 60-day diplomatic window between the United States and Iran expires without a comprehensive settlement.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-threatens-oman-as-iran-hormuz-talks-reach-critical-point-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T16:18:00+00:00",
-      "title": "Trump Threatens Oman Over Hormuz | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328023_trump-threatens-oman-over-hormuz"
-    },
-    {
-      "article_id": 3327956,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "It was built fast, opened without the inspection ICE policy required and backed by a service contract valued at up to $1.3 billion. Federal auditors later documented wasted millions, serious medical failures, inadequate oversight, a loaded firearm that disappeared inside the facility and evidence that was missing or destroyed after a detainee death classified as a homicide. The original contractor was replaced, but the camp remained open and ICE moved toward another massive sole-source contract to keep it running.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ice-the-billion-dollar-detention-camp-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T15:30:00+00:00",
-      "title": "ICE: THE BILLION-DOLLAR DETENTION CAMP | newsmedia.report",
-      "url": "https://www.newsmedia.report/3327956_ice-the-billion-dollar-detention-camp"
     }
   ],
   "version": 1
