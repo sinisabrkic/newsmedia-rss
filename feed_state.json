@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3340202,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technology & AI",
+      "description": "Nvidia reports its second quarter results on Wednesday with expectations at levels that would have seemed extraordinary only a short time ago. The immediate question is whether the chipmaker can beat another ambitious forecast. The larger one is whether the vast investment cycle behind artificial intelligence still has enough momentum to support what comes next.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nvidia-earnings-the-ai-boom-s-next-test-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-26T12:07:00+00:00",
+      "title": "Nvidia Earnings: The AI Boom’s Next Test | newsmedia.report",
+      "url": "https://www.newsmedia.report/3340202_nvidia-earnings-the-ai-boom-s-next-test"
+    },
+    {
       "article_id": 3340101,
       "author": "Sinisa Brkic (sb)",
       "category": "Handel & E Commerce",
@@ -978,17 +989,6 @@
       "published": "2026-08-17T22:34:00+00:00",
       "title": "Trump’s $400 Million Ballroom Fight | newsmedia.report",
       "url": "https://www.newsmedia.report/3328365_trump-s-400-million-ballroom-fight"
-    },
-    {
-      "article_id": 3328234,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Am Anfang kann ein gemeinsamer Abend alles bedeuten. Jahre später sitzt man vielleicht noch immer nebeneinander auf demselben Sofa, doch beide schauen auf ihre Telefone. Man kennt die Bestellung des anderen, weiß, wie der Samstag abläuft und ahnt bereits vor einer Frage, welche Antwort kommen wird. Diese Vertrautheit kann wunderschön sein, denn sie schafft Sicherheit. Problematisch wird sie erst dann, wenn aus Sicherheit Selbstverständlichkeit wird und zwei Menschen irgendwann hervorragend miteinander funktionieren, sich aber immer seltener wirklich begegnen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wenn-beziehung-zur-gewohnheit-wird-der-routine-entkommen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-17T19:59:00+00:00",
-      "title": "Wenn Beziehung zur Gewohnheit wird: Der Routine entkommen / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3328234_wenn-beziehung-zur-gewohnheit-wird-der-routine-entkommen"
     }
   ],
   "version": 1
