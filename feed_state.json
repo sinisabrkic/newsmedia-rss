@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "article_id": 3341621,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energy",
+      "description": "From 27 August 2026, households across England, Scotland and Wales can legally use approved plug in solar systems designed to feed electricity directly into the home. The change opens small scale solar generation to renters, flat dwellers and households for whom conventional rooftop installations have been too expensive or impractical. Britain is entering a market Germany has already pushed into the mainstream, but the crucial question is whether the economics will prove convincing.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/britain-legalises-plug-in-solar-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-27T11:53:00+00:00",
+      "title": "Britain Legalises Plug In Solar | newsmedia.report",
+      "url": "https://www.newsmedia.report/3341621_britain-legalises-plug-in-solar"
+    },
+    {
+      "article_id": 3341572,
+      "author": "Sinisa Brkic",
+      "category": "INVESTIGATIONS",
+      "description": "In Kronstorf entsteht Googles erstes Rechenzentrum in Österreich. Was als Milliardeninvestition, Standortsignal und Infrastruktur für künstliche Intelligenz gefeiert wird, ist zugleich ein Testfall für Stromnetze, Wasserrecht, Flächenverbrauch, Arbeitsstandards und Umweltprüfung. Die erste Ausbaustufe ist mit bis zu 150 Megawatt Anschlussleistung geplant, der mögliche Vollausbau mit bis zu 500 Megawatt. Im theoretischen Maximalfall würde der Campus damit Strommengen benötigen, die in einer Größenordnung von fast einem Drittel des bisherigen oberösterreichischen Jahresverbrauchs liegen. Dieser Bericht untersucht, was tatsächlich genehmigt ist, was nur maximal möglich wäre, welche…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/googles_milliardenprojekt_was_oesterreich_fuer_den_ki_boom_bezahlt_investigations-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-27T11:21:00+00:00",
+      "title": "GOOGLES MILLIARDENPROJEKT IN ÖSTERREICH | newsmedia.report",
+      "url": "https://www.newsmedia.report/3341572_googles-milliardenprojekt-in-oesterreich"
+    },
+    {
+      "article_id": 3341552,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Ein schwerer Chemieunfall an der Hokkaido University in Sapporo hat einen Studenten das Leben gekostet. Während eines Experiments kamen nach bisherigem Stand mehrere Studierende mit einer gefährlichen Chemikalie in Kontakt. Im Zentrum steht Flusssäure, ein Stoff, der nicht nur schwere Verätzungen verursachen, sondern den gesamten Organismus gefährden kann.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/t-dlicher-laborunfall-mit-flusss-ure-in-japan-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-27T10:50:00+00:00",
+      "title": "Tödlicher Laborunfall mit Flusssäure in Japan | newsmedia.report",
+      "url": "https://www.newsmedia.report/3341552_toedlicher-laborunfall-mit-flusssaeure-in-japan"
+    },
+    {
+      "article_id": 3341249,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Vorspann: Apple hat den Termin gesetzt. Am 9. September 2026 lädt der Konzern zu seinem nächsten großen Produktevent. Bestätigt ist bislang nur die Veranstaltung, nicht die Präsentation eines faltbaren iPhones. Sollte Apple jedoch tatsächlich in den Markt für Foldables einsteigen, wäre das weit mehr als eine weitere iPhone-Premiere: Es könnte den Wettbewerb im wertvollsten Teil des Smartphonegeschäfts neu ordnen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/apples-gr-tes-iphone-wagnis-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-27T07:06:00+00:00",
+      "title": "Apples größtes iPhone-Wagnis: Event am 9. September | newsmedia.report",
+      "url": "https://www.newsmedia.report/3341249_apples-groesstes-iphone-wagnis-event-am-9-september"
+    },
+    {
       "article_id": 3340483,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -945,50 +989,6 @@
       "published": "2026-08-18T09:21:00+00:00",
       "title": "What Happened to Nike? | newsmedia.report",
       "url": "https://www.newsmedia.report/3328867_what-happened-to-nike"
-    },
-    {
-      "article_id": 3328768,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Health",
-      "description": "Britain’s new rules on a chemical used in some gel nail products have triggered a wave of searches asking whether gel nails themselves have been banned. They have not. The change concerns TPO, a photoinitiator used in certain UV and LED cured nail systems, and the rules in Great Britain are not identical to those already in force across the European Union.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gel-nails-ban-report-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-18T08:15:00+00:00",
-      "title": "Gel Nails Ban: Why It Happened and What Is Really Banned Now | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328768_gel-nails-ban-why-it-happened-and-what-is-really-banned-now"
-    },
-    {
-      "article_id": 3328705,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Security",
-      "description": "Newly declassified FBI records provide the most detailed public account yet of the bureau’s investigation involving former Rep. Eric Swalwell and Christine Fang, the Chinese national long suspected by U.S. counterintelligence officials of ties to Beijing’s intelligence apparatus. The files contain significant new details about their personal relationship, campaign fundraising, congressional interns and an undercover FBI operation. They also contain something equally important: investigators did not establish a criminal quid pro quo or federal corruption offense by Swalwell.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/what-the-swalwell-fbi-files-actually-reveal-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-18T07:15:00+00:00",
-      "title": "What the Swalwell FBI Files Actually Reveal | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328705_what-the-swalwell-fbi-files-actually-reveal"
-    },
-    {
-      "article_id": 3328649,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Los grandes grupos energéticos españoles vuelven a beneficiarse de un entorno favorable para el refino, mientras el petróleo recupera peso económico y político. Repsol y Moeve presentan resultados sólidos en 2026 y una reciente estimación europea sitúa a España entre los mercados donde el aumento calculado de los beneficios del sector resulta especialmente significativo. Detrás de las cifras aparece una cuestión de mayor alcance: cómo conciliar rentabilidad, fiscalidad, seguridad energética y una transición que continúa necesitando enormes inversiones.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/el-petr-leo-vuelve-a-mandar-en-espa-a-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-18T06:32:00+00:00",
-      "title": "El petróleo vuelve a mandar en España | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328649_el-petroleo-vuelve-a-mandar-en-espana"
-    },
-    {
-      "article_id": 3328601,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "A customer at Sainsbury’s in East Dulwich was wrongly removed from the store after staff acted in connection with a Facewatch facial recognition alert. Sainsbury’s and Facewatch insist that the technology itself did not identify the wrong person and say the failure occurred when staff handled a valid alert. That distinction matters, but it does not settle the larger issue. As Sainsbury’s prepares to expand facial recognition from about 55 stores to more than 200, a private biometric system is acquiring the power to influence who is treated as a suspect during one of the most ordinary activities of daily life.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sainsbury-s-facial-recognition-problem-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-18T05:50:00+00:00",
-      "title": "Sainsbury’s Facial Recognition Problem | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328601_sainsbury-s-facial-recognition-problem"
     }
   ],
   "version": 1
