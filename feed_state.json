@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3342550,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Deutschland",
+      "description": "Der heftige Streit zwischen Bundeskanzler Friedrich Merz und einer Kinderärztin bei RTL hat die Gesundheitspolitik der Bundesregierung schlagartig in den Mittelpunkt gerückt. Hinter den emotionalen Vorwürfen steht eine Reform mit erheblichen Folgen: Ab 2027 steigen Zuzahlungen, Zuschüsse werden reduziert und Vergütungen im Gesundheitswesen begrenzt. Für Patienten, Familien, Ärzte und Kliniken beginnt damit eine Phase, deren Auswirkungen weit über den Fernsehstreit hinausreichen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/merz-welche-k-rzungen-jetzt-kommen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-28T05:55:00+00:00",
+      "title": "Merz: Welche Kürzungen jetzt kommen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3342550_merz-welche-kuerzungen-jetzt-kommen"
+    },
+    {
       "article_id": 3341938,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-18T12:11:00+00:00",
       "title": "Russia Warns UK Over Drones | newsmedia.report",
       "url": "https://www.newsmedia.report/3329117_russia-warns-uk-over-drones"
-    },
-    {
-      "article_id": 3328982,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Mercedes-Benz öffnet am 18. August 2026 die Bestellbücher für die umfassend überarbeitete C-Klasse. Doch hinter neuen Leuchten und einem beleuchteten Kühlergrill steckt eine wesentlich größere Entscheidung: Während parallel eine völlig neu entwickelte elektrische C-Klasse antritt, investiert Mercedes weiter in Benziner, Diesel und Plug-in-Hybride. Gleichzeitig zieht mit MB.OS eine Softwarearchitektur ein, die ChatGPT, Microsoft Bing und Google Gemini in einem KI-Assistenten zusammenführt. Die C-Klasse wird damit zum sichtbaren Beispiel dafür, wie Mercedes die automobile Transformation tatsächlich angeht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mercedes-c-klasse-facelift-spezialbericht-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-18T10:44:00+00:00",
-      "title": "Mercedes C-Klasse 2027: KI, Hybrid und Verbrenner | newsmedia.report",
-      "url": "https://www.newsmedia.report/3328982_mercedes-c-klasse-2027-ki-hybrid-und-verbrenner"
     }
   ],
   "version": 1
