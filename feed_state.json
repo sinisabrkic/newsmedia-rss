@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3344456,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Ein US Bundesgericht hat einem Vergleich über 72,5 Millionen Dollar zwischen Bank of America und Frauen, die dem Finanzinstitut eine Mitverantwortung im Umfeld Jeffrey Epsteins vorgeworfen hatten, endgültig zugestimmt. Die Bank bestreitet, Epsteins Straftaten ermöglicht oder unterstützt zu haben. Dennoch rückt der Fall erneut eine Frage ins Zentrum, die weit über eine einzelne Bank hinausreicht: Wie konnten Finanzbeziehungen rund um einen verurteilten Sexualstraftäter über Jahre bestehen, obwohl sein Hintergrund längst öffentlich bekannt war?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fall-epstein-bank-of-america-zahlt-72-5-millionen-dollar-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-29T17:47:00+00:00",
+      "title": "Fall Epstein: Bank of America zahlt 72,5 Millionen Dollar | newsmedia.report",
+      "url": "https://www.newsmedia.report/3344456_fall-epstein-bank-of-america-zahlt-72-5-millionen-dollar"
+    },
+    {
       "article_id": 3344022,
       "author": "Sinisa Brkic (sb) / Redaktion",
       "category": "INVESTIGATIONS / Global Affairs",
@@ -978,17 +989,6 @@
       "published": "2026-08-19T12:06:00+00:00",
       "title": "SK Hynix setzt 28,6 Milliarden Dollar auf sich selbst | newsmedia.report",
       "url": "https://www.newsmedia.report/3330545_sk-hynix-setzt-28-6-milliarden-dollar-auf-sich-selbst"
-    },
-    {
-      "article_id": 3330504,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "भारत का सक्रिय IPO बाजार अब एक ऐसी कंपनी की परीक्षा ले रहा है जिसकी कहानी तेज लिस्टिंग लाभ से कहीं बड़ी है। Blackstone समर्थित Horizon Industrial Parks ₹2,600 करोड़ जुटाने बाजार में उतरी है, लेकिन कमजोर Grey Market Premium और शुरुआती संयमित मांग ने इस निर्गम को भारत के लॉजिस्टिक्स विस्तार, भारी कर्ज और सार्वजनिक बाजार की बढ़ती चयनात्मकता के संगम पर खड़ा कर दिया है। कंपनी के लिए निर्णायक प्रश्न यह नहीं है कि शेयर किस प्रीमियम पर सूचीबद्ध होगा, बल्कि यह है कि क्या कर्ज में बड़ी कटौती उसके मजबूत परिचालन ढांचे को टिकाऊ लाभप्रदता में बदल सकती है।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/horizon-industrial-parks-ipo-blackstone-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T11:33:00+00:00",
-      "title": "Horizon IPO: ₹2,600 करोड़ की परीक्षा | newsmedia.report",
-      "url": "https://www.newsmedia.report/3330504_horizon-ipo-2-600-kara-ugdha-ka-para-ka-shha"
     }
   ],
   "version": 1
