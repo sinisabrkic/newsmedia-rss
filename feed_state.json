@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3343798,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "CIA-Direktor John Ratcliffe reist unangekündigt nach Moskau, trifft die Spitze des russischen Auslandsgeheimdienstes und spricht nach Angaben informierter Quellen auch mögliche russische Operationen gegen NATO-Staaten an. Donald Trump spielt die Bedeutung der Reise herunter und versichert, Wladimir Putin werde kein NATO-Gebiet angreifen. Ein unmittelbar bevorstehender Angriff ist tatsächlich nicht belegt. Doch die Diskrepanz zwischen der öffentlichen Ruhe und dem Verhalten hinter den Kulissen wirft eine andere Frage auf: Welche Entwicklung hält Washington für ernst genug, um den CIA-Direktor persönlich nach Moskau zu schicken?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cia-direktor-in-moskau-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-29T05:15:00+00:00",
+      "title": "CIA-Direktor in Moskau: Was steckt hinter dieser Mission? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3343798_cia-direktor-in-moskau-was-steckt-hinter-dieser-mission"
+    },
+    {
       "article_id": 3343648,
       "author": "Sinisa Brkic (sb)",
       "category": "Justice & Law",
@@ -978,17 +989,6 @@
       "published": "2026-08-19T07:07:00+00:00",
       "title": "Prix du tabac en septembre 2026 | newsmedia.report",
       "url": "https://www.newsmedia.report/3330120_prix-du-tabac-en-septembre-2026"
-    },
-    {
-      "article_id": 3330083,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "The United States has imposed sanctions on International Criminal Court President Tomoko Akane and senior trial lawyer Abdoulaye Seye, pushing Washington’s confrontation with the Hague tribunal directly into its senior leadership. The measures are formally directed at two individuals, but their significance reaches much further. At stake is whether the financial power of the United States can be used to constrain an international court whose jurisdiction Washington fundamentally disputes.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-sanctions-icc-president-tomoko-akane-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T06:23:00+00:00",
-      "title": "Trump Sanctions ICC President Tomoko Akane | newsmedia.report",
-      "url": "https://www.newsmedia.report/3330083_trump-sanctions-icc-president-tomoko-akane"
     }
   ],
   "version": 1
