@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3344679,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Xylit steckt in zuckerfreien Kaugummis, Süßwaren und zahlreichen Produkten, die klassischen Zucker ersetzen sollen. Neue Langzeitdaten mit mehr als 17.000 Teilnehmern verbinden hohe Xylitolwerte im Blut nun mit einer erhöhten Rate schwerer Herz Kreislauf Ereignisse. Die Ergebnisse verdienen Aufmerksamkeit, erlauben aber keine einfache Gleichung zwischen Birkenzucker im Lebensmittel und Herzinfarkt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/xylit-und-herzrisiko-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-29T21:55:00+00:00",
+      "title": "Xylit (Birkenzucker): Neue Studie wirft Fragen zum Herzrisiko auf | newsmedia.report",
+      "url": "https://www.newsmedia.report/3344679_xylit-birkenzucker-neue-studie-wirft-fragen-zum-herzrisiko-auf"
+    },
+    {
       "article_id": 3344456,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -978,17 +989,6 @@
       "published": "2026-08-19T12:30:00+00:00",
       "title": "Britain’s £500 Pension Rise Has a Tax Problem | newsmedia.report",
       "url": "https://www.newsmedia.report/3330573_britain-s-500-pension-rise-has-a-tax-problem"
-    },
-    {
-      "article_id": 3330545,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "SK Hynix reagiert auf den abrupten Druck an den Halbleiterbörsen mit einem Schritt von historischer Dimension. Der südkoreanische Speicherchiphersteller will eigene Aktien im Wert von 40 Billionen Won, rund 28,6 Milliarden Dollar, zurückkaufen und vollständig einziehen. Hinter der spektakulären Summe steht jedoch eine größere Frage: Wie belastbar ist die Bewertung der globalen KI Lieferkette, wenn selbst einer ihrer profitabelsten Gewinner beginnt, seine enorme Cash Position offensiv zur Verteidigung des Aktionärswerts einzusetzen?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sk-hynix-aktienr-ckkauf-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T12:06:00+00:00",
-      "title": "SK Hynix setzt 28,6 Milliarden Dollar auf sich selbst | newsmedia.report",
-      "url": "https://www.newsmedia.report/3330545_sk-hynix-setzt-28-6-milliarden-dollar-auf-sich-selbst"
     }
   ],
   "version": 1
