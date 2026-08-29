@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3344173,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Europas Sicherheitslage verändert sich nicht durch ein einzelnes Ereignis, sondern durch das gleichzeitige Verschieben mehrerer strategischer Faktoren. Die Vereinigten Staaten bereiten eine stärkere europäische Verantwortung für die konventionelle Verteidigung des Kontinents praktisch vor, während Europa seine Fähigkeiten noch ausbaut und Russland trotz hoher Verluste neue militärische Strukturen schafft. Ab 2027 könnte daraus eine besonders sensible Übergangsphase entstehen, nicht als vorherbestimmter Termin für einen Konflikt, sondern als Zeitraum, in dem Abschreckung, militärische Handlungsfähigkeit und politische Geschlossenheit besonders belastbar sein müssen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-sicherheitsfenster-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-29T12:44:00+00:00",
+      "title": "Europas Sicherheitsfenster: Kritische Übergangsphase ab 2027 | newsmedia.report",
+      "url": "https://www.newsmedia.report/3344173_europas-sicherheitsfenster-kritische-uebergangsphase-ab-2027"
+    },
+    {
+      "article_id": 3344009,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Global Affairs",
+      "description": "President Donald Trump has ordered the U.S. federal government to call Lake Ontario “Lake America,” turning one of North America’s most familiar geographic names into a new point of friction between Washington and Ottawa. The order is real and consequential inside the federal government, but its reach stops well short of giving the United States the power to impose a new international name on a lake shared with Canada.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/lake-america-can-trump-rename-lake-ontario-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-29T09:55:00+00:00",
+      "title": "Lake America: Can Trump Rename Lake Ontario? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3344009_lake-america-can-trump-rename-lake-ontario"
+    },
+    {
+      "article_id": 3343997,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Die Regierung von US Präsident Donald Trump spricht von einer Ölvereinbarung historischen Ausmaßes. Im Zentrum stehen 17 venezolanische Ölfelder mit mehr als 65 Milliarden Barrel nachgewiesener Reserven und eine Konstruktion, die amerikanischen Interessen weitreichenden Einfluss auf Förderung und Vermarktung verschaffen soll. Doch die entscheidende Grenze verläuft zwischen Kontrolle und Eigentum: Die Bodenschätze werden durch die Vereinbarung nicht zu amerikanischem Staatsvermögen, und ihr tatsächlicher wirtschaftlicher Wert hängt von Verträgen, Investitionen und jahrelanger Erschließung ab.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trumps-venezuela-lgesch-ft-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-29T09:30:00+00:00",
+      "title": "Trumps Venezuela-Ölgeschäft: „Kontrolle über 65 Milliarden Barrel“ | newsmedia.report",
+      "url": "https://www.newsmedia.report/3343997_trumps-venezuela-oelgeschaeft-kontrolle-ueber-65-milliarden-barrel"
+    },
+    {
       "article_id": 3343798,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -956,39 +989,6 @@
       "published": "2026-08-19T09:30:00+00:00",
       "title": "South Korea Breaks Into the U.S. Army’s Artillery Market | newsmedia.report",
       "url": "https://www.newsmedia.report/3330287_south-korea-breaks-into-the-u-s-army-s-artillery-market"
-    },
-    {
-      "article_id": 3330227,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Die österreichische Finanzmarktaufsicht (FMA) hat gegen Bitpanda eine rechtskräftige Geldstrafe von 70.000 Euro wegen mehrerer Verstöße gegen die europäische Kryptoregulierung MiCA verhängt. Beanstandet wurden Fristen und Pflichtangaben rund um ein Kryptowerte-Whitepaper und dazugehörige Marketingmitteilungen. Für Kunden gibt es keinen Hinweis auf eine Einschränkung von Konten oder Kundengeldern. Für die europäische Kryptobranche ist der Fall dennoch relevant, weil MiCA damit sichtbar von der Zulassungsphase in die praktische Durchsetzung übergeht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bitpanda-und-die-70-000-euro-strafe-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T08:42:00+00:00",
-      "title": "Bitpanda und die 70.000-Euro-Strafe | newsmedia.report",
-      "url": "https://www.newsmedia.report/3330227_bitpanda-und-die-70-000-euro-strafe"
-    },
-    {
-      "article_id": 3330143,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "Alleged GTA VI footage and what is claimed to be a map of the game have spread online just days before Rockstar Games is due to present an official extended look at its most important upcoming release. The material has not been fully authenticated, but reports of copyright takedowns have intensified speculation. The larger story is no longer simply what may have leaked. It is whether Rockstar can retain control of the narrative surrounding one of the most commercially important launches in entertainment.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gta-6-leak-puts-rockstar-s-launch-control-to-the-test-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T07:25:00+00:00",
-      "title": "GTA 6 Leak: Rockstar Loses Control | newsmedia.report",
-      "url": "https://www.newsmedia.report/3330143_gta-6-leak-rockstar-loses-control"
-    },
-    {
-      "article_id": 3330120,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "À compter du 1er septembre 2026, une nouvelle grille des prix du tabac s’appliquera en France continentale. Contrairement à ce que pourrait laisser penser une nouvelle nomenclature officielle, il ne s’agit pas d’une augmentation générale : plusieurs références restent au même tarif, quelques produits progressent de dix centimes et certains deviennent même moins chers. Les principales marques du marché, dont Marlboro, Camel, Winston et plusieurs Lucky Strike, échappent cette fois à une nouvelle hausse.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/prix-du-tabac-en-septembre-2026-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T07:07:00+00:00",
-      "title": "Prix du tabac en septembre 2026 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3330120_prix-du-tabac-en-septembre-2026"
     }
   ],
   "version": 1
