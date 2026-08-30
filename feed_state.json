@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3345072,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Monte dei Paschi di Siena ha trasformato una battaglia per la propria indipendenza in una partita capace di ridisegnare una parte importante del sistema finanziario italiano. Le offerte su Banco BPM e Banca Generali, la pressione di Intesa Sanpaolo, il ruolo di Generali, Crédit Agricole, Unipol e BPER e la presenza ancora significativa dello Stato compongono ormai un confronto nel quale non è in gioco soltanto il futuro di MPS, ma la struttura stessa del mercato bancario nazionale.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mps-al-centro-del-risiko-bancario-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-30T10:20:00+00:00",
+      "title": "MPS al centro del risiko bancario | newsmedia.report",
+      "url": "https://www.newsmedia.report/3345072_mps-al-centro-del-risiko-bancario"
+    },
+    {
+      "article_id": 3345021,
+      "author": "Sinisa Brkic (sb) / Redaktion",
+      "category": "INVESTIGATIONS",
+      "description": "Rubrik: INVESTIGATIONS Format : Investigativer Spezialbericht Autor : Sinisa Brkic (sb) / Redaktion",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/larry_fink_und_das_wef_die_macht_im_schatten_investigations-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-30T09:30:00+00:00",
+      "title": "Larry Fink und das WEF: Die Macht im Schatten | newsmedia.report",
+      "url": "https://www.newsmedia.report/3345021_larry-fink-und-das-wef-die-macht-im-schatten"
+    },
+    {
       "article_id": 3344834,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -967,28 +989,6 @@
       "published": "2026-08-19T20:40:00+00:00",
       "title": "France: Tavneos retiré du marché | newsmedia.report",
       "url": "https://www.newsmedia.report/3331287_france-tavneos-retire-du-marche"
-    },
-    {
-      "article_id": 3331195,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Noch nie war es so einfach, neue Menschen kennenzulernen. Und vielleicht war es noch nie so schwer, sich dauerhaft für einen von ihnen zu entscheiden. Dating Apps liefern neue Kontakte innerhalb von Sekunden, soziale Medien verbinden Menschen über Kontinente hinweg und traditionelle gesellschaftliche Grenzen bei der Partnerwahl verlieren an Bedeutung. Trotzdem erleben viele Frauen und Männer eine paradoxe Realität: Sie wünschen sich Liebe, Partnerschaft und vielleicht Familie, bleiben aber jahrelang allein. Das Problem ist nicht das Singlesein selbst. Problematisch wird es dort, wo Menschen eigentlich Nähe wollen, aber in einem System aus unbegrenzter Auswahl, steigenden Erwartungen,…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-single-epidemie-newsmedia-datingworld-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T19:30:00+00:00",
-      "title": "Die Single-Epidemie: Wie halten wir das auf? / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3331195_die-single-epidemie-wie-halten-wir-das-auf"
-    },
-    {
-      "article_id": 3331130,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Der chinesische Roboterhersteller Unitree hat einen der spektakulärsten Börsenstarts des Jahres hingelegt. Nach einem zwischenzeitlichen Kursanstieg von rund 629 Prozent schloss die Aktie am ersten Handelstag noch 460 Prozent über dem Ausgabepreis und bewertete das Unternehmen mit rund 50 Milliarden Dollar. Hinter dem Börsenrausch steht jedoch eine wesentlich größere Frage: Beginnt mit humanoiden Robotern tatsächlich der nächste große Technologiemarkt oder bezahlt die Börse bereits heute für eine Zukunft, deren wirtschaftliches Fundament erst entstehen muss?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/unitree-und-die-50-milliarden-dollar-wette-auf-humanoide-roboter-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T18:27:00+00:00",
-      "title": "Unitree: Die 50 Milliarden Dollar Wette auf humanoide Roboter | newsmedia.report",
-      "url": "https://www.newsmedia.report/3331130_unitree-die-50-milliarden-dollar-wette-auf-humanoide-roboter"
     }
   ],
   "version": 1
