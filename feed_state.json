@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3344834,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Österreich steht vor keiner akuten Staatsschuldenkrise. Doch die finanzielle Ausgangslage hat sich spürbar verschlechtert: Die Schulden steigen, das Defizit bleibt hoch, die Zinsrechnung wächst kräftig und die Bonität ist nicht mehr so unangreifbar wie noch vor wenigen Jahren. Die eigentliche Gefahr liegt dabei nicht in einem plötzlichen Kollaps, sondern in einer schleichenden Entwicklung, bei der ein immer größerer Teil des staatlichen Handlungsspielraums durch alte Schulden und neue Finanzierungskosten gebunden wird.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-schulden-wo-liegt-die-belastungsgrenze-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-30T04:55:00+00:00",
+      "title": "Österreichs Schulden: Wo liegt die Belastungsgrenze? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3344834_oesterreichs-schulden-wo-liegt-die-belastungsgrenze"
+    },
+    {
       "article_id": 3344679,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesundheit",
@@ -978,17 +989,6 @@
       "published": "2026-08-19T18:27:00+00:00",
       "title": "Unitree: Die 50 Milliarden Dollar Wette auf humanoide Roboter | newsmedia.report",
       "url": "https://www.newsmedia.report/3331130_unitree-die-50-milliarden-dollar-wette-auf-humanoide-roboter"
-    },
-    {
-      "article_id": 3330573,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Britain’s State Pension is heading for another substantial increase, with the latest wage figures pointing to a rise of roughly £500 a year for someone receiving the full new State Pension. But the increase is not yet fixed, and the bigger story is now the tax system surrounding it. A frozen Personal Allowance means the full new State Pension is on course to move above the standard tax free threshold in April 2027, exposing an increasingly uncomfortable collision between the Triple Lock and fiscal drag.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/britain-s-500-pension-rise-has-a-tax-problem-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T12:30:00+00:00",
-      "title": "Britain’s £500 Pension Rise Has a Tax Problem | newsmedia.report",
-      "url": "https://www.newsmedia.report/3330573_britain-s-500-pension-rise-has-a-tax-problem"
     }
   ],
   "version": 1
