@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3345322,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Economy",
+      "description": "Washington is moving far beyond conventional access to Venezuelan crude. A sweeping energy agreement gives the United States a strategic role in the development of 17 oil fields containing more than 65 billion barrels of proven reserves, while a separately reported government stake in a private oil venture points to an even deeper level of involvement. What is emerging is not merely another oil deal, but a long term attempt to connect American energy security, private investment and geopolitical influence to one of the world’s largest petroleum reserves.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/us-deepens-grip-on-venezuela-oil-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-30T14:06:00+00:00",
+      "title": "US Deepens Grip on Venezuela Oil | newsmedia.report",
+      "url": "https://www.newsmedia.report/3345322_us-deepens-grip-on-venezuela-oil"
+    },
+    {
+      "article_id": 3345266,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Österreichs eigene Daten zeigen bei Kokain eine Entwicklung, die kaum noch als Randphänomen abgetan werden kann. Abwasseranalysen legen nahe, dass sich die täglich konsumierte Wirkstoffmenge seit 2019 verdoppelt hat, während sichergestelltes Kokain immer wieder sehr hohe Reinheitsgrade erreicht. Im 240 Seiten umfassenden Regierungsprogramm von ÖVP, SPÖ und NEOS fehlen die Begriffe Drogen, Suchtmittel, Suchtgift und Kokain dennoch vollständig.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kokain-boomt-die-politische-antwort-bleibt-offen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-30T13:35:00+00:00",
+      "title": "Kokain boomt. Die politische Antwort bleibt offen. | newsmedia.report",
+      "url": "https://www.newsmedia.report/3345266_kokain-boomt-die-politische-antwort-bleibt-offen"
+    },
+    {
       "article_id": 3345072,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-20T06:41:00+00:00",
       "title": "COVID 19 Records Scandal: Former Fauci Adviser Pleads Guilty | newsmedia.report",
       "url": "https://www.newsmedia.report/3331613_covid-19-records-scandal-former-fauci-adviser-pleads-guilty"
-    },
-    {
-      "article_id": 3331593,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "A new anti-corruption operation has reached into Ukraine’s parliament and the Office of the President at a moment when the country’s democratic institutions, wartime governance and European future are already under intense scrutiny. This investigation traces what is known, what is not known, how Ukraine’s anti-corruption system was built, why it came under political pressure, how earlier cases reached senior officials and what the latest operation could mean for Kyiv’s rule-of-law credibility.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/inside_ukraines_new_corruption_crisis_investigations-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-20T05:37:00+00:00",
-      "title": "INSIDE UKRAINE'S NEW CORRUPTION CRISIS | newsmedia.report",
-      "url": "https://www.newsmedia.report/3331593_inside-ukraine-s-new-corruption-crisis"
-    },
-    {
-      "article_id": 3331287,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La France rappelle à compter du 19 août 2026 tous les lots encore disponibles de Tavneos 10 mg, un médicament contenant de l’avacopan utilisé contre certaines vascularites rares et potentiellement graves. La décision intervient après le retrait de son autorisation de mise sur le marché dans l’ensemble de l’Union européenne, à la suite d’une réévaluation de son efficacité et de risques hépatiques graves déjà connus. Pour les quelque 600 patients récemment traités en France, le message des autorités sanitaires est essentiel : le médicament ne doit pas être interrompu de sa propre initiative. Une transition rapide vers une autre stratégie thérapeutique doit être organisée avec le médecin…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/france-tous-les-lots-de-tavneos-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-19T20:40:00+00:00",
-      "title": "France: Tavneos retiré du marché | newsmedia.report",
-      "url": "https://www.newsmedia.report/3331287_france-tavneos-retire-du-marche"
     }
   ],
   "version": 1
