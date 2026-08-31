@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3346458,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Am Abend des 31. August 1939 überfiel ein deutsches Kommando einen deutschen Rundfunksender und sollte dabei wie ein polnischer Angreifer wirken. Wenige Stunden später marschierte die Wehrmacht in Polen ein. Doch Gleiwitz war nur der sichtbare Schlusspunkt einer wochenlangen Kampagne aus angeblichen Grenzverletzungen, Berichten über „polnischen Terror“, diplomatischem Druck und gezielt gesteuerter Nachrichtenpolitik. Der Krieg war längst vorbereitet, als das NS Regime begann, seine Rechtfertigung dafür herzustellen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gleiwitz-1939-der-konstruierte-angriff-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-31T10:21:00+00:00",
+      "title": "Gleiwitz 1939: Der konstruierte Angriff | newsmedia.report",
+      "url": "https://www.newsmedia.report/3346458_gleiwitz-1939-der-konstruierte-angriff"
+    },
+    {
+      "article_id": 3346417,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Sprengstoff an Drohnen, Warnungen vor hybriden Angriffen, neue Abwehrzentren, mehr Befugnisse für Sicherheitsbehörden und Milliarden für den Bevölkerungsschutz. Deutschland bereitet sich sichtbar auf eine gefährlichere Sicherheitslage vor. Die Bedrohungen sind keineswegs erfunden, doch die Geschichte mahnt zur Vorsicht, sobald reale Risiken, ungeklärte Urheberschaft und politische Kommunikation zu einer Erzählung verschmelzen, in der der Ernstfall zunehmend als Normalzustand erscheint.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kriegsstimmung-deutschland-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-31T09:50:00+00:00",
+      "title": "Kriegsstimmung: Sucht Deutschland nach einem Präzedenzfall? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3346417_kriegsstimmung-sucht-deutschland-nach-einem-praezedenzfall"
+    },
+    {
+      "article_id": 3346310,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Sanktionen, Inflation, geopolitischer Druck und inzwischen auch massive militärische Belastungen prägen das internationale Bild des Iran. Gespräche mit Menschen im Land sowie Videoaufnahmen und Livebilder aus dem iranischen Alltag zeigen jedoch eine weitere Realität: gut gefüllte Geschäfte, ein breites Angebot an Lebensmitteln und Konsumgütern sowie staatlich subventioniertes Benzin zu Preisen, die aus europäischer Sicht kaum vorstellbar sind. Dieses Bild widerlegt die wirtschaftlichen Probleme des Landes nicht. Es zeigt vielmehr, wie unterschiedlich Sanktionen, Kaufkraft, Versorgung und wirtschaftliche Anpassung gleichzeitig wirken können.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-im-alltag-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-08-31T08:50:00+00:00",
+      "title": "Iran im Alltag: Billigbenzin, volle Märkte und breites Warenangebot | newsmedia.report",
+      "url": "https://www.newsmedia.report/3346310_iran-im-alltag-billigbenzin-volle-maerkte-und-breites-warenangebot"
+    },
+    {
       "article_id": 3345855,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -956,39 +989,6 @@
       "published": "2026-08-20T19:21:00+00:00",
       "title": "Jens Spahn gibt den nächsten CDU Posten auf | newsmedia.report",
       "url": "https://www.newsmedia.report/3332672_jens-spahn-gibt-den-naechsten-cdu-posten-auf"
-    },
-    {
-      "article_id": 3332389,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Per mesi Giorgia Meloni ha trasformato il rapporto privilegiato con Donald Trump in una risorsa politica, cercando di accreditare l’Italia come interlocutore speciale di Washington e possibile ponte con l’Europa. La crisi iraniana, le divergenze sull’impiego delle basi militari e il successivo scontro pubblico hanno mostrato quanto possa durare un’intesa quando l’America First incontra interessi italiani diversi. L’alleanza tra Roma e Washington resta solida. È il rapporto politico tra i due leader ad avere cambiato natura.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meloni-e-trump-il-limite-dell-intesa-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-20T15:57:00+00:00",
-      "title": "Meloni e Trump, il limite dell’intesa | newsmedia.report",
-      "url": "https://www.newsmedia.report/3332389_meloni-e-trump-il-limite-dell-intesa"
-    },
-    {
-      "article_id": 3331883,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "President Donald Trump says he expects to meet North Korean leader Kim Jong Un before the end of 2026. Pyongyang, however, is challenging a crucial part of the emerging diplomatic narrative, with Kim Yo Jong saying she is unaware of the recent communication Trump has described. The contradiction comes as Washington sharply reduces joint military exercises with South Korea and Trump cites an unusually specific figure for North Korea’s nuclear arsenal, creating the appearance of renewed diplomacy before there is evidence of an agreed diplomatic process.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-bets-on-another-kim-meeting-as-pyongyang-disputes-recent-contact-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-20T09:30:00+00:00",
-      "title": "Trump Eyes Kim Summit. Pyongyang Pushes Back | newsmedia.report",
-      "url": "https://www.newsmedia.report/3331883_trump-eyes-kim-summit-pyongyang-pushes-back"
-    },
-    {
-      "article_id": 3331817,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "भारत में ब्याज दरों को लेकर बाजार की धारणा कुछ ही सप्ताह में उल्लेखनीय रूप से बदल गई है। नीतिगत रेपो दर अभी 5.25 प्रतिशत पर स्थिर है, लेकिन आरबीआई की अगस्त बैठक के विवरण ने स्पष्ट कर दिया है कि तेल, खाद्य और अन्य लागतों से पैदा महंगाई यदि व्यापक हुई तो मौद्रिक सख्ती फिर जरूरी हो सकती है। अक्टूबर में कदम उठाने की संभावना अब पूरी तरह खारिज नहीं की जा रही, हालांकि बाजार के कुछ अर्थशास्त्री दिसंबर को अधिक संभावित मानते हैं।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/rbi_india-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-20T09:10:00+00:00",
-      "title": "आरबीआई के संकेत बदले, भारत में ब्याज दर वृद्धि फिर वास्तविक संभावना | newsmedia.report",
-      "url": "https://www.newsmedia.report/3331817_aarab-aaii-ka-sa-ka-ta-bthal-bha-rata-ma-b-ya-ja-thara-va-tha-thha-fa-ra-va-sa-tava-ka-sa-bha-vana"
     }
   ],
   "version": 1
