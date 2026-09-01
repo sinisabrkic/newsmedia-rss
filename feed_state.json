@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3348874,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energy",
+      "description": "Two very large crude carriers transporting a combined four million barrels of Saudi oil were struck by unidentified projectiles while sailing out through the Strait of Hormuz within minutes of each other. The attacks on the Sidr and Senegal Prosperity expose a new vulnerability in a shipping corridor already operating under extraordinary pressure. The immediate concern extends beyond damage to two vessels. If heavily loaded tankers carrying Saudi crude can be attacked during outbound passage, the question is no longer simply whether Hormuz remains technically navigable. It is whether major Gulf oil exports can move through the corridor with sufficient security and commercial…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hormuz-supertanker-attack-report-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-01T22:50:00+00:00",
+      "title": "Supertankers Carrying Saudi Crude Hit Near Hormuz | newsmedia.report",
+      "url": "https://www.newsmedia.report/3348874_supertankers-carrying-saudi-crude-hit-near-hormuz"
+    },
+    {
+      "article_id": 3348853,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Zwei hochrangige Vertreter der US-Regierung beschuldigen den chinesischen Schifffahrtskonzern COSCO, Handelsschiffe mit verdeckter Technik zur Erfassung militärischer Kommunikationssignale auszustatten. Betroffen sein sollen Aktivitäten entlang der Küsten Nordamerikas, Europas und Asiens. Öffentlich zugängliche Beweise für das konkret behauptete Programm liegen bislang nicht vor, Peking weist die Anschuldigungen zurück.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cosco-spionagevorw-rfe-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-01T22:07:00+00:00",
+      "title": "USA werfen COSCO Spionage auf Frachtern vor | newsmedia.report",
+      "url": "https://www.newsmedia.report/3348853_usa-werfen-cosco-spionage-auf-frachtern-vor"
+    },
+    {
       "article_id": 3348291,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-22T06:50:00+00:00",
       "title": "Inside the TCS Monitoring Controversy | newsmedia.report",
       "url": "https://www.newsmedia.report/3334392_inside-the-tcs-monitoring-controversy"
-    },
-    {
-      "article_id": 3334375,
-      "author": "Sinisa Brkic (sb)",
-      "category": "USA",
-      "description": "The Justice Department plans to deploy roughly 1,000 election monitors for the November 3 midterms, a scale that would exceed its recent Election Day operations and has intensified scrutiny of federal involvement in voting. But the number alone obscures the central legal question. DOJ personnel can observe, document and enforce federal voting laws, yet they do not acquire general authority to run polling places, overrule local election officials or take control of state election administration.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/what-trump-s-doj-election-monitors-can-actually-do-newdmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-22T06:35:00+00:00",
-      "title": "Trump’s 1,000 DOJ Election Monitors | newsmedia.report",
-      "url": "https://www.newsmedia.report/3334375_trump-s-1-000-doj-election-monitors"
-    },
-    {
-      "article_id": 3333304,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "Bitcoin has surged roughly 20 percent in a week and moved above $75,000, producing its strongest weekly advance in more than two years. The move is being driven by an unusually powerful combination of forces: a weaker dollar, intervention in the US Treasury market, renewed institutional demand, massive short liquidations and fresh political pressure from President Donald Trump for Congress to advance comprehensive crypto legislation. What makes the rally more significant than another speculative burst is the role Bitcoin is beginning to occupy across very different investment narratives. It is being bought as a high volatility risk asset when financial conditions appear to improve, while…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bitcoin-above-75-000-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-21T10:02:00+00:00",
-      "title": "Bitcoin's $75,000 Rally | newsmedia.report",
-      "url": "https://www.newsmedia.report/3333304_bitcoin-s-75-000-rally"
     }
   ],
   "version": 1
