@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3347836,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Als Yasemin Yadigaroglu 2009 mit einer Postkartenkampagne gegen Verwandtschaftsehen an Schulen und Familienzentren ging, berührte sie ein Thema, über das in Deutschland nur ungern offen gesprochen wurde. Es ging um genetische Risiken, familiären Druck, patriarchale Strukturen und die Frage, wie frei eine Partnerwahl tatsächlich sein kann. Fast zwei Jahrzehnte später ist aus der gesellschaftlichen Kontroverse auch eine europäische Rechtsfrage geworden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/verwandtschaftsehe-in-europa-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-01T08:50:00+00:00",
+      "title": "Verwandtschaftsehe: „Heiraten ja. Aber nicht meinen Cousin!“ | newsmedia.report",
+      "url": "https://www.newsmedia.report/3347836_verwandtschaftsehe-heiraten-ja-aber-nicht-meinen-cousin"
+    },
+    {
+      "article_id": 3347779,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energy",
+      "description": "India is preparing a major expansion of its energy security strategy. State owned Oil and Natural Gas Corporation plans to invest about $10.5 billion in deepwater and ultradeepwater exploration over the next five years, while additional projects are intended to strengthen strategic crude storage and international energy trading. The approach reflects a broader shift in New Delhi’s energy policy. India is not seeking immediate independence from global oil markets, but greater control over domestic production, emergency reserves and access to international supply at a time when geopolitical risks are exposing the vulnerabilities of large import dependent economies.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-oil-security-push-1-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-01T08:01:00+00:00",
+      "title": "India Launches $10.5 Billion Oil Security Push | newsmedia.report",
+      "url": "https://www.newsmedia.report/3347779_india-launches-10-5-billion-oil-security-push"
+    },
+    {
       "article_id": 3347300,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-21T06:13:00+00:00",
       "title": "America’s Asia Carrier Moves to Iran | newsmedia.report",
       "url": "https://www.newsmedia.report/3333050_america-s-asia-carrier-moves-to-iran"
-    },
-    {
-      "article_id": 3332711,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Umwelt & Klima",
-      "description": "Europäische Städte haben sich für 2030 ambitionierte Klimaziele gesetzt. Eine aktuelle Untersuchung von 103 sogenannten Mission Cities zeigt jedoch, dass zwischen weitreichender Emissionsreduktion und tatsächlich belastbarer Klimaneutralität eine erhebliche Lücke bleibt. Das Problem liegt zunehmend nicht mehr allein darin, Emissionen zu senken, sondern nachvollziehbar zu bestimmen, welche Emissionen verbleiben, weshalb sie verbleiben und wie mit ihnen glaubwürdig umgegangen werden soll.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-offene-rechnung-der-klimaneutralit-t-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-20T20:22:00+00:00",
-      "title": "Europas Städte und Millionen Tonnen Restemissionen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3332711_europas-staedte-und-millionen-tonnen-restemissionen"
-    },
-    {
-      "article_id": 3332695,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Zwei Menschen können sich noch lieben und sich trotzdem gegenseitig zerstören. Sie können gemeinsame Jahre, Kinder, Erinnerungen, körperliche Anziehung und sogar tiefe emotionale Bindung besitzen, während etwas Entscheidendes längst verloren gegangen ist: der Respekt vor dem Menschen gegenüber. Ein Streit allein beendet keine Beziehung. Doch wenn aus Kritik Verachtung, aus Verletzung Demütigung und aus Vertrautheit die Fähigkeit wird, gezielt die empfindlichsten Stellen des anderen zu treffen, stellt sich eine unbequeme Frage: Reicht Liebe überhaupt noch, wenn zwei Menschen einander nicht mehr achten?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wenn-respekt-verschwindet-reicht-liebe-dann-noch-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-20T19:56:00+00:00",
-      "title": "Wenn Respekt verschwindet, reicht Liebe dann noch? / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3332695_wenn-respekt-verschwindet-reicht-liebe-dann-noch"
     }
   ],
   "version": 1
