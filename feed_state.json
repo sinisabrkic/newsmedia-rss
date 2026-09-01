@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3348121,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Расследование предполагаемой атаки беспилотника в аэропорту Лейпциг/Галле приобретает новое политическое измерение. Немецкие органы безопасности, по имеющимся данным, обнаружили признаки, указывающие на возможную причастность российских спецслужб. Федеральное правительство готовит публичную реакцию, однако официальное обвинение России на данный момент ещё не объявлено.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drohnen_russischer_geheimdienst-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-01T12:55:00+00:00",
+      "title": "Лейпциг: след, вероятно, ведёт к российским спецслужбам | newsmedia.report",
+      "url": "https://www.newsmedia.report/3348121_leypcig-sled-veroyatno-vedet-k-rossiyskim-specsluzhbam"
+    },
+    {
+      "article_id": 3348057,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Jared Kushner has emerged as one of the most consequential intermediaries in Donald Trump’s foreign policy. He is involved in efforts to move negotiations over Ukraine forward, has sat across from Vladimir Putin in Moscow and has recently held talks with both Israel and Hamas over Gaza. The breadth of those assignments reveals more than Kushner’s return to diplomacy. It shows how strongly Trump is concentrating some of America’s most sensitive negotiations in the hands of people he trusts personally.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jared-kushner-at-the-center-of-trump-s-global-diplomacy-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-01T11:50:00+00:00",
+      "title": "Jared Kushner at the Center of Trump’s Global Diplomacy | newsmedia.report",
+      "url": "https://www.newsmedia.report/3348057_jared-kushner-at-the-center-of-trump-s-global-diplomacy"
+    },
+    {
       "article_id": 3347836,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -967,28 +989,6 @@
       "published": "2026-08-21T07:33:00+00:00",
       "title": "Japan vollstreckt wieder: Die Hinrichtung von Sunao Takami | newsmedia.report",
       "url": "https://www.newsmedia.report/3333122_japan-vollstreckt-wieder-die-hinrichtung-von-sunao-takami"
-    },
-    {
-      "article_id": 3333082,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Washington und Moskau verfolgen in zentralen Weltfragen gegensätzliche Interessen. Im Streit um die Wahl des nächsten UN-Generalsekretärs ziehen beide nun jedoch eine gemeinsame Grenze gegenüber Annalena Baerbock. Hinter der ungewöhnlichen Konstellation steht weit mehr als ein Konflikt um die deutsche Präsidentin der UN-Generalversammlung: Es geht um die Frage, wie viel Macht die 193 Mitgliedstaaten gegenüber dem Sicherheitsrat tatsächlich besitzen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/usa-und-russland-gegen-baerbock-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-21T07:00:00+00:00",
-      "title": "UN: Washington und Moskau gegen Baerbock | newsmedia.report",
-      "url": "https://www.newsmedia.report/3333082_un-washington-und-moskau-gegen-baerbock"
-    },
-    {
-      "article_id": 3333050,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "The USS George Washington has arrived in the Middle East to relieve the USS Abraham Lincoln after one of the most punishing carrier deployments in recent U.S. Navy history. But the rotation solves one problem by exposing another. Washington has moved its only forward deployed aircraft carrier based in Japan away from the western Pacific, revealing how the war with Iran is beginning to compete directly with America’s long declared strategic priority in Asia.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-iran-war-is-pulling-america-s-last-carrier-out-of-asia-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-21T06:13:00+00:00",
-      "title": "America’s Asia Carrier Moves to Iran | newsmedia.report",
-      "url": "https://www.newsmedia.report/3333050_america-s-asia-carrier-moves-to-iran"
     }
   ],
   "version": 1
