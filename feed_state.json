@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3348908,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "Twenty one major financial institutions are preparing a coordinated entry into a market that has so far been dominated by crypto companies. Their plan is to establish a new company in 2026 and bring a US dollar stablecoin to market in the first half of 2027, with the euro already identified as the next priority. What looks at first like another digital asset project could mark something much larger: traditional finance is moving to secure its own position in the infrastructure of digital money.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/big-banks-enter-the-stablecoin-battle-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-02T00:01:00+00:00",
+      "title": "Big Banks Enter the Stablecoin Battle | newsmedia.report",
+      "url": "https://www.newsmedia.report/3348908_big-banks-enter-the-stablecoin-battle"
+    },
+    {
       "article_id": 3348874,
       "author": "Sinisa Brkic (sb)",
       "category": "Energy",
@@ -978,17 +989,6 @@
       "published": "2026-08-22T07:22:00+00:00",
       "title": "CO₂-Nachweise für ungültig erklärt: ExxonMobil im UER-Komplex | newsmedia.report",
       "url": "https://www.newsmedia.report/3334403_co2-nachweise-fuer-ungueltig-erklaert-exxonmobil-im-uer-komplex"
-    },
-    {
-      "article_id": 3334392,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Tata Consultancy Services says it does not track individual employee activity on company laptops and has rejected reports of employee surveillance as inaccurate. Yet the controversy has exposed a larger question that extends far beyond TCS: how much information can modern workplace monitoring systems collect, and where does legitimate IT oversight end and employee surveillance begin?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tcs-employee-monitoring-privacy-report-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-22T06:50:00+00:00",
-      "title": "Inside the TCS Monitoring Controversy | newsmedia.report",
-      "url": "https://www.newsmedia.report/3334392_inside-the-tcs-monitoring-controversy"
     }
   ],
   "version": 1
