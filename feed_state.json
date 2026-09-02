@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3349865,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Zwei Menschen schweben in derselben Gefahr. Du kannst nur einen von ihnen retten. Auf der einen Seite steht der Mensch, den Du liebst, vielleicht sogar mehr als jeden anderen. Auf der anderen Seite steht ein Mensch, der Dich aufrichtig und tief liebt, dessen Gefühle Du jedoch nicht in derselben Weise erwiderst. Für wen entscheidest Du Dich? Dieses Gedankenexperiment hat keine wissenschaftlich richtige Antwort, aber es legt etwas frei, das wir im Alltag selten so klar sehen: den Unterschied zwischen lieben, geliebt werden, Verantwortung, Verlust und der Frage, welchem Gefühl wir am Ende den größeren Wert geben.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wen_rettest_du_wen_du_liebst_oder_wer_dich_liebt_datingworld-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-02T15:25:00+00:00",
+      "title": "Wen rettest Du: Wer Dich liebt oder wen Du liebst? / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3349865_wen-rettest-du-wer-dich-liebt-oder-wen-du-liebst"
+    },
+    {
       "article_id": 3349608,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-08-23T06:41:00+00:00",
       "title": "Tokyo Shaken: What Really Happened | newsmedia.report",
       "url": "https://www.newsmedia.report/3335588_tokyo-shaken-what-really-happened"
-    },
-    {
-      "article_id": 3335559,
-      "author": "Sinisa Brkic (sb) / Redaktion",
-      "category": "Wirtschaft",
-      "description": "Lotto, EuroMillionen, Casinos Austria und win2day wirken wie österreichische Institutionen. Doch wer der Eigentümerspur folgt, landet über Wien und Luzern schließlich bei einem internationalen Glücksspielkonzern, der KKCG Gruppe und einer Stiftung in Liechtenstein. Gleichzeitig hält die Republik Österreich weiter ein gewichtiges Aktienpaket und bereitet jene Neuordnung vor, die ab 2027 darüber entscheiden soll, wer künftig am milliardenschweren Glücksspielmarkt verdienen darf.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-gl-cksspiel-wer-steckt-wirklich-hinter-lotto-casinos-und-win2day-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-23T06:16:00+00:00",
-      "title": "Österreichs Glücksspiel: Wer steckt wirklich hinter Lotto, Casinos und win2day? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3335559_oesterreichs-gluecksspiel-wer-steckt-wirklich-hinter-lotto-casinos-und-win2day"
     }
   ],
   "version": 1
