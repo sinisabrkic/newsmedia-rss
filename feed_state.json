@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3351054,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Auf Spitzbergen ist ein russisches Schiff auf Grundlage einer norwegischen Gerichtsentscheidung festgesetzt worden. Hinter dem Zugriff steht eine Milliardenforderung des ukrainischen Energiekonzerns Naftogaz gegen die Russische Föderation wegen enteigneter Vermögenswerte auf der Krim. Der Fall zeigt, wie sich ein jahrelanger internationaler Rechtsstreit zunehmend in konkrete Vollstreckungsmaßnahmen gegen russisches Staatseigentum verlagert.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/norwegen-beschlagnahmt-russisches-schiff-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-03T10:55:00+00:00",
+      "title": "Norwegen beschlagnahmt russisches Schiff | newsmedia.report",
+      "url": "https://www.newsmedia.report/3351054_norwegen-beschlagnahmt-russisches-schiff"
+    },
+    {
       "article_id": 3349865,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-23T07:39:00+00:00",
       "title": "Artikel 5 der NATO: Was passiert, wenn Israel die Türkei angreift? | newsmedia.report",
       "url": "https://www.newsmedia.report/3335626_artikel-5-der-nato-was-passiert-wenn-israel-die-tuerkei-angreift"
-    },
-    {
-      "article_id": 3335588,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "A magnitude 5.9 earthquake beneath southern Ibaraki Prefecture shook Tokyo and large parts of eastern Japan shortly after 2 a.m. on Sunday, injuring at least 37 people and triggering emergency alerts across the capital region. The earthquake caused limited infrastructure disruption, but its effect across one of the world’s largest metropolitan areas was striking. The event also produced an apparent contradiction that quickly spread through alerts and online reports. Early calculations put the earthquake above magnitude 6, including estimates of 6.4 and even higher during the first seconds of analysis, while the Japan Meteorological Agency later reported a magnitude of 5.9. The difference…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tokyo-shaken-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-23T06:41:00+00:00",
-      "title": "Tokyo Shaken: What Really Happened | newsmedia.report",
-      "url": "https://www.newsmedia.report/3335588_tokyo-shaken-what-really-happened"
     }
   ],
   "version": 1
