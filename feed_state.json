@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3351404,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Beschädigte Verkehrswege, Brände an sensiblen Standorten, Störungen digitaler Systeme, verdächtige Drohnen und Zwischenfälle an kritischer Infrastruktur haben Europas Sicherheitsdebatte verändert. Nicht jeder Vorfall ist Sabotage, nicht jede Sabotage folgt derselben Strategie und nicht jeder Verdacht lässt sich eindeutig einem staatlichen Akteur zurechnen. Dennoch verdichtet sich ein Sicherheitsbild, in dem klassische Kriminalität, Spionage, politische Einflussnahme und gezielte Störung zunehmend schwerer voneinander zu trennen sind.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sabotage-in-europa-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-03T15:04:00+00:00",
+      "title": "Sabotage in Europa: Muster, Methoden und Hintergründe | newsmedia.report",
+      "url": "https://www.newsmedia.report/3351404_sabotage-in-europa-muster-methoden-und-hintergruende"
+    },
+    {
       "article_id": 3351054,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-23T08:35:00+00:00",
       "title": "South Korea’s Military Academy Merger | newsmedia.report",
       "url": "https://www.newsmedia.report/3335669_south-korea-s-military-academy-merger"
-    },
-    {
-      "article_id": 3335626,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Israel und die Türkei stehen auf gegensätzlichen Seiten mehrerer Konfliktlinien im Nahen Osten. Besonders Syrien birgt inzwischen ein Risiko, das weit über die Beziehungen zwischen Ankara und Jerusalem hinausreicht: Was geschieht, wenn aus politischen Drohungen und militärischer Konkurrenz ein direkter bewaffneter Zusammenstoß wird? Ein israelischer Angriff auf türkisches Staatsgebiet könnte die NATO mit einer ihrer schwierigsten Entscheidungen seit ihrer Gründung konfrontieren. Denn die Türkei ist vollwertiges Mitglied des Bündnisses, ihr Territorium fällt ausdrücklich unter den Schutzbereich des Washingtoner Vertrags. Doch Artikel 5 bedeutet weder einen automatischen Krieg gegen Israel…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/artikel-5-der-nato-israel-und-t-rkei-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-23T07:39:00+00:00",
-      "title": "Artikel 5 der NATO: Was passiert, wenn Israel die Türkei angreift? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3335626_artikel-5-der-nato-was-passiert-wenn-israel-die-tuerkei-angreift"
     }
   ],
   "version": 1
