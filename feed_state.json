@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3352147,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Más de 72.000 personas cruzaron desde Marruecos hacia Ceuta en dos días y al menos 96 murieron durante la crisis fronteriza. Cinco semanas después, España sigue intentando esclarecer cómo pudo producirse una movilización de esa magnitud. Un informe policial descarta que todo respondiera a un fenómeno espontáneo, mientras el Gobierno sostiene que no dispone de pruebas sólidas para atribuir a Marruecos la planificación de la operación.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ceuta-bajo-presi-n-newsmedia-redaktion-high-zn8h3h.png",
+      "language": "de-AT",
+      "published": "2026-09-04T05:37:00+00:00",
+      "title": "Ceuta bajo presión | newsmedia.report",
+      "url": "https://www.newsmedia.report/3352147_ceuta-bajo-presion"
+    },
+    {
+      "article_id": 3352106,
+      "author": "Sinisa Brkic (sb) / Redaktion",
+      "category": "Wirtschaft & Global Affairs",
+      "description": "Gold wirft keine Zinsen ab, finanziert keine Staatsausgaben und ist im digitalen Finanzsystem umständlicher als eine Staatsanleihe. Trotzdem kaufen Zentralbanken seit Jahren in außergewöhnlichem Umfang. Die Niederlande verlagern Reserven nach London, Indien holt Barren ins eigene Land, Polen baut einen der schnellsten staatlichen Goldbestände Europas auf, während Deutschland und Italien weiterhin große Mengen in New York verwahren. Hinter diesen Entscheidungen steht eine fundamentale Frage: Ordnen Zentralbanken lediglich ihr Krisenmanagement neu – oder verändert sich gerade die Architektur des globalen Währungssystems?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/das_gold_kehrt_zurueck_warum_zentralbanken_ihre_reserven_neu_ordnen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-04T04:33:00+00:00",
+      "title": "Das Gold kehrt zurück: Warum Zentralbanken sich jetzt neu ordnen? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3352106_das-gold-kehrt-zurueck-warum-zentralbanken-sich-jetzt-neu-ordnen"
+    },
+    {
+      "article_id": 3352076,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Volkswagen zieht tiefgreifende Konsequenzen aus Überkapazitäten, wachsendem Kostendruck und einem globalen Automarkt, dessen Kräfteverhältnisse sich verschoben haben. Der Aufsichtsrat hat den weitreichenden Zukunftsplan des Konzerns gebilligt. Für Deutschland beginnt damit eine Phase, in der nicht nur Arbeitsplätze und Produktionsstandorte zur Disposition stehen, sondern auch ein Stück des bisherigen industriellen Selbstverständnisses.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/volkswagen-der-gro-e-umbau-hat-begonnen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-04T03:55:00+00:00",
+      "title": "Volkswagen: Der große Umbau hat begonnen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3352076_volkswagen-der-grosse-umbau-hat-begonnen"
+    },
+    {
       "article_id": 3351404,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -956,39 +989,6 @@
       "published": "2026-08-23T13:15:00+00:00",
       "title": "Cyberangriff auf britisches Kraftwerk offenbart Europas neue Verwundbarkeit | newsmedia.report",
       "url": "https://www.newsmedia.report/3335956_cyberangriff-auf-britisches-kraftwerk-offenbart-europas-neue-verwundbarkeit"
-    },
-    {
-      "article_id": 3335850,
-      "author": "Sinisa Brkic (sb) / Redaktion",
-      "category": "Sicherheit",
-      "description": "Kinderhandel funktioniert dort besonders gut, wo er nicht als Kinderhandel erkannt wird. Täter nutzen Familien, Heime, soziale Netzwerke, Migration, emotionale Abhängigkeit und wirtschaftliche Not, während Behörden oft erst eingreifen, wenn die Ausbeutung bereits stattgefunden hat. Noch schwerer wiegt ein Befund der Vereinten Nationen: In dokumentierten Fällen reichen die Helferstrukturen bis in Polizei, Grenzbehörden, Politik, Staatsanwaltschaft und Justiz. Doch gerade bei einem Verbrechen dieser Dimension ist Präzision entscheidend, denn belegte Korruption, institutionelles Versagen und strafbare Ausbeutung sind etwas anderes als die Behauptung einer allmächtigen geheimen Elite.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-globale-handel-mit-kindern-ausbeutung-als-gesch-ftsmodell-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-23T11:31:00+00:00",
-      "title": "Der globale Handel mit Kindern: Ausbeutung als Geschäftsmodell | newsmedia.report",
-      "url": "https://www.newsmedia.report/3335850_der-globale-handel-mit-kindern-ausbeutung-als-geschaeftsmodell"
-    },
-    {
-      "article_id": 3335768,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Russlands Krieg gegen die Ukraine könnte vor einer neuen Eskalationsphase stehen. Wladimir Putin kündigt Vergeltung gegen besonders empfindliche Bereiche der ukrainischen Wirtschaft an, während Wolodymyr Selenskyj davor warnt, Moskau könne nach der russischen Parlamentswahl im September weitere 300.000 Soldaten mobilisieren. Noch ist diese Mobilisierung nicht bestätigt, doch das Zusammentreffen beider Signale rückt eine entscheidende Frage in den Mittelpunkt: Bereitet Russland den nächsten großen Kraftaufbau vor?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putin-und-selenskyj-neue-eskalationssignale-im-ukraine-krieg-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-23T10:01:00+00:00",
-      "title": "Moskau eskaliert: Kiew warnt vor 300.000 Soldaten | newsmedia.report",
-      "url": "https://www.newsmedia.report/3335768_moskau-eskaliert-kiew-warnt-vor-300-000-soldaten"
-    },
-    {
-      "article_id": 3335669,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Security",
-      "description": "South Korea wants to replace its separate Army, Navy and Air Force academies with a new four year National Military Academy in Daejeon. The government says the overhaul is necessary for joint operations, demographic pressure and a military increasingly shaped by artificial intelligence, cyber capabilities and space. But questions over specialized training, a price tag above 3 trillion won and growing institutional resistance are converging ahead of a critical public hearing on August 26.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-military-academy-merger-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-23T08:35:00+00:00",
-      "title": "South Korea’s Military Academy Merger | newsmedia.report",
-      "url": "https://www.newsmedia.report/3335669_south-korea-s-military-academy-merger"
     }
   ],
   "version": 1
