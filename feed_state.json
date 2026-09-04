@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3352466,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Israels Ministerpräsident Benjamin Netanjahu hat mit einer Bemerkung über die „Tage des Messias“ eine Debatte ausgelöst, die weit über Tagespolitik und Kriegsgeschehen hinausführt. In internationalen Übersetzungen wurde aus seiner hebräischen Formulierung teilweise eine „Rückkehr des Messias“, doch genau diese Wortwahl verändert die religiöse Bedeutung erheblich. Wer Netanjahus Aussage verstehen will, muss zwischen der jüdischen Erwartung des Maschiach, insbesondere Maschiach ben David und den Traditionen um Maschiach ben Josef, und dem christlichen Glauben an Jesus Christus und dessen Wiederkunft unterscheiden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/netanjahu-spricht-vom-messias-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-04T11:03:00+00:00",
+      "title": "Netanjahu spricht vom Messias: Jesus Christus ist nicht gemeint | newsmedia.report",
+      "url": "https://www.newsmedia.report/3352466_netanjahu-spricht-vom-messias-jesus-christus-ist-nicht-gemeint"
+    },
+    {
+      "article_id": 3352447,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Con 1.413 giorni a Palazzo Chigi, il governo di Giorgia Meloni diventa il più longevo nella storia della Repubblica italiana. È un risultato politico che rompe una delle tradizioni più persistenti del Paese, quella degli esecutivi brevi e delle maggioranze fragili. Ma mentre il record certifica la stabilità raggiunta, economia, riforme e nuovi equilibri a destra mostrano che la partita decisiva per Meloni è appena entrata nella sua fase più delicata.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meloni-il-record-e-la-sfida-del-2027-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-04T10:04:00+00:00",
+      "title": "Meloni, il record e la sfida del 2027 | newsmedia.report",
+      "url": "https://www.newsmedia.report/3352447_meloni-il-record-e-la-sfida-del-2027"
+    },
+    {
       "article_id": 3352420,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -967,28 +989,6 @@
       "published": "2026-08-24T09:25:00+00:00",
       "title": "Tempsens IPO: GMP 100% पार, मांग 100 गुना | newsmedia.report",
       "url": "https://www.newsmedia.report/3337054_tempsens-ipo-gmp-100-pa-ra-ma-ga-100-ga-na"
-    },
-    {
-      "article_id": 3337002,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Joshua Aviles has spent more than nine months deployed aboard the USS Abraham Lincoln, serving through one of the most demanding carrier deployments in the modern U.S. Navy. While he remained thousands of miles from home, U.S. Border Patrol detained his father in Florida and transferred him into federal immigration custody. The case brings an increasingly consequential question into sharp focus: what protection does military service actually provide when immigration enforcement reaches a service member’s own family?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/uss-abraham-lincoln-sailor-s-father-detained-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-24T09:03:00+00:00",
-      "title": "Son Serves in U.S. Navy. Border Patrol Detains His Father. | newsmedia.report",
-      "url": "https://www.newsmedia.report/3337002_son-serves-in-u-s-navy-border-patrol-detains-his-father"
-    },
-    {
-      "article_id": 3336939,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Samsung Electronics has outlined what could become the largest shareholder return program in its history, with an estimated 90 trillion to 110 trillion won, roughly $65 billion to $80 billion, expected for 2026. Instead of rewarding the company with another rally, investors sent the shares sharply lower. The reaction reveals how far expectations have shifted in the AI chip boom: enormous profits alone are no longer enough when shareholders want clearer, faster and more permanent returns of capital.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/samsung-s-80-billion-problem-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-24T08:04:00+00:00",
-      "title": "Samsung’s $80 Billion Problem | newsmedia.report",
-      "url": "https://www.newsmedia.report/3336939_samsung-s-80-billion-problem"
     }
   ],
   "version": 1
