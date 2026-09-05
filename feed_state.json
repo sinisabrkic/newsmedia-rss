@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3353941,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Посол Российской Федерации в Германии Сергей Нечаев в продолжительной беседе с Беном Берндтом, ведущим «Ungeskriptet», говорит о состоянии российско германских отношений, Украине, НАТО, событиях 2014 и 2022 годов, возможной дальнейшей эскалации и условиях мира. newsmedia.report публикует для русскоязычных читателей полную и несокращенную русскую передачу интервью на основе предоставленной немецкой транскрипции, без собственной политической оценки высказываний участников.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/interview-russischer-botschafter-mit-ben-ungeskriptet-high.png",
+      "language": "de-AT",
+      "published": "2026-09-05T12:50:00+00:00",
+      "title": "«Мы не хотим войны с НАТО, мы не хотим войны с Германией»: Сергей Нечаев | newsmedia.report",
+      "url": "https://www.newsmedia.report/3353941_my-ne-hotim-voyny-s-nato-my-ne-hotim-voyny-s-germaniey-sergey-nechaev"
+    },
+    {
       "article_id": 3353729,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-24T10:17:00+00:00",
       "title": "Milliardär Klaus-Michael Kühne ist tot: Leben und Vermächtnis | newsmedia.report",
       "url": "https://www.newsmedia.report/3337161_milliardaer-klaus-michael-kuehne-ist-tot-leben-und-vermaechtnis"
-    },
-    {
-      "article_id": 3337114,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "A Rimini, Papa Leone XIV ha pronunciato un intervento che supera nettamente i confini del dibattito ecclesiale. Davanti al pubblico del Meeting per l’amicizia fra i popoli ha parlato di guerra, interessi economici, tecnologia, finanza e disuguaglianze sociali. Il messaggio è chiaro: quando il potere perde il rapporto con la dignità umana, la neutralità diventa una forma di rinuncia alla responsabilità.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/leone-xiv-a-rimini-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-24T09:55:00+00:00",
-      "title": "Leone XIV a Rimini: potere e profitto sotto esame | newsmedia.report",
-      "url": "https://www.newsmedia.report/3337114_leone-xiv-a-rimini-potere-e-profitto-sotto-esame"
     }
   ],
   "version": 1
