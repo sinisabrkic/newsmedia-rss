@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3353729,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "भारत के पूंजी बाजार की सबसे महत्वपूर्ण संस्थाओं में से एक अब स्वयं शेयर बाजार में उतरने के निर्णायक चरण में पहुंच गई है। भारतीय प्रतिभूति एवं विनिमय बोर्ड SEBI की मंजूरी के बाद नेशनल स्टॉक एक्सचेंज ऑफ इंडिया, NSE, का वर्षों से अटका सार्वजनिक निर्गम सितंबर 2026 में वास्तविकता बन सकता है। यह केवल एक बड़े IPO की कहानी नहीं है। यह उस संस्था के सार्वजनिक बाजार में प्रवेश की कहानी है जिस पर भारत के वित्तीय बाजार का एक बड़ा हिस्सा प्रतिदिन संचालित होता है।",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nse_ipo-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-05T08:40:00+00:00",
+      "title": "भारत का NSE ऐतिहासिक IPO के करीब | newsmedia.report",
+      "url": "https://www.newsmedia.report/3353729_bha-rata-ka-nse-aita-ha-sa-ka-ipo-ka-kara-b"
+    },
+    {
       "article_id": 3352466,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-24T09:55:00+00:00",
       "title": "Leone XIV a Rimini: potere e profitto sotto esame | newsmedia.report",
       "url": "https://www.newsmedia.report/3337114_leone-xiv-a-rimini-potere-e-profitto-sotto-esame"
-    },
-    {
-      "article_id": 3337054,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Tempsens Instruments का ₹650 करोड़ का IPO भारतीय प्राथमिक बाजार की सबसे तेज कहानियों में शामिल हो गया है। अंतिम दिन दोपहर 2:04 बजे तक इश्यू 100.3 गुना सब्सक्राइब हो चुका था, जबकि ग्रे मार्केट में प्रीमियम ऊपरी इश्यू प्राइस के 100 प्रतिशत से ऊपर बना हुआ है। लेकिन इस असाधारण मांग के पीछे एक महत्वपूर्ण संरचनात्मक तथ्य भी है: IPO का लगभग 85 प्रतिशत हिस्सा मौजूदा शेयरधारकों की बिक्री है और कंपनी को नई पूंजी के रूप में केवल ₹95 करोड़ जुटाने हैं।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tempsens-ipo-gmp-100-100-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-24T09:25:00+00:00",
-      "title": "Tempsens IPO: GMP 100% पार, मांग 100 गुना | newsmedia.report",
-      "url": "https://www.newsmedia.report/3337054_tempsens-ipo-gmp-100-pa-ra-ma-ga-100-ga-na"
     }
   ],
   "version": 1
