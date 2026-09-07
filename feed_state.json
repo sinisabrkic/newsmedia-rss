@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3356765,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Drei, zehn, dreißig oder hundert frühere Sexualpartner: Ab welcher Zahl wird die Vergangenheit für eine neue Beziehung relevant? Die Debatte um den sogenannten Bodycount ist laut, moralisch aufgeladen und häufig voller Doppelstandards. Die Forschung liefert tatsächlich Hinweise darauf, dass Menschen die sexuelle Vergangenheit potenzieller Langzeitpartner berücksichtigen, aber sie liefert keine magische Zahl, ab der ein Mensch beziehungsunfähig wäre.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bodycount_wie_viele_sind_zu_viele_-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-07T15:00:00+00:00",
+      "title": "Bodycount: Wie viele sind zu viele? / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3356765_bodycount-wie-viele-sind-zu-viele"
+    },
+    {
+      "article_id": 3356561,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "India is facing an unusual consequence of financial strength. After attracting roughly $136 billion through special foreign exchange programs, the country’s banking system became so flush with cash that the Reserve Bank of India moved to withdraw more than 6 trillion rupees from the system. What initially strengthened reserves and supported the rupee has now become a monetary policy challenge of exceptional scale.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-s-136-billion-inflow-forces-rbi-intervention-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-07T12:40:00+00:00",
+      "title": "India’s $136 Billion Inflow Forces RBI Intervention | newsmedia.report",
+      "url": "https://www.newsmedia.report/3356561_india-s-136-billion-inflow-forces-rbi-intervention"
+    },
+    {
       "article_id": 3356492,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -967,28 +989,6 @@
       "published": "2026-08-25T12:34:00+00:00",
       "title": "Trump’s Visa Revocation Plan Could Affect Up to 200,000 U.S. Visas | newsmedia.report",
       "url": "https://www.newsmedia.report/3338814_trump-s-visa-revocation-plan-could-affect-up-to-200-000-u-s-visas"
-    },
-    {
-      "article_id": 3338522,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Business",
-      "description": "Leonardo Maria Del Vecchio is stepping down as chairman of Ray-Ban and chief strategy officer of EssilorLuxottica, bringing questions of succession, control and management back into focus. His departure from executive office does not remove him from the ownership structure behind the global eyewear group. It comes at a critical moment for a company whose future increasingly extends beyond luxury eyewear into artificial intelligence and wearable technology.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/del-vecchio-exits-ray-ban-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T09:01:00+00:00",
-      "title": "Del Vecchio Exits Ray-Ban | newsmedia.report",
-      "url": "https://www.newsmedia.report/3338522_del-vecchio-exits-ray-ban"
-    },
-    {
-      "article_id": 3338461,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Die geplante deutsche Zuckersteuer könnte deutlich umfassender ausfallen als bislang angenommen. Nach dem aktuell bekannt gewordenen Arbeitsstand aus dem Bundesfinanzministerium könnten neben klassischen Limonaden auch Säfte, Eistees, Milchgetränke und sogar zuckerfreie Produkte mit Süßstoffen wie Cola Zero erfasst werden. Die politische Richtung ist klar, die entscheidenden Details sind es noch nicht: Die Bundesregierung will die Steuer 2027, das konkrete Modell ist jedoch noch kein beschlossenes Gesetz.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-zuckersteuer-2027-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T08:30:00+00:00",
-      "title": "Deutschland: Zuckersteuer. Das neue BMF-Modell für 2027 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3338461_deutschland-zuckersteuer-das-neue-bmf-modell-fuer-2027"
     }
   ],
   "version": 1
