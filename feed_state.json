@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3356492,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Russlands Außenminister Sergej Lawrow verschärft nach den deutschen Vorwürfen zum Leipziger Drohnenfall die Rhetorik und spricht vom „Beginn eines realen Krieges“. Gleichzeitig warnt der US Botschafter bei der NATO vor einer neuen Qualität hybrider Angriffe, während Dänemarks Inlandsnachrichtendienst konkrete russische Sabotagevorbereitungen im eigenen Land meldet. Eine unmittelbar bevorstehende militärische Konfrontation zwischen Russland und der NATO lässt sich daraus nicht ableiten. Deutlicher wird jedoch, dass Europas Sicherheitsrisiko zunehmend unterhalb der Schwelle eines klassischen Krieges liegt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sergej-lawrow-spricht-vom-beginn-eines-realen-krieges-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-07T11:50:00+00:00",
+      "title": "Sergej Lawrow spricht vom „Beginn eines realen Krieges“ | newsmedia.report",
+      "url": "https://www.newsmedia.report/3356492_sergej-lawrow-spricht-vom-beginn-eines-realen-krieges"
+    },
+    {
+      "article_id": 3356348,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Ein Magazincover aus dem Jahr 1988 zeigt einen Phönix, der sich aus brennenden Banknoten erhebt. Um seinen Hals hängt eine Münze mit der Jahreszahl 2018. Jahrzehnte später wurde daraus die Behauptung, Bitcoin sei lange vor seiner Entstehung angekündigt worden. Das stimmt so nicht, doch hinter dem Mythos liegt eine weitaus größere Geschichte über digitales Geld, Kryptografie, Bitcoin, Blockchain und den beginnenden Umbau der internationalen Finanzordnung.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bitcoin-und-der-ph-nix-die-geschichte-des-digitalen-geldes-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-07T10:01:00+00:00",
+      "title": "Bitcoin schon 1988? Das Rätsel um den Phönix | newsmedia.report",
+      "url": "https://www.newsmedia.report/3356348_bitcoin-schon-1988-das-raetsel-um-den-phoenix"
+    },
+    {
       "article_id": 3355228,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-25T08:30:00+00:00",
       "title": "Deutschland: Zuckersteuer. Das neue BMF-Modell für 2027 | newsmedia.report",
       "url": "https://www.newsmedia.report/3338461_deutschland-zuckersteuer-das-neue-bmf-modell-fuer-2027"
-    },
-    {
-      "article_id": 3338290,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Prudential Life Insurance Company in Japan is investigating a new suspected case of improper money collection involving a sales employee who had been assigned to its Tama branch. The case is particularly sensitive because the alleged conduct may have continued after Prudential suspended new policy sales in February, raising fresh questions about the effectiveness of controls introduced during one of the most serious governance crises in the company’s Japanese operations.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/new-prudential-japan-case-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T05:15:00+00:00",
-      "title": "Prudential Japan: New Misconduct Case During Sales Freeze | newsmedia.report",
-      "url": "https://www.newsmedia.report/3338290_prudential-japan-new-misconduct-case-during-sales-freeze"
-    },
-    {
-      "article_id": 3338268,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Ein Öltanker wird vor Oman von einem unbekannten Projektil getroffen, der Maschinenraum beschädigt, das Schiff manövrierunfähig. Der Zwischenfall ereignet sich ausgerechnet dort, wo sich Sanktionen, iranische Drohungen und massive Einschränkungen des Schiffsverkehrs zu einem hochgefährlichen Gemisch verdichten. Wer für den Treffer verantwortlich ist, bleibt offen. Für die Weltwirtschaft ist diese Ungewissheit längst Teil des Problems.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/treffer-vor-oman-weltwirtschaft-in-alarmbereitschaft-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T04:43:00+00:00",
-      "title": "Treffer vor Oman: Weltwirtschaft in Alarmbereitschaft | newsmedia.report",
-      "url": "https://www.newsmedia.report/3338268_treffer-vor-oman-weltwirtschaft-in-alarmbereitschaft"
     }
   ],
   "version": 1
