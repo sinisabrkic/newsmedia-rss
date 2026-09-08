@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3358405,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Der historische Wahlsieg der AfD in Sachsen-Anhalt löst bei führenden jüdischen Organisationen und Persönlichkeiten erhebliche Besorgnis aus. Im Mittelpunkt stehen mögliche Folgen für Erinnerungskultur, politische Bildung, Minderheitenschutz und das gesellschaftliche Klima. Doch die jüdische Debatte ist nicht einheitlich: Mit der Vereinigung „Juden in der AfD“ existiert eine organisierte Gegenposition, die ausgerechnet in der AfD einen politischen Verbündeten gegen Antisemitismus und Islamismus sieht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/afd-sieg-in-sachsen-anhalt-j-dische-gemeinschaft-besorgt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-08T17:00:00+00:00",
+      "title": "Jüdische Gemeinschaft über AfD-Sieg besorgt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3358405_juedische-gemeinschaft-ueber-afd-sieg-besorgt"
+    },
+    {
+      "article_id": 3358354,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Der deutliche Wahlsieg der AfD in Sachsen-Anhalt ist weit über Deutschland hinaus auf Resonanz gestoßen. Während Regierungsvertreter in Frankreich und Polen vor den politischen Folgen warnen, feiern rechte und nationalkonservative Parteien in mehreren europäischen Staaten das Ergebnis als Signal für einen grundlegenden Kurswechsel. Auch aus den USA und Russland kommen Reaktionen, die zeigen, wie stark eine deutsche Landtagswahl inzwischen in größere politische und geopolitische Entwicklungen eingeordnet wird.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/internationale-reaktion-auf-den-afd-sieg-in-sachsen-anhalt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-08T15:50:00+00:00",
+      "title": "AfD-Sieg in Sachsen-Anhalt: Die internationale Reaktion | newsmedia.report",
+      "url": "https://www.newsmedia.report/3358354_afd-sieg-in-sachsen-anhalt-die-internationale-reaktion"
+    },
+    {
       "article_id": 3356765,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-25T13:45:00+00:00",
       "title": "Armenien: Antrag auf EU-Mitgliedschaft in Vorbereitung | newsmedia.report",
       "url": "https://www.newsmedia.report/3338929_armenien-antrag-auf-eu-mitgliedschaft-in-vorbereitung"
-    },
-    {
-      "article_id": 3338844,
-      "author": "Sinisa Brkic (sb) / Redaktion",
-      "category": "",
-      "description": "Washington’s new pressure campaign against Iran is aimed far beyond Tehran. Its real targets include the foreign banks, refiners, shipping companies, insurers, brokers, technology suppliers and digital-asset networks that keep Iran connected to the world economy. This report examines how secondary sanctions work, why access to the dollar gives the United States extraordinary leverage, how Iran has learned to route oil and money around restrictions, where China and the Gulf fit into the system, and where the legal and geopolitical limits of American economic power begin.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran_sanctions_how_washington_can_isolate_an_economy_investigations-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T13:15:00+00:00",
-      "title": "IRAN SANCTIONS: HOW WASHINGTON CAN ISOLATE AN ECONOMY | newsmedia.report",
-      "url": "https://www.newsmedia.report/3338844_iran-sanctions-how-washington-can-isolate-an-economy"
-    },
-    {
-      "article_id": 3338814,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "The Trump administration is preparing a sweeping visa action that could affect up to 200,000 B1 and B2 visas held by people who sought asylum after entering the United States. The potential scale is extraordinary, but the legal consequences are more complex than the headline number suggests. Visa revocation, loss of nonimmigrant status, a pending asylum case and removal from the United States are related issues, but they are not the same legal event.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-visa-revocation-plan-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T12:34:00+00:00",
-      "title": "Trump’s Visa Revocation Plan Could Affect Up to 200,000 U.S. Visas | newsmedia.report",
-      "url": "https://www.newsmedia.report/3338814_trump-s-visa-revocation-plan-could-affect-up-to-200-000-u-s-visas"
     }
   ],
   "version": 1
