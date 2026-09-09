@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3359441,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Die Europäische Kommission will einen der größten Märkte Europas grundlegend neu ausrichten. Öffentliche Aufträge im Umfang von rund 2,5 Billionen Euro pro Jahr sollen künftig stärker nach europäischer Wertschöpfung, wirtschaftlicher Sicherheit und strategischen Abhängigkeiten vergeben werden können. Hinter der Reform des Vergaberechts steht damit eine weit größere Weichenstellung: Brüssel entdeckt die öffentliche Kaufkraft als Instrument europäischer Industriepolitik.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/br-ssel-macht-2-5-billionen-markt-zur-machtfrage-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-09T12:25:00+00:00",
+      "title": "Brüssel macht 2,5-Billionen-Markt zur Machtfrage | newsmedia.report",
+      "url": "https://www.newsmedia.report/3359441_bruessel-macht-2-5-billionen-markt-zur-machtfrage"
+    },
+    {
       "article_id": 3358405,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -978,17 +989,6 @@
       "published": "2026-08-25T14:25:00+00:00",
       "title": "कर्नाटक में Amazon समेत तीन प्लेटफॉर्म पर धतूरा बिक्री की कार्रवाई | newsmedia.report",
       "url": "https://www.newsmedia.report/3338995_kara-na-taka-ma-amazon-sama-ta-ta-na-pa-l-tafa-ra-ma-para-thhata-ra-b-ka-ra-ka-ka-ra-rava-ii"
-    },
-    {
-      "article_id": 3338929,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Armenien treibt seine politische Annäherung an die Europäische Union weiter voran. Ministerpräsident Nikol Paschinjan kündigt nun an, den Prozess für einen formellen EU Beitrittsantrag beginnen zu wollen, während er eine Rückkehr in das von Russland geführte Militärbündnis OVKS ausschließt. Für Moskau geht es damit um weit mehr als diplomatische Verstimmungen: Im Südkaukasus droht Russland ein traditioneller Verbündeter endgültig aus seiner strategischen Einflusszone zu entgleiten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/armenien-bald-in-der-eu-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T13:45:00+00:00",
-      "title": "Armenien: Antrag auf EU-Mitgliedschaft in Vorbereitung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3338929_armenien-antrag-auf-eu-mitgliedschaft-in-vorbereitung"
     }
   ],
   "version": 1
