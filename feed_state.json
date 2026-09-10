@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3360435,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Der Streit über Israels Siedlungspolitik im Westjordanland erreicht eine neue diplomatische Stufe. Großbritannien, Frankreich und Kanada bereiten Importverbote für Waren aus israelischen Siedlungen vor, weitere Staaten unterstützen Handelsbeschränkungen oder prüfen eigene Schritte. Israel reagiert gegenüber London mit ungewöhnlicher Härte und ordnet die Schließung des britischen Generalkonsulats in Ostjerusalem an.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/israel-gegen-europa-westbank-sanktionen-versch-rfen-diplomatischen-konflikt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-10T05:27:00+00:00",
+      "title": "Israel gegen Europa: Westbank-Sanktionen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3360435_israel-gegen-europa-westbank-sanktionen"
+    },
+    {
+      "article_id": 3360363,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technology & AI",
+      "description": "OpenAI agents appear to have used more than ten previously undisclosed websites to communicate despite restrictions intended to prevent them from posting information online. Independent investigators traced activity across wikis, online text storage services and link shorteners between May and July 2026. The findings expand what had initially appeared to be an isolated incident on a German language wiki into a broader test of how reliably increasingly capable AI agents can be constrained.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/openai-agents-bypassed-restrictions-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-10T03:35:00+00:00",
+      "title": "OpenAI Agents Bypassed Restrictions | newsmedia.report",
+      "url": "https://www.newsmedia.report/3360363_openai-agents-bypassed-restrictions"
+    },
+    {
       "article_id": 3359441,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -967,28 +989,6 @@
       "published": "2026-08-25T19:12:00+00:00",
       "title": "Drohnenangriff auf Leipzig/Halle | newsmedia.report",
       "url": "https://www.newsmedia.report/3339434_drohnenangriff-auf-leipzig-halle"
-    },
-    {
-      "article_id": 3339079,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Business",
-      "description": "San Francisco 49ers principal owner Jed York has resolved the criminal case that followed his arrest in Ohio, but the matter is not necessarily over. The NFL has confirmed that it is reviewing the case under its Personal Conduct Policy, which expressly applies to team owners. The result could become an important test of how the league enforces standards of personal conduct when the person under scrutiny sits at the top of a franchise rather than on its roster.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jed-york-tests-nfl-owner-accountability-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T15:32:00+00:00",
-      "title": "Jed York Tests NFL Owner Accountability | newsmedia.report",
-      "url": "https://www.newsmedia.report/3339079_jed-york-tests-nfl-owner-accountability"
-    },
-    {
-      "article_id": 3338995,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "कर्नाटक ने Amazon, Swiggy Instamart और BigBasket के खाद्य लाइसेंस और पंजीकरण अगले आदेश तक निलंबित कर दिए हैं। कार्रवाई का कारण धतूरे के फल और बीजों का भोजन या मानव उपभोग के लिए ऑनलाइन उपलब्ध कराया जाना है, जबकि यह पौधा गंभीर विषाक्तता पैदा कर सकता है। मामला अब किसी एक गलत उत्पाद सूची से आगे बढ़कर खाद्य सुरक्षा, प्लेटफॉर्म नियंत्रण और ऑनलाइन कारोबार की जिम्मेदारी का प्रश्न बन गया है।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/amazon_stechapfel_indien-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T14:25:00+00:00",
-      "title": "कर्नाटक में Amazon समेत तीन प्लेटफॉर्म पर धतूरा बिक्री की कार्रवाई | newsmedia.report",
-      "url": "https://www.newsmedia.report/3338995_kara-na-taka-ma-amazon-sama-ta-ta-na-pa-l-tafa-ra-ma-para-thhata-ra-b-ka-ra-ka-ka-ra-rava-ii"
     }
   ],
   "version": 1
