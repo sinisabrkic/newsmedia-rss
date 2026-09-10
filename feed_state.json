@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3361565,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "भारत BRICS देशों की राष्ट्रीय डिजिटल मुद्राओं को एक दूसरे से जोड़ने की दिशा में ठोस पहल करना चाहता है। 12 और 13 सितंबर 2026 को नई दिल्ली में होने वाले BRICS शिखर सम्मेलन से पहले यह प्रस्ताव अंतरराष्ट्रीय भुगतान व्यवस्था पर एक नई बहस खोल रहा है। इसका केंद्र किसी साझा BRICS मुद्रा का निर्माण नहीं, बल्कि मौजूदा और विकसित हो रही केंद्रीय बैंक डिजिटल मुद्राओं के बीच तकनीकी संपर्क है। - यदि यह अवधारणा आगे बढ़ती है, तो इसका महत्व केवल तेज और सरल सीमा पार भुगतान तक सीमित नहीं रहेगा। राष्ट्रीय डिजिटल मुद्राओं की पारस्परिक संगतता भविष्य में ऐसी अतिरिक्त वित्तीय संरचना की नींव रख सकती है, जो सदस्य देशों के बीच लेनदेन के लिए नए मार्ग उपलब्ध कराए। फिलहाल हालांकि किसी साझा BRICS भुगतान प्रणाली पर…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/brics-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-10T19:43:00+00:00",
+      "title": "BRICS: भारत डिजिटल मुद्राओं को जोड़ना चाहता है | newsmedia.report",
+      "url": "https://www.newsmedia.report/3361565_brics-bha-rata-da-ja-tal-ma-tha-ra-o-ka-ja-ugdhana-ca-hata-ha"
+    },
+    {
+      "article_id": 3361479,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "„Es hat nichts bedeutet.“ Kaum ein Satz soll nach einem Seitensprung so viel retten. Doch kann ein Mensch tatsächlich Sex haben, ohne sich zu verlieben, ohne emotionale Bindung und ohne dass der andere mehr als ein Moment war? Und selbst wenn die Antwort Ja lautet, macht das den Betrug wirklich kleiner?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fremdgehen_ohne_gefuehle_wahrheit_oder_luege_datingworld-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-10T18:33:00+00:00",
+      "title": "Fremdgehen ohne Gefühle: Wahrheit oder Lüge? / Dating!World / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/dating-world/3361479_fremdgehen-ohne-gefuehle-wahrheit-oder-luege"
+    },
+    {
       "article_id": 3360449,
       "author": "Sinisa Brkic (sb)",
       "category": "Europa",
@@ -967,28 +989,6 @@
       "published": "2026-08-26T09:03:00+00:00",
       "title": "BOEING: HOW A CULTURE OF FAILURE BECAME A SAFETY CRISIS | newsmedia.report",
       "url": "https://www.newsmedia.report/3339981_boeing-how-a-culture-of-failure-became-a-safety-crisis"
-    },
-    {
-      "article_id": 3339481,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Kultur",
-      "description": "Dolly Parton ist im Alter von 80 Jahren in Nashville gestorben. Mit ihr verliert die Musikwelt eine der bedeutendsten Songwriterinnen und unverwechselbarsten Persönlichkeiten der amerikanischen Unterhaltungskultur. Ihr Vermächtnis reicht von „Jolene“ und „9 to 5“ bis zu jenem Lied, das durch Whitney Houston zum Welthit wurde und doch immer Dolly Partons Werk blieb: „I Will Always Love You“.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dolly-parton-ist-tot-eine-stimme-die-weit-ber-die-countrymusik-hinausreichte-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T20:05:00+00:00",
-      "title": "Dolly Parton ist tot: Eine Stimme für die Ewigkeit | newsmedia.report",
-      "url": "https://www.newsmedia.report/3339481_dolly-parton-ist-tot-eine-stimme-fuer-die-ewigkeit"
-    },
-    {
-      "article_id": 3339434,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Am Flughafen Leipzig/Halle sollte nach Erkenntnissen der Bundesanwaltschaft mit einer präparierten Drohne eine Explosion verursacht werden. Drei Wochen später kündigt Bundeskanzler Friedrich Merz an, die Bundesregierung werde sich in Kürze zur Zuordnung des Angriffs äußern. Damit rückt eine Frage ins Zentrum, die weit über das laufende Strafverfahren hinausgeht: Kann Deutschland den Angriff belastbar einem staatlichen Akteur zurechnen, und welche Folgen hätte eine solche Attribution?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drohnenangriff-auf-leipzig-halle-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-25T19:12:00+00:00",
-      "title": "Drohnenangriff auf Leipzig/Halle | newsmedia.report",
-      "url": "https://www.newsmedia.report/3339434_drohnenangriff-auf-leipzig-halle"
     }
   ],
   "version": 1
