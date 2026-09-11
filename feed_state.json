@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3363031,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justice & Law",
+      "description": "Jeffrey Epstein was wealthy, extraordinarily connected and able to enter social circles that most people could never approach. He was also a convicted sex offender whose access to young girls, recruitment structures and relationship with Ghislaine Maxwell are no longer matters of speculation. The harder question begins where the criminal record stops. Why did Epstein construct a world built around money, private properties, influential relationships, controlled access and an extraordinary proximity to billionaires, scientists, politicians and other powerful people?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jeffrey-epstein-what-was-his-goal-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-11T20:21:00+00:00",
+      "title": "Jeffrey Epstein: What Was His Goal? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3363031_jeffrey-epstein-what-was-his-goal"
+    },
+    {
+      "article_id": 3362985,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Die Europäische Zentralbank erhöht erneut die Zinsen. Doch der Beschluss aus Frankfurt könnte weit mehr sein als ein einzelner geldpolitischer Schritt. Banken und Finanzmärkte rechnen bereits mit weiteren Erhöhungen, während der neue Energiepreisschock Inflation, Anleiherenditen und Finanzierungskosten in Europa nach oben treibt. Damit zeichnet sich eine Entwicklung ab, die Haushalte, Unternehmen, Immobilienmärkte und Staaten gleichermaßen treffen könnte. Europa droht in eine neue Hochzinsphase einzutreten, obwohl die wirtschaftlichen Folgen der vergangenen Straffungsrunde noch längst nicht vollständig verarbeitet sind.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ezb-europas-neue-hochzinsphase-beginnt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-11T19:21:00+00:00",
+      "title": "EZB: Europas neue Hochzinsphase beginnt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3362985_ezb-europas-neue-hochzinsphase-beginnt"
+    },
+    {
       "article_id": 3362867,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -967,28 +989,6 @@
       "published": "2026-08-26T14:45:00+00:00",
       "title": "Nepal-Tibet Flood: Hundreds Missing | newsmedia.report",
       "url": "https://www.newsmedia.report/3340483_nepal-tibet-flood-hundreds-missing"
-    },
-    {
-      "article_id": 3340445,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "The DWP has begun reviewing selected Pension Credit claims, with some pensioners being asked to provide updated financial information, including bank statements. The checks can affect future payments, but being selected for review does not mean a claimant is suspected of fraud.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dwp-pension-credit-reviews-explained-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-26T14:29:00+00:00",
-      "title": "UK: DWP Pension Credit Reviews Explained | newsmedia.report",
-      "url": "https://www.newsmedia.report/3340445_uk-dwp-pension-credit-reviews-explained"
-    },
-    {
-      "article_id": 3340202,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "Nvidia reports its second quarter results on Wednesday with expectations at levels that would have seemed extraordinary only a short time ago. The immediate question is whether the chipmaker can beat another ambitious forecast. The larger one is whether the vast investment cycle behind artificial intelligence still has enough momentum to support what comes next.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nvidia-earnings-the-ai-boom-s-next-test-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-26T12:07:00+00:00",
-      "title": "Nvidia Earnings: The AI Boom’s Next Test | newsmedia.report",
-      "url": "https://www.newsmedia.report/3340202_nvidia-earnings-the-ai-boom-s-next-test"
     }
   ],
   "version": 1
