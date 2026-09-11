@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3362585,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "India has moved beyond the experimental stage of tokenized finance. With the launch of Demat 2.0, corporate bonds can now be issued as digital tokens and settled using central bank digital money, bringing securities ownership, distributed ledger technology and the Reserve Bank of India’s wholesale digital rupee into a single regulated infrastructure. The significance goes well beyond another blockchain pilot. India is testing whether the architecture of capital markets itself can be modernized without abandoning regulated depositories, established ownership rights or the institutional framework on which traditional financial markets depend.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-launches-demat-2-0-with-digital-rupee-settlement-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-11T14:16:00+00:00",
+      "title": "India Launches Demat 2.0 With Digital Rupee Settlement | newsmedia.report",
+      "url": "https://www.newsmedia.report/3362585_india-launches-demat-2-0-with-digital-rupee-settlement"
+    },
+    {
       "article_id": 3362244,
       "author": "Sinisa Brkic (sb)",
       "category": "Finance",
@@ -978,17 +989,6 @@
       "published": "2026-08-26T12:07:00+00:00",
       "title": "Nvidia Earnings: The AI Boom’s Next Test | newsmedia.report",
       "url": "https://www.newsmedia.report/3340202_nvidia-earnings-the-ai-boom-s-next-test"
-    },
-    {
-      "article_id": 3340101,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Handel & E Commerce",
-      "description": "Produkte für wenige Euro, Rabatte im Sekundentakt und ein Sortiment, das beinahe grenzenlos wirkt. TEMU hat den extrem niedrigen Preis zum Prinzip gemacht und sich innerhalb weniger Jahre tief in den europäischen Onlinehandel geschoben. Doch hinter dem Billigversprechen steht weit mehr als ein günstiger Marktplatz. Es ist ein Geschäftsmodell, das Produktion, Plattformsteuerung, Werbung und globale Logistik verbindet und Europa inzwischen auch regulatorisch herausfordert.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/temu-das-gesch-ft-mit-dem-billigpreis-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-26T10:50:00+00:00",
-      "title": "TEMU: Das Geschäft mit dem Billigpreis | newsmedia.report",
-      "url": "https://www.newsmedia.report/3340101_temu-das-geschaeft-mit-dem-billigpreis"
     }
   ],
   "version": 1
