@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3362244,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "The Middle East energy shock is no longer moving only oil prices and stock markets. It is beginning to reshape expectations for US monetary policy, with financial markets now assigning roughly a 72 percent probability to a Federal Reserve rate increase next week. The shift turns an energy supply crisis into a broader monetary policy risk at a time when inflation pressures and borrowing costs are already rising.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/oil-shock-revives-fed-rate-hike-bets-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-11T10:06:00+00:00",
+      "title": "Oil Shock Revives Fed Rate Hike Bets | newsmedia.report",
+      "url": "https://www.newsmedia.report/3362244_oil-shock-revives-fed-rate-hike-bets"
+    },
+    {
       "article_id": 3361903,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -978,17 +989,6 @@
       "published": "2026-08-26T10:50:00+00:00",
       "title": "TEMU: Das Geschäft mit dem Billigpreis | newsmedia.report",
       "url": "https://www.newsmedia.report/3340101_temu-das-geschaeft-mit-dem-billigpreis"
-    },
-    {
-      "article_id": 3340087,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Economics",
-      "description": "A new connection into Delhi and fresh progress in western India are pushing the Delhi-Mumbai Expressway into a more consequential phase. The highway is not yet a fully continuous Delhi-to-Mumbai route, but its expanding network of operational sections is beginning to change the economics of freight, industrial development and investment across western and central India.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/delhi-mumbai-expressway-economic-corridor-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-26T10:30:00+00:00",
-      "title": "Delhi-Mumbai Expressway Becomes an Economic Corridor | newsmedia.report",
-      "url": "https://www.newsmedia.report/3340087_delhi-mumbai-expressway-becomes-an-economic-corridor"
     }
   ],
   "version": 1
