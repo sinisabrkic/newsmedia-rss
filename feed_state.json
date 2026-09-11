@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3361903,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Wenn Eltern ihre Kinder nicht mehr ausreichend schützen können, beginnt eine der schwierigsten Aufgaben des Staates. Kinder und Jugendhilfe in Österreich und Jugendämter in Deutschland müssen Gefahren erkennen, Familien unterstützen und im äußersten Fall Minderjährige aus ihrer bisherigen Umgebung nehmen. Doch mit diesem Eingriff endet die staatliche Verantwortung nicht. Sie beginnt in einer neuen und besonders sensiblen Form.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kindeswohl-wenn-der-staat-die-familie-ersetzt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-11T06:01:00+00:00",
+      "title": "Kindeswohl: Wenn der Staat die Familie ersetzt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3361903_kindeswohl-wenn-der-staat-die-familie-ersetzt"
+    },
+    {
+      "article_id": 3361840,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Digitalisierung",
+      "description": "Rubrik: Digitalisierung Format: Spezialbericht Autor: Sinisa Brkic (sb)",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/das-social-media-verbot-schutz-oder-kontrolle-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-11T04:06:00+00:00",
+      "title": "Das Social-Media-Verbot: Schutz oder Kontrolle? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3361840_das-social-media-verbot-schutz-oder-kontrolle"
+    },
+    {
+      "article_id": 3361822,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Der globale Wettlauf um künstliche Intelligenz verschlingt Summen, die selbst für die größten Technologiekonzerne zunehmend nicht mehr allein aus laufenden Cashflows gedeckt werden. Die Bank für Internationalen Zahlungsausgleich warnt nun vor einer Entwicklung, die weit über hohe Aktienbewertungen hinausgeht: Schulden, Private Credit und schwer durchschaubare Finanzierungsverflechtungen werden zu einem wachsenden Teil des AI Booms. Bleiben die erwarteten Erträge hinter den Erwartungen zurück, könnte aus dem technologischen Investitionsrennen ein Problem für Finanzmärkte und Realwirtschaft werden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ai-boom-auf-kredit-bis-warnt-vor-finanzrisiken-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-11T03:15:00+00:00",
+      "title": "AI Boom auf Kredit: BIS warnt vor Finanzrisiken | newsmedia.report",
+      "url": "https://www.newsmedia.report/3361822_ai-boom-auf-kredit-bis-warnt-vor-finanzrisiken"
+    },
+    {
       "article_id": 3361565,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -956,39 +989,6 @@
       "published": "2026-08-26T10:30:00+00:00",
       "title": "Delhi-Mumbai Expressway Becomes an Economic Corridor | newsmedia.report",
       "url": "https://www.newsmedia.report/3340087_delhi-mumbai-expressway-becomes-an-economic-corridor"
-    },
-    {
-      "article_id": 3340059,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "South Korea is approaching a record year for traffic fines, but the more consequential change is taking place far beyond police cameras. Thousands of drivers now submit dashcam and smartphone footage of other motorists every day, turning ordinary citizens into an increasingly important part of traffic enforcement. What appears at first to be a question of road discipline is becoming a broader debate about surveillance, privacy and the changing boundary between citizen and state.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-s-roads-under-citizen-watch-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-26T09:59:00+00:00",
-      "title": "South Korea’s Roads Under Citizen Watch | newsmedia.report",
-      "url": "https://www.newsmedia.report/3340059_south-korea-s-roads-under-citizen-watch"
-    },
-    {
-      "article_id": 3340027,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Das Licht erlischt, das WLAN verschwindet, Aufzüge stehen und aus alltäglichen Selbstverständlichkeiten werden innerhalb kurzer Zeit offene Fragen. Ein großflächiger Stromausfall ist kein Stoff für Katastrophenfantasien, sondern ein Szenario, auf das europäische Behörden inzwischen ausdrücklich mit Empfehlungen zur privaten Eigenvorsorge reagieren. Entscheidend ist dabei nicht, ob ein Haushalt Angst vor einem Blackout hat. Entscheidend ist, ob er weiß, was zu tun ist, wenn Strom, Kommunikation und gewohnte Versorgung tatsächlich ausfallen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackout-vorsorge-spezialbericht-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-26T09:30:00+00:00",
-      "title": "Der Blackout beginnt lange vor der Panik | newsmedia.report",
-      "url": "https://www.newsmedia.report/3340027_der-blackout-beginnt-lange-vor-der-panik"
-    },
-    {
-      "article_id": 3339981,
-      "author": "newsmedia.report Editorial Desk",
-      "category": "",
-      "description": "Two 737 MAX crashes killed 346 people. Five years after the aircraft returned to service, a door plug blew out of a nearly new MAX 9 and exposed another chain of production and oversight failures. Boeing has since changed leaders, slowed factories and promised a safety reset. Yet federal oversight remains unusually intense. This report traces the deeper history: the McDonnell Douglas merger, financial and production pressures, MCAS, delegated certification, the crashes, criminal proceedings, Alaska Airlines Flight 1282, whistleblower warnings, supplier problems and the question Boeing still has to answer — has the system changed, or only the response to each crisis?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/boeing_how_a_culture_of_failure_became_a_safety_crisis_investigations-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-26T09:03:00+00:00",
-      "title": "BOEING: HOW A CULTURE OF FAILURE BECAME A SAFETY CRISIS | newsmedia.report",
-      "url": "https://www.newsmedia.report/3339981_boeing-how-a-culture-of-failure-became-a-safety-crisis"
     }
   ],
   "version": 1
