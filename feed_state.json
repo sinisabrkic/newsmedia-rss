@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3363983,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "Wall Street is not behaving like a market already on the verge of collapse. Yet the combination of Treasury yields near 5 percent, oil above $100, renewed inflation pressure and a Federal Reserve preparing for a critical policy decision has created one of the most delicate market setups of the year. The coming weeks will not necessarily produce a crash. They will, however, reveal whether the resilience of US equities can survive a significantly higher cost of capital, or whether several pressure points are beginning to converge at the same time.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-next-market-break-could-it-come-in-the-weeks-ahead-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-12T17:31:00+00:00",
+      "title": "The Next Market Break: Could It Come in the Weeks Ahead? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3363983_the-next-market-break-could-it-come-in-the-weeks-ahead"
+    },
+    {
       "article_id": 3363330,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-08-27T11:53:00+00:00",
       "title": "Britain Legalises Plug In Solar | newsmedia.report",
       "url": "https://www.newsmedia.report/3341621_britain-legalises-plug-in-solar"
-    },
-    {
-      "article_id": 3341572,
-      "author": "Sinisa Brkic",
-      "category": "INVESTIGATIONS",
-      "description": "In Kronstorf entsteht Googles erstes Rechenzentrum in Österreich. Was als Milliardeninvestition, Standortsignal und Infrastruktur für künstliche Intelligenz gefeiert wird, ist zugleich ein Testfall für Stromnetze, Wasserrecht, Flächenverbrauch, Arbeitsstandards und Umweltprüfung. Die erste Ausbaustufe ist mit bis zu 150 Megawatt Anschlussleistung geplant, der mögliche Vollausbau mit bis zu 500 Megawatt. Im theoretischen Maximalfall würde der Campus damit Strommengen benötigen, die in einer Größenordnung von fast einem Drittel des bisherigen oberösterreichischen Jahresverbrauchs liegen. Dieser Bericht untersucht, was tatsächlich genehmigt ist, was nur maximal möglich wäre, welche…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/googles_milliardenprojekt_was_oesterreich_fuer_den_ki_boom_bezahlt_investigations-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-27T11:21:00+00:00",
-      "title": "GOOGLES MILLIARDENPROJEKT IN ÖSTERREICH | newsmedia.report",
-      "url": "https://www.newsmedia.report/3341572_googles-milliardenprojekt-in-oesterreich"
     }
   ],
   "version": 1
