@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3364053,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energy",
+      "description": "Saudi Arabia has temporarily shut down its strategic East West Pipeline after a drone attack struck infrastructure along the route, putting one of the most important alternatives to the Strait of Hormuz under pressure. The pipeline had become a critical route for millions of barrels of crude each day as the conflict severely disrupted Gulf shipping. At the same time, Houthi forces have strengthened their position around Bab el Mandeb, raising the risk that two vital energy corridors could come under serious pressure at once.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/global-energy-crisis-risk-rises-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-12T19:11:00+00:00",
+      "title": "Global Energy Crisis Risk Rises | newsmedia.report",
+      "url": "https://www.newsmedia.report/3364053_global-energy-crisis-risk-rises"
+    },
+    {
       "article_id": 3363983,
       "author": "Sinisa Brkic (sb)",
       "category": "Finance",
@@ -978,17 +989,6 @@
       "published": "2026-08-27T13:37:00+00:00",
       "title": "Trump macht das Stromnetz zum Sicherheitsfall | newsmedia.report",
       "url": "https://www.newsmedia.report/3341769_trump-macht-das-stromnetz-zum-sicherheitsfall"
-    },
-    {
-      "article_id": 3341621,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energy",
-      "description": "From 27 August 2026, households across England, Scotland and Wales can legally use approved plug in solar systems designed to feed electricity directly into the home. The change opens small scale solar generation to renters, flat dwellers and households for whom conventional rooftop installations have been too expensive or impractical. Britain is entering a market Germany has already pushed into the mainstream, but the crucial question is whether the economics will prove convincing.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/britain-legalises-plug-in-solar-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-27T11:53:00+00:00",
-      "title": "Britain Legalises Plug In Solar | newsmedia.report",
-      "url": "https://www.newsmedia.report/3341621_britain-legalises-plug-in-solar"
     }
   ],
   "version": 1
