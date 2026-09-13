@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3365174,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Donald Trump fordert die Ukraine auf, Angriffe auf russische Raffinerien und Diesel Infrastruktur einzustellen. Hinter der Intervention steht ein größerer Interessenkonflikt: Kiew will Russlands Kriegswirtschaft schwächen, während Washington mit einer weltweiten Treibstoffknappheit und Rekordpreisen für Diesel in den USA konfrontiert ist. Damit gewinnt die Energiekrise direkten Einfluss auf die politische Bewertung ukrainischer Kriegsziele.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-bremst-kiews-raffineriekrieg-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-13T17:35:00+00:00",
+      "title": "Trump bremst Kiews Raffineriekrieg | newsmedia.report",
+      "url": "https://www.newsmedia.report/3365174_trump-bremst-kiews-raffineriekrieg"
+    },
+    {
       "article_id": 3364516,
       "author": "Sinisa Brkic (sb)",
       "category": "Economy",
@@ -978,17 +989,6 @@
       "published": "2026-08-28T05:55:00+00:00",
       "title": "Merz: Welche Kürzungen jetzt kommen | newsmedia.report",
       "url": "https://www.newsmedia.report/3342550_merz-welche-kuerzungen-jetzt-kommen"
-    },
-    {
-      "article_id": 3341938,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Das erste Date beginnt lange bevor zwei Menschen am selben Tisch sitzen. Schon die Art der Einladung, die Wahl des Ortes, die Erwartung an den Abend und die Frage, wer eigentlich wen beeindrucken muss, verändern die Atmosphäre. Gleichzeitig lässt sich aus keinem Profil, keiner Checkliste und keinem perfekten Chat zuverlässig vorhersagen, ob zwischen zwei konkreten Menschen echte Anziehung entsteht. Genau deshalb sollte ein erstes Date nicht als Prüfung verstanden werden, sondern als geschützter Raum für eine einzige Frage: Fühlen wir uns miteinander gut genug, um uns noch einmal sehen zu wollen?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/das_erste_date_so_gelingt_es_wirklich_datingworld-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-27T15:40:00+00:00",
-      "title": "Das erste Date: So gelingt es wirklich / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3341938_das-erste-date-so-gelingt-es-wirklich"
     }
   ],
   "version": 1
