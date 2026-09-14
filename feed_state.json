@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3365832,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energie",
+      "description": "Die Blockade der Straße von Hormus hat den globalen Ölmarkt bereits schwer belastet. Nun ist mit Saudi-Arabiens East-West Pipeline ausgerechnet jene Infrastruktur ausgefallen, die einen Teil der Exporte am Persischen Golf vorbeiführen sollte. Rund vier Millionen Barrel täglich wurden zuletzt über die Leitung zum Rotmeerhafen Yanbu transportiert. Bleibt sie länger außer Betrieb, könnte damit ein Volumen gefährdet sein, das etwa vier Prozent des weltweiten Ölangebots entspricht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/saudi-arabiens-l-umgehung-f-llt-aus-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-14T05:17:00+00:00",
+      "title": "Saudi-Arabiens Öl-Umgehung fällt aus | newsmedia.report",
+      "url": "https://www.newsmedia.report/3365832_saudi-arabiens-oel-umgehung-faellt-aus"
+    },
+    {
       "article_id": 3365174,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-28T07:44:00+00:00",
       "title": "भारत लाखों स्ट्रीट वेंडरों को डिजिटल बैंकिंग व्यवस्था में ला रहा है | newsmedia.report",
       "url": "https://www.newsmedia.report/3342636_bha-rata-l-kha-sa-ta-ra-ta-va-dara-ka-da-ja-tal-b-ka-ga-va-yavasa-tha-ma-l-raha-ha"
-    },
-    {
-      "article_id": 3342550,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Der heftige Streit zwischen Bundeskanzler Friedrich Merz und einer Kinderärztin bei RTL hat die Gesundheitspolitik der Bundesregierung schlagartig in den Mittelpunkt gerückt. Hinter den emotionalen Vorwürfen steht eine Reform mit erheblichen Folgen: Ab 2027 steigen Zuzahlungen, Zuschüsse werden reduziert und Vergütungen im Gesundheitswesen begrenzt. Für Patienten, Familien, Ärzte und Kliniken beginnt damit eine Phase, deren Auswirkungen weit über den Fernsehstreit hinausreichen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/merz-welche-k-rzungen-jetzt-kommen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-28T05:55:00+00:00",
-      "title": "Merz: Welche Kürzungen jetzt kommen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3342550_merz-welche-kuerzungen-jetzt-kommen"
     }
   ],
   "version": 1
