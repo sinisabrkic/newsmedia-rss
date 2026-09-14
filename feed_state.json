@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3366627,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "Only five days ago, the dominant expectation was that the Federal Reserve would leave interest rates unchanged not only in September, but through the end of 2026. That consensus has collapsed with remarkable speed. Persistent inflation, oil above $100 a barrel and mounting pressure in bond markets have transformed Wednesday’s Federal Reserve decision into a potential return to monetary tightening. The change is larger than the usual adjustment in probabilities before a central bank meeting. An institution that appeared prepared to wait is now widely expected to raise rates for the first time in more than two years, giving Federal Reserve Chairman Kevin Warsh the first major monetary…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-fed-is-poised-to-reverse-course-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-14T14:55:00+00:00",
+      "title": "The Fed Is Poised to Reverse Course | newsmedia.report",
+      "url": "https://www.newsmedia.report/3366627_the-fed-is-poised-to-reverse-course"
+    },
+    {
       "article_id": 3365832,
       "author": "Sinisa Brkic (sb)",
       "category": "Energie",
@@ -978,17 +989,6 @@
       "published": "2026-08-28T08:04:00+00:00",
       "title": "Depot vor dem Neustart: Welche Filialen bleiben? | newsmedia.report",
       "url": "https://www.newsmedia.report/3342655_depot-vor-dem-neustart-welche-filialen-bleiben"
-    },
-    {
-      "article_id": 3342636,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "भारत की पीएम स्वनिधि योजना अब केवल छोटे कार्यशील पूंजी ऋण देने का कार्यक्रम नहीं रह गई है। इसके नए चरण में बिना जमानत के ऋण, UPI भुगतान, RuPay क्रेडिट कार्ड, सामाजिक सुरक्षा और डिजिटल ऋण प्रक्रिया को एक साथ जोड़ा जा रहा है। आधिकारिक आंकड़े इसकी व्यापक पहुंच दिखाते हैं, लेकिन असली सवाल यह है कि क्या यह व्यवस्था भारत की विशाल अनौपचारिक अर्थव्यवस्था के लाखों छोटे कारोबारियों को स्थायी रूप से औपचारिक वित्तीय प्रणाली का हिस्सा बना सकती है।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pm-svanidhi-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-28T07:44:00+00:00",
-      "title": "भारत लाखों स्ट्रीट वेंडरों को डिजिटल बैंकिंग व्यवस्था में ला रहा है | newsmedia.report",
-      "url": "https://www.newsmedia.report/3342636_bha-rata-l-kha-sa-ta-ra-ta-va-dara-ka-da-ja-tal-b-ka-ga-va-yavasa-tha-ma-l-raha-ha"
     }
   ],
   "version": 1
