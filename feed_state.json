@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3368002,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "In Hessen ist erstmals ein kabinenloser autonomer Lkw im regulären Warenfluss auf einer öffentlichen deutschen Straße unterwegs. Lidl und das schwedische Technologieunternehmen Einride setzen das vollelektrische Fahrzeug in Edermünde bei Kassel zur Filialbelieferung ein. Im Lkw selbst befinden sich weder Fahrer noch Sicherheitsoperator.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-premiere-lkw-ohne-fahrer-im-lieferbetrieb-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-15T12:41:00+00:00",
+      "title": "Deutschland-Premiere: Lkw ohne Fahrer im Lieferbetrieb | newsmedia.report",
+      "url": "https://www.newsmedia.report/3368002_deutschland-premiere-lkw-ohne-fahrer-im-lieferbetrieb"
+    },
+    {
+      "article_id": 3367811,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energie",
+      "description": "Die Straße von Hormus ist nur noch eingeschränkt passierbar, Saudi-Arabiens wichtigste Umgehungspipeline zum Roten Meer steht nach Angriffen still und am Bab al Mandab wächst das militärische Risiko. Der globale Ölmarkt wird damit gleichzeitig an mehreren neuralgischen Punkten belastet. Entscheidend ist nicht eine einzelne blockierte Route, sondern der Verlust jener Ausweichmöglichkeiten, die das internationale Energiesystem bislang widerstandsfähig gemacht haben.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/lkrise-2026-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-15T11:00:00+00:00",
+      "title": "Ölkrise 2026: Der Weltmarkt wird verwundbar | newsmedia.report",
+      "url": "https://www.newsmedia.report/3367811_oelkrise-2026-der-weltmarkt-wird-verwundbar"
+    },
+    {
       "article_id": 3367628,
       "author": "Sinisa Brkic (sb)",
       "category": "Security",
@@ -967,28 +989,6 @@
       "published": "2026-08-28T10:44:00+00:00",
       "title": "China’s Eswatini Warning and the Taiwan Question | newsmedia.report",
       "url": "https://www.newsmedia.report/3342856_china-s-eswatini-warning-and-the-taiwan-question"
-    },
-    {
-      "article_id": 3342799,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Bildung",
-      "description": "Mit Beginn des Schuljahres 2026/27 wird Österreichs neues Kopftuchverbot erstmals im regulären Schulbetrieb angewendet. Das Gesetz ist beschlossen, der Umgang mit Verstößen geregelt, zugleich gibt es öffentlich bekannt gewordene Ankündigungen, die Vorschrift nicht einzuhalten. Ob daraus wenige Einzelfälle oder größere Konflikte entstehen, ist offen. Fest steht jedoch: Schulen, Eltern und Behörden stehen vor einem gesellschaftlich und rechtlich hochsensiblen Praxistest.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kopftuchverbot-szenarien-zum-schulstart-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-28T10:12:00+00:00",
-      "title": "Kopftuchverbot: Diese Szenarien drohen zum Schulstart | newsmedia.report",
-      "url": "https://www.newsmedia.report/3342799_kopftuchverbot-diese-szenarien-drohen-zum-schulstart"
-    },
-    {
-      "article_id": 3342716,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La présidentielle française entre dans sa phase la plus exigeante : celle des comptes. Avec une dette publique proche de 117 % du PIB, une économie qui a stagné au deuxième trimestre et des marchés devenus plus nerveux, les candidats ne peuvent plus se contenter d’annoncer des baisses d’impôts, des réformes sociales ou de nouvelles dépenses. Marine Le Pen, Jean Luc Mélenchon, Édouard Philippe, Marine Tondelier et leurs concurrents proposent désormais des trajectoires économiques profondément différentes. Leur véritable test commence maintenant : démontrer qu’elles peuvent être financées.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pr-sidentielle-2027-la-facture-des-promesses-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-28T08:55:00+00:00",
-      "title": "Présidentielle 2027: la facture des promesses | newsmedia.report",
-      "url": "https://www.newsmedia.report/3342716_presidentielle-2027-la-facture-des-promesses"
     }
   ],
   "version": 1
