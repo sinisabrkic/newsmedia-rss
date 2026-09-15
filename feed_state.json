@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3367628,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "NATO fighter jets have shot down a drone that entered Lithuanian airspace overnight, marking the first reported interception of its kind over the Baltic country. Lithuanian authorities say the aircraft most likely entered from Belarus, but its origin, operator and purpose have not been established. Investigators are examining the wreckage as officials seek to determine whether the incursion was accidental, deliberate or connected to military activity in the region.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nato-shoots-down-drone-over-lithuania-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-15T08:44:00+00:00",
+      "title": "NATO Shoots Down Drone Over Lithuania | newsmedia.report",
+      "url": "https://www.newsmedia.report/3367628_nato-shoots-down-drone-over-lithuania"
+    },
+    {
+      "article_id": 3367568,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Drei Euro für einen Liter Kraftstoff galten lange als theoretische Schmerzgrenze. Nun warnt der deutsche Tankstellen Interessenverband vor genau dieser Größenordnung, während auch Österreichs Energiehandel die Drei Euro Marke bereits öffentlich ins Spiel gebracht hat. Noch ist sie weder in Deutschland noch in Österreich der Normalfall. Doch steigende Ölpreise, geopolitische Risiken und zusätzliche Kosten haben aus einer abstrakten Zahl ein ernstzunehmendes Szenario gemacht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drei-euro-f-r-sprit-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-15T08:05:00+00:00",
+      "title": "Drei Euro für Sprit: Kein Extremszenario mehr | newsmedia.report",
+      "url": "https://www.newsmedia.report/3367568_drei-euro-fuer-sprit-kein-extremszenario-mehr"
+    },
+    {
       "article_id": 3366627,
       "author": "Sinisa Brkic (sb)",
       "category": "Finance",
@@ -967,28 +989,6 @@
       "published": "2026-08-28T08:55:00+00:00",
       "title": "Présidentielle 2027: la facture des promesses | newsmedia.report",
       "url": "https://www.newsmedia.report/3342716_presidentielle-2027-la-facture-des-promesses"
-    },
-    {
-      "article_id": 3342686,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Im Thüringer Landtag entscheidet sich an diesem Freitag erneut eine Machtfrage, deren politisches Gewicht weit über die rechnerischen Erfolgschancen hinausreicht. AfD Fraktionschef Björn Höcke will Ministerpräsident Mario Voigt ablösen, benötigt dafür aber 45 Stimmen und damit deutlich mehr als die 32 Mandate seiner eigenen Fraktion. Besonders genau wird deshalb darauf geschaut, ob Höcke Unterstützung außerhalb der AfD erhält.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/h-cke-gegen-voigt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-28T08:39:00+00:00",
-      "title": "Höcke gegen Voigt: Machtfrage in Thüringen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3342686_hoecke-gegen-voigt-machtfrage-in-thueringen"
-    },
-    {
-      "article_id": 3342655,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Deutschland",
-      "description": "Die insolvente GDC Deutschland GmbH stellt ihren Geschäftsbetrieb zum 30. September 2026 ein. Rund 730 Beschäftigte verlieren ihre bisherigen Arbeitsplätze, sämtliche Mietverträge werden gekündigt. Doch Depot soll als Marke weiterleben. Für Kunden entscheidet sich nun, welche Filialen tatsächlich erhalten bleiben und was mit Gutscheinen, Onlinebestellungen und den verbliebenen Standorten geschieht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/depot-vor-dem-neustart-welche-filialen-bleiben-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-28T08:04:00+00:00",
-      "title": "Depot vor dem Neustart: Welche Filialen bleiben? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3342655_depot-vor-dem-neustart-welche-filialen-bleiben"
     }
   ],
   "version": 1
