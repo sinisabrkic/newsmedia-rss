@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3369242,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "उत्तरी अरब सागर में भारतीय और पाकिस्तानी नौसेना की इकाइयों के बीच हुई टक्कर के बाद दोनों देशों के बीच नया कूटनीतिक तनाव पैदा हो गया है। घटना 15 सितंबर 2026 को अंतरराष्ट्रीय जलक्षेत्र में हुई और किसी बड़े नुकसान की सूचना नहीं है। भारत ने इसके एक दिन बाद नई दिल्ली में पाकिस्तान के शीर्ष राजनयिक को तलब कर औपचारिक विरोध दर्ज कराया। यह घटना मई 2025 में दोनों परमाणु शक्ति संपन्न पड़ोसी देशों के बीच चार दिनों तक चले सैन्य टकराव के बाद विशेष संवेदनशीलता रखती है। फिलहाल ऐसा कोई संकेत नहीं है कि समुद्र में हुई यह घटना किसी नए सैन्य संघर्ष में बदल गई है।",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/see_indien_pakistan-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-16T09:30:00+00:00",
+      "title": "भारत और पाकिस्तान के नौसैनिक पोत अरब सागर में टकराए | newsmedia.report",
+      "url": "https://www.newsmedia.report/3369242_bha-rata-oura-pa-ka-sa-ta-na-ka-na-sa-na-ka-pa-ta-arab-sa-gara-ma-takara-e"
+    },
+    {
       "article_id": 3368002,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -978,17 +989,6 @@
       "published": "2026-08-28T14:00:00+00:00",
       "title": "GTA VI macht Netflix zur Gaming Bühne | newsmedia.report",
       "url": "https://www.newsmedia.report/3343091_gta-vi-macht-netflix-zur-gaming-buehne"
-    },
-    {
-      "article_id": 3342856,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "China has urged its citizens to leave Eswatini and advised others not to travel there, citing telecommunications fraud, illegal online gambling and serious security risks. The warning has a documented criminal backdrop, but its political significance reaches much further. Eswatini is Taiwan’s only remaining diplomatic ally in Africa, placing an unusually severe Chinese security advisory directly inside one of Beijing’s most persistent diplomatic campaigns.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/china-s-eswatini-warning-and-the-taiwan-question-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-28T10:44:00+00:00",
-      "title": "China’s Eswatini Warning and the Taiwan Question | newsmedia.report",
-      "url": "https://www.newsmedia.report/3342856_china-s-eswatini-warning-and-the-taiwan-question"
     }
   ],
   "version": 1
