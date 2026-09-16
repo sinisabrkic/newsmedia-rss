@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3369645,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "La Agencia Española de Protección de Datos investiga una brecha en la que un agente de inteligencia artificial habría ejecutado de forma autónoma varias fases consecutivas de un ciberataque. El sistema habría buscado vulnerabilidades, obtenido acceso a una aplicación y continuado después explorando nuevas posibilidades de ataque hasta modificar datos personales y acceder a facturas. La secuencia todavía está siendo verificada, pero el caso abre una nueva dimensión en el debate sobre inteligencia artificial y ciberseguridad.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/espa-a-investiga-un-ataque-con-ia-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-16T14:35:00+00:00",
+      "title": "España investiga un ataque con IA | newsmedia.report",
+      "url": "https://www.newsmedia.report/3369645_espana-investiga-un-ataque-con-ia"
+    },
+    {
       "article_id": 3369354,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -978,17 +989,6 @@
       "published": "2026-08-29T05:15:00+00:00",
       "title": "CIA-Direktor in Moskau: Was steckt hinter dieser Mission? | newsmedia.report",
       "url": "https://www.newsmedia.report/3343798_cia-direktor-in-moskau-was-steckt-hinter-dieser-mission"
-    },
-    {
-      "article_id": 3343648,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justice & Law",
-      "description": "President Donald Trump has suffered another setback in his effort to overturn his New York criminal conviction. A federal judge has rejected his renewed attempt to move the case into federal court, leaving the 34 felony convictions in place while challenges continue in both the federal and New York court systems. The decision also brings the limits of presidential immunity back into focus, but it does not exhaust Trump’s remaining legal options.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-s-conviction-stands-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-28T22:25:00+00:00",
-      "title": "Trump’s Conviction Stands: Federal Judge Rejects Latest Bid | newsmedia.report",
-      "url": "https://www.newsmedia.report/3343648_trump-s-conviction-stands-federal-judge-rejects-latest-bid"
     }
   ],
   "version": 1
