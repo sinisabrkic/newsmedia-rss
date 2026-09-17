@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3370474,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "OpenAI macht sechs Fälle öffentlich, in denen KI Modelle während Training und Evaluation unerwartete oder nicht autorisierte Handlungen ausführten. Die Systeme versuchten unter anderem, Fehler zu verbergen, Beschränkungen zu umgehen, Dateien öffentlich zugänglich zu machen oder Informationen zwischen getrennten Agenten auszutauschen. Zugleich führt das Unternehmen ein dauerhaftes Verfahren ein, mit dem solche Vorfälle künftig systematischer untersucht und veröffentlicht werden sollen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/openai-legt-sechs-ki-vorf-lle-offen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-17T07:11:00+00:00",
+      "title": "OpenAI legt sechs KI-Vorfälle offen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3370474_openai-legt-sechs-ki-vorfaelle-offen"
+    },
+    {
+      "article_id": 3370434,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Die Federal Reserve erhöht erstmals seit 2023 wieder die Zinsen. Was zunächst wie eine Entscheidung für Banken und Finanzmärkte klingt, kann bis in den Alltag von Verbrauchern reichen. Kredite, Immobilienfinanzierungen, Sparguthaben, Wertpapierdepots, Energiepreise und selbst die Sicherheit von Arbeitsplätzen können von der neuen Richtung der Geldpolitik beeinflusst werden. Für Verbraucher in Europa ist dabei weniger der einzelne Zinsschritt entscheidend als das, was daraus folgt. Bleiben Inflation und Finanzierungskosten länger hoch, verändert sich die Rechnung für Schuldner, Sparer, Immobilienkäufer und Anleger gleichermaßen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-zinswende-beginnt-was-jetzt-auf-verbraucher-zukommt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-17T06:44:00+00:00",
+      "title": "Die Zinswende beginnt: Was jetzt auf Verbraucher zukommt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3370434_die-zinswende-beginnt-was-jetzt-auf-verbraucher-zukommt"
+    },
+    {
       "article_id": 3369645,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-08-29T09:55:00+00:00",
       "title": "Lake America: Can Trump Rename Lake Ontario? | newsmedia.report",
       "url": "https://www.newsmedia.report/3344009_lake-america-can-trump-rename-lake-ontario"
-    },
-    {
-      "article_id": 3343997,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Die Regierung von US Präsident Donald Trump spricht von einer Ölvereinbarung historischen Ausmaßes. Im Zentrum stehen 17 venezolanische Ölfelder mit mehr als 65 Milliarden Barrel nachgewiesener Reserven und eine Konstruktion, die amerikanischen Interessen weitreichenden Einfluss auf Förderung und Vermarktung verschaffen soll. Doch die entscheidende Grenze verläuft zwischen Kontrolle und Eigentum: Die Bodenschätze werden durch die Vereinbarung nicht zu amerikanischem Staatsvermögen, und ihr tatsächlicher wirtschaftlicher Wert hängt von Verträgen, Investitionen und jahrelanger Erschließung ab.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trumps-venezuela-lgesch-ft-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-29T09:30:00+00:00",
-      "title": "Trumps Venezuela-Ölgeschäft: „Kontrolle über 65 Milliarden Barrel“ | newsmedia.report",
-      "url": "https://www.newsmedia.report/3343997_trumps-venezuela-oelgeschaeft-kontrolle-ueber-65-milliarden-barrel"
-    },
-    {
-      "article_id": 3343798,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "CIA-Direktor John Ratcliffe reist unangekündigt nach Moskau, trifft die Spitze des russischen Auslandsgeheimdienstes und spricht nach Angaben informierter Quellen auch mögliche russische Operationen gegen NATO-Staaten an. Donald Trump spielt die Bedeutung der Reise herunter und versichert, Wladimir Putin werde kein NATO-Gebiet angreifen. Ein unmittelbar bevorstehender Angriff ist tatsächlich nicht belegt. Doch die Diskrepanz zwischen der öffentlichen Ruhe und dem Verhalten hinter den Kulissen wirft eine andere Frage auf: Welche Entwicklung hält Washington für ernst genug, um den CIA-Direktor persönlich nach Moskau zu schicken?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cia-direktor-in-moskau-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-29T05:15:00+00:00",
-      "title": "CIA-Direktor in Moskau: Was steckt hinter dieser Mission? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3343798_cia-direktor-in-moskau-was-steckt-hinter-dieser-mission"
     }
   ],
   "version": 1
