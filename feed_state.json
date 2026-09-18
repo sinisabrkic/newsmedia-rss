@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3372335,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Die Ukraine startet in Bukovel ein neues regionales Kooperationsformat mit sieben weiteren Staaten. Österreich gehört von Beginn an zu den Carpathian Eight und ist politisch, wirtschaftlich und über mehrere große Infrastrukturprojekte eingebunden. Hinter C8 steht dabei mehr als ein klassischer Gipfel: Die Initiative soll Sicherheit, Energie, Verkehrsachsen, Investitionen und den Wiederaufbau der Ukraine stärker in einem gemeinsamen regionalen Rahmen verbinden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraine-startet-c8-gipfel-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-18T13:35:00+00:00",
+      "title": "Ukraine startet C8-Gipfel: Österreich ist Teil der neuen Initiative | newsmedia.report",
+      "url": "https://www.newsmedia.report/3372335_ukraine-startet-c8-gipfel-oesterreich-ist-teil-der-neuen-initiative"
+    },
+    {
+      "article_id": 3372227,
+      "author": "NEWSMEDIA Editorial Team",
+      "category": "",
+      "description": "DE: Seit fast elf Jahren fehlt von Alejandro „Tank“ Vasquez jede Spur. Nun richtet sich das FBI erneut an die Öffentlichkeit und bietet bis zu 25.000 US-Dollar für Informationen, die zur Identifizierung, Festnahme und Verurteilung der für seinen Tod verantwortlichen Person oder Personen führen. EN: Nearly eleven years after Alejandro “Tank” Vasquez disappeared, his case remains unresolved. The FBI is again asking the public for information and is offering a reward of up to $25,000 for information leading to the identification, arrest and conviction of the person or persons responsible for his death.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/missing_alejandro_vasquez-high.png",
+      "language": "de-AT",
+      "published": "2026-09-18T12:37:00+00:00",
+      "title": "FBI sucht neue Hinweise im Fall Alejandro Vasquez / Missing & Wanted / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/missing-wanted/3372227_fbi-sucht-neue-hinweise-im-fall-alejandro-vasquez"
+    },
+    {
       "article_id": 3372015,
       "author": "Sinisa Brkic (sb)",
       "category": "Energie",
@@ -967,28 +989,6 @@
       "published": "2026-08-30T14:06:00+00:00",
       "title": "US Deepens Grip on Venezuela Oil | newsmedia.report",
       "url": "https://www.newsmedia.report/3345322_us-deepens-grip-on-venezuela-oil"
-    },
-    {
-      "article_id": 3345266,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Österreichs eigene Daten zeigen bei Kokain eine Entwicklung, die kaum noch als Randphänomen abgetan werden kann. Abwasseranalysen legen nahe, dass sich die täglich konsumierte Wirkstoffmenge seit 2019 verdoppelt hat, während sichergestelltes Kokain immer wieder sehr hohe Reinheitsgrade erreicht. Im 240 Seiten umfassenden Regierungsprogramm von ÖVP, SPÖ und NEOS fehlen die Begriffe Drogen, Suchtmittel, Suchtgift und Kokain dennoch vollständig.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kokain-boomt-die-politische-antwort-bleibt-offen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-30T13:35:00+00:00",
-      "title": "Kokain boomt. Die politische Antwort bleibt offen. | newsmedia.report",
-      "url": "https://www.newsmedia.report/3345266_kokain-boomt-die-politische-antwort-bleibt-offen"
-    },
-    {
-      "article_id": 3345072,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Monte dei Paschi di Siena ha trasformato una battaglia per la propria indipendenza in una partita capace di ridisegnare una parte importante del sistema finanziario italiano. Le offerte su Banco BPM e Banca Generali, la pressione di Intesa Sanpaolo, il ruolo di Generali, Crédit Agricole, Unipol e BPER e la presenza ancora significativa dello Stato compongono ormai un confronto nel quale non è in gioco soltanto il futuro di MPS, ma la struttura stessa del mercato bancario nazionale.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mps-al-centro-del-risiko-bancario-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-30T10:20:00+00:00",
-      "title": "MPS al centro del risiko bancario | newsmedia.report",
-      "url": "https://www.newsmedia.report/3345072_mps-al-centro-del-risiko-bancario"
     }
   ],
   "version": 1
