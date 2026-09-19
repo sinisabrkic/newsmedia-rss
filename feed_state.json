@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3373219,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "The United States, Denmark and Greenland have reached a political agreement on a new Arctic security arrangement that could significantly expand Washington’s military role on the strategically important island. The three governments expect to sign the agreement next week during the United Nations General Assembly, while Copenhagen has made clear that Danish sovereignty, territorial integrity and Greenland’s right to self determination remain intact.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/us-denmark-and-greenland-agree-on-security-deal-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-19T07:00:00+00:00",
+      "title": "US, Denmark and Greenland Agree on Security Deal | newsmedia.report",
+      "url": "https://www.newsmedia.report/3373219_us-denmark-and-greenland-agree-on-security-deal"
+    },
+    {
+      "article_id": 3373183,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "President Donald Trump has signed a major new Russia sanctions package into US law, giving Washington additional powers to target countries that remain among the largest buyers of Russian oil and natural gas. The legislation allows tariffs of up to 100 percent on goods from qualifying countries, placing India and China at the center of a measure with potentially significant consequences for energy markets and global trade.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-signs-russia-sanctions-law-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-19T06:13:00+00:00",
+      "title": "Trump Signs Russia Sanctions Law | newsmedia.report",
+      "url": "https://www.newsmedia.report/3373183_trump-signs-russia-sanctions-law"
+    },
+    {
       "article_id": 3372335,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -967,28 +989,6 @@
       "published": "2026-08-30T19:48:00+00:00",
       "title": "España tras los fondos: la hora de la verdad | newsmedia.report",
       "url": "https://www.newsmedia.report/3345759_espana-tras-los-fondos-la-hora-de-la-verdad"
-    },
-    {
-      "article_id": 3345705,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "जम्मू और कश्मीर में नियंत्रण रेखा के आसपास संदिग्ध ड्रोन गतिविधियों ने भारतीय सुरक्षा तंत्र को फिर सतर्क कर दिया है। पुंछ और राजौरी में निगरानी बढ़ाई गई है, जबकि जंगलों में संदिग्ध हथियारबंद व्यक्तियों की सूचना के बाद कई क्षेत्रों में संयुक्त तलाशी अभियान चल रहे हैं। फिलहाल किसी बड़े सैन्य टकराव के संकेत नहीं हैं, लेकिन मई 2025 के भारत पाकिस्तान संघर्ष के बाद सीमा पर हर नई ड्रोन गतिविधि का रणनीतिक महत्व बढ़ चुका है।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/loc-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-30T18:50:00+00:00",
-      "title": "LoC पर ड्रोन अलर्ट: भारत ने बढ़ाई सुरक्षा | newsmedia.report",
-      "url": "https://www.newsmedia.report/3345705_loc-para-da-ra-na-alra-ta-bha-rata-na-bugdhha-ii-sa-raka-shha"
-    },
-    {
-      "article_id": 3345322,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Economy",
-      "description": "Washington is moving far beyond conventional access to Venezuelan crude. A sweeping energy agreement gives the United States a strategic role in the development of 17 oil fields containing more than 65 billion barrels of proven reserves, while a separately reported government stake in a private oil venture points to an even deeper level of involvement. What is emerging is not merely another oil deal, but a long term attempt to connect American energy security, private investment and geopolitical influence to one of the world’s largest petroleum reserves.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/us-deepens-grip-on-venezuela-oil-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-30T14:06:00+00:00",
-      "title": "US Deepens Grip on Venezuela Oil | newsmedia.report",
-      "url": "https://www.newsmedia.report/3345322_us-deepens-grip-on-venezuela-oil"
     }
   ],
   "version": 1
