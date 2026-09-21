@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3376538,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energie",
+      "description": "Europa steht vor einer neuen Belastungsprobe seiner Energieversorgung. Für das vierte Quartal 2026 erwartet die Energieberatung Energy Aspects ein Defizit bei Flugzeugtreibstoff von rund 510.000 Barrel pro Tag. Nach dem weitgehenden Ausfall traditioneller Lieferungen aus dem Nahen Osten werden inzwischen große Mengen aus Nordamerika, Afrika und Ostasien nach Europa umgeleitet. Das bedeutet noch keinen akuten Kerosinmangel an europäischen Flughäfen. Die Zahlen zeigen jedoch, wie stark sich die Versorgungsstruktur innerhalb weniger Monate verändert hat und wie abhängig Europas Luftverkehr inzwischen von längeren und kostspieligeren internationalen Lieferketten geworden ist.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europa-droht-kerosindefizit-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-21T14:40:00+00:00",
+      "title": "Europa droht Kerosindefizit | newsmedia.report",
+      "url": "https://www.newsmedia.report/3376538_europa-droht-kerosindefizit"
+    },
+    {
       "article_id": 3375943,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-08-31T20:30:00+00:00",
       "title": "Warum der neue Partner für den Ex bezahlen muss / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3347300_warum-der-neue-partner-fuer-den-ex-bezahlen-muss"
-    },
-    {
-      "article_id": 3346458,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Am Abend des 31. August 1939 überfiel ein deutsches Kommando einen deutschen Rundfunksender und sollte dabei wie ein polnischer Angreifer wirken. Wenige Stunden später marschierte die Wehrmacht in Polen ein. Doch Gleiwitz war nur der sichtbare Schlusspunkt einer wochenlangen Kampagne aus angeblichen Grenzverletzungen, Berichten über „polnischen Terror“, diplomatischem Druck und gezielt gesteuerter Nachrichtenpolitik. Der Krieg war längst vorbereitet, als das NS Regime begann, seine Rechtfertigung dafür herzustellen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gleiwitz-1939-der-konstruierte-angriff-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-31T10:21:00+00:00",
-      "title": "Gleiwitz 1939: Der konstruierte Angriff | newsmedia.report",
-      "url": "https://www.newsmedia.report/3346458_gleiwitz-1939-der-konstruierte-angriff"
     }
   ],
   "version": 1
