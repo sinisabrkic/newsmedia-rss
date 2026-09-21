@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3375943,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Die US-Regierung bereitet laut einem Bericht umfassende Sanktionen gegen den Internationalen Strafgerichtshof in Den Haag vor. Erstmals könnten die Maßnahmen nicht nur einzelne Funktionäre treffen, sondern den Gerichtshof als Institution und damit einen Großteil seiner finanziellen Beziehungen erfassen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/usa-planen-sanktionen-gegen-weltstrafgerichtshof-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-21T09:11:00+00:00",
+      "title": "USA planen Sanktionen gegen Weltstrafgerichtshof | newsmedia.report",
+      "url": "https://www.newsmedia.report/3375943_usa-planen-sanktionen-gegen-weltstrafgerichtshof"
+    },
+    {
       "article_id": 3374551,
       "author": "Sinisa Brkic (sb)",
       "category": "Energie",
@@ -978,17 +989,6 @@
       "published": "2026-08-31T10:21:00+00:00",
       "title": "Gleiwitz 1939: Der konstruierte Angriff | newsmedia.report",
       "url": "https://www.newsmedia.report/3346458_gleiwitz-1939-der-konstruierte-angriff"
-    },
-    {
-      "article_id": 3346417,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Sprengstoff an Drohnen, Warnungen vor hybriden Angriffen, neue Abwehrzentren, mehr Befugnisse für Sicherheitsbehörden und Milliarden für den Bevölkerungsschutz. Deutschland bereitet sich sichtbar auf eine gefährlichere Sicherheitslage vor. Die Bedrohungen sind keineswegs erfunden, doch die Geschichte mahnt zur Vorsicht, sobald reale Risiken, ungeklärte Urheberschaft und politische Kommunikation zu einer Erzählung verschmelzen, in der der Ernstfall zunehmend als Normalzustand erscheint.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kriegsstimmung-deutschland-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-08-31T09:50:00+00:00",
-      "title": "Kriegsstimmung: Sucht Deutschland nach einem Präzedenzfall? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3346417_kriegsstimmung-sucht-deutschland-nach-einem-praezedenzfall"
     }
   ],
   "version": 1
