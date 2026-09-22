@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3377760,
+      "author": "NEWSMEDIA Editorial Team",
+      "category": "Missing & Wanted",
+      "description": "In den frühen Morgenstunden des 2. September 2006 wurde Miguel Oliveras zuletzt in Portland im US-Bundesstaat Maine gesehen. Seitdem gibt es nach Angaben des FBI keine gemeldete Sichtung und keinen bekannten Kontakt. Zwanzig Jahre später suchen das FBI und die Portland Police weiterhin nach Oliveras oder seinen sterblichen Überresten. Für Informationen, die zu seiner Auffindung führen, bietet das FBI bis zu 25.000 US-Dollar.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/vermisst_oliveras_miguel-high.png",
+      "language": "de-AT",
+      "published": "2026-09-22T11:13:00+00:00",
+      "title": "Seit 20 Jahren verschwunden: Wo ist Miguel Oliveras? / Missing & Wanted / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/missing-wanted/3377760_seit-20-jahren-verschwunden-wo-ist-miguel-oliveras"
+    },
+    {
+      "article_id": 3377710,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Es ist eine außergewöhnliche Aussage über den heutigen britischen König. Prinzessin Diana soll ihrem Bruder Charles Spencer erklärt haben, ihr damaliger Ehemann sei „in seinen Kammerdiener verliebt“. Spencer bestätigt nun öffentlich, dass Diana diese Worte zu ihm gesagt habe. Ob hinter ihrer Aussage tatsächlich eine Beziehung zwischen Charles und einem männlichen Mitarbeiter stand, ist jedoch bis heute nicht belegt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/diana-ber-charles-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-22T10:51:00+00:00",
+      "title": "Diana über Charles: „Mein Mann ist in seinen Kammerdiener verliebt“ | newsmedia.report",
+      "url": "https://www.newsmedia.report/3377710_diana-ueber-charles-mein-mann-ist-in-seinen-kammerdiener-verliebt"
+    },
+    {
       "article_id": 3377612,
       "author": "Sinisa Brkic (sb)",
       "category": "Technology & AI",
@@ -967,28 +989,6 @@
       "published": "2026-09-01T22:07:00+00:00",
       "title": "USA werfen COSCO Spionage auf Frachtern vor | newsmedia.report",
       "url": "https://www.newsmedia.report/3348853_usa-werfen-cosco-spionage-auf-frachtern-vor"
-    },
-    {
-      "article_id": 3348291,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Ein Profil taucht im Feed auf, ein Foto bleibt im Kopf und plötzlich entsteht die Frage, die einfacher klingt, als sie ist: Schreibe ich diese Person an oder lasse ich es? Social Media hat es technisch unglaublich leicht gemacht, einen fremden Menschen zu kontaktieren. Psychologisch ist der erste Schritt trotzdem kompliziert, denn die erste Nachricht muss gleichzeitig Interesse zeigen, Neugier wecken und respektieren, dass der andere keinerlei Verpflichtung besitzt zu antworten. Dieser Dating!World Leitfaden zeigt für Frauen und Männer, wie ein erster Kontakt glaubwürdig, interessant und respektvoll gelingen kann, welche Fehler besonders häufig gemacht werden und warum die beste…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wie_schreibt_man_jemanden_auf_social_media_richtig_an_datingworld-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-01T15:17:00+00:00",
-      "title": "Wie schreibt man jemanden auf Social Media richtig an? / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3348291_wie-schreibt-man-jemanden-auf-social-media-richtig-an"
-    },
-    {
-      "article_id": 3348121,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Расследование предполагаемой атаки беспилотника в аэропорту Лейпциг/Галле приобретает новое политическое измерение. Немецкие органы безопасности, по имеющимся данным, обнаружили признаки, указывающие на возможную причастность российских спецслужб. Федеральное правительство готовит публичную реакцию, однако официальное обвинение России на данный момент ещё не объявлено.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drohnen_russischer_geheimdienst-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-01T12:55:00+00:00",
-      "title": "Лейпциг: след, вероятно, ведёт к российским спецслужбам | newsmedia.report",
-      "url": "https://www.newsmedia.report/3348121_leypcig-sled-veroyatno-vedet-k-rossiyskim-specsluzhbam"
     }
   ],
   "version": 1
