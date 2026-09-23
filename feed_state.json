@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3379259,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "La France ne disparaît pas d’Afrique. Mais le système qui lui permettait autrefois d’y exercer une influence presque automatique appartient de plus en plus au passé. Retrait des bases militaires, affirmation des souverainetés africaines, diversification des alliances et montée en puissance des intérêts économiques redessinent une relation dans laquelle Paris doit désormais convaincre là où il pouvait autrefois compter sur la continuité.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/france-afrique-la-fin-d-un-mod-le-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-23T11:10:00+00:00",
+      "title": "France Afrique: la fin d’un modèle | newsmedia.report",
+      "url": "https://www.newsmedia.report/3379259_france-afrique-la-fin-d-un-modele"
+    },
+    {
+      "article_id": 3379138,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Nearly a year after a U.S. brokered ceasefire brought an end to major fighting in Gaza, the territory remains far from political stability. Israeli strikes continue, reconstruction has barely begun, and negotiations over Hamas disarmament, further Israeli troop withdrawals, and Gaza’s future governance remain unresolved. The conflict is also returning to the center of international diplomacy as world leaders gather at the United Nations.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/israel-and-gaza-ceasefire-under-strain-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-23T09:11:00+00:00",
+      "title": "Israel and Gaza: Ceasefire Under Strain | newsmedia.report",
+      "url": "https://www.newsmedia.report/3379138_israel-and-gaza-ceasefire-under-strain"
+    },
+    {
+      "article_id": 3379007,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Rechtsgerichtete und rechtspopulistische Parteien gewinnen in mehreren europäischen Staaten an Stärke. Viele versprechen nicht nur einen anderen politischen Kurs, sondern eine grundlegende Korrektur bestehender Verhältnisse. Doch zwischen Wahlerfolg und tatsächlicher Gestaltungsmacht liegen Koalitionen, Verfassungen, Gerichte, europäische Verpflichtungen, Staatsfinanzen und Verwaltungsstrukturen. Erst in Regierungsverantwortung zeigt sich deshalb, wie viel vom angekündigten Wandel tatsächlich umgesetzt werden kann.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-rechtsruck-versprechen-und-systemgrenzen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-23T08:31:00+00:00",
+      "title": "Europas Rechtsruck: Versprechen und Systemgrenzen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3379007_europas-rechtsruck-versprechen-und-systemgrenzen"
+    },
+    {
       "article_id": 3377760,
       "author": "NEWSMEDIA Editorial Team",
       "category": "Missing & Wanted",
@@ -956,39 +989,6 @@
       "published": "2026-09-02T08:06:00+00:00",
       "title": "Blackout als Ziel: Sabotage zielte auf das Stromnetz | newsmedia.report",
       "url": "https://www.newsmedia.report/3349258_blackout-als-ziel-sabotage-zielte-auf-das-stromnetz"
-    },
-    {
-      "article_id": 3348908,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "Twenty one major financial institutions are preparing a coordinated entry into a market that has so far been dominated by crypto companies. Their plan is to establish a new company in 2026 and bring a US dollar stablecoin to market in the first half of 2027, with the euro already identified as the next priority. What looks at first like another digital asset project could mark something much larger: traditional finance is moving to secure its own position in the infrastructure of digital money.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/big-banks-enter-the-stablecoin-battle-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-02T00:01:00+00:00",
-      "title": "Big Banks Enter the Stablecoin Battle | newsmedia.report",
-      "url": "https://www.newsmedia.report/3348908_big-banks-enter-the-stablecoin-battle"
-    },
-    {
-      "article_id": 3348874,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energy",
-      "description": "Two very large crude carriers transporting a combined four million barrels of Saudi oil were struck by unidentified projectiles while sailing out through the Strait of Hormuz within minutes of each other. The attacks on the Sidr and Senegal Prosperity expose a new vulnerability in a shipping corridor already operating under extraordinary pressure. The immediate concern extends beyond damage to two vessels. If heavily loaded tankers carrying Saudi crude can be attacked during outbound passage, the question is no longer simply whether Hormuz remains technically navigable. It is whether major Gulf oil exports can move through the corridor with sufficient security and commercial…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hormuz-supertanker-attack-report-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-01T22:50:00+00:00",
-      "title": "Supertankers Carrying Saudi Crude Hit Near Hormuz | newsmedia.report",
-      "url": "https://www.newsmedia.report/3348874_supertankers-carrying-saudi-crude-hit-near-hormuz"
-    },
-    {
-      "article_id": 3348853,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Zwei hochrangige Vertreter der US-Regierung beschuldigen den chinesischen Schifffahrtskonzern COSCO, Handelsschiffe mit verdeckter Technik zur Erfassung militärischer Kommunikationssignale auszustatten. Betroffen sein sollen Aktivitäten entlang der Küsten Nordamerikas, Europas und Asiens. Öffentlich zugängliche Beweise für das konkret behauptete Programm liegen bislang nicht vor, Peking weist die Anschuldigungen zurück.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cosco-spionagevorw-rfe-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-01T22:07:00+00:00",
-      "title": "USA werfen COSCO Spionage auf Frachtern vor | newsmedia.report",
-      "url": "https://www.newsmedia.report/3348853_usa-werfen-cosco-spionage-auf-frachtern-vor"
     }
   ],
   "version": 1
