@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3381188,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Pakistan has carried out air and drone strikes on ten locations inside Afghanistan, marking a new escalation in the increasingly tense relationship between the two neighboring states. Islamabad says the operation followed the interception of eight drones that entered Pakistani airspace from Afghanistan. Kabul denies responsibility for the drones and says four civilians were killed in the Pakistani strikes.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pakistan-strikes-ten-sites-in-afghanistan-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-24T15:11:00+00:00",
+      "title": "Pakistan Carries Out Strikes in Afghanistan | newsmedia.report",
+      "url": "https://www.newsmedia.report/3381188_pakistan-carries-out-strikes-in-afghanistan"
+    },
+    {
+      "article_id": 3381054,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Die wichtigste langfristige Marktrendite der Vereinigten Staaten hat eine Schwelle erreicht, die weit über den Anleihemarkt hinaus Bedeutung besitzt. Die Rendite zehnjähriger US Staatsanleihen stieg auf 5,106 Prozent und damit auf den höchsten Stand seit 2007. Gleichzeitig erhöhen hohe Ölpreise den Inflationsdruck und bringen die Federal Reserve in eine zunehmend schwierige geldpolitische Lage.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/us-anleiherendite-und-lpreis-gef-hrliche-kombination-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-24T14:06:00+00:00",
+      "title": "US Anleiherendite und Ölpreis: Gefährliche Kombination | newsmedia.report",
+      "url": "https://www.newsmedia.report/3381054_us-anleiherendite-und-oelpreis-gefaehrliche-kombination"
+    },
+    {
       "article_id": 3380410,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -967,28 +989,6 @@
       "published": "2026-09-02T15:25:00+00:00",
       "title": "Wen rettest Du: Wer Dich liebt oder wen Du liebst? / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3349865_wen-rettest-du-wer-dich-liebt-oder-wen-du-liebst"
-    },
-    {
-      "article_id": 3349608,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Innerhalb weniger als 24 Stunden sind zwei räumlich weit voneinander entfernte Bereiche der deutschen Strominfrastruktur zum Ziel mutmaßlicher Sabotage geworden. Nach dem Angriff bei Jänschwalde in Brandenburg ermitteln Sicherheitsbehörden nun auch nach einem gezielt herbeigeführten Kurzschluss an einem Umspannwerk bei Bergheim in Nordrhein-Westfalen. Ein Zusammenhang zwischen beiden Fällen ist bislang nicht bewiesen. Der zweite Vorfall verändert dennoch die Dimension der Lage und rückt den physischen Schutz kritischer Energieinfrastruktur mit neuer Dringlichkeit in den Mittelpunkt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/zweiter-angriff-auf-deutschlands-stromnetz-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-02T11:25:00+00:00",
-      "title": "Zweiter Angriff auf Deutschlands Stromnetz binnen 24 Stunden | newsmedia.report",
-      "url": "https://www.newsmedia.report/3349608_zweiter-angriff-auf-deutschlands-stromnetz-binnen-24-stunden"
-    },
-    {
-      "article_id": 3349558,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Die Deutsche Marine hat im Nordatlantik erstmals das israelische Naval LORA System mit einer ballistischen Rakete erprobt. Der erfolgreiche Test markiert einen bemerkenswerten Schritt für die deutschen Streitkräfte, denn Deutschland verfügt bislang über keine ballistischen Raketen. Eine Beschaffung ist noch nicht entschieden, doch erstmals wird konkret erprobt, wie die Marine eine weitreichende Präzisionsschlagfähigkeit auf See erhalten könnte.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-testet-erstmals-ballistische-rakete-auf-see-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-02T10:55:00+00:00",
-      "title": "Deutschland testet erstmals ballistische Rakete auf See | newsmedia.report",
-      "url": "https://www.newsmedia.report/3349558_deutschland-testet-erstmals-ballistische-rakete-auf-see"
     }
   ],
   "version": 1
