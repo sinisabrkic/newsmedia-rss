@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3380410,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Anthropic meldet einen ungewöhnlichen Schritt beim Einsatz künstlicher Intelligenz in der Forschung. Rund 950 Claude Agenten durchsuchten riesige Mengen genetischer Daten und identifizierten ein bislang nicht charakterisiertes Enzymsystem mit Strukturen, die an CRISPR erinnern. Was ART biologisch tatsächlich tut, ist noch ungeklärt. Bemerkenswert ist deshalb nicht nur der Fund selbst, sondern die Art, wie er zustande kam.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/claude-entdeckt-crispr-hnliches-enzymsystem-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-24T07:11:00+00:00",
+      "title": "Claude entdeckt CRISPR-ähnliches Enzymsystem | newsmedia.report",
+      "url": "https://www.newsmedia.report/3380410_claude-entdeckt-crispr-aehnliches-enzymsystem"
+    },
+    {
       "article_id": 3380029,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-09-02T10:55:00+00:00",
       "title": "Deutschland testet erstmals ballistische Rakete auf See | newsmedia.report",
       "url": "https://www.newsmedia.report/3349558_deutschland-testet-erstmals-ballistische-rakete-auf-see"
-    },
-    {
-      "article_id": 3349374,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Indian authorities have uncovered an alleged operation in Navi Mumbai where expiration dates, manufacturing dates and nutritional information were removed or altered on original branded food products intended for export. Nearly 5,000 cartons were seized, along with chemicals, printing equipment and replacement labels. The discovery raises a question that investigators have yet to answer: whether similarly manipulated goods may already have entered international markets.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-s-expiry-date-scandal-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-02T09:10:00+00:00",
-      "title": "Food: India’s Expiry-Date Scandal | newsmedia.report",
-      "url": "https://www.newsmedia.report/3349374_food-india-s-expiry-date-scandal"
     }
   ],
   "version": 1
