@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3383264,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energie",
+      "description": "Die Folgen des Iran Krieges erreichen die europäische Energiepolitik mit neuer Wucht. EU Energiekommissar Dan Jørgensen fordert die Mitgliedstaaten auf, für den kommenden Winter Maßnahmen zur Senkung des Gas und Stromverbrauchs zu prüfen. Noch gibt es weder eine europaweite Rationierung noch einen akuten Versorgungsmangel. Doch Europa beginnt, sich auf eine Lage vorzubereiten, in der hohe Preise, globale Lieferprobleme und geopolitische Risiken gleichzeitig auf die Energieversorgung wirken könnten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/energiekrise-erreicht-europa-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-26T08:31:00+00:00",
+      "title": "Energiekrise erreicht Europa: Brüssel warnt vor Versorgungskrise | newsmedia.report",
+      "url": "https://www.newsmedia.report/3383264_energiekrise-erreicht-europa-bruessel-warnt-vor-versorgungskrise"
+    },
+    {
+      "article_id": 3383225,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Cocaína, oro, empresas pantalla, criptomonedas, pistas clandestinas y millones que desaparecen entre cuentas y sociedades. Una sucesión de operaciones realizadas en 2026 permite reconstruir una realidad mucho más profunda: partes de la Amazonía se han convertido en territorio estratégico para redes criminales capaces de combinar narcotráfico, minería ilegal, logística y lavado de dinero. Las cifras revelan una economía clandestina que ya no puede explicarse simplemente hablando de carteles.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/el-dinero-oculto-de-la-amazon-a-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-26T07:40:00+00:00",
+      "title": "El dinero oculto de la Amazonía | newsmedia.report",
+      "url": "https://www.newsmedia.report/3383225_el-dinero-oculto-de-la-amazonia"
+    },
+    {
       "article_id": 3383167,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -967,28 +989,6 @@
       "published": "2026-09-04T08:31:00+00:00",
       "title": "Sabotageserie trifft Deutschlands Stromnetz | newsmedia.report",
       "url": "https://www.newsmedia.report/3352332_sabotageserie-trifft-deutschlands-stromnetz"
-    },
-    {
-      "article_id": 3352210,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Israeli National Security Minister Itamar Ben Gvir has presented a sweeping political plan aimed at the departure of approximately 1.86 million Palestinians from the Gaza Strip within seven years. The proposal, called “Disengagement 710,” describes the process as “voluntary emigration” and calls for a dedicated government ministry, agreements with receiving countries, financial assistance and organized migration pathways. It is not adopted Israeli government policy, but Ben Gvir intends to make its implementation a central demand in negotiations over Israel’s next government.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ben-gvir-s-gaza-plan-newsmedia-redaktino-high.png",
-      "language": "de-AT",
-      "published": "2026-09-04T06:48:00+00:00",
-      "title": "Ben Gvir’s Plan: 1.86 Million Palestinians Are to Leave Gaza | newsmedia.report",
-      "url": "https://www.newsmedia.report/3352210_ben-gvir-s-plan-1-86-million-palestinians-are-to-leave-gaza"
-    },
-    {
-      "article_id": 3352147,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Más de 72.000 personas cruzaron desde Marruecos hacia Ceuta en dos días y al menos 96 murieron durante la crisis fronteriza. Cinco semanas después, España sigue intentando esclarecer cómo pudo producirse una movilización de esa magnitud. Un informe policial descarta que todo respondiera a un fenómeno espontáneo, mientras el Gobierno sostiene que no dispone de pruebas sólidas para atribuir a Marruecos la planificación de la operación.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ceuta-bajo-presi-n-newsmedia-redaktion-high-zn8h3h.png",
-      "language": "de-AT",
-      "published": "2026-09-04T05:37:00+00:00",
-      "title": "Ceuta bajo presión | newsmedia.report",
-      "url": "https://www.newsmedia.report/3352147_ceuta-bajo-presion"
     }
   ],
   "version": 1
