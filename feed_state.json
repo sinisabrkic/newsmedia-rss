@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3383167,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Mehr als sechs Jahrzehnte lang gehörte die Ablehnung von Bluttransfusionen und zentralen Blutbestandteilen zu den bekanntesten und folgenreichsten Glaubensregeln der Zeugen Jehovas. Seit September 2026 dürfen Gläubige nun selbst entscheiden, ob sie rote oder weiße Blutkörperchen, Plasma oder Blutplättchen medizinisch akzeptieren. Was heute ausdrücklich als persönliche Gewissensfrage bezeichnet wird, war über Jahrzehnte religiös untersagt und konnte für Mitglieder schwerwiegende Konsequenzen haben.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/zeugen-jehovas-blutverbot-wird-zur-gewissensfrage-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-26T06:30:00+00:00",
+      "title": "Zeugen Jehovas: Blutverbot wird zur Gewissensfrage | newsmedia.report",
+      "url": "https://www.newsmedia.report/3383167_zeugen-jehovas-blutverbot-wird-zur-gewissensfrage"
+    },
+    {
       "article_id": 3382294,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -978,17 +989,6 @@
       "published": "2026-09-04T05:37:00+00:00",
       "title": "Ceuta bajo presión | newsmedia.report",
       "url": "https://www.newsmedia.report/3352147_ceuta-bajo-presion"
-    },
-    {
-      "article_id": 3352106,
-      "author": "Sinisa Brkic (sb) / Redaktion",
-      "category": "Wirtschaft & Global Affairs",
-      "description": "Gold wirft keine Zinsen ab, finanziert keine Staatsausgaben und ist im digitalen Finanzsystem umständlicher als eine Staatsanleihe. Trotzdem kaufen Zentralbanken seit Jahren in außergewöhnlichem Umfang. Die Niederlande verlagern Reserven nach London, Indien holt Barren ins eigene Land, Polen baut einen der schnellsten staatlichen Goldbestände Europas auf, während Deutschland und Italien weiterhin große Mengen in New York verwahren. Hinter diesen Entscheidungen steht eine fundamentale Frage: Ordnen Zentralbanken lediglich ihr Krisenmanagement neu – oder verändert sich gerade die Architektur des globalen Währungssystems?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/das_gold_kehrt_zurueck_warum_zentralbanken_ihre_reserven_neu_ordnen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-04T04:33:00+00:00",
-      "title": "Das Gold kehrt zurück: Warum Zentralbanken sich jetzt neu ordnen? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3352106_das-gold-kehrt-zurueck-warum-zentralbanken-sich-jetzt-neu-ordnen"
     }
   ],
   "version": 1
