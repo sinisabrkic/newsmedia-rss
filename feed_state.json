@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3384371,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Donald Trump will mit hohen Zöllen Industrie, Arbeitsplätze und Investitionen in die Vereinigten Staaten zurückholen. Doch während Europa Marktanteile verlieren kann, steigen auch für amerikanische Unternehmen Kosten und Risiken. Gleichzeitig verschieben sich Handelsströme Richtung Asien und ausgerechnet dort könnten einige der größten Gewinner einer Politik entstehen, die eigentlich Amerika stärken soll. Vor mehr als 125 Jahren setzte bereits ein amerikanischer Präsident auf eine ähnliche Strategie. William McKinley wurde zum Symbol des amerikanischen Protektionismus, bevor er gegen Ende seiner Präsidentschaft die Grenzen wirtschaftlicher Abschottung zunehmend erkannte. Einen Tag nach…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trumps-zollwette-wer-am-ende-die-rechnung-bezahlt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-27T08:47:00+00:00",
+      "title": "Trumps Zollwette: Wer am Ende die Rechnung bezahlt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3384371_trumps-zollwette-wer-am-ende-die-rechnung-bezahlt"
+    },
+    {
       "article_id": 3383264,
       "author": "Sinisa Brkic (sb)",
       "category": "Energie",
@@ -978,17 +989,6 @@
       "published": "2026-09-04T09:10:00+00:00",
       "title": "Zu wenig Gas im Speicher: Deutschlands Problem wird Österreichs Risiko | newsmedia.report",
       "url": "https://www.newsmedia.report/3352377_zu-wenig-gas-im-speicher-deutschlands-problem-wird-oesterreichs-risiko"
-    },
-    {
-      "article_id": 3352332,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Innerhalb weniger Tage sind in mehreren deutschen Bundesländern Vorgänge an zentralen Anlagen des Stromnetzes bekannt geworden, die von Ermittlern als mögliche Sabotage untersucht werden. Nach Fällen in Brandenburg und Bergheim richtet sich die Aufmerksamkeit nun auch auf Dormagen in Nordrhein Westfalen und Ganderkesee in Niedersachsen. Ein gemeinsamer Täterkreis ist bislang nicht nachgewiesen. Die Häufung der Vorfälle und auffällige technische Gemeinsamkeiten machen die Entwicklung dennoch zu einer Frage der nationalen Sicherheit.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sabotageserie-trifft-deutschlands-stromnetz-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-04T08:31:00+00:00",
-      "title": "Sabotageserie trifft Deutschlands Stromnetz | newsmedia.report",
-      "url": "https://www.newsmedia.report/3352332_sabotageserie-trifft-deutschlands-stromnetz"
     }
   ],
   "version": 1
