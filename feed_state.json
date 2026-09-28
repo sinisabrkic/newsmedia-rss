@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3385520,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Israeli Prime Minister Benjamin Netanyahu made an unannounced visit to Abu Dhabi on Sunday, September 27, where he met United Arab Emirates President Sheikh Mohamed bin Zayed Al Nahyan. Neither government has disclosed what was discussed, leaving the purpose of the meeting officially unexplained at one of the most sensitive moments in the region since the outbreak of the Iran war. Iran is the most obvious strategic backdrop, but not a confirmed agenda. The risk of further attacks, security across the Gulf, the Strait of Hormuz and the uncertain course of negotiations between Washington and Tehran all provide plausible reasons for direct contact between the Israeli and Emirati leaders.…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/netanyahu-s-quiet-mission-to-abu-dhabi-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-28T05:07:00+00:00",
+      "title": "Netanyahu’s Quiet Mission to Abu Dhabi | newsmedia.report",
+      "url": "https://www.newsmedia.report/3385520_netanyahu-s-quiet-mission-to-abu-dhabi"
+    },
+    {
       "article_id": 3384683,
       "author": "Sinisa Brkic (sb)",
       "category": "Politics",
@@ -978,17 +989,6 @@
       "published": "2026-09-04T11:03:00+00:00",
       "title": "Netanjahu spricht vom Messias: Jesus Christus ist nicht gemeint | newsmedia.report",
       "url": "https://www.newsmedia.report/3352466_netanjahu-spricht-vom-messias-jesus-christus-ist-nicht-gemeint"
-    },
-    {
-      "article_id": 3352447,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Con 1.413 giorni a Palazzo Chigi, il governo di Giorgia Meloni diventa il più longevo nella storia della Repubblica italiana. È un risultato politico che rompe una delle tradizioni più persistenti del Paese, quella degli esecutivi brevi e delle maggioranze fragili. Ma mentre il record certifica la stabilità raggiunta, economia, riforme e nuovi equilibri a destra mostrano che la partita decisiva per Meloni è appena entrata nella sua fase più delicata.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/meloni-il-record-e-la-sfida-del-2027-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-04T10:04:00+00:00",
-      "title": "Meloni, il record e la sfida del 2027 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3352447_meloni-il-record-e-la-sfida-del-2027"
     }
   ],
   "version": 1
