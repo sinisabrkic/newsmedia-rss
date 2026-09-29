@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3387489,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europa",
+      "description": "Deutschland und Österreich erhöhen gemeinsam mit vier weiteren Nettozahlern den Druck auf Brüssel. Die sechs Staaten wollen dem nächsten langfristigen EU-Haushalt in seiner derzeit geplanten Größenordnung nicht zustimmen und verlangen Einsparungen von mehreren Hundert Milliarden Euro. Damit wird aus dem Streit über Zahlen eine grundsätzliche Auseinandersetzung darüber, welche Aufgaben Europa künftig gemeinsam finanzieren soll und wer dafür bezahlt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-und-sterreich-drohen-mit-eu-budget-veto-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-29T10:22:00+00:00",
+      "title": "Deutschland und Österreich drohen mit EU-Budget-Veto | newsmedia.report",
+      "url": "https://www.newsmedia.report/3387489_deutschland-und-oesterreich-drohen-mit-eu-budget-veto"
+    },
+    {
       "article_id": 3385953,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-09-06T08:33:00+00:00",
       "title": "Saxe-Anhalt: l’AfD vise le pouvoir | newsmedia.report",
       "url": "https://www.newsmedia.report/3354873_saxe-anhalt-l-afd-vise-le-pouvoir"
-    },
-    {
-      "article_id": 3354818,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Es ist eine Aussage von außergewöhnlicher politischer Sprengkraft. Iuliia Mendel, die frühere Pressesprecherin des ukrainischen Präsidenten Wolodymyr Selenskyj, behauptet, dieser habe gegenüber seinem Kommunikationsteam erklärt, er brauche „Goebbels-Propaganda“ und tausende Stimmen, die eine gewünschte politische Wahrnehmung erzeugen sollten. Mendel schildert die Szene als persönliche Erinnerung aus ihrer Amtszeit. Eine unabhängige Bestätigung des behaupteten Wortlauts liegt bislang nicht vor.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/selenskyj-ich-brauche-goebbels-propaganda-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-06T07:23:00+00:00",
-      "title": "Selenskyj: „Ich brauche Goebbels-Propaganda.“ | newsmedia.report",
-      "url": "https://www.newsmedia.report/3354818_selenskyj-ich-brauche-goebbels-propaganda"
     }
   ],
   "version": 1
