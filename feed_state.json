@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3389561,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "QAnon machte Donald Trump zu weit mehr als einem amerikanischen Präsidenten. In der Erzählung der Bewegung wurde er zur zentralen Figur eines verborgenen Kampfes gegen einen mächtigen Staatsapparat, internationale Netzwerke und korrupte Eliten. Entscheidend ist deshalb eine einfache Frage: Wie viel hatte dieses Bild mit dem tatsächlich dokumentierten politischen Handeln Donald Trumps zu tun?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/qanon-trump-und-der-mythos-vom-systemgegner-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-30T15:17:00+00:00",
+      "title": "QAnon: Trump und der Mythos vom Systemgegner | newsmedia.report",
+      "url": "https://www.newsmedia.report/3389561_qanon-trump-und-der-mythos-vom-systemgegner"
+    },
+    {
       "article_id": 3389014,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-09-07T12:40:00+00:00",
       "title": "India’s $136 Billion Inflow Forces RBI Intervention | newsmedia.report",
       "url": "https://www.newsmedia.report/3356561_india-s-136-billion-inflow-forces-rbi-intervention"
-    },
-    {
-      "article_id": 3356492,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Russlands Außenminister Sergej Lawrow verschärft nach den deutschen Vorwürfen zum Leipziger Drohnenfall die Rhetorik und spricht vom „Beginn eines realen Krieges“. Gleichzeitig warnt der US Botschafter bei der NATO vor einer neuen Qualität hybrider Angriffe, während Dänemarks Inlandsnachrichtendienst konkrete russische Sabotagevorbereitungen im eigenen Land meldet. Eine unmittelbar bevorstehende militärische Konfrontation zwischen Russland und der NATO lässt sich daraus nicht ableiten. Deutlicher wird jedoch, dass Europas Sicherheitsrisiko zunehmend unterhalb der Schwelle eines klassischen Krieges liegt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sergej-lawrow-spricht-vom-beginn-eines-realen-krieges-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-07T11:50:00+00:00",
-      "title": "Sergej Lawrow spricht vom „Beginn eines realen Krieges“ | newsmedia.report",
-      "url": "https://www.newsmedia.report/3356492_sergej-lawrow-spricht-vom-beginn-eines-realen-krieges"
     }
   ],
   "version": 1
