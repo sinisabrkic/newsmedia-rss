@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3389014,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Millionen Seiten Akten, Gerichtsverfahren, Zeugenaussagen und ein internationales Geflecht gesellschaftlicher Kontakte haben den Fall Jeffrey Epstein zu einem der am stärksten dokumentierten Kriminalkomplexe der jüngeren Geschichte gemacht. Dennoch bleiben entscheidende Fragen bestehen. Nicht über jeden Namen, der irgendwo auftaucht, sondern darüber, wie Geld, Zugang, institutionelle Entscheidungen und jahrelanges Versagen ein System ermöglichten, dessen Dimension erst spät vollständig sichtbar wurde.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jeffrey-epstein-die-macht-hinter-dem-schweigen-newsmedia-redaktion-high-j22e9u.png",
+      "language": "de-AT",
+      "published": "2026-09-30T10:01:00+00:00",
+      "title": "Jeffrey Epstein: Die Macht hinter dem Schweigen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3389014_jeffrey-epstein-die-macht-hinter-dem-schweigen"
+    },
+    {
+      "article_id": 3388793,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Fast 1,5 Milliarden Menschen, eine junge Erwerbsbevölkerung, eine globale Dienstleistungsindustrie, eine wachsende industrielle Basis und ein Binnenmarkt, dessen eigentliche Entfaltung erst begonnen hat: Während die Weltwirtschaft auf die Vereinigten Staaten und China blickt, verändert Indien seine Position nahezu geräuschlos. Das Land ist noch nicht so wohlhabend wie die etablierten Industriestaaten und industriell längst nicht so tief aufgestellt wie China. Doch gerade die Verbindung aus Größe, Wachstum, Technologie, Produktion und geopolitischem Spielraum macht Indien zu einem Markt, dessen Bedeutung weit über seine gegenwärtige Wahrnehmung hinausreicht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/indien-der-stille-weltmarkt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-09-30T07:40:00+00:00",
+      "title": "Indien, der stille Weltmarkt | newsmedia.report",
+      "url": "https://www.newsmedia.report/3388793_indien-der-stille-weltmarkt"
+    },
+    {
       "article_id": 3387982,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-09-07T11:50:00+00:00",
       "title": "Sergej Lawrow spricht vom „Beginn eines realen Krieges“ | newsmedia.report",
       "url": "https://www.newsmedia.report/3356492_sergej-lawrow-spricht-vom-beginn-eines-realen-krieges"
-    },
-    {
-      "article_id": 3356348,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Ein Magazincover aus dem Jahr 1988 zeigt einen Phönix, der sich aus brennenden Banknoten erhebt. Um seinen Hals hängt eine Münze mit der Jahreszahl 2018. Jahrzehnte später wurde daraus die Behauptung, Bitcoin sei lange vor seiner Entstehung angekündigt worden. Das stimmt so nicht, doch hinter dem Mythos liegt eine weitaus größere Geschichte über digitales Geld, Kryptografie, Bitcoin, Blockchain und den beginnenden Umbau der internationalen Finanzordnung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bitcoin-und-der-ph-nix-die-geschichte-des-digitalen-geldes-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-07T10:01:00+00:00",
-      "title": "Bitcoin schon 1988? Das Rätsel um den Phönix | newsmedia.report",
-      "url": "https://www.newsmedia.report/3356348_bitcoin-schon-1988-das-raetsel-um-den-phoenix"
-    },
-    {
-      "article_id": 3355228,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Jared Kushner è tornato al centro della diplomazia americana. Dopo il lungo colloquio con Vladimir Putin a Mosca, l’inviato di Donald Trump ha proseguito verso Kyiv insieme a Steve Witkoff. La missione deve stabilire se tra Russia e Ucraina esista ancora uno spazio negoziale concreto e quali condizioni potrebbero trasformare un contatto politico in un vero processo di pace.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kushner-il-canale-di-trump-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-06T14:17:00+00:00",
-      "title": "Kushner, il canale di Trump | newsmedia.report",
-      "url": "https://www.newsmedia.report/3355228_kushner-il-canale-di-trump"
     }
   ],
   "version": 1
