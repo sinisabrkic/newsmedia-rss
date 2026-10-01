@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3391115,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Was 2019 mit einer Gruppe Studierender im Südpazifik begann, hat das internationale Klimarecht verändert. Der Internationale Gerichtshof hat klargestellt, dass Staaten völkerrechtliche Pflichten zum Schutz des Klimasystems tragen und Verstöße Folgen nach dem Recht der Staatenverantwortlichkeit auslösen können. Mehr als ein Jahr nach dem historischen Gutachten zeigt sich, dass dessen Bedeutung weit über Den Haag hinausreicht und Klimapolitik zunehmend zu einer Frage von Recht, Kausalität, Sorgfalt und dokumentierbarer Verantwortung wird.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/weltgericht-neue-regeln-f-r-klimahaftung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-01T15:21:00+00:00",
+      "title": "Weltgericht: Neue Regeln für Klimahaftung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3391115_weltgericht-neue-regeln-fuer-klimahaftung"
+    },
+    {
       "article_id": 3390342,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-09-08T15:50:00+00:00",
       "title": "AfD-Sieg in Sachsen-Anhalt: Die internationale Reaktion | newsmedia.report",
       "url": "https://www.newsmedia.report/3358354_afd-sieg-in-sachsen-anhalt-die-internationale-reaktion"
-    },
-    {
-      "article_id": 3356765,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Drei, zehn, dreißig oder hundert frühere Sexualpartner: Ab welcher Zahl wird die Vergangenheit für eine neue Beziehung relevant? Die Debatte um den sogenannten Bodycount ist laut, moralisch aufgeladen und häufig voller Doppelstandards. Die Forschung liefert tatsächlich Hinweise darauf, dass Menschen die sexuelle Vergangenheit potenzieller Langzeitpartner berücksichtigen, aber sie liefert keine magische Zahl, ab der ein Mensch beziehungsunfähig wäre.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bodycount_wie_viele_sind_zu_viele_-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-07T15:00:00+00:00",
-      "title": "Bodycount: Wie viele sind zu viele? / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3356765_bodycount-wie-viele-sind-zu-viele"
     }
   ],
   "version": 1
