@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3390342,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Die Vereinigten Staaten schaffen mit dem Autonomous Warfare Command, kurz AutoWarCom, ein eigenes Vier Sterne Kommando für autonome und robotische Kriegsführung. Das Pentagon will damit Entwicklung, Beschaffung und Einsatz von Drohnen, Robotik und künstlicher Intelligenz über die Streitkräfte hinweg beschleunigen. Die institutionelle Neuordnung ist bestätigt, viele Details zu Budget, Aufbau und konkreten Einsatzregeln sind jedoch noch offen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/autowarcom-neues-kommando-f-r-autonome-kriegsf-hrung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-01T07:05:00+00:00",
+      "title": "AutoWarCom: Neues Kommando für autonome Kriegsführung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3390342_autowarcom-neues-kommando-fuer-autonome-kriegsfuehrung"
+    },
+    {
       "article_id": 3389561,
       "author": "Sinisa Brkic (sb)",
       "category": "Politik",
@@ -978,17 +989,6 @@
       "published": "2026-09-07T15:00:00+00:00",
       "title": "Bodycount: Wie viele sind zu viele? / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3356765_bodycount-wie-viele-sind-zu-viele"
-    },
-    {
-      "article_id": 3356561,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "India is facing an unusual consequence of financial strength. After attracting roughly $136 billion through special foreign exchange programs, the country’s banking system became so flush with cash that the Reserve Bank of India moved to withdraw more than 6 trillion rupees from the system. What initially strengthened reserves and supported the rupee has now become a monetary policy challenge of exceptional scale.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-s-136-billion-inflow-forces-rbi-intervention-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-07T12:40:00+00:00",
-      "title": "India’s $136 Billion Inflow Forces RBI Intervention | newsmedia.report",
-      "url": "https://www.newsmedia.report/3356561_india-s-136-billion-inflow-forces-rbi-intervention"
     }
   ],
   "version": 1
