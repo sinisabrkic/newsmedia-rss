@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3392252,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Die Vorstellung, künstliche Intelligenz könnte eines Tages ein eigenes Bewusstsein entwickeln, gehört zu den hartnäckigsten Zukunftsbildern der digitalen Ära. Für Staaten, Unternehmen und Gesellschaften liegt die entscheidende Herausforderung jedoch wesentlich näher: KI muss weder fühlen noch einen eigenen Willen besitzen, um Entscheidungen zu beeinflussen, Prozesse zu verändern und neue Abhängigkeiten zu schaffen. Entscheidend ist deshalb nicht, ob die Maschine irgendwann erwacht, sondern wer ihre Grenzen bestimmt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ki-nicht-bewusstsein-ist-das-problem-sondern-kontrolle-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-02T13:06:00+00:00",
+      "title": "KI: Nicht Bewusstsein ist das Problem, sondern Kontrolle | newsmedia.report",
+      "url": "https://www.newsmedia.report/3392252_ki-nicht-bewusstsein-ist-das-problem-sondern-kontrolle"
+    },
+    {
+      "article_id": 3392140,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Die Inflation im Euroraum springt im September auf 3,8 Prozent und damit deutlich stärker als erwartet. Von einer „Rückkehr“ der Inflation zu sprechen, greift allerdings zu kurz. Gefallen war vor allem die Geschwindigkeit der Preissteigerungen, nicht das allgemeine Preisniveau, das Europas Haushalte seit Jahren belastet. Nun beschleunigt sich auch die Teuerung wieder und aus dem alten Preisproblem wird erneut ein akutes geldpolitisches Risiko.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-inflation-ist-zur-ck-aber-war-sie-je-weg-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-02T11:25:00+00:00",
+      "title": "Europas Inflation ist zurück. Aber war sie je weg? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3392140_europas-inflation-ist-zurueck-aber-war-sie-je-weg"
+    },
+    {
       "article_id": 3391716,
       "author": "Sinisa Brkic (sb)",
       "category": "Energy",
@@ -967,28 +989,6 @@
       "published": "2026-09-10T03:35:00+00:00",
       "title": "OpenAI Agents Bypassed Restrictions | newsmedia.report",
       "url": "https://www.newsmedia.report/3360363_openai-agents-bypassed-restrictions"
-    },
-    {
-      "article_id": 3359441,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Europäische Kommission will einen der größten Märkte Europas grundlegend neu ausrichten. Öffentliche Aufträge im Umfang von rund 2,5 Billionen Euro pro Jahr sollen künftig stärker nach europäischer Wertschöpfung, wirtschaftlicher Sicherheit und strategischen Abhängigkeiten vergeben werden können. Hinter der Reform des Vergaberechts steht damit eine weit größere Weichenstellung: Brüssel entdeckt die öffentliche Kaufkraft als Instrument europäischer Industriepolitik.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/br-ssel-macht-2-5-billionen-markt-zur-machtfrage-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-09T12:25:00+00:00",
-      "title": "Brüssel macht 2,5-Billionen-Markt zur Machtfrage | newsmedia.report",
-      "url": "https://www.newsmedia.report/3359441_bruessel-macht-2-5-billionen-markt-zur-machtfrage"
-    },
-    {
-      "article_id": 3358405,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Der historische Wahlsieg der AfD in Sachsen-Anhalt löst bei führenden jüdischen Organisationen und Persönlichkeiten erhebliche Besorgnis aus. Im Mittelpunkt stehen mögliche Folgen für Erinnerungskultur, politische Bildung, Minderheitenschutz und das gesellschaftliche Klima. Doch die jüdische Debatte ist nicht einheitlich: Mit der Vereinigung „Juden in der AfD“ existiert eine organisierte Gegenposition, die ausgerechnet in der AfD einen politischen Verbündeten gegen Antisemitismus und Islamismus sieht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/afd-sieg-in-sachsen-anhalt-j-dische-gemeinschaft-besorgt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-08T17:00:00+00:00",
-      "title": "Jüdische Gemeinschaft über AfD-Sieg besorgt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3358405_juedische-gemeinschaft-ueber-afd-sieg-besorgt"
     }
   ],
   "version": 1
