@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3391716,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energy",
+      "description": "The United States is pressing Germany and France to release substantial volumes from their strategic diesel reserves as global fuel markets tighten and prices climb. Washington is seeking the release of as much as 120 million barrels from European emergency stocks over six months and has raised the possibility of restricting U.S. diesel exports if Europe does not act. The confrontation puts two of Europe’s largest economies in an unusually difficult position. Releasing reserves could ease immediate pressure on fuel markets, but doing so on the scale requested by Washington would significantly reduce emergency inventories at a time when geopolitical risks remain elevated and global supply…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/u-s-targets-europe-s-diesel-reserves-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-02T04:47:00+00:00",
+      "title": "U.S. Targets Europe’s Diesel Reserves | newsmedia.report",
+      "url": "https://www.newsmedia.report/3391716_u-s-targets-europe-s-diesel-reserves"
+    },
+    {
       "article_id": 3391115,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -978,17 +989,6 @@
       "published": "2026-09-08T17:00:00+00:00",
       "title": "Jüdische Gemeinschaft über AfD-Sieg besorgt | newsmedia.report",
       "url": "https://www.newsmedia.report/3358405_juedische-gemeinschaft-ueber-afd-sieg-besorgt"
-    },
-    {
-      "article_id": 3358354,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Der deutliche Wahlsieg der AfD in Sachsen-Anhalt ist weit über Deutschland hinaus auf Resonanz gestoßen. Während Regierungsvertreter in Frankreich und Polen vor den politischen Folgen warnen, feiern rechte und nationalkonservative Parteien in mehreren europäischen Staaten das Ergebnis als Signal für einen grundlegenden Kurswechsel. Auch aus den USA und Russland kommen Reaktionen, die zeigen, wie stark eine deutsche Landtagswahl inzwischen in größere politische und geopolitische Entwicklungen eingeordnet wird.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/internationale-reaktion-auf-den-afd-sieg-in-sachsen-anhalt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-08T15:50:00+00:00",
-      "title": "AfD-Sieg in Sachsen-Anhalt: Die internationale Reaktion | newsmedia.report",
-      "url": "https://www.newsmedia.report/3358354_afd-sieg-in-sachsen-anhalt-die-internationale-reaktion"
     }
   ],
   "version": 1
