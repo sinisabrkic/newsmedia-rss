@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3395000,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "The Strait of Hormuz and Bab el-Mandeb are two of the world’s most critical maritime chokepoints, and both are now under mounting geopolitical pressure. One is central to global energy flows, the other to trade between Asia, Europe and the Mediterranean. If instability deepens around both routes at the same time, the consequences could reach far beyond the Middle East and into energy markets, shipping costs and global supply chains.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hormuz-and-bab-el-mandeb-global-trade-under-threat-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-04T17:40:00+00:00",
+      "title": "Hormuz and Bab el-Mandeb: Global Trade Under Threat | newsmedia.report",
+      "url": "https://www.newsmedia.report/3395000_hormuz-and-bab-el-mandeb-global-trade-under-threat"
+    },
+    {
+      "article_id": 3394873,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Österreich steht nicht unmittelbar vor Neuwahlen. Doch die politische Lage hat sich spürbar verändert. Die Koalition aus ÖVP, SPÖ und NEOS verfügt weiterhin über eine parlamentarische Mehrheit, zugleich wächst der Druck auf ihre drei Partner. Besonders die Führungsdebatte in der SPÖ verschärft eine Situation, in der schlechte Umfragewerte, interne Spannungen und zunehmender Profilierungsdruck die politische Stabilität der Regierung stärker belasten als noch vor wenigen Monaten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreich-vor-neuwahlen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-04T16:18:00+00:00",
+      "title": "Österreich vor Neuwahlen? Eine kritische Phase für die Regierung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3394873_oesterreich-vor-neuwahlen-eine-kritische-phase-fuer-die-regierung"
+    },
+    {
       "article_id": 3394762,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -967,28 +989,6 @@
       "published": "2026-09-11T14:16:00+00:00",
       "title": "India Launches Demat 2.0 With Digital Rupee Settlement | newsmedia.report",
       "url": "https://www.newsmedia.report/3362585_india-launches-demat-2-0-with-digital-rupee-settlement"
-    },
-    {
-      "article_id": 3362244,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "The Middle East energy shock is no longer moving only oil prices and stock markets. It is beginning to reshape expectations for US monetary policy, with financial markets now assigning roughly a 72 percent probability to a Federal Reserve rate increase next week. The shift turns an energy supply crisis into a broader monetary policy risk at a time when inflation pressures and borrowing costs are already rising.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/oil-shock-revives-fed-rate-hike-bets-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-11T10:06:00+00:00",
-      "title": "Oil Shock Revives Fed Rate Hike Bets | newsmedia.report",
-      "url": "https://www.newsmedia.report/3362244_oil-shock-revives-fed-rate-hike-bets"
-    },
-    {
-      "article_id": 3361903,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Wenn Eltern ihre Kinder nicht mehr ausreichend schützen können, beginnt eine der schwierigsten Aufgaben des Staates. Kinder und Jugendhilfe in Österreich und Jugendämter in Deutschland müssen Gefahren erkennen, Familien unterstützen und im äußersten Fall Minderjährige aus ihrer bisherigen Umgebung nehmen. Doch mit diesem Eingriff endet die staatliche Verantwortung nicht. Sie beginnt in einer neuen und besonders sensiblen Form.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kindeswohl-wenn-der-staat-die-familie-ersetzt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-11T06:01:00+00:00",
-      "title": "Kindeswohl: Wenn der Staat die Familie ersetzt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3361903_kindeswohl-wenn-der-staat-die-familie-ersetzt"
     }
   ],
   "version": 1
