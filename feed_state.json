@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3394334,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Milliarden Menschen nutzen Banken, Kreditkarten und internationale Überweisungen, ohne je mit jener Infrastruktur in Berührung zu kommen, die einen erheblichen Teil des weltweiten Finanzverkehrs miteinander verbindet. Swift gehört zu den zentralen Schaltstellen dieses Systems. Nun bereitet sich das Netzwerk auf eine technologische Entwicklung vor, die weit über schnellere Computer hinausgeht: Quantencomputer könnten eines Tages etablierte Verfahren der digitalen Verschlüsselung angreifen und damit eine Sicherheitsarchitektur herausfordern, auf der Banken, Staaten und Unternehmen seit Jahrzehnten vertrauen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/swift-die-quanten-ra-erreicht-das-finanzsystem-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-04T07:44:00+00:00",
+      "title": "Swift: Die Quantenära erreicht das Finanzsystem | newsmedia.report",
+      "url": "https://www.newsmedia.report/3394334_swift-die-quantenaera-erreicht-das-finanzsystem"
+    },
+    {
       "article_id": 3393583,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesundheit",
@@ -978,17 +989,6 @@
       "published": "2026-09-10T19:43:00+00:00",
       "title": "BRICS: भारत डिजिटल मुद्राओं को जोड़ना चाहता है | newsmedia.report",
       "url": "https://www.newsmedia.report/3361565_brics-bha-rata-da-ja-tal-ma-tha-ra-o-ka-ja-ugdhana-ca-hata-ha"
-    },
-    {
-      "article_id": 3361479,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "„Es hat nichts bedeutet.“ Kaum ein Satz soll nach einem Seitensprung so viel retten. Doch kann ein Mensch tatsächlich Sex haben, ohne sich zu verlieben, ohne emotionale Bindung und ohne dass der andere mehr als ein Moment war? Und selbst wenn die Antwort Ja lautet, macht das den Betrug wirklich kleiner?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fremdgehen_ohne_gefuehle_wahrheit_oder_luege_datingworld-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-10T18:33:00+00:00",
-      "title": "Fremdgehen ohne Gefühle: Wahrheit oder Lüge? / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3361479_fremdgehen-ohne-gefuehle-wahrheit-oder-luege"
     }
   ],
   "version": 1
