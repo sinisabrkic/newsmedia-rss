@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3393583,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Österreich gibt mehr als 60 Milliarden Euro jährlich für Gesundheit aus, verfügt über außergewöhnlich viele Ärzte und Krankenhausbetten und besitzt medizinische Einrichtungen auf international hohem Niveau. Trotzdem suchen Patienten nach Kassenärzten, warten auf Termine, bezahlen Wahlärzte aus eigener Tasche und erleben ein System, dessen Personal, Finanzierung und Organisation immer stärker unter Druck geraten. Hinter dieser Entwicklung steht kein einzelner politischer Fehler, sondern eine jahrzehntelang gewachsene Konstruktion, an der nahezu alle großen Parteien beteiligt waren und deren Machtstrukturen bemerkenswert stabil geblieben sind.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wie-kaputt-ist-sterreichs-gesundheitssystem-newsmedia-redaktion-high-obm3wi.png",
+      "language": "de-AT",
+      "published": "2026-10-04T05:27:00+00:00",
+      "title": "Wie kaputt ist Österreichs Gesundheitssystem? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3393583_wie-kaputt-ist-oesterreichs-gesundheitssystem"
+    },
+    {
       "article_id": 3393254,
       "author": "Sinisa Brkic (sb)",
       "category": "Umwelt & Klima",
@@ -978,17 +989,6 @@
       "published": "2026-09-10T18:33:00+00:00",
       "title": "Fremdgehen ohne Gefühle: Wahrheit oder Lüge? / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3361479_fremdgehen-ohne-gefuehle-wahrheit-oder-luege"
-    },
-    {
-      "article_id": 3360449,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europa",
-      "description": "Fünfzehn Jahre vor den Römischen Verträgen erschien mitten im Zweiten Weltkrieg in Berlin ein 229 Seiten starkes Werk mit einem Titel, der später zum Namen einer zentralen europäischen Institution werden sollte: „Europäische Wirtschaftsgemeinschaft“. Wirtschaftsstrategen des NS-Staates diskutierten darin Märkte, Währungen, Handel, Industrie und die wirtschaftliche Organisation des Kontinents. 1944 berichteten alliierte Geheimdienste zudem über Industrielle und Funktionäre, die bereits über die Zeit nach einer deutschen Niederlage nachgedacht haben sollen. Die Dokumente sind real. Die entscheidende Frage lautet, wie weit ihre Spur tatsächlich bis zur heutigen Europäischen Union reicht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-eu-idee-nazi-pl-ne-von-1942-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-10T09:01:00+00:00",
-      "title": "Die EU-Idee: Nazi-Pläne von 1942 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3360449_die-eu-idee-nazi-plaene-von-1942"
     }
   ],
   "version": 1
