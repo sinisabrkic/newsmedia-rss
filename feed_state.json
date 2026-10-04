@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3395263,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Andreas Babler hat seinen schrittweisen Rückzug angekündigt. Anfang 2027 will er die Führung der SPÖ und das Amt des Vizekanzlers abgeben. Finanzminister Markus Marterbauer soll anschließend Vizekanzler werden. Damit ist eine der zentralen offenen Fragen der österreichischen Regierungskrise beantwortet. Die wesentlich größere bleibt bestehen: Hält die Koalition aus ÖVP, SPÖ und NEOS die bevorstehende Neuordnung ihres zweitgrößten Partners politisch aus?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sp-_r-ckzug_babler-high.png",
+      "language": "de-AT",
+      "published": "2026-10-04T21:00:00+00:00",
+      "title": "SPÖ vor Führungswechsel: Bablers Rückzug | newsmedia.report",
+      "url": "https://www.newsmedia.report/3395263_spoe-vor-fuehrungswechsel-bablers-rueckzug"
+    },
+    {
+      "article_id": 3395169,
+      "author": "newsmedia Editorial Team",
+      "category": "Missing & Wanted",
+      "description": "Zwei kleine Jungen werden mitten in der Nacht in ihrem Elternhaus in Texas erstochen. Ihre Mutter überlebt mit einer gefährlichen Schnittverletzung am Hals und berichtet von einem unbekannten Eindringling. Zwölf Tage später wird nicht dieser Fremde verhaftet, sondern sie selbst. 1997 wird Darlie Routier wegen des Mordes an ihrem fünfjährigen Sohn Damon zum Tode verurteilt. Drei Jahrzehnte später befindet sie sich noch immer im texanischen Todestrakt. Doch der Fall besteht aus weit mehr als einer Mordnacht: einer jungen Ehe, wirtschaftlichem Aufstieg und finanziellem Druck, einem Streit unmittelbar vor der Tat, späteren Aussagen ihres damaligen Ehemanns, einer blutigen Socke außerhalb des…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/darlie_routier_real_cases_a-bis-z_newsmedia-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-04T20:02:00+00:00",
+      "title": "Darlie Routier: Hat sie ihre Kinder vor 30 Jahren ermordet? / Missing & Wanted / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/missing-wanted/3395169_darlie-routier-hat-sie-ihre-kinder-vor-30-jahren-ermordet"
+    },
+    {
       "article_id": 3395000,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitics",
@@ -967,28 +989,6 @@
       "published": "2026-09-11T19:21:00+00:00",
       "title": "EZB: Europas neue Hochzinsphase beginnt | newsmedia.report",
       "url": "https://www.newsmedia.report/3362985_ezb-europas-neue-hochzinsphase-beginnt"
-    },
-    {
-      "article_id": 3362867,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Elon Musk is routinely presented as an exceptional individual who bends industries, markets and governments through wealth, technology and force of personality. That interpretation may give the man too much credit and the system around him too little scrutiny. The more consequential story is how corporate control, communications power, government dependency and political influence have been allowed to converge around one private individual.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/elon-musk-a-product-of-the-system-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-11T17:42:00+00:00",
-      "title": "Elon Musk: A Product of the System | newsmedia.report",
-      "url": "https://www.newsmedia.report/3362867_elon-musk-a-product-of-the-system"
-    },
-    {
-      "article_id": 3362585,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "India has moved beyond the experimental stage of tokenized finance. With the launch of Demat 2.0, corporate bonds can now be issued as digital tokens and settled using central bank digital money, bringing securities ownership, distributed ledger technology and the Reserve Bank of India’s wholesale digital rupee into a single regulated infrastructure. The significance goes well beyond another blockchain pilot. India is testing whether the architecture of capital markets itself can be modernized without abandoning regulated depositories, established ownership rights or the institutional framework on which traditional financial markets depend.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-launches-demat-2-0-with-digital-rupee-settlement-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-11T14:16:00+00:00",
-      "title": "India Launches Demat 2.0 With Digital Rupee Settlement | newsmedia.report",
-      "url": "https://www.newsmedia.report/3362585_india-launches-demat-2-0-with-digital-rupee-settlement"
     }
   ],
   "version": 1
