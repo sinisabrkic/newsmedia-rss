@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3396137,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "Germany’s foreign intelligence service has sharply raised its public assessment of the threat posed by Russia. BND President Martin Jäger says Germany risks being drawn into a violent confrontation as Moscow intensifies what he describes as a “shadow war” against European states. The warning is not a prediction of an imminent Russian attack on NATO. It signals instead that German intelligence sees the boundary between hybrid confrontation and military escalation as increasingly unstable.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bnd-warns-of-conflict-with-russia-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-05T12:11:00+00:00",
+      "title": "BND Warns of Conflict With Russia | newsmedia.report",
+      "url": "https://www.newsmedia.report/3396137_bnd-warns-of-conflict-with-russia"
+    },
+    {
+      "article_id": 3396044,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Frankreichs Haushalts- und Schuldenkrise verändert ihren Charakter. Was bislang vor allem als nationales Problem hoher Defizite, wachsender Finanzierungskosten und politischer Blockaden galt, beginnt den Euro und andere europäische Anleihemärkte stärker zu belasten. Eine neue Staatsschuldenkrise ist daraus noch nicht entstanden. Doch die entscheidende Frage lautet inzwischen nicht mehr nur, wie Paris seine Finanzen stabilisiert, sondern wie lange sich der Druck auf Frankreich begrenzen lässt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/frankreichs-schuldenkrise-erreicht-den-euro-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-05T11:31:00+00:00",
+      "title": "Frankreichs Schuldenkrise erreicht den Euro | newsmedia.report",
+      "url": "https://www.newsmedia.report/3396044_frankreichs-schuldenkrise-erreicht-den-euro"
+    },
+    {
+      "article_id": 3395627,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Jehovas Zeugen verstehen sich als weltweite christliche Glaubensgemeinschaft, getragen von freiwilligen Spenden und der Arbeit ihrer Mitglieder. Hinter dieser religiösen Gemeinschaft steht zugleich eine internationale Organisation mit mehr als neun Millionen aktiven Verkündigern, Zehntausenden Versammlungen, Immobilien, Zweigbüros und rechtlichen Körperschaften in zahlreichen Staaten. Wer ihren wirtschaftlichen Strukturen folgt, stößt auf ein System, das bemerkenswert effizient funktioniert und dennoch für Außenstehende nur begrenzt einsehbar ist. Die entscheidende Frage ist deshalb nicht, ob eine Religionsgemeinschaft Vermögen besitzen darf. Selbstverständlich darf sie das. Interessant…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/zeugen-jehovas-glaube-geld-und-immobilien-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-05T07:33:00+00:00",
+      "title": "Zeugen Jehovas: Glaube, Geld und Immobilien | newsmedia.report",
+      "url": "https://www.newsmedia.report/3395627_zeugen-jehovas-glaube-geld-und-immobilien"
+    },
+    {
       "article_id": 3395565,
       "author": "Sinisa Brkic (sb)",
       "category": "Umwelt & Klima",
@@ -956,39 +989,6 @@
       "published": "2026-09-12T17:31:00+00:00",
       "title": "The Next Market Break: Could It Come in the Weeks Ahead? | newsmedia.report",
       "url": "https://www.newsmedia.report/3363983_the-next-market-break-could-it-come-in-the-weeks-ahead"
-    },
-    {
-      "article_id": 3363330,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "La vivienda se encarece en España a una velocidad que vuelve a distanciarse claramente de la evolución de los salarios. Los precios subieron un 12,2 % interanual en el segundo trimestre de 2026 y el problema ya desborda los límites del mercado inmobiliario. Comprar, alquilar, emanciparse o simplemente vivir cerca del lugar de trabajo se está convirtiendo en una cuestión económica y social cada vez más difícil para una parte de la población.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/el-precio-de-vivir-en-espa-a-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-12T05:26:00+00:00",
-      "title": "El precio de vivir en España | newsmedia.report",
-      "url": "https://www.newsmedia.report/3363330_el-precio-de-vivir-en-espana"
-    },
-    {
-      "article_id": 3363290,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Ein auf künstliche Intelligenz konzentrierter Hedgefonds verliert innerhalb eines Monats rund 67 Prozent seines Portfoliowerts. Margin Calls erzwingen Verkäufe, J.P. Morgan beendet die Kreditbeziehung und die US Börsenaufsicht SEC untersucht Handelsaktivitäten und den Einsatz von Fremdfinanzierung. Der Fall Situational Awareness zeigt erstmals in bemerkenswerter Deutlichkeit, was geschehen kann, wenn konzentrierte AI Wetten, hohe Bewertungen und Leverage gleichzeitig unter Druck geraten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/j-p-morgan-wenn-die-ai-wette-kippt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-12T04:06:00+00:00",
-      "title": "J.P. Morgan: Wenn die AI-Wette kippt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3363290_j-p-morgan-wenn-die-ai-wette-kippt"
-    },
-    {
-      "article_id": 3363275,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Donald Trump und Wladimir Putin sprechen wieder direkt miteinander, während amerikanische Vermittler zwischen Moskau und Kyjiw pendeln und der Krieg unvermindert weitergeht. Bemerkenswert ist dabei nicht nur, dass gesprochen wird, sondern worüber: Der Kreml verbindet ein mögliches Ende des Krieges inzwischen offen mit einer umfassenden Wiederherstellung der Beziehungen zu den Vereinigten Staaten. Damit zeichnet sich eine Verhandlungsebene ab, die weit über einen Waffenstillstand in der Ukraine hinausreichen könnte.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-und-putin-mehr-als-ein-telefonat-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-12T03:40:00+00:00",
-      "title": "Trump und Putin: Mehr als ein Telefonat | newsmedia.report",
-      "url": "https://www.newsmedia.report/3363275_trump-und-putin-mehr-als-ein-telefonat"
     }
   ],
   "version": 1
