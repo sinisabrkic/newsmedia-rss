@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3397225,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Motor & Wirtschaft",
+      "description": "BMW investiert rund zwei Milliarden Euro in die nächste Generation des 3er und die dazugehörige Batterieproduktion in Deutschland. Gleichzeitig verschlankt der Konzern seine Strukturen, baut Stellen ab und reagiert auf einen Wettbewerb, der vor allem aus China erheblich an Tempo gewonnen hat. Der neue 3er wird damit zum Gradmesser dafür, wie konkurrenzfähig deutsche Premiumproduktion unter neuen industriellen Bedingungen noch ist.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/motorreport_bmw_2milliarden-high.png",
+      "language": "de-AT",
+      "published": "2026-10-06T06:55:00+00:00",
+      "title": "Zwei Milliarden für den neuen BMW 3er / MotorReport / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/motorreport/3397225_zwei-milliarden-fuer-den-neuen-bmw-3er"
+    },
+    {
+      "article_id": 3397140,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "A cyberattack on the FBI has taken on a more consequential dimension. Investigators now say the breach that exposed sensitive information belonging to thousands of bureau employees became possible after a contractor failed to install an available security patch on a platform operated by a third party. What initially appeared to be another major intrusion is increasingly becoming a case study in a broader weakness: the risks created when critical government systems depend on external providers and basic security maintenance fails.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-missing-patch-that-exposed-thousands-at-the-fbi-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-06T05:01:00+00:00",
+      "title": "The Missing Patch That Exposed Thousands at the FBI | newsmedia.report",
+      "url": "https://www.newsmedia.report/3397140_the-missing-patch-that-exposed-thousands-at-the-fbi"
+    },
+    {
       "article_id": 3396864,
       "author": "Sinisa Brkic",
       "category": "Wirtschaft",
@@ -967,28 +989,6 @@
       "published": "2026-09-14T05:17:00+00:00",
       "title": "Saudi-Arabiens Öl-Umgehung fällt aus | newsmedia.report",
       "url": "https://www.newsmedia.report/3365832_saudi-arabiens-oel-umgehung-faellt-aus"
-    },
-    {
-      "article_id": 3365174,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Donald Trump fordert die Ukraine auf, Angriffe auf russische Raffinerien und Diesel Infrastruktur einzustellen. Hinter der Intervention steht ein größerer Interessenkonflikt: Kiew will Russlands Kriegswirtschaft schwächen, während Washington mit einer weltweiten Treibstoffknappheit und Rekordpreisen für Diesel in den USA konfrontiert ist. Damit gewinnt die Energiekrise direkten Einfluss auf die politische Bewertung ukrainischer Kriegsziele.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-bremst-kiews-raffineriekrieg-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-13T17:35:00+00:00",
-      "title": "Trump bremst Kiews Raffineriekrieg | newsmedia.report",
-      "url": "https://www.newsmedia.report/3365174_trump-bremst-kiews-raffineriekrieg"
-    },
-    {
-      "article_id": 3364516,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Economy",
-      "description": "German companies increased their investment in China by roughly one third in the first half of 2026, while their investment in the United States fell sharply. The divergence exposes an increasingly uncomfortable reality for European economic policy: while governments are trying to reduce strategic dependence on China, corporate investment decisions are being shaped by a different logic. The figures do not prove that German industry is abandoning the United States or rejecting Europe’s China strategy. They do, however, show how sharply political priorities and corporate calculations can diverge when global competition becomes more intense",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/germany-s-china-paradox-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-13T09:33:00+00:00",
-      "title": "Germany’s China Paradox: Corporate Investment Rises | newsmedia.report",
-      "url": "https://www.newsmedia.report/3364516_germany-s-china-paradox-corporate-investment-rises"
     }
   ],
   "version": 1
