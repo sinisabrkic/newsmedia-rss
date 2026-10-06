@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3397684,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Ökonomen hatten mit einem Rückgang von lediglich 1,0 Prozent gerechnet. Tatsächlich sanken die Auftragseingänge der deutschen Industrie im August gegenüber Juli um 10,6 Prozent. Hinter dem außergewöhnlich starken Ausschlag stehen vor allem Großaufträge im Bereich der sonstigen Fahrzeuge, doch auch die bereinigten Zahlen zeigen, dass eine überzeugende Erholung der industriellen Nachfrage weiterhin aussteht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschlands-industrieauftr-ge-brechen-um-10-6-prozent-ein-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-06T12:44:00+00:00",
+      "title": "Deutschlands Industrieaufträge brechen um 10,6 Prozent ein | newsmedia.report",
+      "url": "https://www.newsmedia.report/3397684_deutschlands-industrieauftraege-brechen-um-10-6-prozent-ein"
+    },
+    {
+      "article_id": 3397125,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Eine offene Packung Chips, noch ein Keks, ein weiteres Stück Schokolade, obwohl der Hunger längst verschwunden ist. Was schnell als mangelnde Disziplin abgetan wird, beschäftigt Ernährungsforscher, Psychologen, Neurowissenschaftler und Lebensmitteltechnologen längst auf einer anderen Ebene. Denn moderne Lebensmittel werden nicht nur nach Geschmack entwickelt. Textur, Energiedichte, Essgeschwindigkeit, Belohnungswirkung und Wiederkaufsbereitschaft können mitentscheiden, wie viel wir essen und wie schwer es manchen Menschen fällt, damit aufzuhören.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/lebensmittelindustrie-wenn-essen-zur-sucht-wird-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-06T12:04:00+00:00",
+      "title": "Lebensmittelindustrie: Wenn Essen zur Sucht wird | newsmedia.report",
+      "url": "https://www.newsmedia.report/3397125_lebensmittelindustrie-wenn-essen-zur-sucht-wird"
+    },
+    {
       "article_id": 3397225,
       "author": "Sinisa Brkic (sb)",
       "category": "Motor & Wirtschaft",
@@ -967,28 +989,6 @@
       "published": "2026-09-15T08:05:00+00:00",
       "title": "Drei Euro für Sprit: Kein Extremszenario mehr | newsmedia.report",
       "url": "https://www.newsmedia.report/3367568_drei-euro-fuer-sprit-kein-extremszenario-mehr"
-    },
-    {
-      "article_id": 3366627,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "Only five days ago, the dominant expectation was that the Federal Reserve would leave interest rates unchanged not only in September, but through the end of 2026. That consensus has collapsed with remarkable speed. Persistent inflation, oil above $100 a barrel and mounting pressure in bond markets have transformed Wednesday’s Federal Reserve decision into a potential return to monetary tightening. The change is larger than the usual adjustment in probabilities before a central bank meeting. An institution that appeared prepared to wait is now widely expected to raise rates for the first time in more than two years, giving Federal Reserve Chairman Kevin Warsh the first major monetary…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-fed-is-poised-to-reverse-course-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-14T14:55:00+00:00",
-      "title": "The Fed Is Poised to Reverse Course | newsmedia.report",
-      "url": "https://www.newsmedia.report/3366627_the-fed-is-poised-to-reverse-course"
-    },
-    {
-      "article_id": 3365832,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energie",
-      "description": "Die Blockade der Straße von Hormus hat den globalen Ölmarkt bereits schwer belastet. Nun ist mit Saudi-Arabiens East-West Pipeline ausgerechnet jene Infrastruktur ausgefallen, die einen Teil der Exporte am Persischen Golf vorbeiführen sollte. Rund vier Millionen Barrel täglich wurden zuletzt über die Leitung zum Rotmeerhafen Yanbu transportiert. Bleibt sie länger außer Betrieb, könnte damit ein Volumen gefährdet sein, das etwa vier Prozent des weltweiten Ölangebots entspricht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/saudi-arabiens-l-umgehung-f-llt-aus-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-14T05:17:00+00:00",
-      "title": "Saudi-Arabiens Öl-Umgehung fällt aus | newsmedia.report",
-      "url": "https://www.newsmedia.report/3365832_saudi-arabiens-oel-umgehung-faellt-aus"
     }
   ],
   "version": 1
