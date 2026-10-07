@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3399550,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Plus de 266 000 personnes ont manifesté mardi 6 octobre à travers la France selon le ministère de l’Intérieur, tandis que les organisateurs revendiquent 450 000 participants. Partie de lycées de la région parisienne à la mi septembre, la contestation a désormais changé d’échelle. Enseignants, parents et organisations syndicales se joignent aux élèves, plaçant le gouvernement face à une crise qui ne concerne plus seulement quelques établissements, mais l’état même de l’école publique française.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/la-col-re-lyc-enne-gagne-toute-la-france-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-07T15:15:00+00:00",
+      "title": "La colère lycéenne gagne toute la France | newsmedia.report",
+      "url": "https://www.newsmedia.report/3399550_la-colere-lyceenne-gagne-toute-la-france"
+    },
+    {
       "article_id": 3397684,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-09-15T08:44:00+00:00",
       "title": "NATO Shoots Down Drone Over Lithuania | newsmedia.report",
       "url": "https://www.newsmedia.report/3367628_nato-shoots-down-drone-over-lithuania"
-    },
-    {
-      "article_id": 3367568,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Drei Euro für einen Liter Kraftstoff galten lange als theoretische Schmerzgrenze. Nun warnt der deutsche Tankstellen Interessenverband vor genau dieser Größenordnung, während auch Österreichs Energiehandel die Drei Euro Marke bereits öffentlich ins Spiel gebracht hat. Noch ist sie weder in Deutschland noch in Österreich der Normalfall. Doch steigende Ölpreise, geopolitische Risiken und zusätzliche Kosten haben aus einer abstrakten Zahl ein ernstzunehmendes Szenario gemacht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/drei-euro-f-r-sprit-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-15T08:05:00+00:00",
-      "title": "Drei Euro für Sprit: Kein Extremszenario mehr | newsmedia.report",
-      "url": "https://www.newsmedia.report/3367568_drei-euro-fuer-sprit-kein-extremszenario-mehr"
     }
   ],
   "version": 1
