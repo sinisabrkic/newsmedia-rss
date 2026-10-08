@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3400776,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Medien",
+      "description": "Er gilt als technologischer Visionär, bewegt Milliarden und beeinflusst längst nicht mehr nur die Wirtschaft, sondern auch die internationale Politik. Doch wie viel von Elon Musks öffentlichem Ruf als außergewöhnliches Genie beruht auf nachweisbaren Leistungen und wie viel auf einer bemerkenswert erfolgreichen Selbstinszenierung? Der Oscar-prämierte Dokumentarfilmer Alex Gibney hat vier Jahre lang recherchiert und zeichnet in seinem neuen Film „Musk“ das kritische Porträt eines Unternehmers, dessen wirtschaftliche und politische Macht grundlegende Fragen aufwirft. Seine Dokumentation untersucht nicht nur eine der umstrittensten Persönlichkeiten unserer Zeit, sondern auch eine…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/elon-musk-genie-oder-nur-fake-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-08T12:19:00+00:00",
+      "title": "Elon Musk: Genie oder nur Fake? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3400776_elon-musk-genie-oder-nur-fake"
+    },
+    {
+      "article_id": 3400670,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Google has launched Playground, an AI-powered platform that allows users to create playable video games through simple text instructions. Developed alongside a strategic partnership with Unity, the technology could make game development accessible to millions of new creators and challenge established gaming platforms. Its long-term significance extends beyond entertainment, pointing to a future in which artificial intelligence can generate increasingly complex interactive software.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/google-playground-create-video-games-without-coding-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-08T10:47:00+00:00",
+      "title": "Google Playground: Create Video Games Without Coding | newsmedia.report",
+      "url": "https://www.newsmedia.report/3400670_google-playground-create-video-games-without-coding"
+    },
+    {
       "article_id": 3400580,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -967,28 +989,6 @@
       "published": "2026-09-16T10:55:00+00:00",
       "title": "US Confirms Weapons in Orbit | newsmedia.report",
       "url": "https://www.newsmedia.report/3369341_us-confirms-weapons-in-orbit"
-    },
-    {
-      "article_id": 3369290,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Saudi-Arabien meldet den Abschuss einer Drohne südlich von Mekka. Nach Darstellung der saudisch geführten Militärkoalition wurde das Fluggerät von den Huthis im Jemen gestartet und abgefangen, bevor es in den gesperrten Luftraum über der heiligsten Stadt des Islam eindringen konnte. Die Huthis bestreiten ausdrücklich, Mekka oder andere religiöse Stätten angegriffen zu haben.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/saudi-arabien-drohne-vor-mekka-abgefangen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-16T10:21:00+00:00",
-      "title": "Saudi-Arabien: Drohne vor Mekka abgefangen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3369290_saudi-arabien-drohne-vor-mekka-abgefangen"
-    },
-    {
-      "article_id": 3369242,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "उत्तरी अरब सागर में भारतीय और पाकिस्तानी नौसेना की इकाइयों के बीच हुई टक्कर के बाद दोनों देशों के बीच नया कूटनीतिक तनाव पैदा हो गया है। घटना 15 सितंबर 2026 को अंतरराष्ट्रीय जलक्षेत्र में हुई और किसी बड़े नुकसान की सूचना नहीं है। भारत ने इसके एक दिन बाद नई दिल्ली में पाकिस्तान के शीर्ष राजनयिक को तलब कर औपचारिक विरोध दर्ज कराया। यह घटना मई 2025 में दोनों परमाणु शक्ति संपन्न पड़ोसी देशों के बीच चार दिनों तक चले सैन्य टकराव के बाद विशेष संवेदनशीलता रखती है। फिलहाल ऐसा कोई संकेत नहीं है कि समुद्र में हुई यह घटना किसी नए सैन्य संघर्ष में बदल गई है।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/see_indien_pakistan-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-16T09:30:00+00:00",
-      "title": "भारत और पाकिस्तान के नौसैनिक पोत अरब सागर में टकराए | newsmedia.report",
-      "url": "https://www.newsmedia.report/3369242_bha-rata-oura-pa-ka-sa-ta-na-ka-na-sa-na-ka-pa-ta-arab-sa-gara-ma-takara-e"
     }
   ],
   "version": 1
