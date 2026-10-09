@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3402242,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Die Europäische Union verstärkt ihre Bemühungen, die Abhängigkeit von China bei strategisch wichtigen Rohstoffen zu verringern. Mit 46 neu ausgewählten Projekten und einem geschätzten Investitionsbedarf von 21,1 Milliarden Euro will Brüssel die Versorgung der europäischen Industrie langfristig absichern. Die Initiative betrifft Schlüsselbranchen von der Automobilproduktion bis zur Verteidigungsindustrie. Doch die Finanzierung bleibt eine zentrale Herausforderung.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-gegen-china-projekte-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-09T10:36:00+00:00",
+      "title": "EU gegen China: 46 Projekte für 21 Milliarden Euro | newsmedia.report",
+      "url": "https://www.newsmedia.report/3402242_eu-gegen-china-46-projekte-fuer-21-milliarden-euro"
+    },
+    {
       "article_id": 3401903,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -978,17 +989,6 @@
       "published": "2026-09-16T14:35:00+00:00",
       "title": "España investiga un ataque con IA | newsmedia.report",
       "url": "https://www.newsmedia.report/3369645_espana-investiga-un-ataque-con-ia"
-    },
-    {
-      "article_id": 3369354,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Der frühere kosovarische Präsident Hashim Thaçi ist in Den Haag wegen Kriegsverbrechen zu 25 Jahren Haft verurteilt worden. Die Richter sprachen ihn wegen Mordes, Folter, grausamer Behandlung sowie rechtswidriger und willkürlicher Festnahme und Inhaftierung schuldig. Von den Anklagepunkten wegen Verbrechen gegen die Menschlichkeit wurde Thaçi dagegen freigesprochen. Das Urteil ist noch nicht rechtskräftig.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/25-jahre-haft-f-r-kosovos-ex-pr-sident-tha-i-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-16T11:13:00+00:00",
-      "title": "25 Jahre Haft für Kosovos Ex-Präsident Thaçi | newsmedia.report",
-      "url": "https://www.newsmedia.report/3369354_25-jahre-haft-fuer-kosovos-ex-praesident-thaci"
     }
   ],
   "version": 1
