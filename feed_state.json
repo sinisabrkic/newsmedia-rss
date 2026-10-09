@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3401903,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "1969 verurteilten die Vereinigten Staaten die öffentliche Zurschaustellung hingerichteter Menschen im Irak und beriefen sich dabei ausdrücklich auf Menschenrechte und Menschenwürde. Mehr als ein halbes Jahrhundert später plant das Pentagon, die Erschießung eines verurteilten Massenmörders live zu übertragen. Die historischen Umstände unterscheiden sich erheblich, doch Washington muss sich an einer Frage messen lassen, die es einst selbst aufgeworfen hat: Wo endet die legitime Ausübung staatlicher Strafgewalt und wo beginnt ihre menschenrechtlich bedenkliche Inszenierung?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ffentliche-hinrichtungen-in-den-usa-gesellschaftsf-hig-im-irak-verwerflich-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-09T06:30:00+00:00",
+      "title": "Öffentliche Hinrichtungen: In den USA gesellschaftsfähig, im Irak verwerflich? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3401903_oeffentliche-hinrichtungen-in-den-usa-gesellschaftsfaehig-im-irak-verwerflich"
+    },
+    {
       "article_id": 3400776,
       "author": "Sinisa Brkic (sb)",
       "category": "Medien",
@@ -978,17 +989,6 @@
       "published": "2026-09-16T11:13:00+00:00",
       "title": "25 Jahre Haft für Kosovos Ex-Präsident Thaçi | newsmedia.report",
       "url": "https://www.newsmedia.report/3369354_25-jahre-haft-fuer-kosovos-ex-praesident-thaci"
-    },
-    {
-      "article_id": 3369341,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Security",
-      "description": "The United States has publicly acknowledged for the first time that it is operating weapons in Earth orbit. The disclosure marks a significant change in how Washington talks about military power in space, ending years of deliberate ambiguity over whether American orbital systems include weapons. China and Russia have responded with warnings about the consequences for strategic stability and the risk of an accelerating arms race beyond Earth.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/us-confirms-weapons-in-orbit-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-16T10:55:00+00:00",
-      "title": "US Confirms Weapons in Orbit | newsmedia.report",
-      "url": "https://www.newsmedia.report/3369341_us-confirms-weapons-in-orbit"
     }
   ],
   "version": 1
