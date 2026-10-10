@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3403275,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Medien",
+      "description": "Bereits vor zehn Jahren veröffentlichte WikiLeaks interne E-Mails aus dem amerikanischen Präsidentschaftswahlkampf, in denen Jeffrey Epstein und seine Verbindungen zu Bill Clinton und Donald Trump thematisiert wurden. Die Dokumente zeigen, dass die Kontakte des bereits vorbestraften Finanziers zur politischen Elite schon damals für Aufmerksamkeit sorgten. Angesichts der umfangreichen Aktenfreigaben im Jahr 2026 erhalten die historischen Veröffentlichungen der Enthüllungsplattform von Julian Assange eine neue Bedeutung.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wikileaks-2016-jeffrey-epstein-bill-clinton-und-donald-trump-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-10T06:28:00+00:00",
+      "title": "WikiLeaks 2016: Jeffrey Epstein, Bill Clinton und Donald Trump | newsmedia.report",
+      "url": "https://www.newsmedia.report/3403275_wikileaks-2016-jeffrey-epstein-bill-clinton-und-donald-trump"
+    },
+    {
       "article_id": 3403241,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-09-17T07:11:00+00:00",
       "title": "OpenAI legt sechs KI-Vorfälle offen | newsmedia.report",
       "url": "https://www.newsmedia.report/3370474_openai-legt-sechs-ki-vorfaelle-offen"
-    },
-    {
-      "article_id": 3370434,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Die Federal Reserve erhöht erstmals seit 2023 wieder die Zinsen. Was zunächst wie eine Entscheidung für Banken und Finanzmärkte klingt, kann bis in den Alltag von Verbrauchern reichen. Kredite, Immobilienfinanzierungen, Sparguthaben, Wertpapierdepots, Energiepreise und selbst die Sicherheit von Arbeitsplätzen können von der neuen Richtung der Geldpolitik beeinflusst werden. Für Verbraucher in Europa ist dabei weniger der einzelne Zinsschritt entscheidend als das, was daraus folgt. Bleiben Inflation und Finanzierungskosten länger hoch, verändert sich die Rechnung für Schuldner, Sparer, Immobilienkäufer und Anleger gleichermaßen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-zinswende-beginnt-was-jetzt-auf-verbraucher-zukommt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-17T06:44:00+00:00",
-      "title": "Die Zinswende beginnt: Was jetzt auf Verbraucher zukommt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3370434_die-zinswende-beginnt-was-jetzt-auf-verbraucher-zukommt"
     }
   ],
   "version": 1
