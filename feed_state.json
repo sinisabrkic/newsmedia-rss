@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3403241,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Indian authorities have imposed sweeping security restrictions across New Delhi as protests over the country's electoral system intensify. Thousands of security personnel have been deployed, hundreds of demonstrators detained and major transport services disrupted. At the centre of the confrontation is a controversial revision of voter registers involving approximately 130 million deleted entries, raising profound questions about electoral transparency, institutional accountability and the right to peaceful protest.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-locks-down-delhi-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-10T05:07:00+00:00",
+      "title": "India Locks Down Delhi | newsmedia.report",
+      "url": "https://www.newsmedia.report/3403241_india-locks-down-delhi"
+    },
+    {
       "article_id": 3402242,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-09-17T06:44:00+00:00",
       "title": "Die Zinswende beginnt: Was jetzt auf Verbraucher zukommt | newsmedia.report",
       "url": "https://www.newsmedia.report/3370434_die-zinswende-beginnt-was-jetzt-auf-verbraucher-zukommt"
-    },
-    {
-      "article_id": 3369645,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "La Agencia Española de Protección de Datos investiga una brecha en la que un agente de inteligencia artificial habría ejecutado de forma autónoma varias fases consecutivas de un ciberataque. El sistema habría buscado vulnerabilidades, obtenido acceso a una aplicación y continuado después explorando nuevas posibilidades de ataque hasta modificar datos personales y acceder a facturas. La secuencia todavía está siendo verificada, pero el caso abre una nueva dimensión en el debate sobre inteligencia artificial y ciberseguridad.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/espa-a-investiga-un-ataque-con-ia-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-16T14:35:00+00:00",
-      "title": "España investiga un ataque con IA | newsmedia.report",
-      "url": "https://www.newsmedia.report/3369645_espana-investiga-un-ataque-con-ia"
     }
   ],
   "version": 1
