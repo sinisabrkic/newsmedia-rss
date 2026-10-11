@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3404725,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Medien",
+      "description": "Elon Musk gilt als reichster Mensch der Welt. Sein Vermögen erreicht die Größenordnung von einer Billion US-Dollar, obwohl es überwiegend aus schwankenden Unternehmensbeteiligungen besteht. Doch während sich die öffentliche Aufmerksamkeit auf seine Vermögensrekorde und Provokationen konzentriert, verfügen andere Technologieunternehmer über weitreichende Kontrollrechte und gesellschaftlichen Einfluss. Die entscheidende Frage lautet deshalb nicht nur, wie reich Musk tatsächlich ist, sondern auch, welche wirtschaftlichen und politischen Entwicklungen aus dem Blickfeld geraten, während alle auf ihn schauen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/elon-musk-die-t-uschung-vom-billionenverm-gen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-11T10:04:00+00:00",
+      "title": "Elon Musk: Die Täuschung vom Billionenvermögen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3404725_elon-musk-die-taeuschung-vom-billionenvermoegen"
+    },
+    {
       "article_id": 3404659,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-09-18T06:33:00+00:00",
       "title": "Polen warnt vor Angriffen auf NATO-Gebiet | newsmedia.report",
       "url": "https://www.newsmedia.report/3371831_polen-warnt-vor-angriffen-auf-nato-gebiet"
-    },
-    {
-      "article_id": 3370977,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Bundesregierung will deutlich mehr privates Kapital für deutsche Startups mobilisieren und die WIN Initiative auf ein Volumen von mehr als 25 Milliarden Euro ausbauen. Im Zentrum stehen dabei zunehmend institutionelle Anleger wie Pensionskassen, Versorgungseinrichtungen und Stiftungen. Der Schritt trifft einen entscheidenden Schwachpunkt des deutschen Innovationsstandorts: Junge Unternehmen entstehen in großer Zahl, für ihre Wachstumsphase fehlt jedoch häufig Kapital aus dem eigenen Land.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/25-milliarden-euro-f-r-startups-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-17T13:15:00+00:00",
-      "title": "25 Milliarden Euro für Startups | newsmedia.report",
-      "url": "https://www.newsmedia.report/3370977_25-milliarden-euro-fuer-startups"
     }
   ],
   "version": 1
