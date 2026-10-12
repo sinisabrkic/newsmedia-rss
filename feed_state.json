@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3406940,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Künstliche Intelligenz wird als technologische Revolution gefeiert und zugleich als mögliche Bedrohung der Menschheit dargestellt. Maschinen sollen eines Tages selbstständig denken, eigene Interessen entwickeln und sich sogar menschlicher Kontrolle entziehen können. Während die Öffentlichkeit über solche Szenarien diskutiert, entsteht eine wesentlich konkretere Machtstruktur: Wenige Technologieunternehmen investieren Milliarden in künstliche Intelligenz und gewinnen zunehmend Einfluss darauf, wie Menschen arbeiten, kommunizieren und Informationen erhalten. Die entscheidende Frage lautet deshalb nicht nur, was KI künftig leisten könnte, sondern vor allem, welche Ziele die Menschen…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ki-hat-kein-bewusstsein-die-menschen-dahinter-schon-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-12T12:44:00+00:00",
+      "title": "KI hat kein Bewusstsein. Die Menschen dahinter schon. | newsmedia.report",
+      "url": "https://www.newsmedia.report/3406940_ki-hat-kein-bewusstsein-die-menschen-dahinter-schon"
+    },
+    {
+      "article_id": 3406623,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Herbert Kickl und Alice Weidel wollen mit FPÖ und AfD die Politik in Österreich und Deutschland grundlegend verändern. Während Kickl angesichts der österreichischen Regierungskrise den Druck auf die Koalition erhöht, verschieben sich in Deutschland die politischen Kräfteverhältnisse. Beide Parteien verfügen über erheblichen Rückhalt, doch der Weg zur Regierungsverantwortung bleibt schwierig. Welche Koalitionen sind möglich, welche Hindernisse bestehen und was geschieht, wenn politische Versprechen auf die tatsächlichen Anforderungen des Regierens treffen?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fp-afd-co-der-weg-in-die-regierung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-12T09:51:00+00:00",
+      "title": "FPÖ, AfD & Co.: Der Weg in die Regierung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3406623_fpoe-afd-co-der-weg-in-die-regierung"
+    },
+    {
       "article_id": 3404842,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik / Welt",
@@ -967,28 +989,6 @@
       "published": "2026-09-18T09:22:00+00:00",
       "title": "EU beginnt erstmals mit industrieller CO₂-Speicherung | newsmedia.report",
       "url": "https://www.newsmedia.report/3372015_eu-beginnt-erstmals-mit-industrieller-co2-speicherung"
-    },
-    {
-      "article_id": 3371906,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "The Bank of Japan has raised its key interest rate from 1.00 percent to 1.25 percent, taking borrowing costs to their highest level since 1995. The decision marks another significant step away from the ultra-low interest rate policy that shaped Japan for decades and supplied global financial markets with an exceptional source of cheap capital.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/japan-raises-rates-to-31-year-high-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-18T08:01:00+00:00",
-      "title": "Japan Raises Rates to 31-Year High | newsmedia.report",
-      "url": "https://www.newsmedia.report/3371906_japan-raises-rates-to-31-year-high"
-    },
-    {
-      "article_id": 3371851,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Le département d’État américain a autorisé une possible vente de 48 chasseurs furtifs F-35 Lightning II à l’Arabie saoudite, dans le cadre d’un ensemble évalué à 24,3 milliards de dollars. Si l’opération aboutit, Riyad deviendrait le premier pays arabe à exploiter cet appareil et le deuxième État du Moyen-Orient après Israël. La décision ouvre désormais une phase politiquement sensible, entre contrôle du Congrès, protection des technologies américaines et préservation de l’avantage militaire qualitatif israélien.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/f-35-washington-donne-son-feu-vert-riyad-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-18T06:55:00+00:00",
-      "title": "F-35 : Washington donne son feu vert à Riyad | newsmedia.report",
-      "url": "https://www.newsmedia.report/3371851_f-35-washington-donne-son-feu-vert-a-riyad"
     }
   ],
   "version": 1
