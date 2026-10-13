@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3407870,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Der 440 Seiten umfassende Auswertungsbericht der Wirtschafts- und Korruptionsstaatsanwaltschaft über den Laptop des verstorbenen Justizsektionschefs Christian Pilnacek setzt die ÖVP unter erheblichen politischen Erklärungsdruck. Die dokumentierten Verbindungen zwischen Pilnacek, führenden Parteivertretern und Rechtsanwälten zeichnen ein bemerkenswertes Bild informeller Zusammenarbeit. Während ÖVP-Fraktionsführer Andreas Hanger weiterhin von Verschwörungserzählungen spricht, sieht Antikorruptionsexperte Martin Kreutner inzwischen eine deutlich verdichtete Indizienlage.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pilnacek-akten-bringen-vp-in-bedr-ngnis-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-13T06:01:00+00:00",
+      "title": "Pilnacek-Akten bringen ÖVP in Bedrängnis | newsmedia.report",
+      "url": "https://www.newsmedia.report/3407870_pilnacek-akten-bringen-oevp-in-bedraengnis"
+    },
+    {
       "article_id": 3406940,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -978,17 +989,6 @@
       "published": "2026-09-18T12:37:00+00:00",
       "title": "FBI sucht neue Hinweise im Fall Alejandro Vasquez / Missing & Wanted / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/missing-wanted/3372227_fbi-sucht-neue-hinweise-im-fall-alejandro-vasquez"
-    },
-    {
-      "article_id": 3372015,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energie",
-      "description": "Mit Greensand nimmt in Dänemark die erste voll operative Offshore Anlage zur industriellen CO₂-Speicherung innerhalb der Europäischen Union ihren Betrieb auf. Das abgeschiedene Kohlendioxid wird in einem ehemaligen Ölfeld rund 1.800 Meter unter dem Meeresboden der Nordsee dauerhaft eingelagert. Damit verlässt eine Technologie die europäische Demonstrationsphase, die für schwer dekarbonisierbare Industrien zu einem wichtigen Teil der künftigen Infrastruktur werden soll.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-beginnt-erstmals-mit-industrieller-co-speicherung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-18T09:22:00+00:00",
-      "title": "EU beginnt erstmals mit industrieller CO₂-Speicherung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3372015_eu-beginnt-erstmals-mit-industrieller-co2-speicherung"
     }
   ],
   "version": 1
