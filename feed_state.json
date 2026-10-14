@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3409835,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "René Benko darf das Gefängnis verlassen und seine Untersuchungshaft künftig unter elektronischer Überwachung in einer Wohnung verbringen. Das Landesgericht Innsbruck bewilligte am Mittwoch einen entsprechenden Antrag des Signa-Gründers, obwohl sich die Wirtschafts- und Korruptionsstaatsanwaltschaft dagegen ausgesprochen hatte. Die Entscheidung verändert Benkos Haftbedingungen grundlegend, während die strafrechtliche Aufarbeitung des milliardenschweren Signa-Zusammenbruchs weitergeht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ren-benko-gericht-bewilligt-fu-fessel-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-14T09:50:00+00:00",
+      "title": "René Benko: Gericht bewilligt Fußfessel | newsmedia.report",
+      "url": "https://www.newsmedia.report/3409835_rene-benko-gericht-bewilligt-fussfessel"
+    },
+    {
+      "article_id": 3409770,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Iran is intensifying its campaign against international shipping, adopting new surveillance tactics and expanding attacks beyond the Strait of Hormuz. Despite substantial losses to its naval forces, Tehran continues to threaten one of the world's most important energy corridors. Senior Iranian officials say the strategy is also intended to keep oil prices elevated ahead of the U.S. midterm elections, adding a political dimension to an increasingly dangerous maritime confrontation.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-turns-the-strait-of-hormuz-into-a-weapon-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-14T09:21:00+00:00",
+      "title": "Iran Turns the Strait of Hormuz Into a Weapon | newsmedia.report",
+      "url": "https://www.newsmedia.report/3409770_iran-turns-the-strait-of-hormuz-into-a-weapon"
+    },
+    {
       "article_id": 3408349,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -967,28 +989,6 @@
       "published": "2026-09-20T10:50:00+00:00",
       "title": "Wandel der Energiemärkte: BlackRocks neuer Milliarden-Deal | newsmedia.report",
       "url": "https://www.newsmedia.report/3374551_wandel-der-energiemaerkte-blackrocks-neuer-milliarden-deal"
-    },
-    {
-      "article_id": 3374402,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La capitale russa e la regione circostante sono state investite da quella che il sindaco di Mosca Sergei Sobyanin ha definito la più vasta offensiva di droni mai diretta contro la città. Secondo le autorità russe, da sabato sarebbero stati intercettati più di 1.600 velivoli senza pilota, circa 450 dei quali mentre si dirigevano verso Mosca. Alcuni droni hanno tuttavia raggiunto il territorio della raffineria della capitale, mentre nella regione almeno due persone sono morte. L’attacco è avvenuto il 20 settembre, terzo e ultimo giorno delle elezioni parlamentari russe. La combinazione tra la dimensione dell’operazione, la pressione diretta sulla capitale, il coinvolgimento di…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mosca-attacco-record-di-droni-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-20T08:40:00+00:00",
-      "title": "Mosca, attacco record di droni: colpita la raffineria | newsmedia.report",
-      "url": "https://www.newsmedia.report/3374402_mosca-attacco-record-di-droni-colpita-la-raffineria"
-    },
-    {
-      "article_id": 3374377,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Noch nie war explizite Sexualität so leicht, anonym und nahezu unbegrenzt verfügbar wie heute. Viele Jugendliche begegnen Pornographie lange bevor sie selbst erfahren haben, was Intimität, Vertrauen, Zurückweisung, Begehren und eine reale sexuelle Beziehung bedeuten. Gleichzeitig wächst dieselbe Generation mit TikTok, Reels, Gaming, Dating Apps und permanenten digitalen Belohnungsreizen auf. Die entscheidende Frage lautet deshalb nicht, ob Pornographie eine Generation zerstört hat, sondern was mit Menschen geschieht, wenn der Bildschirm früher und intensiver über Sex, Anerkennung und Begehren spricht als das wirkliche Leben.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-generation-der-kostenlosen-pornographie-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-20T08:11:00+00:00",
-      "title": "Die Generation der kostenlosen Pornographie | newsmedia.report",
-      "url": "https://www.newsmedia.report/3374377_die-generation-der-kostenlosen-pornographie"
     }
   ],
   "version": 1
