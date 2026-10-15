@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3411439,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Eine internationale Untersuchung enthüllt, wie gewöhnliche Onlineanzeigen für weltweite Überwachung und gezielte Cyberangriffe missbraucht wurden. Die Infrastruktur eines israelischen Unternehmens erreichte auch Netzwerke der NATO, der Europäischen Kommission und weiterer sicherheitsrelevanter Institutionen. Während bei dem Nachrichtensender Al Jazeera tatsächliche Infektionen mit Spionagesoftware nachgewiesen wurden, ist eine erfolgreiche Kompromittierung von EU- oder NATO-Systemen bislang nicht belegt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-und-nato-spionage-durch-onlinewerbung-newsmedia-high.png",
+      "language": "de-AT",
+      "published": "2026-10-15T12:02:00+00:00",
+      "title": "EU und NATO: Spionage durch Onlinewerbung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3411439_eu-und-nato-spionage-durch-onlinewerbung"
+    },
+    {
+      "article_id": 3411358,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Chinese automakers are expanding across Europe at an unprecedented pace, but their growing international presence conceals mounting pressure at home. With domestic sales falling sharply, exports surging and more than 100 manufacturers competing in an increasingly crowded market, Europe is becoming far more than another sales opportunity. For some Chinese carmakers, success on the continent could determine whether they survive the industry's next major consolidation.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/china-automakers-survival-may-depend-on-europe-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-15T11:25:00+00:00",
+      "title": "China’s Automakers: Survival May Depend on Europe / MotorReport / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/motorreport/3411358_china-s-automakers-survival-may-depend-on-europe"
+    },
+    {
       "article_id": 3411205,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -967,28 +989,6 @@
       "published": "2026-09-22T08:55:00+00:00",
       "title": "Europas Energiewinter 2026 wird gefährlich | newsmedia.report",
       "url": "https://www.newsmedia.report/3377537_europas-energiewinter-2026-wird-gefaehrlich"
-    },
-    {
-      "article_id": 3377457,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Ab 1. Oktober 2026 gilt in Österreich die neue Paketsteuer. Für steuerpflichtige Paketzustellungen werden grundsätzlich zwei Euro fällig, alternativ kann die Abgabe auch pro Bestellung berechnet werden. Betroffen sind jedoch nicht sämtliche Onlinehändler, sondern vor allem große Versandunternehmen und Online Marktplätze mit mehr als 100 Millionen Euro relevantem Versandhandelsumsatz in Österreich.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/paketsteuer-in-sterreich-ab-1-oktober-2026-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-22T08:01:00+00:00",
-      "title": "Paketsteuer in Österreich ab 1. Oktober 2026 | newsmedia.report",
-      "url": "https://www.newsmedia.report/3377457_paketsteuer-in-oesterreich-ab-1-oktober-2026"
-    },
-    {
-      "article_id": 3377410,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Das Eurosystem bringt Zentralbankgeld in den produktiven Markt für tokenisierte Wertpapiere. Mit Pontes können Banken und Finanzmarktinfrastrukturen digitale Wertpapiergeschäfte über Systeme auf Basis verteilter Datenbanken abwickeln, ohne für die Zahlungsseite auf private digitale Zahlungsmittel angewiesen zu sein. Gleichzeitig bereitet die Europäische Zentralbank erstmals eigene Investitionen in tokenisierte Wertpapiere vor.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ezb-ffnet-den-euro-f-r-blockchain-finanzm-rkte-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-22T07:34:00+00:00",
-      "title": "EZB öffnet den Euro für Blockchain Finanzmärkte | newsmedia.report",
-      "url": "https://www.newsmedia.report/3377410_ezb-oeffnet-den-euro-fuer-blockchain-finanzmaerkte"
     }
   ],
   "version": 1
