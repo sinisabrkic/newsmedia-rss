@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3413017,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Indonesiens Aktienmarkt hat am Freitag den schwersten Börseneinbruch seit der asiatischen Finanzkrise von 1998 erlebt. Der Leitindex in Jakarta verlor 11,57 Prozent, der Handel musste vorübergehend ausgesetzt werden. Auslöser ist eine überraschende Ankündigung des internationalen Indexanbieters MSCI, der Indonesien den Status als Schwellenländermarkt entziehen könnte. Damit stehen milliardenschwere Kapitalabflüsse und die internationale Glaubwürdigkeit eines der wichtigsten Finanzmärkte Südostasiens auf dem Spiel.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/indonesiens-b-rse-st-rzt-um-11-57-prozent-ab-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-16T14:00:00+00:00",
+      "title": "Indonesiens Börse stürzt um 11,57 Prozent ab | newsmedia.report",
+      "url": "https://www.newsmedia.report/3413017_indonesiens-boerse-stuerzt-um-11-57-prozent-ab"
+    },
+    {
       "article_id": 3411439,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-09-22T09:41:00+00:00",
       "title": "Asia’s Richest Person: TikTok Founder Zhang Yiming | newsmedia.report",
       "url": "https://www.newsmedia.report/3377612_asia-s-richest-person-tiktok-founder-zhang-yiming"
-    },
-    {
-      "article_id": 3377537,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energie",
-      "description": "Europas Gasspeicher sind kurz vor Beginn der Heizperiode auffallend schwach gefüllt, die Energiepreise bleiben hoch und die geopolitischen Risiken haben sich nicht beruhigt. Eine akute Versorgungskrise sieht die Europäische Union bislang nicht. Doch genau darin liegt die Gefahr des kommenden Winters: Europa ist besser vorbereitet als 2022, geht aber mit deutlich weniger Reserve und einer stärkeren Abhängigkeit vom globalen Energiemarkt in die kalte Jahreszeit.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-energiewinter-2026-wird-gef-hrlich-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-22T08:55:00+00:00",
-      "title": "Europas Energiewinter 2026 wird gefährlich | newsmedia.report",
-      "url": "https://www.newsmedia.report/3377537_europas-energiewinter-2026-wird-gefaehrlich"
     }
   ],
   "version": 1
