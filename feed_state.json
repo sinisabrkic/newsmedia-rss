@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3414104,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Gerichtsverfahren sollen Rechte schützen und Konflikte klären. Doch sie können selbst zum Instrument der Einschüchterung werden, wenn finanzstarke Kläger mit aufwendigen Verfahren gegen Journalisten, Medien und kritische Stimmen vorgehen. Die Europäische Union hat darauf mit einer eigenen Anti-SLAPP-Richtlinie reagiert. Während die Umsetzungsfrist längst abgelaufen ist, bestehen insbesondere bei rein nationalen Verfahren weiterhin erhebliche Schutzlücken.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/slapp-klagen-wenn-kritiker-zum-schweigen-geklagt-werden-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-17T12:22:00+00:00",
+      "title": "SLAPP-Klagen: Wenn Kritiker zum Schweigen geklagt werden | newsmedia.report",
+      "url": "https://www.newsmedia.report/3414104_slapp-klagen-wenn-kritiker-zum-schweigen-geklagt-werden"
+    },
+    {
       "article_id": 3413858,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesundheit",
@@ -978,17 +989,6 @@
       "published": "2026-09-23T09:11:00+00:00",
       "title": "Israel and Gaza: Ceasefire Under Strain | newsmedia.report",
       "url": "https://www.newsmedia.report/3379138_israel-and-gaza-ceasefire-under-strain"
-    },
-    {
-      "article_id": 3379007,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Rechtsgerichtete und rechtspopulistische Parteien gewinnen in mehreren europäischen Staaten an Stärke. Viele versprechen nicht nur einen anderen politischen Kurs, sondern eine grundlegende Korrektur bestehender Verhältnisse. Doch zwischen Wahlerfolg und tatsächlicher Gestaltungsmacht liegen Koalitionen, Verfassungen, Gerichte, europäische Verpflichtungen, Staatsfinanzen und Verwaltungsstrukturen. Erst in Regierungsverantwortung zeigt sich deshalb, wie viel vom angekündigten Wandel tatsächlich umgesetzt werden kann.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-rechtsruck-versprechen-und-systemgrenzen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-23T08:31:00+00:00",
-      "title": "Europas Rechtsruck: Versprechen und Systemgrenzen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3379007_europas-rechtsruck-versprechen-und-systemgrenzen"
     }
   ],
   "version": 1
