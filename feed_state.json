@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3413858,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Bis zu 15,50 Euro für ein Fast-Food-Menü, mehr als 1.500 Kalorien in einer einzigen Mahlzeit und Mengen an Salz und gesättigten Fettsäuren, die ernährungsmedizinische Empfehlungen teilweise deutlich überschreiten. Die offiziellen Nährwertangaben von McDonald’s Österreich werfen Fragen nach dem tatsächlichen Gegenwert auf. Gleichzeitig zeigen internationale Studien, welche gesundheitlichen Risiken eine Ernährung mit hohem Anteil stark verarbeiteter Lebensmittel begünstigen kann. Auch Jamie Olivers jahrelange Kritik an den Praktiken der Fast-Food-Industrie erhält vor diesem Hintergrund neue Aktualität.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mcdonalds-hohe-preise-auf-kosten-deiner-gesundheit-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-17T09:10:00+00:00",
+      "title": "McDonald’s: Hohe Preise auf Kosten deiner Gesundheit? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3413858_mcdonald-s-hohe-preise-auf-kosten-deiner-gesundheit"
+    },
+    {
+      "article_id": 3413701,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Die italienische Justiz weitet ihre Ermittlungen gegen hochrangige israelische Regierungs- und Militärvertreter aus. Neben Sicherheitsminister Itamar Ben-Gvir stehen nun auch Verteidigungsminister Israel Katz und Generalstabschef Eyal Zamir im Fokus der Staatsanwaltschaft in Rom. Hintergrund sind schwere Misshandlungsvorwürfe italienischer Aktivisten, die während zweier Hilfsmissionen in Richtung Gazastreifen von israelischen Sicherheitskräften festgenommen wurden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/italien-ermittelt-gegen-israels-verteidigungsminister-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-17T06:23:00+00:00",
+      "title": "Italien ermittelt gegen Israels Verteidigungsminister | newsmedia.report",
+      "url": "https://www.newsmedia.report/3413701_italien-ermittelt-gegen-israels-verteidigungsminister"
+    },
+    {
       "article_id": 3413690,
       "author": "Sinisa Brkic (sb)",
       "category": "Politik / Tabaksteuer / Deutschland / Österreich",
@@ -967,28 +989,6 @@
       "published": "2026-09-23T08:31:00+00:00",
       "title": "Europas Rechtsruck: Versprechen und Systemgrenzen | newsmedia.report",
       "url": "https://www.newsmedia.report/3379007_europas-rechtsruck-versprechen-und-systemgrenzen"
-    },
-    {
-      "article_id": 3377760,
-      "author": "NEWSMEDIA Editorial Team",
-      "category": "Missing & Wanted",
-      "description": "In den frühen Morgenstunden des 2. September 2006 wurde Miguel Oliveras zuletzt in Portland im US-Bundesstaat Maine gesehen. Seitdem gibt es nach Angaben des FBI keine gemeldete Sichtung und keinen bekannten Kontakt. Zwanzig Jahre später suchen das FBI und die Portland Police weiterhin nach Oliveras oder seinen sterblichen Überresten. Für Informationen, die zu seiner Auffindung führen, bietet das FBI bis zu 25.000 US-Dollar.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/vermisst_oliveras_miguel-high.png",
-      "language": "de-AT",
-      "published": "2026-09-22T11:13:00+00:00",
-      "title": "Seit 20 Jahren verschwunden: Wo ist Miguel Oliveras? / Missing & Wanted / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/missing-wanted/3377760_seit-20-jahren-verschwunden-wo-ist-miguel-oliveras"
-    },
-    {
-      "article_id": 3377710,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Es ist eine außergewöhnliche Aussage über den heutigen britischen König. Prinzessin Diana soll ihrem Bruder Charles Spencer erklärt haben, ihr damaliger Ehemann sei „in seinen Kammerdiener verliebt“. Spencer bestätigt nun öffentlich, dass Diana diese Worte zu ihm gesagt habe. Ob hinter ihrer Aussage tatsächlich eine Beziehung zwischen Charles und einem männlichen Mitarbeiter stand, ist jedoch bis heute nicht belegt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/diana-ber-charles-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-22T10:51:00+00:00",
-      "title": "Diana über Charles: „Mein Mann ist in seinen Kammerdiener verliebt“ | newsmedia.report",
-      "url": "https://www.newsmedia.report/3377710_diana-ueber-charles-mein-mann-ist-in-seinen-kammerdiener-verliebt"
     }
   ],
   "version": 1
