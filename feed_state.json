@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3413690,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik / Tabaksteuer / Deutschland / Österreich",
+      "description": "In Deutschland brachte die Tabaksteuer im Jahr 2025 rund 17,63 Milliarden Euro ein, in Österreich waren es rund 2,17 Milliarden Euro. Doch diese Einnahmen sind keineswegs für Krankenhäuser, Pflege oder Gesundheitsvorsorge reserviert. Sie fließen in die jeweiligen staatlichen Finanzierungssysteme, aus denen auch Ukraine-Hilfe, internationale Verpflichtungen, Unternehmensförderungen, wirtschaftspolitische Maßnahmen und zahlreiche andere öffentliche Aufgaben getragen werden. Damit stellt sich eine grundsätzliche Frage: Wer entscheidet nach welchen Prioritäten über die Verwendung dieser Milliarden, und wie nachvollziehbar sind diese Entscheidungen für die Steuerzahler?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tabaksteuer-wohin-gehen-die-milliarden-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-17T05:55:00+00:00",
+      "title": "Tabaksteuer: Wohin gehen die Milliarden? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3413690_tabaksteuer-wohin-gehen-die-milliarden"
+    },
+    {
       "article_id": 3413017,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -978,17 +989,6 @@
       "published": "2026-09-22T10:51:00+00:00",
       "title": "Diana über Charles: „Mein Mann ist in seinen Kammerdiener verliebt“ | newsmedia.report",
       "url": "https://www.newsmedia.report/3377710_diana-ueber-charles-mein-mann-ist-in-seinen-kammerdiener-verliebt"
-    },
-    {
-      "article_id": 3377612,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "ByteDance founder Zhang Yiming has risen to the top of Asia’s wealth rankings with an estimated fortune of more than $105 billion. His ascent is more than another reshuffling among the world’s billionaires. It reflects a wider shift in how some of Asia’s largest fortunes are being created, as artificial intelligence and digital platforms challenge the traditional dominance of industry, energy, infrastructure and real estate.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/asia-s-richest-person-zhang-yiming-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-22T09:41:00+00:00",
-      "title": "Asia’s Richest Person: TikTok Founder Zhang Yiming | newsmedia.report",
-      "url": "https://www.newsmedia.report/3377612_asia-s-richest-person-tiktok-founder-zhang-yiming"
     }
   ],
   "version": 1
