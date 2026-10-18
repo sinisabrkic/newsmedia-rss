@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3414796,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Frankreich erlebt eine neue Protestwelle, die das politische Establishment erheblich unter Druck setzt. Die Gelbwesten, die 2018 als spontane Bürgerbewegung gegen steigende Kraftstoffpreise entstanden, kehren als Symbol eines tiefgreifenden gesellschaftlichen Konflikts zurück. Doch hinter der aktuellen Mobilisierung zeigen sich neue Strukturen, auffällige digitale Aktivitäten und unterschiedliche politische Interessen. Ein Spezialbericht über die Menschen hinter den gelben Warnwesten, die Ursachen des Widerstands und die Frage, wer von einer Destabilisierung Frankreichs profitieren könnte.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/frankreichs-proteste-wer-profitiert-von-der-eskalation-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-18T08:45:00+00:00",
+      "title": "Frankreichs Proteste: Wer profitiert von der Eskalation? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3414796_frankreichs-proteste-wer-profitiert-von-der-eskalation"
+    },
+    {
+      "article_id": 3414717,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Le proteste contro il carovita sfociano in violenti scontri a Milano e Bologna, mentre anche Torino registra momenti di tensione. A Roma, la CGIL annuncia uno sciopero generale per il 20 novembre, portando il confronto sociale direttamente sul terreno delle scelte economiche del governo Meloni. Una giornata che mette in evidenza il crescente malcontento per salari, prezzi e condizioni di vita.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/italia-proteste-e-scontri-la-cgil-annuncia-lo-sciopero-generale-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-18T07:29:00+00:00",
+      "title": "Italia, proteste e scontri: la CGIL annuncia lo sciopero generale | newsmedia.report",
+      "url": "https://www.newsmedia.report/3414717_italia-proteste-e-scontri-la-cgil-annuncia-lo-sciopero-generale"
+    },
+    {
       "article_id": 3414104,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -967,28 +989,6 @@
       "published": "2026-09-23T20:00:00+00:00",
       "title": "Hochzeit in Indien: Liebe, Familie und Tradition / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3380029_hochzeit-in-indien-liebe-familie-und-tradition"
-    },
-    {
-      "article_id": 3379259,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "La France ne disparaît pas d’Afrique. Mais le système qui lui permettait autrefois d’y exercer une influence presque automatique appartient de plus en plus au passé. Retrait des bases militaires, affirmation des souverainetés africaines, diversification des alliances et montée en puissance des intérêts économiques redessinent une relation dans laquelle Paris doit désormais convaincre là où il pouvait autrefois compter sur la continuité.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/france-afrique-la-fin-d-un-mod-le-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-23T11:10:00+00:00",
-      "title": "France Afrique: la fin d’un modèle | newsmedia.report",
-      "url": "https://www.newsmedia.report/3379259_france-afrique-la-fin-d-un-modele"
-    },
-    {
-      "article_id": 3379138,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Nearly a year after a U.S. brokered ceasefire brought an end to major fighting in Gaza, the territory remains far from political stability. Israeli strikes continue, reconstruction has barely begun, and negotiations over Hamas disarmament, further Israeli troop withdrawals, and Gaza’s future governance remain unresolved. The conflict is also returning to the center of international diplomacy as world leaders gather at the United Nations.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/israel-and-gaza-ceasefire-under-strain-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-23T09:11:00+00:00",
-      "title": "Israel and Gaza: Ceasefire Under Strain | newsmedia.report",
-      "url": "https://www.newsmedia.report/3379138_israel-and-gaza-ceasefire-under-strain"
     }
   ],
   "version": 1
