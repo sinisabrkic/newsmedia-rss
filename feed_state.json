@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3416864,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "El este de España vuelve a sufrir inundaciones devastadoras. La DANA Adam ha dejado cuatro fallecidos, más de 2.000 evacuados y miles de viviendas y carreteras afectadas por lluvias extraordinarias en Valencia y Alicante. Dos años después de la tragedia de 2024, una nueva emergencia pone a prueba la capacidad de respuesta y protección de una región especialmente expuesta a los fenómenos meteorológicos extremos.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/espa-a-bajo-el-agua-la-dana-adam-desata-el-caos-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-19T20:55:00+00:00",
+      "title": "España bajo el agua: la DANA Adam desata el caos | newsmedia.report",
+      "url": "https://www.newsmedia.report/3416864_espana-bajo-el-agua-la-dana-adam-desata-el-caos"
+    },
+    {
       "article_id": 3416074,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-09-25T08:47:00+00:00",
       "title": "sapcora™: Wie viel von unserer Meinung ist wirklich unsere eigene? | newsmedia.report",
       "url": "https://www.newsmedia.report/3382090_sapcora-wie-viel-von-unserer-meinung-ist-wirklich-unsere-eigene"
-    },
-    {
-      "article_id": 3381921,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Il governo di Giorgia Meloni ha approvato un decreto legge che introduce nuove regole per l’integrazione nelle scuole italiane. Il provvedimento vieta la partecipazione alle attività scolastiche con il volto coperto, stabilisce una soglia del 30 per cento per determinate categorie di studenti nelle classi prime e prevede corsi di italiano per alcune famiglie con persistenti difficoltà linguistiche.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/italia-vieta-burqa-e-niqab-a-scuola-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-25T05:40:00+00:00",
-      "title": "Italia vieta burqa e niqab a scuola | newsmedia.report",
-      "url": "https://www.newsmedia.report/3381921_italia-vieta-burqa-e-niqab-a-scuola"
     }
   ],
   "version": 1
