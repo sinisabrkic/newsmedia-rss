@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3416168,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "The United Nations World Food Programme is cutting monthly food assistance for approximately 500,000 Palestinians in Gaza as a severe funding shortage forces the agency to scale back humanitarian operations. Food rations, cash assistance, and daily hot meals are also being reduced, placing additional pressure on families already struggling to meet their basic needs. The reductions come as roughly two-thirds of Gaza's population continues to face crisis-level food insecurity or worse.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gaza-500000-people-lose-un-food-aid-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-19T10:45:00+00:00",
+      "title": "Gaza: 500,000 People Lose UN Food Aid | newsmedia.report",
+      "url": "https://www.newsmedia.report/3416168_gaza-500-000-people-lose-un-food-aid"
+    },
+    {
+      "article_id": 3415999,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Der Schweizer Schokoladenkonzern Lindt & Sprüngli zieht nach einer enttäuschenden Geschäftsentwicklung weitreichende personelle Konsequenzen. Konzernchef Adalbert Lechner verlässt das Unternehmen nach 33 Jahren. Auch in Deutschland und Österreich werden die Führungsspitzen neu besetzt. Hinter dem umfassenden Umbau stehen steigende Verkaufspreise, eine schwächere Nachfrage und zunehmender Druck auf das europäische Geschäft.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/lindt-konzernchef-geht-auch-l-nderchefs-wechseln-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-19T08:45:00+00:00",
+      "title": "Lindt: Konzernchef geht, auch Länderchefs wechseln | newsmedia.report",
+      "url": "https://www.newsmedia.report/3415999_lindt-konzernchef-geht-auch-laenderchefs-wechseln"
+    },
+    {
       "article_id": 3415861,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -967,28 +989,6 @@
       "published": "2026-09-24T15:11:00+00:00",
       "title": "Pakistan Carries Out Strikes in Afghanistan | newsmedia.report",
       "url": "https://www.newsmedia.report/3381188_pakistan-carries-out-strikes-in-afghanistan"
-    },
-    {
-      "article_id": 3381054,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Die wichtigste langfristige Marktrendite der Vereinigten Staaten hat eine Schwelle erreicht, die weit über den Anleihemarkt hinaus Bedeutung besitzt. Die Rendite zehnjähriger US Staatsanleihen stieg auf 5,106 Prozent und damit auf den höchsten Stand seit 2007. Gleichzeitig erhöhen hohe Ölpreise den Inflationsdruck und bringen die Federal Reserve in eine zunehmend schwierige geldpolitische Lage.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/us-anleiherendite-und-lpreis-gef-hrliche-kombination-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-24T14:06:00+00:00",
-      "title": "US Anleiherendite und Ölpreis: Gefährliche Kombination | newsmedia.report",
-      "url": "https://www.newsmedia.report/3381054_us-anleiherendite-und-oelpreis-gefaehrliche-kombination"
-    },
-    {
-      "article_id": 3380410,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Anthropic meldet einen ungewöhnlichen Schritt beim Einsatz künstlicher Intelligenz in der Forschung. Rund 950 Claude Agenten durchsuchten riesige Mengen genetischer Daten und identifizierten ein bislang nicht charakterisiertes Enzymsystem mit Strukturen, die an CRISPR erinnern. Was ART biologisch tatsächlich tut, ist noch ungeklärt. Bemerkenswert ist deshalb nicht nur der Fund selbst, sondern die Art, wie er zustande kam.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/claude-entdeckt-crispr-hnliches-enzymsystem-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-24T07:11:00+00:00",
-      "title": "Claude entdeckt CRISPR-ähnliches Enzymsystem | newsmedia.report",
-      "url": "https://www.newsmedia.report/3380410_claude-entdeckt-crispr-aehnliches-enzymsystem"
     }
   ],
   "version": 1
