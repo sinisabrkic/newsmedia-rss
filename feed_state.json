@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3416074,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Brennende Barrikaden, verwüstete Straßen, angegriffene Polizeikräfte und Hunderttausende Menschen auf den Straßen Europas. In Frankreich, Italien, Belgien und Spanien verschärfen sich gesellschaftliche Konflikte, während Österreich und Deutschland zunehmend mit wirtschaftlichem Druck, politischer Polarisierung und extremistischer Radikalisierung konfrontiert sind. Gleichzeitig verändert der Krieg in der Ukraine die gesamte europäische Sicherheitsordnung. Ein Blick auf die verhängnisvollen Jahre zwischen 1927 und 1939 zeigt, wie gefährlich das Zusammentreffen gesellschaftlicher Spannungen, politischer Fehlentscheidungen und äußerer Bedrohungen werden kann.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europa-brennt-wann-sterreich-und-deutschland-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-19T18:22:00+00:00",
+      "title": "Europa brennt: Wann trifft es Österreich und Deutschland? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3416074_europa-brennt-wann-trifft-es-oesterreich-und-deutschland"
+    },
+    {
       "article_id": 3416168,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-09-25T05:40:00+00:00",
       "title": "Italia vieta burqa e niqab a scuola | newsmedia.report",
       "url": "https://www.newsmedia.report/3381921_italia-vieta-burqa-e-niqab-a-scuola"
-    },
-    {
-      "article_id": 3381188,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Pakistan has carried out air and drone strikes on ten locations inside Afghanistan, marking a new escalation in the increasingly tense relationship between the two neighboring states. Islamabad says the operation followed the interception of eight drones that entered Pakistani airspace from Afghanistan. Kabul denies responsibility for the drones and says four civilians were killed in the Pakistani strikes.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pakistan-strikes-ten-sites-in-afghanistan-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-24T15:11:00+00:00",
-      "title": "Pakistan Carries Out Strikes in Afghanistan | newsmedia.report",
-      "url": "https://www.newsmedia.report/3381188_pakistan-carries-out-strikes-in-afghanistan"
     }
   ],
   "version": 1
