@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3417377,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Mobility | MotorReport",
+      "description": "Volkswagen’s ambitious electric vehicle strategy in China is facing serious questions after previously undisclosed internal documents revealed a striking gap between planned and actual sales. The ID. UNYX 08, developed in cooperation with Chinese technology partner XPeng, achieved barely 7% of its original monthly sales target. The findings expose weaknesses in Volkswagen’s market assumptions and raise broader concerns about the German automaker’s ability to regain its competitive position in the world’s largest automotive market.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/motorreport_vw_china-high.png",
+      "language": "de-AT",
+      "published": "2026-10-20T10:50:00+00:00",
+      "title": "VW’s China EV Sales: Internal Figures Expose a 93% Shortfall / MotorReport / Portale | newsmedia.report",
+      "url": "https://www.newsmedia.report/portale/motorreport/3417377_vw-s-china-ev-sales-internal-figures-expose-a-93-shortfall"
+    },
+    {
       "article_id": 3417093,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -978,17 +989,6 @@
       "published": "2026-09-26T06:30:00+00:00",
       "title": "Zeugen Jehovas: Blutverbot wird zur Gewissensfrage | newsmedia.report",
       "url": "https://www.newsmedia.report/3383167_zeugen-jehovas-blutverbot-wird-zur-gewissensfrage"
-    },
-    {
-      "article_id": 3382294,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "France will send troops, radar systems and additional defense capabilities to Saudi Arabia to protect Yanbu, a strategic Red Sea hub for the kingdom’s oil exports. At the same time, Saudi Arabia, Türkiye and Pakistan are intensifying military coordination as Houthi attacks place growing pressure on Saudi territory and critical infrastructure. The convergence of these developments is giving the conflict a broader international security dimension, with energy routes increasingly becoming part of the military equation.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/france-to-send-troops-to-protect-saudi-oil-route-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-25T11:05:00+00:00",
-      "title": "France to Send Troops to Protect Saudi Oil Route | newsmedia.report",
-      "url": "https://www.newsmedia.report/3382294_france-to-send-troops-to-protect-saudi-oil-route"
     }
   ],
   "version": 1
