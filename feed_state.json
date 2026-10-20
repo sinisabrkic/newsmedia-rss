@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3417721,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technology & AI",
+      "description": "Salesforce has agreed to acquire customer engagement platform Braze in a deal valued at $5.66 billion, strengthening its position in artificial intelligence and automated marketing. The acquisition reflects a broader transformation of the enterprise software industry as established technology companies compete to integrate AI into their core businesses. Beyond expanding Salesforce's marketing capabilities, the transaction raises a fundamental question about the future of traditional business software.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/salesforce-to-acquire-braze-for-5-66-billion-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-20T15:07:00+00:00",
+      "title": "Salesforce to Acquire Braze for $5.66 Billion | newsmedia.report",
+      "url": "https://www.newsmedia.report/3417721_salesforce-to-acquire-braze-for-5-66-billion"
+    },
+    {
       "article_id": 3417377,
       "author": "Sinisa Brkic (sb)",
       "category": "Mobility | MotorReport",
@@ -978,17 +989,6 @@
       "published": "2026-09-26T07:40:00+00:00",
       "title": "El dinero oculto de la Amazonía | newsmedia.report",
       "url": "https://www.newsmedia.report/3383225_el-dinero-oculto-de-la-amazonia"
-    },
-    {
-      "article_id": 3383167,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Mehr als sechs Jahrzehnte lang gehörte die Ablehnung von Bluttransfusionen und zentralen Blutbestandteilen zu den bekanntesten und folgenreichsten Glaubensregeln der Zeugen Jehovas. Seit September 2026 dürfen Gläubige nun selbst entscheiden, ob sie rote oder weiße Blutkörperchen, Plasma oder Blutplättchen medizinisch akzeptieren. Was heute ausdrücklich als persönliche Gewissensfrage bezeichnet wird, war über Jahrzehnte religiös untersagt und konnte für Mitglieder schwerwiegende Konsequenzen haben.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/zeugen-jehovas-blutverbot-wird-zur-gewissensfrage-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-26T06:30:00+00:00",
-      "title": "Zeugen Jehovas: Blutverbot wird zur Gewissensfrage | newsmedia.report",
-      "url": "https://www.newsmedia.report/3383167_zeugen-jehovas-blutverbot-wird-zur-gewissensfrage"
     }
   ],
   "version": 1
