@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3417093,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "OpenAI treibt offenbar eine neue Finanzierungsrunde über rund 30 Milliarden US-Dollar voran und strebt dabei eine Bewertung von mehr als 1,4 Billionen Dollar an. Der Zeitpunkt ist strategisch gewählt, denn Konkurrent Anthropic bereitet seinen Börsengang für November vor. Zwischen den beiden führenden KI-Unternehmen verschärft sich damit ein Wettbewerb um institutionelles Kapital, dessen Ausgang weitreichende Folgen für die gesamte Technologiebranche haben könnte.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/openai-greift-nach-1-4-billionen-dollar-bewertung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-20T05:35:00+00:00",
+      "title": "OpenAI greift nach 1,4-Billionen-Dollar-Bewertung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3417093_openai-greift-nach-1-4-billionen-dollar-bewertung"
+    },
+    {
+      "article_id": 3417066,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Jahrelang bewegte Jeffrey Epstein enorme Geldbeträge durch das internationale Bankensystem, obwohl seine strafrechtliche Vergangenheit bekannt war. Ein umfangreicher Untersuchungsbericht aus dem US-Senat dokumentiert Tausende auffällige Transaktionen, erhebliche Versäumnisse bei der Finanzkontrolle und eine Geschäftsstruktur, deren tatsächlicher Zweck bis heute Fragen aufwirft. Neue politische Initiativen in Washington richten den Blick nun auf die Verantwortung der Banken und jener Aufsichtsbehörden, die verdächtige Finanzbewegungen hätten kontrollieren müssen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jeffrey-epstein-jpmorgan-deutsche-bank-und-die-milliarden-geldstr-me-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-20T04:46:00+00:00",
+      "title": "Jeffrey Epstein: JPMorgan, Deutsche Bank und die Milliarden-Geldströme | newsmedia.report",
+      "url": "https://www.newsmedia.report/3417066_jeffrey-epstein-jpmorgan-deutsche-bank-und-die-milliarden-geldstroeme"
+    },
+    {
       "article_id": 3416864,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-09-25T11:05:00+00:00",
       "title": "France to Send Troops to Protect Saudi Oil Route | newsmedia.report",
       "url": "https://www.newsmedia.report/3382294_france-to-send-troops-to-protect-saudi-oil-route"
-    },
-    {
-      "article_id": 3382188,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Vor mehr als hundert Jahren begann Adolf Hitler während seiner Haft in Landsberg mit einem Buch, das persönliche Selbstdarstellung, politische Strategie und eine radikale Weltanschauung miteinander verband. „Mein Kampf“ formulierte wesentliche Elemente des späteren Nationalsozialismus Jahre vor der Errichtung der Diktatur. Ein Jahrhundert später stellt sich eine schwierige Frage: Welche politischen Denkfiguren und rhetorischen Mechanismen jener Zeit sind historisch verschwunden und welche Muster begegnen uns, unter grundlegend anderen politischen Bedingungen und in veränderter Sprache, bis heute?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mein-kampf-und-die-politik-von-heute-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-25T10:01:00+00:00",
-      "title": "„Mein Kampf“ und die Politik von heute | newsmedia.report",
-      "url": "https://www.newsmedia.report/3382188_mein-kampf-und-die-politik-von-heute"
-    },
-    {
-      "article_id": 3382090,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Wir halten unsere Meinung für etwas zutiefst Persönliches. Für das Ergebnis eigener Erfahrung, eigener Überzeugungen und eigener Entscheidungen. Doch Psychologie, Kommunikationsforschung und fast ein Jahrhundert moderner Propagandageschichte zeichnen ein komplizierteres Bild: Was wir für unsere eigene Sicht auf die Welt halten, entsteht nicht im luftleeren Raum. Es entsteht zwischen Wiederholung und Widerspruch, Zugehörigkeit und Abgrenzung, Information und Inszenierung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sapcora-wie-viel-von-unserer-meinung-ist-wirklich-unsere-eigene-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-25T08:47:00+00:00",
-      "title": "sapcora™: Wie viel von unserer Meinung ist wirklich unsere eigene? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3382090_sapcora-wie-viel-von-unserer-meinung-ist-wirklich-unsere-eigene"
     }
   ],
   "version": 1
