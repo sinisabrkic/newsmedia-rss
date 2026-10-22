@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3419485,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Swedish investment giant EQT has agreed to acquire diagnostics specialist QIAGEN in a $10.8 billion deal, setting the stage for one of Europe's major healthcare takeovers of 2026. Backed by institutional investors from Abu Dhabi and Canada, the transaction would take a leading molecular diagnostics company private. The agreement raises broader questions about the future of European medical technology, international ownership and long-term investment in scientific innovation.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eqt-strikes-10-8b-qiagen-deal-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-22T06:01:00+00:00",
+      "title": "EQT Strikes $10.8B QIAGEN Deal | newsmedia.report",
+      "url": "https://www.newsmedia.report/3419485_eqt-strikes-10-8b-qiagen-deal"
+    },
+    {
       "article_id": 3418598,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -978,17 +989,6 @@
       "published": "2026-09-27T13:15:00+00:00",
       "title": "Seit 27. September: Gewährleistung und Garantie im Händler-Check | newsmedia.report",
       "url": "https://www.newsmedia.report/3384639_seit-27-september-gewaehrleistung-und-garantie-im-haendler-check"
-    },
-    {
-      "article_id": 3384371,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Donald Trump will mit hohen Zöllen Industrie, Arbeitsplätze und Investitionen in die Vereinigten Staaten zurückholen. Doch während Europa Marktanteile verlieren kann, steigen auch für amerikanische Unternehmen Kosten und Risiken. Gleichzeitig verschieben sich Handelsströme Richtung Asien und ausgerechnet dort könnten einige der größten Gewinner einer Politik entstehen, die eigentlich Amerika stärken soll. Vor mehr als 125 Jahren setzte bereits ein amerikanischer Präsident auf eine ähnliche Strategie. William McKinley wurde zum Symbol des amerikanischen Protektionismus, bevor er gegen Ende seiner Präsidentschaft die Grenzen wirtschaftlicher Abschottung zunehmend erkannte. Einen Tag nach…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trumps-zollwette-wer-am-ende-die-rechnung-bezahlt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-27T08:47:00+00:00",
-      "title": "Trumps Zollwette: Wer am Ende die Rechnung bezahlt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3384371_trumps-zollwette-wer-am-ende-die-rechnung-bezahlt"
     }
   ],
   "version": 1
