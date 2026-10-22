@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3420251,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "In zahlreichen islamisch geprägten Staaten endet die Religionsfreiheit dort, wo Menschen ihren Glauben wechseln, das Christentum öffentlich bekennen oder religiöse Überzeugungen vertreten, die von staatlichen Vorgaben abweichen. Christen und andere religiöse Minderheiten sind mit Verboten, Diskriminierung und teilweise schwerer Verfolgung konfrontiert. Die gesetzlichen Verhältnisse in Ländern wie Saudi-Arabien, Iran, Pakistan und Afghanistan werfen eine grundlegende Frage auf: Wie frei ist der Glaube, wenn der Staat darüber entscheidet, welche Religion ein Mensch ausüben darf?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/religionsfreiheit-in-der-islamischen-welt-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-22T15:16:00+00:00",
+      "title": "Religionsfreiheit in der islamischen Welt? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3420251_religionsfreiheit-in-der-islamischen-welt"
+    },
+    {
       "article_id": 3419485,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-09-27T14:00:00+00:00",
       "title": "Vučić Set to Announce Resignation at 8 P.M. | newsmedia.report",
       "url": "https://www.newsmedia.report/3384683_vucic-set-to-announce-resignation-at-8-p-m"
-    },
-    {
-      "article_id": 3384639,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Handel & E-Commerce",
-      "description": "Seit dem 27. September 2026 gelten neue Informationspflichten für Unternehmer, die Waren an Verbraucher verkaufen. Im Mittelpunkt stehen die harmonisierte Mitteilung über das gesetzliche Gewährleistungsrecht und, unter bestimmten Voraussetzungen, die harmonisierte Kennzeichnung einer gewerblichen Haltbarkeitsgarantie des Herstellers. Für Händler bedeutet das konkrete Anforderungen an Verbraucherinformation, Produktdaten und technische Verkaufsprozesse. Ein praktischer Prüfplan zeigt, welche Punkte jetzt kontrolliert werden sollten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gew-hrleistung-und-garantie-im-h-ndler-check-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-27T13:15:00+00:00",
-      "title": "Seit 27. September: Gewährleistung und Garantie im Händler-Check | newsmedia.report",
-      "url": "https://www.newsmedia.report/3384639_seit-27-september-gewaehrleistung-und-garantie-im-haendler-check"
     }
   ],
   "version": 1
