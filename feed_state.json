@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3420721,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Rubrik: Technologie & KIFormat: SpezialberichtAutor: Sinisa Brkic (sb)",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nanoroboter-im-essen-die-kontrolle-des-k-rpers-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-22T20:02:00+00:00",
+      "title": "Nanoroboter im Essen? Die Kontrolle des Körpers | newsmedia.report",
+      "url": "https://www.newsmedia.report/3420721_nanoroboter-im-essen-die-kontrolle-des-koerpers"
+    },
+    {
       "article_id": 3420251,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-09-28T05:07:00+00:00",
       "title": "Netanyahu’s Quiet Mission to Abu Dhabi | newsmedia.report",
       "url": "https://www.newsmedia.report/3385520_netanyahu-s-quiet-mission-to-abu-dhabi"
-    },
-    {
-      "article_id": 3384683,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politics",
-      "description": "Serbian President Aleksandar Vučić is set to submit his resignation on Sunday evening, bringing his presidency, which began in 2017, toward an early conclusion. Vučić has said the resignation is expected at around 8 p.m., when he also plans to explain his decision. The move will not mark his departure from Serbian politics. He intends to seek the office of prime minister in the snap parliamentary election on October 25.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/vu-i-resignation-news-report-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-27T14:00:00+00:00",
-      "title": "Vučić Set to Announce Resignation at 8 P.M. | newsmedia.report",
-      "url": "https://www.newsmedia.report/3384683_vucic-set-to-announce-resignation-at-8-p-m"
     }
   ],
   "version": 1
