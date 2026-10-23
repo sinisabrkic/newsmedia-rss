@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3421310,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Österreich weist vier russische Diplomaten aus und verschärft damit den sicherheitspolitischen Konflikt mit Moskau. Grundlage sind Erkenntnisse österreichischer Sicherheitsbehörden über Tätigkeiten, die mit dem Status der Betroffenen nicht vereinbar sein sollen. Die Entscheidung folgt auf frühere Spionagevorwürfe, mutmaßliche Abhöraktivitäten und Warnungen vor russischen Nachrichtendienstmitarbeitern. Zugleich rückt die besondere Verwundbarkeit Wiens als internationaler Diplomatiestandort erneut in den Mittelpunkt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreich-weist-vier-russische-diplomaten-aus-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-23T10:45:00+00:00",
+      "title": "Österreich weist vier russische Diplomaten aus | newsmedia.report",
+      "url": "https://www.newsmedia.report/3421310_oesterreich-weist-vier-russische-diplomaten-aus"
+    },
+    {
+      "article_id": 3421008,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International / Weather",
+      "description": "Much of Taiwan has shut down as Typhoon Champi approaches the island, forcing widespread school and office closures, suspending financial market trading and canceling 931 flights. At least one person has died, 94 have been injured and nearly 1,300 residents have been evacuated. Although the storm has weakened, its extensive wind field and the threat of torrential rainfall continue to pose serious risks.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/typhoon-champi-brings-much-of-taiwan-to-a-standstill-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-23T06:40:00+00:00",
+      "title": "Typhoon Champi: Taiwan at a Standstill | newsmedia.report",
+      "url": "https://www.newsmedia.report/3421008_typhoon-champi-taiwan-at-a-standstill"
+    },
+    {
       "article_id": 3420944,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -967,28 +989,6 @@
       "published": "2026-09-28T10:51:00+00:00",
       "title": "Iran: Ein schwacher Gegner? | newsmedia.report",
       "url": "https://www.newsmedia.report/3385931_iran-ein-schwacher-gegner"
-    },
-    {
-      "article_id": 3385643,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "भारत की बिजली व्यवस्था पर असामान्य दबाव बढ़ रहा है। केंद्र सरकार ने विद्युत अधिनियम की धारा 11 के तहत 112 औद्योगिक कोयला आधारित बिजली संयंत्रों को 1 अक्टूबर से 31 दिसंबर 2026 तक अपनी अधिकतम उपलब्ध क्षमता पर उत्पादन करने का निर्देश दिया है। सितंबर में बिजली की मांग रिकॉर्ड स्तर के करीब पहुंचने और अनेक ताप विद्युत संयंत्रों में कोयले का भंडार गंभीर रूप से घटने के बाद सरकार अब निजी उद्योगों की अपनी उत्पादन क्षमता को भी व्यापक बिजली आपूर्ति की सुरक्षा के लिए सक्रिय कर रही है।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/indien_aktivierung_notfallplan_kohle-high.png",
-      "language": "de-AT",
-      "published": "2026-09-28T07:50:00+00:00",
-      "title": "भारत ने बिजली आपूर्ति सुरक्षित रखने के लिए धारा 11 लागू की | newsmedia.report",
-      "url": "https://www.newsmedia.report/3385643_bha-rata-na-b-jal-aapa-ra-ta-sa-raka-shha-ta-rakhana-ka-l-e-thha-ra-11-l-ga-ka"
-    },
-    {
-      "article_id": 3385614,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Am 2. November 1917 erklärte die britische Regierung ihre Unterstützung für eine „nationale Heimstätte für das jüdische Volk“ in Palästina. Die später als Balfour Deklaration bekannt gewordene Erklärung umfasste im englischen Original lediglich 67 Wörter. Doch der kurze Text wurde Teil einer politischen Ordnung, deren Folgen weit über das Ende des britischen Empire hinausreichen. Bis heute gehört die Erklärung zu den zentralen Dokumenten, ohne die sich die Geschichte Israels, Palästinas und des Nahostkonflikts kaum verstehen lässt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/balfour-1917-ein-versprechen-mit-folgen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-28T07:30:00+00:00",
-      "title": "Balfour 1917: Ein Versprechen mit Folgen für Palästina | newsmedia.report",
-      "url": "https://www.newsmedia.report/3385614_balfour-1917-ein-versprechen-mit-folgen-fuer-palaestina"
     }
   ],
   "version": 1
