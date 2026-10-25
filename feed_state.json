@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3424227,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europa",
+      "description": "Nach 14 Jahren politischer Dominanz steht Serbien vor einem grundlegenden Machtwechsel. Aleksandar Vučić hat seine Niederlage bei der vorgezogenen Parlamentswahl eingeräumt. Die aus landesweiten Protesten hervorgegangene Studentenbewegung dürfte nach ersten Hochrechnungen eine absolute Mehrheit erreichen. Für den Balkanstaat beginnt damit eine politische Neuordnung, deren Auswirkungen weit über die Landesgrenzen hinausreichen könnten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/serbien-vu-i-r-umt-historische-wahlniederlage-ein-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-25T21:33:00+00:00",
+      "title": "Serbien: Vučić räumt historische Wahlniederlage ein | newsmedia.report",
+      "url": "https://www.newsmedia.report/3424227_serbien-vucic-raeumt-historische-wahlniederlage-ein"
+    },
+    {
       "article_id": 3423537,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -978,17 +989,6 @@
       "published": "2026-09-29T15:33:00+00:00",
       "title": "Google conteste les règles européennes sur l’IA | newsmedia.report",
       "url": "https://www.newsmedia.report/3387982_google-conteste-les-regles-europeennes-sur-l-ia"
-    },
-    {
-      "article_id": 3387865,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Nach mehr als zwei Jahrzehnten endet ein Kapitel amerikanischer Militärgeschichte im Irak. Bis 30. September ziehen die USA ihre verbliebenen Streitkräfte ab, die internationale Koalitionsmission geht zu Ende. Für Bagdad ist es ein Schritt zu vollständiger staatlicher Souveränität. Für die Region beginnt zugleich eine neue Machtprobe: Iran und verbündete Kräfte sehen ihren Einfluss wachsen, während im Irak die Frage drängender wird, wer das sicherheitspolitische Gleichgewicht künftig garantiert.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/usa-verlassen-den-irak-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-29T14:17:00+00:00",
-      "title": "USA verlassen den Irak | newsmedia.report",
-      "url": "https://www.newsmedia.report/3387865_usa-verlassen-den-irak"
     }
   ],
   "version": 1
