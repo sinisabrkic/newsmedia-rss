@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3423537,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Innerhalb von vier Jahren sind in staatlich beaufsichtigten Einrichtungen in Nordrhein-Westfalen 103 Minderjährige gestorben. Eine neue WDR-Recherche zeigt, dass die zuständigen Landesjugendämter die Ursachen schwerwiegender Vorfälle offenbar nicht systematisch auswerten. Während das Familienministerium auf sorgfältige Einzelfallprüfungen verweist, stellt sich eine grundsätzliche Frage nach der Wirksamkeit staatlicher Kontrolle und der Fähigkeit der Behörden, aus dokumentierten Ereignissen Konsequenzen für den Kinderschutz zu ziehen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/103-tote-minderj-hrige-in-nrw-einrichtungen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-25T12:20:00+00:00",
+      "title": "103 tote Minderjährige in NRW-Einrichtungen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3423537_103-tote-minderjaehrige-in-nrw-einrichtungen"
+    },
+    {
+      "article_id": 3423257,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft / Religion",
+      "description": "Jesus Christus ist keine Religion. Er ist weder eine von Menschen geschaffene Institution noch ein religiöses Herrschaftssystem. Seine Person, seine Botschaft und der persönliche Glaube an ihn sind grundsätzlich von jenen Kirchen, Dogmen und Machtstrukturen zu unterscheiden, die Menschen im Laufe der Geschichte errichtet haben. Jahrtausendealte Tontafeln aus Mesopotamien, gemeinsame Erzählungen in Bibel und Koran, historische Widersprüche und später entstandene religiöse Gesetzeswerke werfen eine weitreichende Frage auf: Wie wurden aus überlieferten Geschichten verbindliche Glaubenssysteme und schließlich Institutionen mit politischer und wirtschaftlicher Macht?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/vatikan-die-wurzel-aller-weltreligionen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-25T11:35:00+00:00",
+      "title": "Vatikan: Die Wurzel aller Weltreligionen? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3423257_vatikan-die-wurzel-aller-weltreligionen"
+    },
+    {
       "article_id": 3423221,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-09-29T14:17:00+00:00",
       "title": "USA verlassen den Irak | newsmedia.report",
       "url": "https://www.newsmedia.report/3387865_usa-verlassen-den-irak"
-    },
-    {
-      "article_id": 3387489,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europa",
-      "description": "Deutschland und Österreich erhöhen gemeinsam mit vier weiteren Nettozahlern den Druck auf Brüssel. Die sechs Staaten wollen dem nächsten langfristigen EU-Haushalt in seiner derzeit geplanten Größenordnung nicht zustimmen und verlangen Einsparungen von mehreren Hundert Milliarden Euro. Damit wird aus dem Streit über Zahlen eine grundsätzliche Auseinandersetzung darüber, welche Aufgaben Europa künftig gemeinsam finanzieren soll und wer dafür bezahlt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-und-sterreich-drohen-mit-eu-budget-veto-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-29T10:22:00+00:00",
-      "title": "Deutschland und Österreich drohen mit EU-Budget-Veto | newsmedia.report",
-      "url": "https://www.newsmedia.report/3387489_deutschland-und-oesterreich-drohen-mit-eu-budget-veto"
-    },
-    {
-      "article_id": 3385953,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Österreich heiratet zwischen Standesamt und Kirche, Schloss und Dorfwirtshaus, weißem Kleid und Tracht, Polterabend und stiller Feier im kleinen Kreis. Hinter vertrauten Bildern liegen jedoch Bräuche, die regional sehr verschieden sind und deren ursprüngliche Bedeutung heute oft kaum noch bekannt ist. Folge zwei unserer Serie führt von Wien über Niederösterreich, Burgenland, Steiermark und Kärnten bis nach Salzburg, Tirol, Oberösterreich und Vorarlberg und fragt, was von der alten österreichischen Hochzeit geblieben ist.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/oesterreich_hochzeit-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-28T14:58:00+00:00",
-      "title": "Hochzeit in Österreich: Zwischen Brauchtum und Moderne / Dating!World / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/dating-world/3385953_hochzeit-in-oesterreich-zwischen-brauchtum-und-moderne"
     }
   ],
   "version": 1
