@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3423221,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "A Reuters investigation has raised serious questions about the Trump administration's role in Brazil's presidential election. According to 10 current and former U.S. officials, two senior State Department advisers pursued policies intended to weaken President Luiz Inácio Lula da Silva and help return the Bolsonaro family to power. The allegations, published just hours before Sunday's decisive runoff, cast new light on Washington's use of sanctions and diplomatic influence in Latin America's largest democracy.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/washingtons-shadow-over-brazil-s-election-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-25T06:37:00+00:00",
+      "title": "Washington’s Shadow Over Brazil’s Election? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3423221_washington-s-shadow-over-brazil-s-election"
+    },
+    {
       "article_id": 3421310,
       "author": "Sinisa Brkic (sb)",
       "category": "Österreich",
@@ -978,17 +989,6 @@
       "published": "2026-09-28T14:58:00+00:00",
       "title": "Hochzeit in Österreich: Zwischen Brauchtum und Moderne / Dating!World / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/dating-world/3385953_hochzeit-in-oesterreich-zwischen-brauchtum-und-moderne"
-    },
-    {
-      "article_id": 3385931,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Donald Trump zeichnet das Bild eines Iran, dessen Marine weitgehend vernichtet, dessen Luftwaffe ausgeschaltet, dessen Raketenproduktion schwer getroffen und dessen Wirtschaft unter enormem Druck steht. Vor der UN Vollversammlung verschärfte der US Präsident seine Botschaft noch einmal und stellte Teheran letztlich vor eine drastische Alternative: ein Abkommen oder die Vernichtung der Islamischen Republik. Militärisch ist Iran tatsächlich schwer getroffen. Doch zwischen militärischer Unterlegenheit und strategischer Bedeutungslosigkeit liegt ein beträchtlicher Unterschied. Raketenbestände, unterirdische Produktionsstrukturen, die Straße von Hormus und die Belastung westlicher…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-ein-schwacher-gegner-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-28T10:51:00+00:00",
-      "title": "Iran: Ein schwacher Gegner? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3385931_iran-ein-schwacher-gegner"
     }
   ],
   "version": 1
