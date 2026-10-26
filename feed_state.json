@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3424707,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Deutschlands Nachrichtendienste wollen ihren Austausch geheimer Informationen grundlegend modernisieren. BND, Verfassungsschutz und Militärischer Abschirmdienst planen eine gemeinsame Cloud-Infrastruktur auf Basis amerikanischer Google-Technologie. Die geschätzten Kosten liegen bei mindestens 500 Millionen Euro. Das Vorhaben soll höchste Sicherheitsanforderungen erfüllen, wirft jedoch grundsätzliche Fragen zur technologischen Unabhängigkeit deutscher Sicherheitsbehörden auf.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bnd-plant-cloud-mit-google-technik-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-26T10:11:00+00:00",
+      "title": "BND plant Cloud mit Google-Technik | newsmedia.report",
+      "url": "https://www.newsmedia.report/3424707_bnd-plant-cloud-mit-google-technik"
+    },
+    {
+      "article_id": 3424500,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitics",
+      "description": "Saudi Arabia, Turkey, and Pakistan are preparing for joint security talks with Iran as tensions across the Middle East intensify. Senior defense and intelligence officials from the three countries are expected in Tehran on Monday, October 26, for consultations with Iran's Supreme National Security Council. The initiative could mark an important development in regional diplomacy, bringing the members of a newly established defense alliance into direct discussions with Tehran.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-war-three-nations-crisis-talks-in-tehran-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-26T07:10:00+00:00",
+      "title": "Iran War: Three Nations Crisis Talks in Tehran | newsmedia.report",
+      "url": "https://www.newsmedia.report/3424500_iran-war-three-nations-crisis-talks-in-tehran"
+    },
+    {
       "article_id": 3424227,
       "author": "Sinisa Brkic (sb)",
       "category": "Europa",
@@ -967,28 +989,6 @@
       "published": "2026-09-30T10:01:00+00:00",
       "title": "Jeffrey Epstein: Die Macht hinter dem Schweigen | newsmedia.report",
       "url": "https://www.newsmedia.report/3389014_jeffrey-epstein-die-macht-hinter-dem-schweigen"
-    },
-    {
-      "article_id": 3388793,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Fast 1,5 Milliarden Menschen, eine junge Erwerbsbevölkerung, eine globale Dienstleistungsindustrie, eine wachsende industrielle Basis und ein Binnenmarkt, dessen eigentliche Entfaltung erst begonnen hat: Während die Weltwirtschaft auf die Vereinigten Staaten und China blickt, verändert Indien seine Position nahezu geräuschlos. Das Land ist noch nicht so wohlhabend wie die etablierten Industriestaaten und industriell längst nicht so tief aufgestellt wie China. Doch gerade die Verbindung aus Größe, Wachstum, Technologie, Produktion und geopolitischem Spielraum macht Indien zu einem Markt, dessen Bedeutung weit über seine gegenwärtige Wahrnehmung hinausreicht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/indien-der-stille-weltmarkt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-30T07:40:00+00:00",
-      "title": "Indien, der stille Weltmarkt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3388793_indien-der-stille-weltmarkt"
-    },
-    {
-      "article_id": 3387982,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Google porte son conflit avec l’Union européenne devant la justice. Le groupe américain conteste deux décisions prises dans le cadre du Digital Markets Act qui doivent ouvrir davantage Android aux services d’intelligence artificielle concurrents et permettre à certains moteurs de recherche d’accéder à des données issues de Google Search. Derrière ce contentieux se dessine une question plus large : jusqu’où l’Europe peut-elle contraindre un groupe dominant à ouvrir les avantages liés à son écosystème sans compromettre la protection des utilisateurs?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/google-conteste-les-r-gles-europ-ennes-sur-l-ia-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-29T15:33:00+00:00",
-      "title": "Google conteste les règles européennes sur l’IA | newsmedia.report",
-      "url": "https://www.newsmedia.report/3387982_google-conteste-les-regles-europeennes-sur-l-ia"
     }
   ],
   "version": 1
