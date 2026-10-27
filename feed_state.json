@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3426013,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Law & Justice",
+      "description": "Twenty-one of India's leading news publishers have taken their fight against the country's digital privacy law to the Supreme Court, warning that it could severely restrict investigative journalism, expose confidential sources, and threaten the survival of newsrooms. The legal challenge has united some of India's most influential media organizations against legislation introduced under Prime Minister Narendra Modi. The dispute raises a constitutional question with implications far beyond India: can a law designed to protect personal information also become a means of restricting legitimate public scrutiny?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-could-privacy-law-become-a-tool-of-censorship-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-27T08:21:00+00:00",
+      "title": "India: Could Privacy Law Become a Tool of Censorship? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3426013_india-could-privacy-law-become-a-tool-of-censorship"
+    },
+    {
+      "article_id": 3425973,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Der Finanzkonzern Revolut gerät erneut in den Fokus der Bankenaufsicht. Nach bereits bekannt gewordenen Maßnahmen der Europäischen Zentralbank soll nun auch die britische Aufsichtsbehörde eine unabhängige Überprüfung interner Produktgenehmigungen angeordnet haben. Die Entwicklung wirft Fragen auf, ob die Kontrollsysteme des schnell wachsenden Unternehmens mit seiner internationalen Expansion Schritt halten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/revolut-britische-aufsicht-soll-produktfreigaben-pr-fen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-27T07:23:00+00:00",
+      "title": "Revolut: Britische Aufsicht soll Produktfreigaben prüfen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3425973_revolut-britische-aufsicht-soll-produktfreigaben-pruefen"
+    },
+    {
+      "article_id": 3425951,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "House Democrats are demanding an independent investigation into President Donald Trump's past connections to convicted sex offender Jeffrey Epstein. A new congressional staff report details allegations of sexual misconduct and accuses the Justice Department of withholding evidence that could implicate individuals associated with Epstein's criminal activities. The White House rejects the accusations, while the allegations involving Trump remain unproven.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/democrats-seek-trump-epstein-probe-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-27T06:47:00+00:00",
+      "title": "Democrats Seek Trump-Epstein Probe | newsmedia.report",
+      "url": "https://www.newsmedia.report/3425951_democrats-seek-trump-epstein-probe"
+    },
+    {
       "article_id": 3424707,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -956,39 +989,6 @@
       "published": "2026-10-01T15:21:00+00:00",
       "title": "Weltgericht: Neue Regeln für Klimahaftung | newsmedia.report",
       "url": "https://www.newsmedia.report/3391115_weltgericht-neue-regeln-fuer-klimahaftung"
-    },
-    {
-      "article_id": 3390342,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Die Vereinigten Staaten schaffen mit dem Autonomous Warfare Command, kurz AutoWarCom, ein eigenes Vier Sterne Kommando für autonome und robotische Kriegsführung. Das Pentagon will damit Entwicklung, Beschaffung und Einsatz von Drohnen, Robotik und künstlicher Intelligenz über die Streitkräfte hinweg beschleunigen. Die institutionelle Neuordnung ist bestätigt, viele Details zu Budget, Aufbau und konkreten Einsatzregeln sind jedoch noch offen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/autowarcom-neues-kommando-f-r-autonome-kriegsf-hrung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-01T07:05:00+00:00",
-      "title": "AutoWarCom: Neues Kommando für autonome Kriegsführung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3390342_autowarcom-neues-kommando-fuer-autonome-kriegsfuehrung"
-    },
-    {
-      "article_id": 3389561,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "QAnon machte Donald Trump zu weit mehr als einem amerikanischen Präsidenten. In der Erzählung der Bewegung wurde er zur zentralen Figur eines verborgenen Kampfes gegen einen mächtigen Staatsapparat, internationale Netzwerke und korrupte Eliten. Entscheidend ist deshalb eine einfache Frage: Wie viel hatte dieses Bild mit dem tatsächlich dokumentierten politischen Handeln Donald Trumps zu tun?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/qanon-trump-und-der-mythos-vom-systemgegner-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-09-30T15:17:00+00:00",
-      "title": "QAnon: Trump und der Mythos vom Systemgegner | newsmedia.report",
-      "url": "https://www.newsmedia.report/3389561_qanon-trump-und-der-mythos-vom-systemgegner"
-    },
-    {
-      "article_id": 3389014,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "Millionen Seiten Akten, Gerichtsverfahren, Zeugenaussagen und ein internationales Geflecht gesellschaftlicher Kontakte haben den Fall Jeffrey Epstein zu einem der am stärksten dokumentierten Kriminalkomplexe der jüngeren Geschichte gemacht. Dennoch bleiben entscheidende Fragen bestehen. Nicht über jeden Namen, der irgendwo auftaucht, sondern darüber, wie Geld, Zugang, institutionelle Entscheidungen und jahrelanges Versagen ein System ermöglichten, dessen Dimension erst spät vollständig sichtbar wurde.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jeffrey-epstein-die-macht-hinter-dem-schweigen-newsmedia-redaktion-high-j22e9u.png",
-      "language": "de-AT",
-      "published": "2026-09-30T10:01:00+00:00",
-      "title": "Jeffrey Epstein: Die Macht hinter dem Schweigen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3389014_jeffrey-epstein-die-macht-hinter-dem-schweigen"
     }
   ],
   "version": 1
