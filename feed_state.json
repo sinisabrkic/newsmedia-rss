@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3426291,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Eine unabhängige UN-Untersuchungskommission erhebt schwerwiegende Vorwürfe gegen israelische Behörden und Sicherheitskräfte. Nach Einschätzung der Ermittler wurden im besetzten Westjordanland Verbrechen gegen die Menschlichkeit begangen, darunter Ausrottung, Folter und sexualisierte Gewalt. Israel weist die Anschuldigungen zurück. Der neue Bericht verschärft die Debatte über die völkerrechtliche Verantwortung für das Vorgehen gegen die palästinensische Zivilbevölkerung.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/un-ermittler-werfen-israel-ausrottung-im-westjordanland-vor-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-27T11:44:00+00:00",
+      "title": "UN-Ermittler werfen Israel Ausrottung im Westjordanland vor | newsmedia.report",
+      "url": "https://www.newsmedia.report/3426291_un-ermittler-werfen-israel-ausrottung-im-westjordanland-vor"
+    },
+    {
       "article_id": 3426013,
       "author": "Sinisa Brkic (sb)",
       "category": "Law & Justice",
@@ -978,17 +989,6 @@
       "published": "2026-10-02T04:47:00+00:00",
       "title": "U.S. Targets Europe’s Diesel Reserves | newsmedia.report",
       "url": "https://www.newsmedia.report/3391716_u-s-targets-europe-s-diesel-reserves"
-    },
-    {
-      "article_id": 3391115,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Was 2019 mit einer Gruppe Studierender im Südpazifik begann, hat das internationale Klimarecht verändert. Der Internationale Gerichtshof hat klargestellt, dass Staaten völkerrechtliche Pflichten zum Schutz des Klimasystems tragen und Verstöße Folgen nach dem Recht der Staatenverantwortlichkeit auslösen können. Mehr als ein Jahr nach dem historischen Gutachten zeigt sich, dass dessen Bedeutung weit über Den Haag hinausreicht und Klimapolitik zunehmend zu einer Frage von Recht, Kausalität, Sorgfalt und dokumentierbarer Verantwortung wird.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/weltgericht-neue-regeln-f-r-klimahaftung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-01T15:21:00+00:00",
-      "title": "Weltgericht: Neue Regeln für Klimahaftung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3391115_weltgericht-neue-regeln-fuer-klimahaftung"
     }
   ],
   "version": 1
