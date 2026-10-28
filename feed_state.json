@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3427632,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "Artificial intelligence company Anthropic has disclosed $16.3 billion in first-half revenue alongside an extraordinary $80.7 billion net loss ahead of its planned Nasdaq debut. Most of the reported loss stems from noncash accounting adjustments rather than operating expenses. The figures reveal the remarkable scale of the AI boom while raising fundamental questions about profitability, corporate valuation, and shareholder control.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/anthropic-reports-80-7-billion-net-loss-ahead-of-ipo-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-28T11:22:00+00:00",
+      "title": "Anthropic Reports $80.7 Billion Net Loss Ahead of IPO | newsmedia.report",
+      "url": "https://www.newsmedia.report/3427632_anthropic-reports-80-7-billion-net-loss-ahead-of-ipo"
+    },
+    {
       "article_id": 3427339,
       "author": "Sinisa Brkic (sb)",
       "category": "Österreich",
@@ -978,17 +989,6 @@
       "published": "2026-10-03T07:11:00+00:00",
       "title": "Atombombe: Nukleare Wahrheit oder historisches Narrativ? | newsmedia.report",
       "url": "https://www.newsmedia.report/3393115_atombombe-nukleare-wahrheit-oder-historisches-narrativ"
-    },
-    {
-      "article_id": 3392252,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Die Vorstellung, künstliche Intelligenz könnte eines Tages ein eigenes Bewusstsein entwickeln, gehört zu den hartnäckigsten Zukunftsbildern der digitalen Ära. Für Staaten, Unternehmen und Gesellschaften liegt die entscheidende Herausforderung jedoch wesentlich näher: KI muss weder fühlen noch einen eigenen Willen besitzen, um Entscheidungen zu beeinflussen, Prozesse zu verändern und neue Abhängigkeiten zu schaffen. Entscheidend ist deshalb nicht, ob die Maschine irgendwann erwacht, sondern wer ihre Grenzen bestimmt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ki-nicht-bewusstsein-ist-das-problem-sondern-kontrolle-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-02T13:06:00+00:00",
-      "title": "KI: Nicht Bewusstsein ist das Problem, sondern Kontrolle | newsmedia.report",
-      "url": "https://www.newsmedia.report/3392252_ki-nicht-bewusstsein-ist-das-problem-sondern-kontrolle"
     }
   ],
   "version": 1
