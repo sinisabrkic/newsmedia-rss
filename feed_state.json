@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3427339,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Ein jahrelang angewendetes Berechnungsverfahren beim österreichischen Arbeitsmarktservice könnte Nachzahlungen von rund 135 Millionen Euro erforderlich machen. Nach einer Entscheidung des Verwaltungsgerichtshofs zeichnet sich ab, dass Arbeitslosengeld und Notstandshilfe in einer sechsstelligen Zahl von Fällen zu niedrig bemessen worden sein könnten. Das Sozialministerium arbeitet an einer rechtssicheren Lösung. Wie viele Menschen tatsächlich Geld erhalten und wann mögliche Auszahlungen erfolgen, ist noch offen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ams-nachzahlungen-in-ber-100-000-f-llen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-28T06:00:00+00:00",
+      "title": "AMS: Nachzahlungen in über 100.000 Fällen? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3427339_ams-nachzahlungen-in-ueber-100-000-faellen"
+    },
+    {
+      "article_id": 3427301,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Hunderttausende Menschen demonstrieren in Frankreich, es kommt zu gewaltsamen Ausschreitungen, Angriffen auf Sicherheitskräfte und massiven Polizeieinsätzen. Auch andere europäische Staaten erleben gesellschaftliche Spannungen und Protestbewegungen. Doch wann wird aus einem Demonstranten ein Aufständischer, aus bewaffneten Zivilisten eine militärische Einheit und aus inneren Unruhen ein Krieg? Das humanitäre Völkerrecht kennt dafür präzise Regeln, die insbesondere für Österreich weitreichende Fragen aufwerfen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kombattanten-wann-d-rfen-zivilisten-zu-den-waffen-greifen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-28T05:16:00+00:00",
+      "title": "Kombattanten: Wann dürfen Zivilisten zu den Waffen greifen? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3427301_kombattanten-wann-duerfen-zivilisten-zu-den-waffen-greifen"
+    },
+    {
       "article_id": 3426291,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -967,28 +989,6 @@
       "published": "2026-10-02T13:06:00+00:00",
       "title": "KI: Nicht Bewusstsein ist das Problem, sondern Kontrolle | newsmedia.report",
       "url": "https://www.newsmedia.report/3392252_ki-nicht-bewusstsein-ist-das-problem-sondern-kontrolle"
-    },
-    {
-      "article_id": 3392140,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Inflation im Euroraum springt im September auf 3,8 Prozent und damit deutlich stärker als erwartet. Von einer „Rückkehr“ der Inflation zu sprechen, greift allerdings zu kurz. Gefallen war vor allem die Geschwindigkeit der Preissteigerungen, nicht das allgemeine Preisniveau, das Europas Haushalte seit Jahren belastet. Nun beschleunigt sich auch die Teuerung wieder und aus dem alten Preisproblem wird erneut ein akutes geldpolitisches Risiko.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-inflation-ist-zur-ck-aber-war-sie-je-weg-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-02T11:25:00+00:00",
-      "title": "Europas Inflation ist zurück. Aber war sie je weg? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3392140_europas-inflation-ist-zurueck-aber-war-sie-je-weg"
-    },
-    {
-      "article_id": 3391716,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Energy",
-      "description": "The United States is pressing Germany and France to release substantial volumes from their strategic diesel reserves as global fuel markets tighten and prices climb. Washington is seeking the release of as much as 120 million barrels from European emergency stocks over six months and has raised the possibility of restricting U.S. diesel exports if Europe does not act. The confrontation puts two of Europe’s largest economies in an unusually difficult position. Releasing reserves could ease immediate pressure on fuel markets, but doing so on the scale requested by Washington would significantly reduce emergency inventories at a time when geopolitical risks remain elevated and global supply…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/u-s-targets-europe-s-diesel-reserves-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-02T04:47:00+00:00",
-      "title": "U.S. Targets Europe’s Diesel Reserves | newsmedia.report",
-      "url": "https://www.newsmedia.report/3391716_u-s-targets-europe-s-diesel-reserves"
     }
   ],
   "version": 1
