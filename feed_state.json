@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3428651,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Das deutsche Bundesfamilienministerium überarbeitet seine Pläne zur Elterngeldreform grundlegend. Die ursprünglich vorgesehene Verkürzung von 14 auf zwölf Monate soll entfallen. Stattdessen ist ein neues Berechnungsmodell geplant, das höhere Leistungen in bestimmten Monaten vorsieht, für andere Bezugszeiten jedoch deutlich geringere Zahlungen bringen könnte. Welche Familien profitieren, hängt künftig stärker davon ab, wie beide Elternteile die Betreuung aufteilen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-elterngeld-vor-reform-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-28T17:26:00+00:00",
+      "title": "Deutschland: Elterngeld vor Reform | newsmedia.report",
+      "url": "https://www.newsmedia.report/3428651_deutschland-elterngeld-vor-reform"
+    },
+    {
       "article_id": 3427632,
       "author": "Sinisa Brkic (sb)",
       "category": "Finance",
@@ -978,17 +989,6 @@
       "published": "2026-10-03T09:09:00+00:00",
       "title": "Palmöl: Gift oder künstliches Feindbild? | newsmedia.report",
       "url": "https://www.newsmedia.report/3393254_palmoel-gift-oder-kuenstliches-feindbild"
-    },
-    {
-      "article_id": 3393115,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Seit mehr als acht Jahrzehnten gehört die Atombombe zu den mächtigsten Drohbildern der internationalen Politik. Hiroshima und Nagasaki gelten als Beginn des nuklearen Zeitalters, Atomwaffen bestimmen Militärstrategien, Bündnisse und die geopolitische Stellung von Staaten. Hinter dieser scheinbar feststehenden Realität liegt jedoch eine ungewöhnliche Frage: Wie viel von dem, was über Atomwaffen als gesichert gilt, kann die Öffentlichkeit tatsächlich unabhängig überprüfen? Seit Jahrzehnten kursiert eine radikale Gegenhypothese. Sie bezweifelt nicht lediglich einzelne Details von Hiroshima, Nagasaki oder der frühen Atomwaffenentwicklung, sondern stellt die Möglichkeit in den Raum, dass…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/atombombe-nukleare-wahrheit-oder-historisches-narrativ-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-03T07:11:00+00:00",
-      "title": "Atombombe: Nukleare Wahrheit oder historisches Narrativ? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3393115_atombombe-nukleare-wahrheit-oder-historisches-narrativ"
     }
   ],
   "version": 1
