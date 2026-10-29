@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3429145,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Der Streit über strengere Kapitalvorschriften für die UBS gewinnt an Tragweite. Die Schweizer Regierung hat untersuchen lassen, welche rechtlichen und finanziellen Folgen eine Verlagerung des Bankhauptsitzes in die USA oder nach Großbritannien hätte. Die Ergebnisse zeigen erhebliche regulatorische Hürden und stellen infrage, ob sich die Großbank durch einen Standortwechsel tatsächlich wirtschaftlich entlasten könnte.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ubs-schweizer-regierung-analysiert-m-glichen-wegzug-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-29T14:01:00+00:00",
+      "title": "UBS: Schweizer Regierung analysiert möglichen Wegzug | newsmedia.report",
+      "url": "https://www.newsmedia.report/3429145_ubs-schweizer-regierung-analysiert-moeglichen-wegzug"
+    },
+    {
+      "article_id": 3429020,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Christine Lagarde verlässt die Spitze der Europäischen Zentralbank bereits am 7. Februar 2027 und damit fast neun Monate vor dem regulären Ende ihrer Amtszeit. Die Entscheidung fällt in eine Phase neuer Inflationsrisiken, angespannter Anleihemärkte und wachsender wirtschaftlicher Unsicherheit. Während die Gründe für ihren Rückzug offenbleiben, beginnt in Europa die Suche nach einer neuen Führung der wichtigsten geldpolitischen Institution des Euroraums.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ezb-lagarde-tritt-vorzeitig-zur-ck-high.png",
+      "language": "de-AT",
+      "published": "2026-10-29T11:48:00+00:00",
+      "title": "EZB: Lagarde tritt vorzeitig zurück | newsmedia.report",
+      "url": "https://www.newsmedia.report/3429020_ezb-lagarde-tritt-vorzeitig-zurueck"
+    },
+    {
+      "article_id": 3428999,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "At least 69 people have died after two high-speed passenger trains collided in central Spain. Investigators are examining why railway controllers authorized one train to continue despite an active stop signal and a stationary train farther ahead. Newly disclosed communications have raised serious questions about the decisions made inside the control center before one of Europe's deadliest railway disasters in more than a decade.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/spain-train-crash-leaves-69-dead-high.png",
+      "language": "de-AT",
+      "published": "2026-10-29T11:33:00+00:00",
+      "title": "Spain: Train Crash Leaves 69 Dead | newsmedia.report",
+      "url": "https://www.newsmedia.report/3428999_spain-train-crash-leaves-69-dead"
+    },
+    {
       "article_id": 3428651,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -956,39 +989,6 @@
       "published": "2026-10-04T13:30:00+00:00",
       "title": "Trump’s New World Order: The Billion-Dollar Club Begins in Gaza | newsmedia.report",
       "url": "https://www.newsmedia.report/3394682_trump-s-new-world-order-the-billion-dollar-club-begins-in-gaza"
-    },
-    {
-      "article_id": 3394334,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Milliarden Menschen nutzen Banken, Kreditkarten und internationale Überweisungen, ohne je mit jener Infrastruktur in Berührung zu kommen, die einen erheblichen Teil des weltweiten Finanzverkehrs miteinander verbindet. Swift gehört zu den zentralen Schaltstellen dieses Systems. Nun bereitet sich das Netzwerk auf eine technologische Entwicklung vor, die weit über schnellere Computer hinausgeht: Quantencomputer könnten eines Tages etablierte Verfahren der digitalen Verschlüsselung angreifen und damit eine Sicherheitsarchitektur herausfordern, auf der Banken, Staaten und Unternehmen seit Jahrzehnten vertrauen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/swift-die-quanten-ra-erreicht-das-finanzsystem-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-04T07:44:00+00:00",
-      "title": "Swift: Die Quantenära erreicht das Finanzsystem | newsmedia.report",
-      "url": "https://www.newsmedia.report/3394334_swift-die-quantenaera-erreicht-das-finanzsystem"
-    },
-    {
-      "article_id": 3393583,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesundheit",
-      "description": "Österreich gibt mehr als 60 Milliarden Euro jährlich für Gesundheit aus, verfügt über außergewöhnlich viele Ärzte und Krankenhausbetten und besitzt medizinische Einrichtungen auf international hohem Niveau. Trotzdem suchen Patienten nach Kassenärzten, warten auf Termine, bezahlen Wahlärzte aus eigener Tasche und erleben ein System, dessen Personal, Finanzierung und Organisation immer stärker unter Druck geraten. Hinter dieser Entwicklung steht kein einzelner politischer Fehler, sondern eine jahrzehntelang gewachsene Konstruktion, an der nahezu alle großen Parteien beteiligt waren und deren Machtstrukturen bemerkenswert stabil geblieben sind.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/wie-kaputt-ist-sterreichs-gesundheitssystem-newsmedia-redaktion-high-obm3wi.png",
-      "language": "de-AT",
-      "published": "2026-10-04T05:27:00+00:00",
-      "title": "Wie kaputt ist Österreichs Gesundheitssystem? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3393583_wie-kaputt-ist-oesterreichs-gesundheitssystem"
-    },
-    {
-      "article_id": 3393254,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Umwelt & Klima",
-      "description": "Palmöl gehört zu den am stärksten moralisch aufgeladenen Rohstoffen unserer Zeit. Es steht für Regenwaldzerstörung, bedrohte Orang Utans, ungesunde Lebensmittel und eine globale Agrarindustrie, deren Folgen weit entfernt vom europäischen Supermarkt sichtbar werden. Doch hinter dem scheinbar eindeutigen Urteil liegt eine wesentlich kompliziertere Geschichte: Palmöl ist weder harmlos noch ein Giftstoff, sein Ersatz ist nicht automatisch nachhaltiger, und im jahrzehntelangen Kampf um seinen Markt spielen neben Umwelt und Gesundheit auch wirtschaftliche Interessen, Handelspolitik und die Konkurrenz unterschiedlicher Rohstoffe eine Rolle.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/palm-l-gift-oder-k-nstliches-feindbild-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-03T09:09:00+00:00",
-      "title": "Palmöl: Gift oder künstliches Feindbild? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3393254_palmoel-gift-oder-kuenstliches-feindbild"
     }
   ],
   "version": 1
