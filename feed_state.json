@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3431325,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Das internationale Bankensystem steht vor einem tiefgreifenden technologischen Wandel. SWIFT integriert die Blockchain in seine Finanzinfrastruktur und erprobt gemeinsam mit führenden Großbanken die grenzüberschreitende Übertragung tokenisierter Bankeinlagen. Erste Transaktionen sind bereits erfolgt, neue technische Verbindungen entstehen und die Voraussetzungen für einen rund um die Uhr verfügbaren Zahlungsverkehr werden geschaffen. Damit zeichnet sich eine Neuordnung des globalen Finanzsystems ab, deren Bedeutung weit über schnellere Überweisungen hinausreicht.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/swift-und-blockchain-neuordnung-des-zahlungsverkehrs-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-31T10:10:00+00:00",
+      "title": "SWIFT und Blockchain: Neuordnung des Zahlungsverkehrs | newsmedia.report",
+      "url": "https://www.newsmedia.report/3431325_swift-und-blockchain-neuordnung-des-zahlungsverkehrs"
+    },
+    {
       "article_id": 3431111,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht / Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-10-04T21:00:00+00:00",
       "title": "SPÖ vor Führungswechsel: Bablers Rückzug | newsmedia.report",
       "url": "https://www.newsmedia.report/3395263_spoe-vor-fuehrungswechsel-bablers-rueckzug"
-    },
-    {
-      "article_id": 3395169,
-      "author": "newsmedia Editorial Team",
-      "category": "Missing & Wanted",
-      "description": "Zwei kleine Jungen werden mitten in der Nacht in ihrem Elternhaus in Texas erstochen. Ihre Mutter überlebt mit einer gefährlichen Schnittverletzung am Hals und berichtet von einem unbekannten Eindringling. Zwölf Tage später wird nicht dieser Fremde verhaftet, sondern sie selbst. 1997 wird Darlie Routier wegen des Mordes an ihrem fünfjährigen Sohn Damon zum Tode verurteilt. Drei Jahrzehnte später befindet sie sich noch immer im texanischen Todestrakt. Doch der Fall besteht aus weit mehr als einer Mordnacht: einer jungen Ehe, wirtschaftlichem Aufstieg und finanziellem Druck, einem Streit unmittelbar vor der Tat, späteren Aussagen ihres damaligen Ehemanns, einer blutigen Socke außerhalb des…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/darlie_routier_real_cases_a-bis-z_newsmedia-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-04T20:02:00+00:00",
-      "title": "Darlie Routier: Hat sie ihre Kinder vor 30 Jahren ermordet? / Missing & Wanted / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/missing-wanted/3395169_darlie-routier-hat-sie-ihre-kinder-vor-30-jahren-ermordet"
     }
   ],
   "version": 1
