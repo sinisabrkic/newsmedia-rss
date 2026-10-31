@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3431111,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht / Wirtschaft",
+      "description": "Rubrik: Justiz & Recht / Wirtschaft Format: Spezialbericht Autor: Sinisa Brkic (sb)",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-ab-2029-mehr-zugriff-auf-konto-und-immobiliendaten-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-10-31T06:07:00+00:00",
+      "title": "EU ab 2029: Mehr Zugriff auf Konto- und Immobiliendaten | newsmedia.report",
+      "url": "https://www.newsmedia.report/3431111_eu-ab-2029-mehr-zugriff-auf-konto-und-immobiliendaten"
+    },
+    {
       "article_id": 3430131,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-04T20:02:00+00:00",
       "title": "Darlie Routier: Hat sie ihre Kinder vor 30 Jahren ermordet? / Missing & Wanted / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/missing-wanted/3395169_darlie-routier-hat-sie-ihre-kinder-vor-30-jahren-ermordet"
-    },
-    {
-      "article_id": 3395000,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "The Strait of Hormuz and Bab el-Mandeb are two of the world’s most critical maritime chokepoints, and both are now under mounting geopolitical pressure. One is central to global energy flows, the other to trade between Asia, Europe and the Mediterranean. If instability deepens around both routes at the same time, the consequences could reach far beyond the Middle East and into energy markets, shipping costs and global supply chains.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/hormuz-and-bab-el-mandeb-global-trade-under-threat-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-04T17:40:00+00:00",
-      "title": "Hormuz and Bab el-Mandeb: Global Trade Under Threat | newsmedia.report",
-      "url": "https://www.newsmedia.report/3395000_hormuz-and-bab-el-mandeb-global-trade-under-threat"
     }
   ],
   "version": 1
