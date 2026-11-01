@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3432594,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "A federal judge in Chicago has allowed key consumer deception claims against McDonald's to move forward, rejecting the company's attempt to dismiss a lawsuit over its McRib sandwich in its entirety. At the center of the dispute is whether the sandwich's name, distinctive shape and advertising create a misleading impression about the meat it contains. The October 30 ruling raises a broader question for the food industry: How much can a product's presentation promise before marketing becomes legally deceptive?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mcrib-u-s-judge-allows-deceptive-marketing-lawsuit-to-proceed-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-01T13:28:00+00:00",
+      "title": "McRib: U.S. Judge Allows Deceptive Marketing Lawsuit to Proceed | newsmedia.report",
+      "url": "https://www.newsmedia.report/3432594_mcrib-u-s-judge-allows-deceptive-marketing-lawsuit-to-proceed"
+    },
+    {
+      "article_id": 3432510,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Ein parlamentarischer Beschluss, fast 5.000 Unterschriften und dennoch keine Gesetzesänderung: Erbprinz Alois hat die geplante Liberalisierung des Abtreibungsrechts in Liechtenstein verhindert. Während Schwangerschaftsabbrüche in den Nachbarstaaten unter bestimmten Voraussetzungen regulär möglich sind, bleibt ihre Durchführung im Fürstentum grundsätzlich strafbar. Der Konflikt offenbart nicht nur erhebliche Unterschiede beim Zugang zur medizinischen Versorgung, sondern auch die außergewöhnliche Machtstellung des Fürstenhauses. Eine umfassende Untersuchung der Rechtslage, der verfügbaren Statistiken und der internationalen Entwicklungen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/liechtenstein-erbprinz-stoppt-abtreibungsreform-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-01T11:30:00+00:00",
+      "title": "Liechtenstein: Erbprinz stoppt Abtreibungsreform | newsmedia.report",
+      "url": "https://www.newsmedia.report/3432510_liechtenstein-erbprinz-stoppt-abtreibungsreform"
+    },
+    {
+      "article_id": 3432489,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Elon Musk, Jeff Bezos, Mark Zuckerberg und andere Technologiemilliardäre verfügen über Vermögen, deren Größenordnung jede historische Vorstellung von privatem Reichtum sprengt. Doch hinter den astronomischen Zahlen stehen überwiegend Aktien, Unternehmensbewertungen und Erwartungen an eine Zukunft, die wirtschaftlich erst noch eingelöst werden muss. Die entscheidende Frage lautet deshalb nicht nur, wie reich diese Männer tatsächlich sind, sondern wie belastbar das Fundament ist, auf dem ihre Vermögen beruhen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/das-kartenhaus-der-papier-billionen-musk-und-co-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-01T10:30:00+00:00",
+      "title": "Das Kartenhaus der Papier-Billionen: Musk & Co. | newsmedia.report",
+      "url": "https://www.newsmedia.report/3432489_das-kartenhaus-der-papier-billionen-musk-co"
+    },
+    {
       "article_id": 3431325,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -956,39 +989,6 @@
       "published": "2026-10-05T07:33:00+00:00",
       "title": "Zeugen Jehovas: Glaube, Geld und Immobilien | newsmedia.report",
       "url": "https://www.newsmedia.report/3395627_zeugen-jehovas-glaube-geld-und-immobilien"
-    },
-    {
-      "article_id": 3395565,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Umwelt & Klima",
-      "description": "Für bestimmte ältere Kaminöfen in Deutschland ist die letzte Übergangsfrist der Bundesimmissionsschutzverordnung bereits Ende 2024 ausgelaufen. Ein neues pauschales Verbot gibt es nicht. Entscheidend ist vielmehr, ob die jeweilige Feuerstätte die vorgeschriebenen Emissionsgrenzwerte einhält, nachgerüstet wurde oder unter eine gesetzliche Ausnahme fällt. Hinter der Regelung steht eine größere Frage: Wie lassen sich Emissionen technisch zuverlässig erfassen und ihre tatsächliche Umweltwirkung nachvollziehbar bewerten?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kamin-fen-das-ende-einer-langen-bergangsfrist-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-05T06:35:00+00:00",
-      "title": "Kaminöfen: Das Ende einer langen Übergangsfrist | newsmedia.report",
-      "url": "https://www.newsmedia.report/3395565_kaminoefen-das-ende-einer-langen-uebergangsfrist"
-    },
-    {
-      "article_id": 3395511,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Russland verschärft seine Angriffe auf die Ukraine, Wladimir Putin erhöht den Ton gegenüber Europa und demonstriert militärische Stärke. Gleichzeitig hält der Kreml diplomatische Kanäle offen und signalisiert Interesse an wirtschaftlichen Perspektiven für die Zeit nach einem möglichen Ende der Kampfhandlungen. Hinter diesen scheinbaren Gegensätzen zeichnet sich eine Strategie ab, die militärischen Druck und politische Beweglichkeit miteinander verbindet.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/putin-zwischen-druck-und-diplomatie-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-05T05:47:00+00:00",
-      "title": "Putin zwischen Druck und Diplomatie | newsmedia.report",
-      "url": "https://www.newsmedia.report/3395511_putin-zwischen-druck-und-diplomatie"
-    },
-    {
-      "article_id": 3395263,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Andreas Babler hat seinen schrittweisen Rückzug angekündigt. Anfang 2027 will er die Führung der SPÖ und das Amt des Vizekanzlers abgeben. Finanzminister Markus Marterbauer soll anschließend Vizekanzler werden. Damit ist eine der zentralen offenen Fragen der österreichischen Regierungskrise beantwortet. Die wesentlich größere bleibt bestehen: Hält die Koalition aus ÖVP, SPÖ und NEOS die bevorstehende Neuordnung ihres zweitgrößten Partners politisch aus?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sp-_r-ckzug_babler-high.png",
-      "language": "de-AT",
-      "published": "2026-10-04T21:00:00+00:00",
-      "title": "SPÖ vor Führungswechsel: Bablers Rückzug | newsmedia.report",
-      "url": "https://www.newsmedia.report/3395263_spoe-vor-fuehrungswechsel-bablers-rueckzug"
     }
   ],
   "version": 1
