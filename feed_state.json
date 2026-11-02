@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3433798,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Europa steht vor einer Phase, in der militärische Bedrohungen, wirtschaftliche Schwächen und technologische Abhängigkeiten zunehmend ineinandergreifen. Der Krieg gegen die Ukraine, geopolitische Spannungen, hohe Energiekosten und der internationale Innovationswettbewerb setzen den Kontinent unter erheblichen Druck. Die entscheidende Frage für die Jahre 2027 bis 2030 lautet, ob Europa seine Sicherheit und wirtschaftliche Eigenständigkeit stärken kann oder schrittweise an internationalem Einfluss verliert.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europa-ab-2027-kriegsgefahr-und-wirtschaftlicher-abstieg-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-02T11:55:00+00:00",
+      "title": "Europa ab 2027: Kriegsgefahr und wirtschaftlicher Abstieg? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3433798_europa-ab-2027-kriegsgefahr-und-wirtschaftlicher-abstieg"
+    },
+    {
+      "article_id": 3433407,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Europa und Kanada haben eine neue strategische Allianz gegründet, die ihre wirtschaftliche, technologische und sicherheitspolitische Zusammenarbeit grundlegend vertiefen soll. Hinter dem historischen Schulterschluss stehen die amerikanische Handelspolitik, Europas Suche nach sicheren Rohstoff- und Energielieferanten sowie der zunehmende Wettbewerb um künstliche Intelligenz und industrielle Schlüsseltechnologien. Doch die wirtschaftlichen Interessen sind unterschiedlich, die Kosten einer engeren Zusammenarbeit erheblich und zentrale Fragen der politischen Integration weiterhin ungelöst.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-und-kanada-neue-allianz-alte-abh-ngigkeiten-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-02T07:07:00+00:00",
+      "title": "EU und Kanada: Neue Allianz, alte Abhängigkeiten | newsmedia.report",
+      "url": "https://www.newsmedia.report/3433407_eu-und-kanada-neue-allianz-alte-abhaengigkeiten"
+    },
+    {
       "article_id": 3432594,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-10-05T12:11:00+00:00",
       "title": "BND Warns of Conflict With Russia | newsmedia.report",
       "url": "https://www.newsmedia.report/3396137_bnd-warns-of-conflict-with-russia"
-    },
-    {
-      "article_id": 3396044,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Frankreichs Haushalts- und Schuldenkrise verändert ihren Charakter. Was bislang vor allem als nationales Problem hoher Defizite, wachsender Finanzierungskosten und politischer Blockaden galt, beginnt den Euro und andere europäische Anleihemärkte stärker zu belasten. Eine neue Staatsschuldenkrise ist daraus noch nicht entstanden. Doch die entscheidende Frage lautet inzwischen nicht mehr nur, wie Paris seine Finanzen stabilisiert, sondern wie lange sich der Druck auf Frankreich begrenzen lässt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/frankreichs-schuldenkrise-erreicht-den-euro-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-05T11:31:00+00:00",
-      "title": "Frankreichs Schuldenkrise erreicht den Euro | newsmedia.report",
-      "url": "https://www.newsmedia.report/3396044_frankreichs-schuldenkrise-erreicht-den-euro"
-    },
-    {
-      "article_id": 3395627,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Jehovas Zeugen verstehen sich als weltweite christliche Glaubensgemeinschaft, getragen von freiwilligen Spenden und der Arbeit ihrer Mitglieder. Hinter dieser religiösen Gemeinschaft steht zugleich eine internationale Organisation mit mehr als neun Millionen aktiven Verkündigern, Zehntausenden Versammlungen, Immobilien, Zweigbüros und rechtlichen Körperschaften in zahlreichen Staaten. Wer ihren wirtschaftlichen Strukturen folgt, stößt auf ein System, das bemerkenswert effizient funktioniert und dennoch für Außenstehende nur begrenzt einsehbar ist. Die entscheidende Frage ist deshalb nicht, ob eine Religionsgemeinschaft Vermögen besitzen darf. Selbstverständlich darf sie das. Interessant…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/zeugen-jehovas-glaube-geld-und-immobilien-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-05T07:33:00+00:00",
-      "title": "Zeugen Jehovas: Glaube, Geld und Immobilien | newsmedia.report",
-      "url": "https://www.newsmedia.report/3395627_zeugen-jehovas-glaube-geld-und-immobilien"
     }
   ],
   "version": 1
