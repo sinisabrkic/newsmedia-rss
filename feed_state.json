@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3436300,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "What began in Shenzhen in 2016 as an ambitious robotics startup has developed into an internationally active technology company with a growing portfolio of intelligent machines. Pudu Robotics is advancing beyond conventional service robots into industrial automation, autonomous delivery, humanoid robotics, and emerging applications in security and infrastructure protection. As artificial intelligence increasingly enters the physical world, the company's development raises an important question for European businesses: where can robotics already deliver measurable value, and how will technology, economics, and regulation shape its future?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pudu-robotics-and-the-future-of-automation-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-04T07:08:00+00:00",
+      "title": "Pudu Robotics and the Future of Automation | newsmedia.report",
+      "url": "https://www.newsmedia.report/3436300_pudu-robotics-and-the-future-of-automation"
+    },
+    {
       "article_id": 3434900,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-06T05:01:00+00:00",
       "title": "The Missing Patch That Exposed Thousands at the FBI | newsmedia.report",
       "url": "https://www.newsmedia.report/3397140_the-missing-patch-that-exposed-thousands-at-the-fbi"
-    },
-    {
-      "article_id": 3396864,
-      "author": "Sinisa Brkic",
-      "category": "Wirtschaft",
-      "description": "भारत के पूंजी बाजार में एक ऐतिहासिक क्षण करीब आ सकता है। Reliance Industries की डिजिटल इकाई Jio Platforms लगभग 3.8 अरब अमेरिकी डॉलर जुटाने वाले IPO की तैयारी कर रही है। Reuters के अनुसार शेयर बिक्री 21 अक्टूबर 2026 को शुरू हो सकती है और लिस्टिंग 28 अक्टूबर को हो सकती है। यदि यह योजना मौजूदा स्वरूप में पूरी होती है, तो यह भारत के इतिहास का सबसे बड़ा IPO होगा। लेकिन कहानी केवल रिकॉर्ड आकार की नहीं है। Jio का संभावित Börsengang यह भी दिखाता है कि भारत वैश्विक Technology और Capital Markets में किस तेजी से अपना महत्व बढ़ा रहा है।",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jio-ipo-analyse-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-05T20:02:00+00:00",
-      "title": "Jio भारत के सबसे बड़े IPO की तैयारी में | newsmedia.report",
-      "url": "https://www.newsmedia.report/3396864_jio-bha-rata-ka-sabsa-bugdha-ipo-ka-ta-ya-ra-ma"
     }
   ],
   "version": 1
