@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3437601,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Eine Analyse der spanischen Großbank Santander warnt vor einer weltweiten Finanzierungslücke von rund 30 Billionen Euro bis 2030. Hinter dieser gewaltigen Summe steht eine Entwicklung, die Europas wirtschaftliche Zukunft zunehmend unter Druck setzt: Der Investitionsbedarf steigt, während Finanzierungskosten, Unsicherheit und strukturelle Schwächen die wirtschaftliche Erneuerung erschweren. Noch wächst die europäische Wirtschaft. Doch die Gefahr, dass ausbleibende Investitionen eine längerfristige Abwärtsspirale auslösen, ist längst mehr als eine theoretische Überlegung.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/30-billionen-euro-fehlen-europas-investitionskrise-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-05T06:45:00+00:00",
+      "title": "30 Billionen Euro fehlen: Europas Investitionskrise? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3437601_30-billionen-euro-fehlen-europas-investitionskrise"
+    },
+    {
+      "article_id": 3437566,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Donald Trump hat seine parlamentarischen Mehrheiten verloren, doch der politische Machtwechsel in Washington ist noch nicht vollzogen. Bis Anfang Januar kontrollieren die Republikaner weiterhin beide Kammern des US-Kongresses. In dieser Übergangsphase können Entscheidungen fallen, die weit über die Niederlage bei den Zwischenwahlen hinausreichen. Besonders die Besetzung der Bundesgerichte und die Finanzierung des Staates machen die verbleibenden Wochen zu einer politisch bedeutenden Phase seiner Präsidentschaft.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trumps-letzte-59-tage-mit-mehrheit-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-05T06:07:00+00:00",
+      "title": "Trumps letzte 59 Tage mit Mehrheit | newsmedia.report",
+      "url": "https://www.newsmedia.report/3437566_trumps-letzte-59-tage-mit-mehrheit"
+    },
+    {
       "article_id": 3436300,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -958,17 +980,6 @@
       "url": "https://www.newsmedia.report/3397684_deutschlands-industrieauftraege-brechen-um-10-6-prozent-ein"
     },
     {
-      "article_id": 3397125,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesundheit",
-      "description": "Eine offene Packung Chips, noch ein Keks, ein weiteres Stück Schokolade, obwohl der Hunger längst verschwunden ist. Was schnell als mangelnde Disziplin abgetan wird, beschäftigt Ernährungsforscher, Psychologen, Neurowissenschaftler und Lebensmitteltechnologen längst auf einer anderen Ebene. Denn moderne Lebensmittel werden nicht nur nach Geschmack entwickelt. Textur, Energiedichte, Essgeschwindigkeit, Belohnungswirkung und Wiederkaufsbereitschaft können mitentscheiden, wie viel wir essen und wie schwer es manchen Menschen fällt, damit aufzuhören.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/lebensmittelindustrie-wenn-essen-zur-sucht-wird-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-06T12:04:00+00:00",
-      "title": "Lebensmittelindustrie: Wenn Essen zur Sucht wird | newsmedia.report",
-      "url": "https://www.newsmedia.report/3397125_lebensmittelindustrie-wenn-essen-zur-sucht-wird"
-    },
-    {
       "article_id": 3397225,
       "author": "Sinisa Brkic (sb)",
       "category": "Motor & Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-10-06T06:55:00+00:00",
       "title": "Zwei Milliarden für den neuen BMW 3er / MotorReport / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/motorreport/3397225_zwei-milliarden-fuer-den-neuen-bmw-3er"
-    },
-    {
-      "article_id": 3397140,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Security",
-      "description": "A cyberattack on the FBI has taken on a more consequential dimension. Investigators now say the breach that exposed sensitive information belonging to thousands of bureau employees became possible after a contractor failed to install an available security patch on a platform operated by a third party. What initially appeared to be another major intrusion is increasingly becoming a case study in a broader weakness: the risks created when critical government systems depend on external providers and basic security maintenance fails.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-missing-patch-that-exposed-thousands-at-the-fbi-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-06T05:01:00+00:00",
-      "title": "The Missing Patch That Exposed Thousands at the FBI | newsmedia.report",
-      "url": "https://www.newsmedia.report/3397140_the-missing-patch-that-exposed-thousands-at-the-fbi"
     }
   ],
   "version": 1
