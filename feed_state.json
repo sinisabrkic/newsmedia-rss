@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3438449,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Le groupe bancaire français Crédit Mutuel Arkéa a été victime d’une cyberattaque d’une ampleur exceptionnelle. Des pirates informatiques ont détourné près de 100 millions d’euros en exploitant la plateforme d’un prestataire externe. Si les avoirs des clients n’ont pas été affectés, l’incident soulève de sérieuses interrogations sur la sécurité des infrastructures financières et le contrôle des prestataires technologiques en Europe.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cr-dit-mutuel-ark-a-pr-s-de-100-millions-d-euros-d-tourn-s-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-05T16:40:00+00:00",
+      "title": "Crédit Mutuel Arkéa: près de 100 millions d’euros détournés | newsmedia.report",
+      "url": "https://www.newsmedia.report/3438449_credit-mutuel-arkea-pres-de-100-millions-d-euros-detournes"
+    },
+    {
       "article_id": 3437601,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -978,17 +989,6 @@
       "published": "2026-10-06T12:44:00+00:00",
       "title": "Deutschlands Industrieaufträge brechen um 10,6 Prozent ein | newsmedia.report",
       "url": "https://www.newsmedia.report/3397684_deutschlands-industrieauftraege-brechen-um-10-6-prozent-ein"
-    },
-    {
-      "article_id": 3397225,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Motor & Wirtschaft",
-      "description": "BMW investiert rund zwei Milliarden Euro in die nächste Generation des 3er und die dazugehörige Batterieproduktion in Deutschland. Gleichzeitig verschlankt der Konzern seine Strukturen, baut Stellen ab und reagiert auf einen Wettbewerb, der vor allem aus China erheblich an Tempo gewonnen hat. Der neue 3er wird damit zum Gradmesser dafür, wie konkurrenzfähig deutsche Premiumproduktion unter neuen industriellen Bedingungen noch ist.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/motorreport_bmw_2milliarden-high.png",
-      "language": "de-AT",
-      "published": "2026-10-06T06:55:00+00:00",
-      "title": "Zwei Milliarden für den neuen BMW 3er / MotorReport / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/motorreport/3397225_zwei-milliarden-fuer-den-neuen-bmw-3er"
     }
   ],
   "version": 1
