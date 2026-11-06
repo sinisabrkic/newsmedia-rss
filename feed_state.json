@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3439397,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Luxusfahrzeuge sollen über Unternehmen in mehreren EU-Staaten gehandelt worden sein, wobei Umsatzsteuer kassiert, aber nicht ordnungsgemäß an die Finanzbehörden abgeführt worden sein soll. Was wie gewöhnlicher internationaler Autohandel aussah, könnte Teil eines ausgeklügelten Betrugssystems gewesen sein. Nach jahrelangen mutmaßlichen Manipulationen schlugen Ermittler in fünf Ländern gleichzeitig zu. 13 Festnahmen und ein geschätzter Steuerschaden von rund 100 Millionen Euro zeigen die Dimension des Falls.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/100-millionen-euro-luxusautos-steuerbetrug-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-06T11:55:00+00:00",
+      "title": "100 Millionen Euro, Luxusautos, Steuerbetrug | newsmedia.report",
+      "url": "https://www.newsmedia.report/3439397_100-millionen-euro-luxusautos-steuerbetrug"
+    },
+    {
+      "article_id": 3439262,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Ein dramatischer Kurssturz an der Wall Street erschüttert die internationalen Finanzmärkte. Der Nasdaq verliert 5,52 Prozent, amerikanische Halbleiterwerte brechen um mehr als zwölf Prozent ein. Die Verkaufswelle erfasst inzwischen auch Asien und verschärft die Zweifel an den enormen Investitionen in künstliche Intelligenz. Was bislang als nahezu unerschöpflicher Wachstumsmotor galt, wird an den Börsen zunehmend kritisch hinterfragt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ki-ausverkauf-weltb-rsen-unter-schock-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-06T09:40:00+00:00",
+      "title": "KI-Ausverkauf: Weltbörsen unter Schock | newsmedia.report",
+      "url": "https://www.newsmedia.report/3439262_ki-ausverkauf-weltboersen-unter-schock"
+    },
+    {
       "article_id": 3439019,
       "author": "Sinisa Brkic (sb)",
       "category": "Handel & E-Commerce",
@@ -967,28 +989,6 @@
       "published": "2026-10-08T08:23:00+00:00",
       "title": "French AI Firm Plans €10 Billion Campus in Finland | newsmedia.report",
       "url": "https://www.newsmedia.report/3400431_french-ai-firm-plans-10-billion-campus-in-finland"
-    },
-    {
-      "article_id": 3400265,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Die Zahl bewaffneter Konflikte hat einen historischen Höchststand erreicht, die weltweiten Militärausgaben steigen auf Rekordniveau und die großen Machtzentren bereiten sich zunehmend auf eine längerfristige Verschlechterung der internationalen Sicherheitslage vor. Der russische Angriffskrieg gegen die Ukraine, die militärische Konfrontation zwischen den Vereinigten Staaten, Israel und Iran sowie wachsende Spannungen in Asien und Afrika verdeutlichen, wie gefährlich sich regionale Konflikte miteinander verbinden können. Gleichzeitig verändert sich die politische Sprache: Abschreckung, Kriegsbereitschaft und militärische Stärke prägen immer häufiger die Entscheidungen von Regierungen.…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-welt-auf-kriegskurs-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-08T06:55:00+00:00",
-      "title": "Die Welt auf Kriegskurs: Der Beginn einer neuen Epoche? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3400265_die-welt-auf-kriegskurs-der-beginn-einer-neuen-epoche"
-    },
-    {
-      "article_id": 3399550,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Plus de 266 000 personnes ont manifesté mardi 6 octobre à travers la France selon le ministère de l’Intérieur, tandis que les organisateurs revendiquent 450 000 participants. Partie de lycées de la région parisienne à la mi septembre, la contestation a désormais changé d’échelle. Enseignants, parents et organisations syndicales se joignent aux élèves, plaçant le gouvernement face à une crise qui ne concerne plus seulement quelques établissements, mais l’état même de l’école publique française.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/la-col-re-lyc-enne-gagne-toute-la-france-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-07T15:15:00+00:00",
-      "title": "La colère lycéenne gagne toute la France | newsmedia.report",
-      "url": "https://www.newsmedia.report/3399550_la-colere-lyceenne-gagne-toute-la-france"
     }
   ],
   "version": 1
