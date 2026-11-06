@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3439019,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Handel & E-Commerce",
+      "description": "Sie kontrollieren große Teile des Marktes, bestimmen Einkaufsbedingungen und verfügen über eine wirtschaftliche Macht, die weit über den Verkauf von Waren hinausgeht. Doch hinter der Dominanz der großen Einzelhandelskonzerne offenbaren sich strukturelle Widersprüche, eine zunehmend komplexe Preispolitik und ein Geschäftsmodell, dessen wirtschaftliche Interessen nicht zwangsläufig mit jenen der Verbraucher übereinstimmen. Was über Jahrzehnte als Erfolgsgeschichte von Wachstum und Effizienz galt, wirft inzwischen eine grundsätzlichere Frage auf: Haben sich die Handelskonzerne so weit von ihren Kunden entfernt, dass ihre eigene Größe zum Problem geworden ist?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/das-ende-der-einzelhandelskonzerne-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-06T06:11:00+00:00",
+      "title": "Das Ende der Einzelhandelskonzerne | newsmedia.report",
+      "url": "https://www.newsmedia.report/3439019_das-ende-der-einzelhandelskonzerne"
+    },
+    {
       "article_id": 3438449,
       "author": "newsmedia.report Editorial Team",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-07T15:15:00+00:00",
       "title": "La colère lycéenne gagne toute la France | newsmedia.report",
       "url": "https://www.newsmedia.report/3399550_la-colere-lyceenne-gagne-toute-la-france"
-    },
-    {
-      "article_id": 3397684,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Ökonomen hatten mit einem Rückgang von lediglich 1,0 Prozent gerechnet. Tatsächlich sanken die Auftragseingänge der deutschen Industrie im August gegenüber Juli um 10,6 Prozent. Hinter dem außergewöhnlich starken Ausschlag stehen vor allem Großaufträge im Bereich der sonstigen Fahrzeuge, doch auch die bereinigten Zahlen zeigen, dass eine überzeugende Erholung der industriellen Nachfrage weiterhin aussteht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschlands-industrieauftr-ge-brechen-um-10-6-prozent-ein-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-06T12:44:00+00:00",
-      "title": "Deutschlands Industrieaufträge brechen um 10,6 Prozent ein | newsmedia.report",
-      "url": "https://www.newsmedia.report/3397684_deutschlands-industrieauftraege-brechen-um-10-6-prozent-ein"
     }
   ],
   "version": 1
