@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3440163,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "The collapse of one of Paraguay's largest digital banks has triggered a political crisis threatening the presidency of Santiago Peña. Nearly three million customers have been affected by restrictions on access to their accounts, while approximately $850 million in public funds has come under scrutiny. Peña has submitted his resignation, but Congress is pursuing impeachment proceedings as criminal investigations raise questions about financial oversight, political connections and the management of public money.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bank-collapse-rocks-paraguay-s-presidency-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-06T23:10:00+00:00",
+      "title": "Bank Collapse Rocks Paraguay’s Presidency | newsmedia.report",
+      "url": "https://www.newsmedia.report/3440163_bank-collapse-rocks-paraguay-s-presidency"
+    },
+    {
       "article_id": 3439397,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -978,17 +989,6 @@
       "published": "2026-10-08T09:55:00+00:00",
       "title": "Spanien: Tod einer 87-Jährigen nach Zwangsräumung löst Proteste aus | newsmedia.report",
       "url": "https://www.newsmedia.report/3400580_spanien-tod-einer-87-jaehrigen-nach-zwangsraeumung-loest-proteste-aus"
-    },
-    {
-      "article_id": 3400431,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "French AI infrastructure company Sesterce has announced plans to invest more than €10 billion in a major computing campus in Finland, transforming a former paper mill into a potential hub for advanced artificial intelligence. The project underscores Europe's growing competition for AI infrastructure and Finland's appeal to international technology investors. Yet the ambitious proposal comes at a time of increasing scrutiny over the financial, environmental, and energy demands of large-scale data centers.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/french-ai-firm-plans-10-billion-campus-in-finland-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-08T08:23:00+00:00",
-      "title": "French AI Firm Plans €10 Billion Campus in Finland | newsmedia.report",
-      "url": "https://www.newsmedia.report/3400431_french-ai-firm-plans-10-billion-campus-in-finland"
     }
   ],
   "version": 1
