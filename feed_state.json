@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3440503,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "President Donald Trump wants to end nearly $4 billion in annual US military assistance to Israel beginning in 2027, while allowing American weapons sales to continue. The announcement could fundamentally reshape one of Washington's most consequential security partnerships. Trump claims he reached an agreement with Israeli Prime Minister Benjamin Netanyahu months ago, but an existing $38 billion aid arrangement runs through 2028, raising serious questions about whether the proposed change can be implemented ahead of schedule.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-targets-israel-s-4-billion-aid-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-07T11:04:00+00:00",
+      "title": "Trump Targets Israel’s $4 Billion Aid | newsmedia.report",
+      "url": "https://www.newsmedia.report/3440503_trump-targets-israel-s-4-billion-aid"
+    },
+    {
+      "article_id": 3440353,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Sexueller Kindesmissbrauch innerhalb religiöser Institutionen ist keineswegs ausschließlich ein Problem der katholischen Kirche. Rechtskräftige Urteile aus Österreich, Deutschland und Großbritannien belegen schwere Übergriffe auch in muslimischen Internaten, Moscheen und islamischen Unterrichtseinrichtungen. Eine britische Untersuchungskommission hat darüber hinaus gravierende Schwächen beim Kinderschutz und bei der Erfassung von Missbrauchsvorwürfen dokumentiert. Während die katholische Kirche seit Jahrzehnten im Zentrum öffentlicher Aufarbeitung steht, ist die Datenlage über vergleichbare Verbrechen in islamischen Einrichtungen Europas weiterhin lückenhaft.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kindesmissbrauch-in-islamischen-einrichtungen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-07T08:09:00+00:00",
+      "title": "Kindesmissbrauch in islamischen Einrichtungen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3440353_kindesmissbrauch-in-islamischen-einrichtungen"
+    },
+    {
       "article_id": 3440163,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -967,28 +989,6 @@
       "published": "2026-10-08T12:19:00+00:00",
       "title": "Elon Musk: Genie oder nur Fake? | newsmedia.report",
       "url": "https://www.newsmedia.report/3400776_elon-musk-genie-oder-nur-fake"
-    },
-    {
-      "article_id": 3400670,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Google has launched Playground, an AI-powered platform that allows users to create playable video games through simple text instructions. Developed alongside a strategic partnership with Unity, the technology could make game development accessible to millions of new creators and challenge established gaming platforms. Its long-term significance extends beyond entertainment, pointing to a future in which artificial intelligence can generate increasingly complex interactive software.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/google-playground-create-video-games-without-coding-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-08T10:47:00+00:00",
-      "title": "Google Playground: Create Video Games Without Coding | newsmedia.report",
-      "url": "https://www.newsmedia.report/3400670_google-playground-create-video-games-without-coding"
-    },
-    {
-      "article_id": 3400580,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Mehr als sieben Jahrzehnte lebte Maricarmen Abascal in derselben Madrider Wohnung. Zwei Wochen nach ihrer Zwangsräumung ist die 87-Jährige im Krankenhaus gestorben. Ihr Schicksal hat eine landesweite Protestbewegung ausgelöst, deren Forderungen inzwischen die spanische Politik und die Gewerkschaften erreicht haben. Für den 11. November ist ein Generalstreik angekündigt, nur wenige Wochen vor den vorgezogenen Parlamentswahlen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tod-einer-87-j-hrigen-nach-zwangsr-umung-l-st-proteste-aus-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-08T09:55:00+00:00",
-      "title": "Spanien: Tod einer 87-Jährigen nach Zwangsräumung löst Proteste aus | newsmedia.report",
-      "url": "https://www.newsmedia.report/3400580_spanien-tod-einer-87-jaehrigen-nach-zwangsraeumung-loest-proteste-aus"
     }
   ],
   "version": 1
