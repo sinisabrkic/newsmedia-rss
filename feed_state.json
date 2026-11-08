@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3441559,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "The U.S. armed forces remain the world's most formidable military establishment. Yet the prolonged confrontation with Iran is exposing vulnerabilities that American military superiority can no longer conceal. Depleted missile inventories, overstretched naval forces, industrial production bottlenecks, and the redeployment of critical assets from the Pacific reveal an increasingly consequential gap between Washington's global military commitments and its capacity to sustain them.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/u-s-military-supremacy-under-strain-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-08T14:23:00+00:00",
+      "title": "U.S. Military Supremacy Under Strain | newsmedia.report",
+      "url": "https://www.newsmedia.report/3441559_u-s-military-supremacy-under-strain"
+    },
+    {
+      "article_id": 3441235,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Rechtskräftige Verurteilungen und dokumentierte Strafverfahren aus Australien, Großbritannien und den Vereinigten Staaten belegen schwere sexuelle Übergriffe auf Minderjährige in jüdischen Einrichtungen und ihrem religiösen Umfeld. Eine staatliche Untersuchung in Australien stellte darüber hinaus fest, dass Verantwortliche Missbrauchsvorwürfe ignorierten, Täter nicht ausreichend kontrollierten und Betroffene zum Schweigen zu bringen versuchten. Neue Gerichtsentscheidungen aus dem Jahr 2026 zeigen, dass die strafrechtliche Aufarbeitung bis heute andauert. Während einzelne Verbrechen und institutionelle Versäumnisse umfassend dokumentiert sind, bleibt das tatsächliche Ausmaß sexueller…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/j-dische-einrichtungen-kindesmissbrauch-und-vertuschung-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-08T09:11:00+00:00",
+      "title": "Jüdische Einrichtungen: Kindesmissbrauch und Vertuschung | newsmedia.report",
+      "url": "https://www.newsmedia.report/3441235_juedische-einrichtungen-kindesmissbrauch-und-vertuschung"
+    },
+    {
       "article_id": 3440980,
       "author": "Sinisa Brkic (sb)",
       "category": "Justiz & Recht",
@@ -967,28 +989,6 @@
       "published": "2026-10-10T05:07:00+00:00",
       "title": "India Locks Down Delhi | newsmedia.report",
       "url": "https://www.newsmedia.report/3403241_india-locks-down-delhi"
-    },
-    {
-      "article_id": 3402242,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Europäische Union verstärkt ihre Bemühungen, die Abhängigkeit von China bei strategisch wichtigen Rohstoffen zu verringern. Mit 46 neu ausgewählten Projekten und einem geschätzten Investitionsbedarf von 21,1 Milliarden Euro will Brüssel die Versorgung der europäischen Industrie langfristig absichern. Die Initiative betrifft Schlüsselbranchen von der Automobilproduktion bis zur Verteidigungsindustrie. Doch die Finanzierung bleibt eine zentrale Herausforderung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-gegen-china-projekte-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-09T10:36:00+00:00",
-      "title": "EU gegen China: 46 Projekte für 21 Milliarden Euro | newsmedia.report",
-      "url": "https://www.newsmedia.report/3402242_eu-gegen-china-46-projekte-fuer-21-milliarden-euro"
-    },
-    {
-      "article_id": 3401903,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "1969 verurteilten die Vereinigten Staaten die öffentliche Zurschaustellung hingerichteter Menschen im Irak und beriefen sich dabei ausdrücklich auf Menschenrechte und Menschenwürde. Mehr als ein halbes Jahrhundert später plant das Pentagon, die Erschießung eines verurteilten Massenmörders live zu übertragen. Die historischen Umstände unterscheiden sich erheblich, doch Washington muss sich an einer Frage messen lassen, die es einst selbst aufgeworfen hat: Wo endet die legitime Ausübung staatlicher Strafgewalt und wo beginnt ihre menschenrechtlich bedenkliche Inszenierung?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ffentliche-hinrichtungen-in-den-usa-gesellschaftsf-hig-im-irak-verwerflich-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-09T06:30:00+00:00",
-      "title": "Öffentliche Hinrichtungen: In den USA gesellschaftsfähig, im Irak verwerflich? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3401903_oeffentliche-hinrichtungen-in-den-usa-gesellschaftsfaehig-im-irak-verwerflich"
     }
   ],
   "version": 1
