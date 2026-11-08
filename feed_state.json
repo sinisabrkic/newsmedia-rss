@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3441619,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Der Dalai Lama gehört zu den weltweit angesehensten religiösen Persönlichkeiten. Doch die 2026 veröffentlichten Epstein-Akten, seine dokumentierte Begegnung mit dem später verurteilten NXIVM-Gründer Keith Raniere und der jahrzehntelange Umgang mit Missbrauchsvorwürfen innerhalb buddhistischer Gemeinschaften werfen Fragen auf, die weit über das persönliche Ansehen des Friedensnobelpreisträgers hinausreichen. Während eine Verbindung zu Epsteins Straftaten nicht belegt ist, offenbaren andere Vorgänge erhebliche Probleme im Verhältnis zwischen religiöser Autorität, persönlichem Vertrauen und institutioneller Verantwortung. Der entscheidende Widerspruch liegt dabei nicht in unbewiesenen…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/dalai-lama-zweifel-an-einer-moralischen-instanz-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-08T15:40:00+00:00",
+      "title": "Dalai Lama: Zweifel an einer moralischen Instanz | newsmedia.report",
+      "url": "https://www.newsmedia.report/3441619_dalai-lama-zweifel-an-einer-moralischen-instanz"
+    },
+    {
       "article_id": 3441559,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-10T06:28:00+00:00",
       "title": "WikiLeaks 2016: Jeffrey Epstein, Bill Clinton und Donald Trump | newsmedia.report",
       "url": "https://www.newsmedia.report/3403275_wikileaks-2016-jeffrey-epstein-bill-clinton-und-donald-trump"
-    },
-    {
-      "article_id": 3403241,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Indian authorities have imposed sweeping security restrictions across New Delhi as protests over the country's electoral system intensify. Thousands of security personnel have been deployed, hundreds of demonstrators detained and major transport services disrupted. At the centre of the confrontation is a controversial revision of voter registers involving approximately 130 million deleted entries, raising profound questions about electoral transparency, institutional accountability and the right to peaceful protest.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-locks-down-delhi-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-10T05:07:00+00:00",
-      "title": "India Locks Down Delhi | newsmedia.report",
-      "url": "https://www.newsmedia.report/3403241_india-locks-down-delhi"
     }
   ],
   "version": 1
