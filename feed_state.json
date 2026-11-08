@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3440980,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Justiz & Recht",
+      "description": "Drei Frauen erheben schwere Missbrauchsvorwürfe gegen katholische Priester. Ein Bischof verspricht Aufklärung, doch Jahre später steht seine damalige Amtsführung selbst im Zentrum der Kritik. Dieser Bischof ist heute Papst Leo XIV. Während seine Rückkehr nach Peru bevorsteht, sorgen neue Dokumentationen über sexuellen Missbrauch, eine umstrittene Entscheidung aus dem Jahr 2025 und Forderungen nach unabhängigen Untersuchungen für erheblichen Druck auf den Vatikan. Der Fall offenbart ein grundlegendes Problem kirchlicher Macht: Wer überprüft die Verantwortlichen, wenn die Institution über ihre eigenen Versäumnisse entscheiden soll?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/papst-leo-xiv-der-missbrauchsskandal-seiner-bischofszeit-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-08T07:14:00+00:00",
+      "title": "Papst Leo XIV.: Der Missbrauchsskandal seiner Bischofszeit | newsmedia.report",
+      "url": "https://www.newsmedia.report/3440980_papst-leo-xiv-der-missbrauchsskandal-seiner-bischofszeit"
+    },
+    {
       "article_id": 3440503,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-09T06:30:00+00:00",
       "title": "Öffentliche Hinrichtungen: In den USA gesellschaftsfähig, im Irak verwerflich? | newsmedia.report",
       "url": "https://www.newsmedia.report/3401903_oeffentliche-hinrichtungen-in-den-usa-gesellschaftsfaehig-im-irak-verwerflich"
-    },
-    {
-      "article_id": 3400776,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Medien",
-      "description": "Er gilt als technologischer Visionär, bewegt Milliarden und beeinflusst längst nicht mehr nur die Wirtschaft, sondern auch die internationale Politik. Doch wie viel von Elon Musks öffentlichem Ruf als außergewöhnliches Genie beruht auf nachweisbaren Leistungen und wie viel auf einer bemerkenswert erfolgreichen Selbstinszenierung? Der Oscar-prämierte Dokumentarfilmer Alex Gibney hat vier Jahre lang recherchiert und zeichnet in seinem neuen Film „Musk“ das kritische Porträt eines Unternehmers, dessen wirtschaftliche und politische Macht grundlegende Fragen aufwirft. Seine Dokumentation untersucht nicht nur eine der umstrittensten Persönlichkeiten unserer Zeit, sondern auch eine…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/elon-musk-genie-oder-nur-fake-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-08T12:19:00+00:00",
-      "title": "Elon Musk: Genie oder nur Fake? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3400776_elon-musk-genie-oder-nur-fake"
     }
   ],
   "version": 1
