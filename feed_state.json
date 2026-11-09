@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3442501,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Vor 88 Jahren brannten in Deutschland und Österreich die Synagogen. Was am 9. November 1938 geschah, war der Höhepunkt einer jahrelangen Entwicklung aus wirtschaftlicher Not, politischer Radikalisierung, gesellschaftlicher Ausgrenzung und der schrittweisen Zerstörung demokratischer Grundrechte. Heute erlebt Europa erneut einen großen Krieg, weltweit nehmen militärische Konflikte und Rüstungsausgaben zu, während demokratische Institutionen in zahlreichen Staaten unter Druck geraten. Die Geschichte wiederholt sich nicht zwangsläufig, doch einige ihrer gefährlichsten Mechanismen sind auch 2026 wieder erkennbar.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/9-november-1938-die-vorzeichen-sind-2026-wieder-da-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-09T11:35:00+00:00",
+      "title": "9. November 1938: Die Vorzeichen sind 2026 wieder da. | newsmedia.report",
+      "url": "https://www.newsmedia.report/3442501_9-november-1938-die-vorzeichen-sind-2026-wieder-da"
+    },
+    {
       "article_id": 3442269,
       "author": "Sinisa Brkic (sb)",
       "category": "Umwelt & Klima",
@@ -978,17 +989,6 @@
       "published": "2026-10-11T05:07:00+00:00",
       "title": "US-Kampfjet greift Handelsschiff im Golf von Oman an | newsmedia.report",
       "url": "https://www.newsmedia.report/3404485_us-kampfjet-greift-handelsschiff-im-golf-von-oman-an"
-    },
-    {
-      "article_id": 3404476,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "The financial foundations of the artificial intelligence boom are facing a significant test. Global AI-related debt issuance has plunged nearly 80 percent from its June peak, raising questions about the sustainability of an industry increasingly dependent on enormous capital commitments. While the slowdown does not signal an imminent collapse, rising borrowing costs, uncertain investment returns and geopolitical instability are exposing vulnerabilities beneath one of the world's most ambitious technological expansions.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/cracks-in-the-ai-boom-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-11T04:36:00+00:00",
-      "title": "Cracks in the AI Boom? Debt Issuance Plunges Nearly 80% | newsmedia.report",
-      "url": "https://www.newsmedia.report/3404476_cracks-in-the-ai-boom-debt-issuance-plunges-nearly-80"
     }
   ],
   "version": 1
