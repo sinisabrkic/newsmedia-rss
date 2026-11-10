@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3444161,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Russia and Ukraine have resumed direct negotiations in Abu Dhabi under U.S. mediation, seeking a possible path toward ending a war that has continued for nearly five years. The diplomatic initiative comes amid sustained military operations, with Russian attacks damaging Ukrainian energy infrastructure and Ukrainian drone strikes targeting Russian oil facilities. Despite renewed diplomatic engagement, fundamental disagreements over territory, security guarantees, and the conditions for a ceasefire remain unresolved.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russia-and-ukraine-return-to-talks-as-strikes-continue-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-10T15:17:00+00:00",
+      "title": "Russia and Ukraine Return to Talks as Strikes Continue | newsmedia.report",
+      "url": "https://www.newsmedia.report/3444161_russia-and-ukraine-return-to-talks-as-strikes-continue"
+    },
+    {
       "article_id": 3443580,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -978,17 +989,6 @@
       "published": "2026-10-11T10:04:00+00:00",
       "title": "Elon Musk: Die Täuschung vom Billionenvermögen | newsmedia.report",
       "url": "https://www.newsmedia.report/3404725_elon-musk-die-taeuschung-vom-billionenvermoegen"
-    },
-    {
-      "article_id": 3404659,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Die Weltbank führt bereits mit bis zu 40 Staaten Gespräche über mögliche Krisenhilfen. Gleichzeitig warnen die Vereinten Nationen vor einer dramatischen Verschärfung der weltweiten Armut: Bis zu 130 Millionen Menschen könnten durch steigende Lebenshaltungskosten zusätzlich unter eine internationale Armutsgrenze fallen. Hohe Energiepreise, eine wachsende Schuldenlast und extreme Wetterrisiken bringen zahlreiche Entwicklungsländer an ihre finanziellen Grenzen. Die internationale Gemeinschaft steht vor einer wirtschaftlichen Herausforderung, deren Tragweite bislang nur teilweise sichtbar ist.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/weltbank-die-n-chste-krise-bahnt-sich-an-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-11T08:11:00+00:00",
-      "title": "Weltbank: Die nächste Krise bahnt sich an | newsmedia.report",
-      "url": "https://www.newsmedia.report/3404659_weltbank-die-naechste-krise-bahnt-sich-an"
     }
   ],
   "version": 1
