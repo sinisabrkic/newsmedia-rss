@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3443580,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Sicherheit",
+      "description": "Deutschland bereitet sich systematisch auf einen möglichen Krieg in Europa vor. Ein geheimer Operationsplan, milliardenschwere Rüstungsprogramme, neue Wehrdienstregelungen und die Einbindung ziviler Unternehmen zeigen, wie tiefgreifend sich der Staat auf einen militärischen Ernstfall einstellt. Die Auswertung offizieller Planungsunterlagen, parlamentarischer Verfahren, Haushaltsdaten und unabhängiger Untersuchungen offenbart jedoch erhebliche Widersprüche zwischen militärischen Anforderungen, staatlicher Handlungsfähigkeit und dem Schutz der Bevölkerung. Im Zentrum steht der Operationsplan Deutschland, der weit mehr über die sicherheitspolitische Neuordnung der Bundesrepublik aussagt,…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/oplan-deu-deutschlands-kriegsvorbereitungen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-10T06:07:00+00:00",
+      "title": "OPLAN DEU: Deutschlands Kriegsvorbereitungen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3443580_oplan-deu-deutschlands-kriegsvorbereitungen"
+    },
+    {
+      "article_id": 3443557,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Chinesische Banken erhöhen ihre Zinsen auf US-Dollar-Einlagen deutlich. Einzelne Angebote erreichen inzwischen 4,5 Prozent und machen das Halten von Dollar für Unternehmen und Sparer attraktiver. Die Entwicklung könnte den Aufwertungsdruck auf den Yuan verringern und Chinas Exportwirtschaft entlasten. Ob dahinter eine abgestimmte Strategie der chinesischen Führung steht, ist allerdings nicht bestätigt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/chinas-banken-locken-mit-4-5-prozent-dollarzinsen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-10T04:21:00+00:00",
+      "title": "Chinas Banken locken mit 4,5 Prozent Dollarzinsen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3443557_chinas-banken-locken-mit-4-5-prozent-dollarzinsen"
+    },
+    {
       "article_id": 3442501,
       "author": "Sinisa Brkic (sb)",
       "category": "Politik",
@@ -967,28 +989,6 @@
       "published": "2026-10-11T08:11:00+00:00",
       "title": "Weltbank: Die nächste Krise bahnt sich an | newsmedia.report",
       "url": "https://www.newsmedia.report/3404659_weltbank-die-naechste-krise-bahnt-sich-an"
-    },
-    {
-      "article_id": 3404540,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Welt",
-      "description": "Die USA verhängen Sanktionen gegen den Internationalen Strafgerichtshof als gesamte Institution. Ein Gericht, das Staatspräsidenten, Generäle und andere Machthaber für schwerste Verbrechen zur Verantwortung ziehen soll, gerät selbst unter den Druck einer Weltmacht. Seine Geschichte führt von den Nürnberger Prozessen über die Gründung in Rom, an der auch der Vatikan diplomatisch beteiligt war, bis zu einer Frage von historischer Tragweite: Was bleibt von internationaler Gerechtigkeit, wenn die Mächtigsten ihre Durchsetzung verhindern können?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/f-llt-der-weltstrafgerichtshof-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-11T06:33:00+00:00",
-      "title": "Neue Weltordnung: Sanktionen gegen Weltstrafgerichtshof | newsmedia.report",
-      "url": "https://www.newsmedia.report/3404540_neue-weltordnung-sanktionen-gegen-weltstrafgerichtshof"
-    },
-    {
-      "article_id": 3404485,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Ein amerikanischer Kampfjet hat im Golf von Oman ein Handelsschiff unter panamaischer Flagge angegriffen und dessen Antrieb außer Betrieb gesetzt. Das US-Zentralkommando begründet den Einsatz mit einem mutmaßlichen Verstoß gegen die amerikanische Seeblockade gegen Iran. Der Vorfall verschärft die Risiken für die internationale Handelsschifffahrt und wirft grundlegende Fragen über die Grenzen militärischer Blockademaßnahmen auf.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kampfjet-greift-handelschiff-an-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-11T05:07:00+00:00",
-      "title": "US-Kampfjet greift Handelsschiff im Golf von Oman an | newsmedia.report",
-      "url": "https://www.newsmedia.report/3404485_us-kampfjet-greift-handelsschiff-im-golf-von-oman-an"
     }
   ],
   "version": 1
