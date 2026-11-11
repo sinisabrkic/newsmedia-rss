@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3445582,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Indian authorities ordered internet providers to block 129 gambling websites based on forged court documents. An exclusive Reuters investigation revealed that the documents falsely claimed to originate from two of India's high courts, prompting a criminal investigation. The findings raise serious questions about how fraudulent judicial instructions could trigger official government action without their authenticity being established.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-targets-129-sites-with-fake-court-orders-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-11T15:42:00+00:00",
+      "title": "India Targets 129 Sites With Fake Court Orders | newsmedia.report",
+      "url": "https://www.newsmedia.report/3445582_india-targets-129-sites-with-fake-court-orders"
+    },
+    {
+      "article_id": 3445242,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Wolodymyr Selenskyj wurde als Schauspieler bekannt, als Medienunternehmer vermögend und als Präsident zum internationalen Gesicht des ukrainischen Widerstands gegen Russland. Doch hinter seinem Aufstieg stehen Offshore-Gesellschaften, Immobilien, Verbindungen zu Oligarchen und ein Netzwerk langjähriger Geschäftspartner, dessen Mitglieder teilweise in höchste Staatsämter gelangten. Inzwischen reichen Korruptionsermittlungen tief in dieses Umfeld, während eine frühere Pressesprecherin schwere Anschuldigungen gegen den Präsidenten erhebt und selbst unter Hochverratsverdacht steht. Die dokumentierten Vorgänge werfen eine grundsätzliche Frage auf: Wie transparent ist die politische und…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/selenskyj-schauspielerei-millionenverm-gen-und-westliche-milliarden-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-11T11:56:00+00:00",
+      "title": "Selenskyj: Schauspielerei, Vermögen und westliche Milliarden | newsmedia.report",
+      "url": "https://www.newsmedia.report/3445242_selenskyj-schauspielerei-vermoegen-und-westliche-milliarden"
+    },
+    {
       "article_id": 3445184,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesundheit",
@@ -967,28 +989,6 @@
       "published": "2026-10-12T12:44:00+00:00",
       "title": "KI hat kein Bewusstsein. Die Menschen dahinter schon. | newsmedia.report",
       "url": "https://www.newsmedia.report/3406940_ki-hat-kein-bewusstsein-die-menschen-dahinter-schon"
-    },
-    {
-      "article_id": 3406623,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Herbert Kickl und Alice Weidel wollen mit FPÖ und AfD die Politik in Österreich und Deutschland grundlegend verändern. Während Kickl angesichts der österreichischen Regierungskrise den Druck auf die Koalition erhöht, verschieben sich in Deutschland die politischen Kräfteverhältnisse. Beide Parteien verfügen über erheblichen Rückhalt, doch der Weg zur Regierungsverantwortung bleibt schwierig. Welche Koalitionen sind möglich, welche Hindernisse bestehen und was geschieht, wenn politische Versprechen auf die tatsächlichen Anforderungen des Regierens treffen?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fp-afd-co-der-weg-in-die-regierung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-12T09:51:00+00:00",
-      "title": "FPÖ, AfD & Co.: Der Weg in die Regierung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3406623_fpoe-afd-co-der-weg-in-die-regierung"
-    },
-    {
-      "article_id": 3404842,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik / Welt",
-      "description": "Eine Zahl, eine Handbewegung, ein Symbol oder eine scheinbar beiläufige Geste. Mitunter genügt ein einziges Zeichen, um eine Botschaft zu vermitteln, deren Bedeutung sich nur einem bestimmten Personenkreis erschließt. Von der jahrtausendealten Gematria über religiöse und okkulte Zahlensysteme bis zu den Ritualen freimaurerischer Orden existieren zahlreiche Formen verschlüsselter Verständigung. Doch wie tief reichen diese Traditionen in gesellschaftliche Machtstrukturen hinein, und welche Bedeutung besitzen sie tatsächlich für die internationale Politik?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-sprache-der-macht-gematria-zahlensymbolik-und-mehr-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-11T19:12:00+00:00",
-      "title": "Die Sprache der Macht: Gematria, Zahlensymbolik und mehr | newsmedia.report",
-      "url": "https://www.newsmedia.report/3404842_die-sprache-der-macht-gematria-zahlensymbolik-und-mehr"
     }
   ],
   "version": 1
