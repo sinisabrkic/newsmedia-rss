@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3446034,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Donald Trump has survived assassination attempts, faced armed suspects, and become the target of alleged foreign-backed plots. Now, new arrests near the White House and criminal investigations across the United States are raising further concerns about the president's safety. A closer examination of the attacks, the perpetrators, and the intelligence warnings reveals a persistent security challenge, even as evidence of an imminent new attack remains absent.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-faces-new-assassination-threats-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-11T21:55:00+00:00",
+      "title": "Trump Faces New Assassination Threats | newsmedia.report",
+      "url": "https://www.newsmedia.report/3446034_trump-faces-new-assassination-threats"
+    },
+    {
       "article_id": 3445582,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-13T06:01:00+00:00",
       "title": "Pilnacek-Akten bringen ÖVP in Bedrängnis | newsmedia.report",
       "url": "https://www.newsmedia.report/3407870_pilnacek-akten-bringen-oevp-in-bedraengnis"
-    },
-    {
-      "article_id": 3406940,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Künstliche Intelligenz wird als technologische Revolution gefeiert und zugleich als mögliche Bedrohung der Menschheit dargestellt. Maschinen sollen eines Tages selbstständig denken, eigene Interessen entwickeln und sich sogar menschlicher Kontrolle entziehen können. Während die Öffentlichkeit über solche Szenarien diskutiert, entsteht eine wesentlich konkretere Machtstruktur: Wenige Technologieunternehmen investieren Milliarden in künstliche Intelligenz und gewinnen zunehmend Einfluss darauf, wie Menschen arbeiten, kommunizieren und Informationen erhalten. Die entscheidende Frage lautet deshalb nicht nur, was KI künftig leisten könnte, sondern vor allem, welche Ziele die Menschen…",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ki-hat-kein-bewusstsein-die-menschen-dahinter-schon-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-12T12:44:00+00:00",
-      "title": "KI hat kein Bewusstsein. Die Menschen dahinter schon. | newsmedia.report",
-      "url": "https://www.newsmedia.report/3406940_ki-hat-kein-bewusstsein-die-menschen-dahinter-schon"
     }
   ],
   "version": 1
