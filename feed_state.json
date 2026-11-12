@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3446285,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Der linkspopulistische Demokrat Abdul El-Sayed hat bei den US-Zwischenwahlen den Senatssitz in Michigan gewonnen und damit amerikanische Geschichte geschrieben. Der 42-jährige Sohn ägyptischer Einwanderer wird als erster Muslim dem US-Senat angehören. Nach einem erbitterten Wahlkampf, in dem seine Religion und Herkunft wiederholt zum Angriffspunkt wurden, rechnete er mit Präsident Donald Trump und Vizepräsident JD Vance ab. Besonders seine spöttische Botschaft „JD, Habibi!“ sorgt international für Aufmerksamkeit.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/erster-muslimischer-us-senator-verspottet-trump-und-vance-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-12T06:14:00+00:00",
+      "title": "Erster muslimischer US-Senator verspottet Trump und Vance | newsmedia.report",
+      "url": "https://www.newsmedia.report/3446285_erster-muslimischer-us-senator-verspottet-trump-und-vance"
+    },
+    {
       "article_id": 3446034,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-13T09:32:00+00:00",
       "title": "IMF: 32 Economies Drive 95% of Global Growth | newsmedia.report",
       "url": "https://www.newsmedia.report/3408112_imf-32-economies-drive-95-of-global-growth"
-    },
-    {
-      "article_id": 3407870,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Der 440 Seiten umfassende Auswertungsbericht der Wirtschafts- und Korruptionsstaatsanwaltschaft über den Laptop des verstorbenen Justizsektionschefs Christian Pilnacek setzt die ÖVP unter erheblichen politischen Erklärungsdruck. Die dokumentierten Verbindungen zwischen Pilnacek, führenden Parteivertretern und Rechtsanwälten zeichnen ein bemerkenswertes Bild informeller Zusammenarbeit. Während ÖVP-Fraktionsführer Andreas Hanger weiterhin von Verschwörungserzählungen spricht, sieht Antikorruptionsexperte Martin Kreutner inzwischen eine deutlich verdichtete Indizienlage.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/pilnacek-akten-bringen-vp-in-bedr-ngnis-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-13T06:01:00+00:00",
-      "title": "Pilnacek-Akten bringen ÖVP in Bedrängnis | newsmedia.report",
-      "url": "https://www.newsmedia.report/3407870_pilnacek-akten-bringen-oevp-in-bedraengnis"
     }
   ],
   "version": 1
