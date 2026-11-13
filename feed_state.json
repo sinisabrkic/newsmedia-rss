@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3447804,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Deutschland",
+      "description": "Deutschland plant für 2027 eine der höchsten Neuverschuldungen seiner Geschichte. Der Haushaltsausschuss des Bundestages hat Ausgaben von knapp 561 Milliarden Euro gebilligt. Einschließlich zusätzlicher Kreditaufnahmen außerhalb des Kernhaushalts sollen rund 210 Milliarden Euro neue Schulden entstehen. Gleichzeitig wächst die Zinsbelastung des Bundes erheblich, während die öffentlichen Schulden Deutschlands bereits bei mehr als 2,75 Billionen Euro liegen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-210-milliarden-euro-neue-schulden-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-13T10:30:00+00:00",
+      "title": "Deutschland: 210 Milliarden Euro neue Schulden | newsmedia.report",
+      "url": "https://www.newsmedia.report/3447804_deutschland-210-milliarden-euro-neue-schulden"
+    },
+    {
       "article_id": 3447633,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-14T09:50:00+00:00",
       "title": "René Benko: Gericht bewilligt Fußfessel | newsmedia.report",
       "url": "https://www.newsmedia.report/3409835_rene-benko-gericht-bewilligt-fussfessel"
-    },
-    {
-      "article_id": 3409770,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Iran is intensifying its campaign against international shipping, adopting new surveillance tactics and expanding attacks beyond the Strait of Hormuz. Despite substantial losses to its naval forces, Tehran continues to threaten one of the world's most important energy corridors. Senior Iranian officials say the strategy is also intended to keep oil prices elevated ahead of the U.S. midterm elections, adding a political dimension to an increasingly dangerous maritime confrontation.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-turns-the-strait-of-hormuz-into-a-weapon-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-14T09:21:00+00:00",
-      "title": "Iran Turns the Strait of Hormuz Into a Weapon | newsmedia.report",
-      "url": "https://www.newsmedia.report/3409770_iran-turns-the-strait-of-hormuz-into-a-weapon"
     }
   ],
   "version": 1
