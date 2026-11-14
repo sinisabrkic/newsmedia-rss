@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3448779,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesellschaft",
+      "description": "Künstliche Intelligenz verändert nicht mehr nur unsere Arbeitswelt. Sie erreicht das Privatleben, begleitet persönliche Entscheidungen, beantwortet intime Fragen und wird für manche Menschen zu einem vertrauten Gesprächspartner. Gleichzeitig leben immer mehr Menschen allein, traditionelle Familienstrukturen verändern sich und zwischenmenschliche Beziehungen stehen unter neuen Erwartungen. Wie KI auf diese gesellschaftlichen Entwicklungen einwirkt und was sie mit unserem Denken, Fühlen und Zusammenleben macht, gehört zu den großen psychologischen Fragen unserer Zeit.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/generation-ki-wir-sprechen-jetzt-mit-maschinen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-14T16:06:00+00:00",
+      "title": "Generation KI: Wir sprechen jetzt mit Maschinen | newsmedia.report",
+      "url": "https://www.newsmedia.report/3448779_generation-ki-wir-sprechen-jetzt-mit-maschinen"
+    },
+    {
       "article_id": 3448808,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-10-15T09:05:00+00:00",
       "title": "Ukraine nimmt Angriffe auf russische Raffinerien wieder auf | newsmedia.report",
       "url": "https://www.newsmedia.report/3411205_ukraine-nimmt-angriffe-auf-russische-raffinerien-wieder-auf"
-    },
-    {
-      "article_id": 3411125,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "South Korea's stock market suffered a dramatic collapse Thursday, forcing authorities to temporarily suspend trading after the benchmark KOSPI index plunged more than 8%. Semiconductor giants Samsung Electronics and SK hynix led the selloff as mounting concerns over U.S. inflation and artificial intelligence investments sent shockwaves through Asian financial markets. The turmoil prompted an emergency response from South Korean financial authorities and exposed growing uncertainty surrounding the global technology sector.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/south-korea-trading-halted-after-8-market-crash-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-15T07:40:00+00:00",
-      "title": "South Korea: Trading Halted After 8% Market Crash | newsmedia.report",
-      "url": "https://www.newsmedia.report/3411125_south-korea-trading-halted-after-8-market-crash"
     }
   ],
   "version": 1
