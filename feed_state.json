@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3448808,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Russlands Präsident Wladimir Putin sollen am 19. November 2026 zu einem gemeinsamen Treffen in China zusammenkommen. Das Weiße Haus bestätigte die Planungen für die Gespräche am Rande des APEC-Gipfels in Shenzhen. Im Mittelpunkt stehen die nukleare Rüstungskontrolle und der Krieg gegen den Iran. Das angekündigte Dreierformat betrifft zentrale Fragen der internationalen Sicherheit, deren weitere Entwicklung auch für Europa von Bedeutung ist.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/trump-xi-und-putin-gipfel-der-weltm-chte-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-14T10:17:00+00:00",
+      "title": "Trump, Xi und Putin: Gipfel der Weltmächte | newsmedia.report",
+      "url": "https://www.newsmedia.report/3448808_trump-xi-und-putin-gipfel-der-weltmaechte"
+    },
+    {
+      "article_id": 3448711,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Was vor mehr als 70 Jahren als wissenschaftliche Vision begann, entwickelt sich zu einer der mächtigsten Industrien der Welt. Künstliche Intelligenz verändert bereits, wie Menschen arbeiten, lernen, kommunizieren und Entscheidungen treffen. Während Technologiekonzerne nahezu eine Billion Dollar jährlich in den Ausbau der KI-Infrastruktur investieren könnten, entsteht ein Wettbewerb um wirtschaftliche Macht und die Kontrolle künftiger Wertschöpfung. Doch wer erhält diese Milliarden, welche Interessen stehen dahinter und welches Ziel verfolgen die Unternehmen, die heute die Grundlagen einer neuen technologischen Ära schaffen?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-1-000-milliarden-dollar-branche-wer-zieht-die-f-den-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-14T07:35:00+00:00",
+      "title": "Die 1.000-Milliarden-Dollar-Branche: Wer zieht die Fäden? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3448711_die-1-000-milliarden-dollar-branche-wer-zieht-die-faeden"
+    },
+    {
       "article_id": 3447804,
       "author": "Sinisa Brkic (sb)",
       "category": "Deutschland",
@@ -967,28 +989,6 @@
       "published": "2026-10-15T07:40:00+00:00",
       "title": "South Korea: Trading Halted After 8% Market Crash | newsmedia.report",
       "url": "https://www.newsmedia.report/3411125_south-korea-trading-halted-after-8-market-crash"
-    },
-    {
-      "article_id": 3410976,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik / Österreich",
-      "description": "FPÖ-Chef Herbert Kickl will der Bundesregierung unter Christian Stocker das Vertrauen entziehen. Der für Donnerstag, den 15. Oktober 2026, angekündigte Misstrauensantrag trifft die Koalition aus ÖVP, SPÖ und NEOS in einer Phase erheblicher parteipolitischer Veränderungen und öffentlich ausgetragener Differenzen. Während die SPÖ ihre Führung neu ordnet, streiten die Regierungsparteien über bereits vereinbarte Maßnahmen. Doch wie weit reichen diese Konflikte tatsächlich und welche Konsequenzen hätte ein erfolgreiches Misstrauensvotum?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kickls-misstrauensantrag-gegen-die-regierung-vier-szenarien-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-15T06:01:00+00:00",
-      "title": "Kickls Misstrauensantrag gegen die Regierung: Vier Szenarien | newsmedia.report",
-      "url": "https://www.newsmedia.report/3410976_kickls-misstrauensantrag-gegen-die-regierung-vier-szenarien"
-    },
-    {
-      "article_id": 3409835,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "René Benko darf das Gefängnis verlassen und seine Untersuchungshaft künftig unter elektronischer Überwachung in einer Wohnung verbringen. Das Landesgericht Innsbruck bewilligte am Mittwoch einen entsprechenden Antrag des Signa-Gründers, obwohl sich die Wirtschafts- und Korruptionsstaatsanwaltschaft dagegen ausgesprochen hatte. Die Entscheidung verändert Benkos Haftbedingungen grundlegend, während die strafrechtliche Aufarbeitung des milliardenschweren Signa-Zusammenbruchs weitergeht.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ren-benko-gericht-bewilligt-fu-fessel-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-14T09:50:00+00:00",
-      "title": "René Benko: Gericht bewilligt Fußfessel | newsmedia.report",
-      "url": "https://www.newsmedia.report/3409835_rene-benko-gericht-bewilligt-fussfessel"
     }
   ],
   "version": 1
