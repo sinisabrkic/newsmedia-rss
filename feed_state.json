@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3449616,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Medien",
+      "description": "Sie wollten das klassische Fernsehen revolutionieren, Werbung verdrängen und Unterhaltung einfacher, günstiger und komfortabler machen. Doch ausgerechnet Netflix, Amazon Prime Video, Disney+ und andere Streaminganbieter beginnen, ihr eigenes Erfolgsversprechen zu demontieren. Steigende Preise, zusätzliche Werbeunterbrechungen und ein zunehmend zersplittertes Angebot lassen die einstigen Vorteile der Streamingrevolution verblassen. Was als Befreiung vom traditionellen Fernsehen begann, entwickelt sich immer stärker zu einer Neuauflage jener Geschäftsmodelle, die ursprünglich überwunden werden sollten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/netflix-prime-video-und-co-l-uten-ihr-ende-ein-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-15T07:45:00+00:00",
+      "title": "Netflix, Prime Video und Co. läuten ihr Ende ein | newsmedia.report",
+      "url": "https://www.newsmedia.report/3449616_netflix-prime-video-und-co-laeuten-ihr-ende-ein"
+    },
+    {
       "article_id": 3448779,
       "author": "Sinisa Brkic (sb)",
       "category": "Gesellschaft",
@@ -978,17 +989,6 @@
       "published": "2026-10-15T11:25:00+00:00",
       "title": "China’s Automakers: Survival May Depend on Europe / MotorReport / Portale | newsmedia.report",
       "url": "https://www.newsmedia.report/portale/motorreport/3411358_china-s-automakers-survival-may-depend-on-europe"
-    },
-    {
-      "article_id": 3411205,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Nach einer dreitägigen Unterbrechung hat die Ukraine angekündigt, ihre Angriffe auf russische Ölraffinerien fortzusetzen. In der russischen Region Rjasan wurde am Donnerstag ein Brand in einer Raffinerie gemeldet, den die örtlichen Behörden auf einen ukrainischen Drohnenangriff zurückführen. Die Entwicklung folgt auf amerikanische Bemühungen um eine gegenseitige Aussetzung von Angriffen auf Energieanlagen, über die zwischen Russland und der Ukraine bislang keine verbindliche Einigung bestätigt wurde.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraine-nimmt-angriffe-auf-russische-raffinerien-wieder-auf-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-15T09:05:00+00:00",
-      "title": "Ukraine nimmt Angriffe auf russische Raffinerien wieder auf | newsmedia.report",
-      "url": "https://www.newsmedia.report/3411205_ukraine-nimmt-angriffe-auf-russische-raffinerien-wieder-auf"
     }
   ],
   "version": 1
