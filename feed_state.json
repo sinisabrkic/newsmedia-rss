@@ -1,13 +1,24 @@
 {
   "articles": [
     {
+      "article_id": 3449820,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Deutschland verteidigt seine höchste Kreditwürdigkeitsnote, während Österreich seine letzte AAA-Bewertung bereits verloren hat. Steigende Staatsschulden, anhaltende Budgetdefizite und ein schwaches Wirtschaftswachstum erhöhen den Druck auf beide Länder. Weitere Ratingabstufungen könnten langfristig Milliarden an zusätzlichen Zinskosten verursachen. Die Folgen würden möglicherweise weit über die Staatshaushalte hinausreichen und auch Unternehmen, Immobilienkäufer und private Haushalte treffen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-und-sterreich-ratingabstufung-nur-eine-frage-der-zeit-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-15T11:44:00+00:00",
+      "title": "Deutschland und Österreich: Ratingabstufung nur eine Frage der Zeit? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3449820_deutschland-und-oesterreich-ratingabstufung-nur-eine-frage-der-zeit"
+    },
+    {
       "article_id": 3449616,
       "author": "Sinisa Brkic (sb)",
       "category": "Medien",
       "description": "Sie wollten das klassische Fernsehen revolutionieren, Werbung verdrängen und Unterhaltung einfacher, günstiger und komfortabler machen. Doch ausgerechnet Netflix, Amazon Prime Video, Disney+ und andere Streaminganbieter beginnen, ihr eigenes Erfolgsversprechen zu demontieren. Steigende Preise, zusätzliche Werbeunterbrechungen und ein zunehmend zersplittertes Angebot lassen die einstigen Vorteile der Streamingrevolution verblassen. Was als Befreiung vom traditionellen Fernsehen begann, entwickelt sich immer stärker zu einer Neuauflage jener Geschäftsmodelle, die ursprünglich überwunden werden sollten.",
       "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/netflix-prime-video-und-co-l-uten-ihr-ende-ein-newsmedia-redaktion-high.png",
       "language": "de-AT",
-      "published": "2026-11-15T07:45:00+00:00",
+      "published": "2026-11-15T07:50:00+00:00",
       "title": "Netflix, Prime Video und Co. läuten ihr Ende ein | newsmedia.report",
       "url": "https://www.newsmedia.report/3449616_netflix-prime-video-und-co-laeuten-ihr-ende-ein"
     },
@@ -978,17 +989,6 @@
       "published": "2026-10-15T12:02:00+00:00",
       "title": "EU und NATO: Spionage durch Onlinewerbung | newsmedia.report",
       "url": "https://www.newsmedia.report/3411439_eu-und-nato-spionage-durch-onlinewerbung"
-    },
-    {
-      "article_id": 3411358,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "Chinese automakers are expanding across Europe at an unprecedented pace, but their growing international presence conceals mounting pressure at home. With domestic sales falling sharply, exports surging and more than 100 manufacturers competing in an increasingly crowded market, Europe is becoming far more than another sales opportunity. For some Chinese carmakers, success on the continent could determine whether they survive the industry's next major consolidation.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/china-automakers-survival-may-depend-on-europe-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-15T11:25:00+00:00",
-      "title": "China’s Automakers: Survival May Depend on Europe / MotorReport / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/motorreport/3411358_china-s-automakers-survival-may-depend-on-europe"
     }
   ],
   "version": 1
