@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "article_id": 3451030,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Technologie & KI",
+      "description": "Er wurde in Frankfurt geboren, wuchs zeitweise im südafrikanischen Apartheidsystem auf und wurde im Silicon Valley zu einem der einflussreichsten Technologieinvestoren der Welt. Heute reichen Peter Thiels politische Beziehungen bis in die amerikanische Staatsspitze, während sein Unternehmen Palantir Technologien für Geheimdienste, Streitkräfte und die ukrainische Kriegsführung liefert. Gleichzeitig warnt Thiel vor dem Antichristen, einer kommenden Weltregierung und dem Ende der menschlichen Freiheit. Seine Geschichte wirft eine grundsätzliche Frage auf: Welche Welt will dieser Mann gestalten, und wer soll darin tatsächlich die Macht besitzen?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/palantir-peter-thiel-und-der-antichrist-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-16T12:03:00+00:00",
+      "title": "Palantir, Peter Thiel und der Antichrist | newsmedia.report",
+      "url": "https://www.newsmedia.report/3451030_palantir-peter-thiel-und-der-antichrist"
+    },
+    {
+      "article_id": 3450814,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Deutschland erklärt, einen dauerhaften Frieden in der Ukraine anzustreben, und investiert gleichzeitig Milliarden in eine langfristige militärische Aufrüstung. Die Staatsverschuldung steigt, die Rüstungsindustrie verzeichnet Rekordaufträge und die finanziellen Verpflichtungen reichen weit über den gegenwärtigen Konflikt hinaus. Dabei könnte ein tragfähiger Frieden erhebliche wirtschaftliche Chancen eröffnen, während ein direkter Krieg zwischen Russland und NATO-Staaten Europas Wohlstand massiv gefährden würde. Welche wirtschaftlichen Interessen bestimmen Deutschlands Kurs und wie würde Berlin auf eine tatsächliche Entspannung reagieren?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blockiert-deutschland-den-ukraine-frieden-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-16T08:55:00+00:00",
+      "title": "Blockiert Deutschland den Ukraine-Frieden? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3450814_blockiert-deutschland-den-ukraine-frieden"
+    },
+    {
+      "article_id": 3450748,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Nearly five years after the start of the full-scale war in Ukraine, renewed diplomatic negotiations have brought Russia's conditions for ending the conflict into sharper focus. Moscow is seeking territorial recognition, Ukrainian neutrality and restrictions on military cooperation with NATO, while also advancing broader proposals concerning European security. The latest discussions reveal substantial differences between Russia, Ukraine and Western governments over the conditions required for a durable settlement, with no comprehensive agreement yet in sight.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/russia-s-terms-for-peace-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-16T07:58:00+00:00",
+      "title": "Russia’s Terms for Peace | newsmedia.report",
+      "url": "https://www.newsmedia.report/3450748_russia-s-terms-for-peace"
+    },
+    {
       "article_id": 3450462,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -956,39 +989,6 @@
       "published": "2026-10-18T08:45:00+00:00",
       "title": "Frankreichs Proteste: Wer profitiert von der Eskalation? | newsmedia.report",
       "url": "https://www.newsmedia.report/3414796_frankreichs-proteste-wer-profitiert-von-der-eskalation"
-    },
-    {
-      "article_id": 3414717,
-      "author": "newsmedia.report Editorial Team",
-      "category": "",
-      "description": "Le proteste contro il carovita sfociano in violenti scontri a Milano e Bologna, mentre anche Torino registra momenti di tensione. A Roma, la CGIL annuncia uno sciopero generale per il 20 novembre, portando il confronto sociale direttamente sul terreno delle scelte economiche del governo Meloni. Una giornata che mette in evidenza il crescente malcontento per salari, prezzi e condizioni di vita.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/italia-proteste-e-scontri-la-cgil-annuncia-lo-sciopero-generale-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-18T07:29:00+00:00",
-      "title": "Italia, proteste e scontri: la CGIL annuncia lo sciopero generale | newsmedia.report",
-      "url": "https://www.newsmedia.report/3414717_italia-proteste-e-scontri-la-cgil-annuncia-lo-sciopero-generale"
-    },
-    {
-      "article_id": 3414104,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Gerichtsverfahren sollen Rechte schützen und Konflikte klären. Doch sie können selbst zum Instrument der Einschüchterung werden, wenn finanzstarke Kläger mit aufwendigen Verfahren gegen Journalisten, Medien und kritische Stimmen vorgehen. Die Europäische Union hat darauf mit einer eigenen Anti-SLAPP-Richtlinie reagiert. Während die Umsetzungsfrist längst abgelaufen ist, bestehen insbesondere bei rein nationalen Verfahren weiterhin erhebliche Schutzlücken.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/slapp-klagen-wenn-kritiker-zum-schweigen-geklagt-werden-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-17T12:22:00+00:00",
-      "title": "SLAPP-Klagen: Wenn Kritiker zum Schweigen geklagt werden | newsmedia.report",
-      "url": "https://www.newsmedia.report/3414104_slapp-klagen-wenn-kritiker-zum-schweigen-geklagt-werden"
-    },
-    {
-      "article_id": 3413858,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesundheit",
-      "description": "Bis zu 15,50 Euro für ein Fast-Food-Menü, mehr als 1.500 Kalorien in einer einzigen Mahlzeit und Mengen an Salz und gesättigten Fettsäuren, die ernährungsmedizinische Empfehlungen teilweise deutlich überschreiten. Die offiziellen Nährwertangaben von McDonald’s Österreich werfen Fragen nach dem tatsächlichen Gegenwert auf. Gleichzeitig zeigen internationale Studien, welche gesundheitlichen Risiken eine Ernährung mit hohem Anteil stark verarbeiteter Lebensmittel begünstigen kann. Auch Jamie Olivers jahrelange Kritik an den Praktiken der Fast-Food-Industrie erhält vor diesem Hintergrund neue Aktualität.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/mcdonalds-hohe-preise-auf-kosten-deiner-gesundheit-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-17T09:10:00+00:00",
-      "title": "McDonald’s: Hohe Preise auf Kosten deiner Gesundheit? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3413858_mcdonald-s-hohe-preise-auf-kosten-deiner-gesundheit"
     }
   ],
   "version": 1
