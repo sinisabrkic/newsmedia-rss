@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3450462,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International",
+      "description": "Knapp 30 Prozent der namentlich identifizierten Todesopfer im Gazastreifen sind Kinder. Nach den von den Vereinten Nationen veröffentlichten Zahlen wurden seit Oktober 2023 insgesamt 21.976 getötete Kinder namentlich erfasst. Zehntausende weitere wurden verletzt, viele verloren ihre Eltern. Auch mehr als ein Jahr nach dem vereinbarten Waffenstillstand bleibt das Leben der jüngsten Bewohner Gazas von Gewalt, Vertreibung und existenzieller Unsicherheit geprägt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gaza-fast-jeder-dritte-tote-ein-kind-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-15T21:40:00+00:00",
+      "title": "Gaza: Fast jeder dritte Tote ein Kind | newsmedia.report",
+      "url": "https://www.newsmedia.report/3450462_gaza-fast-jeder-dritte-tote-ein-kind"
+    },
+    {
+      "article_id": 3450431,
+      "author": "newsmedia.report Editorial Team",
+      "category": "",
+      "description": "Эстония намерена с 1 декабря 2026 года закрыть три оставшихся пограничных перехода с Россией. Правительство объясняет планируемые ограничения соображениями безопасности после инцидента на территории эстонского производителя беспилотных летательных аппаратов. В рамках расследования задержаны восемь человек. Эстонские власти заявляют о причастности российской военной разведки, однако эти утверждения пока не получили независимого подтверждения.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/estland_schlie-t_grenze_zu_russland-high.png",
+      "language": "de-AT",
+      "published": "2026-11-15T21:20:00+00:00",
+      "title": "Эстония объявила о закрытии границы с Россией | newsmedia.report",
+      "url": "https://www.newsmedia.report/3450431_estoniya-obyavila-o-zakrytii-granicy-s-rossiey"
+    },
+    {
       "article_id": 3450390,
       "author": "Sinisa Brkic (sb)",
       "category": "Sicherheit",
@@ -967,28 +989,6 @@
       "published": "2026-10-17T09:10:00+00:00",
       "title": "McDonald’s: Hohe Preise auf Kosten deiner Gesundheit? | newsmedia.report",
       "url": "https://www.newsmedia.report/3413858_mcdonald-s-hohe-preise-auf-kosten-deiner-gesundheit"
-    },
-    {
-      "article_id": 3413701,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Die italienische Justiz weitet ihre Ermittlungen gegen hochrangige israelische Regierungs- und Militärvertreter aus. Neben Sicherheitsminister Itamar Ben-Gvir stehen nun auch Verteidigungsminister Israel Katz und Generalstabschef Eyal Zamir im Fokus der Staatsanwaltschaft in Rom. Hintergrund sind schwere Misshandlungsvorwürfe italienischer Aktivisten, die während zweier Hilfsmissionen in Richtung Gazastreifen von israelischen Sicherheitskräften festgenommen wurden.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/italien-ermittelt-gegen-israels-verteidigungsminister-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-17T06:23:00+00:00",
-      "title": "Italien ermittelt gegen Israels Verteidigungsminister | newsmedia.report",
-      "url": "https://www.newsmedia.report/3413701_italien-ermittelt-gegen-israels-verteidigungsminister"
-    },
-    {
-      "article_id": 3413690,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik / Tabaksteuer / Deutschland / Österreich",
-      "description": "In Deutschland brachte die Tabaksteuer im Jahr 2025 rund 17,63 Milliarden Euro ein, in Österreich waren es rund 2,17 Milliarden Euro. Doch diese Einnahmen sind keineswegs für Krankenhäuser, Pflege oder Gesundheitsvorsorge reserviert. Sie fließen in die jeweiligen staatlichen Finanzierungssysteme, aus denen auch Ukraine-Hilfe, internationale Verpflichtungen, Unternehmensförderungen, wirtschaftspolitische Maßnahmen und zahlreiche andere öffentliche Aufgaben getragen werden. Damit stellt sich eine grundsätzliche Frage: Wer entscheidet nach welchen Prioritäten über die Verwendung dieser Milliarden, und wie nachvollziehbar sind diese Entscheidungen für die Steuerzahler?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tabaksteuer-wohin-gehen-die-milliarden-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-17T05:55:00+00:00",
-      "title": "Tabaksteuer: Wohin gehen die Milliarden? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3413690_tabaksteuer-wohin-gehen-die-milliarden"
     }
   ],
   "version": 1
