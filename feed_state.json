@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3453518,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Mehr als 15 Millionen vertrauliche Dokumente der Deutschen Bank offenbaren neue Einzelheiten über die jahrelange Geschäftsbeziehung zu Jeffrey Epstein. Im Mittelpunkt stehen rund 3.000 Transaktionen im Gesamtwert von 581,9 Millionen US-Dollar, die das Geldinstitut als verdächtig meldete. Die Unterlagen zeigen, welche Informationen der Bank über den verurteilten Sexualstraftäter vorlagen, wie umfangreich seine Finanzgeschäfte waren und weshalb die Geschäftsbeziehung dennoch über Jahre fortgesetzt wurde.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/geheime-dokumente-jeffrey-epstein-die-deutsche-bank-und-582-millionen-dollar-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-17T16:55:00+00:00",
+      "title": "Geheime Dokumente: Jeffrey Epstein, die Deutsche Bank und 582 Millionen Dollar | newsmedia.report",
+      "url": "https://www.newsmedia.report/3453518_geheime-dokumente-jeffrey-epstein-die-deutsche-bank-und-582-millionen-dollar"
+    },
+    {
+      "article_id": 3453421,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Österreichs Unternehmensinsolvenzen bleiben auf einem hohen Niveau. Besonders auffällig ist der wachsende Anteil jener Fälle, in denen das vorhandene Vermögen nicht einmal mehr zur Finanzierung eines regulären Insolvenzverfahrens ausreicht. Die wirtschaftlichen Folgen treffen längst nicht nur gescheiterte Betriebe. Auch Gläubiger, Beschäftigte und wirtschaftlich gesunde Unternehmen können durch die finanziellen Ausfälle unter Druck geraten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-folgen-der-insolvenzwelle-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-17T16:10:00+00:00",
+      "title": "Österreich: Die Folgen der Insolvenzwelle | newsmedia.report",
+      "url": "https://www.newsmedia.report/3453421_oesterreich-die-folgen-der-insolvenzwelle"
+    },
+    {
       "article_id": 3452448,
       "author": "Sinisa Brkic (sb)",
       "category": "Europa",
@@ -958,17 +980,6 @@
       "url": "https://www.newsmedia.report/3416864_espana-bajo-el-agua-la-dana-adam-desata-el-caos"
     },
     {
-      "article_id": 3416074,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitik",
-      "description": "Brennende Barrikaden, verwüstete Straßen, angegriffene Polizeikräfte und Hunderttausende Menschen auf den Straßen Europas. In Frankreich, Italien, Belgien und Spanien verschärfen sich gesellschaftliche Konflikte, während Österreich und Deutschland zunehmend mit wirtschaftlichem Druck, politischer Polarisierung und extremistischer Radikalisierung konfrontiert sind. Gleichzeitig verändert der Krieg in der Ukraine die gesamte europäische Sicherheitsordnung. Ein Blick auf die verhängnisvollen Jahre zwischen 1927 und 1939 zeigt, wie gefährlich das Zusammentreffen gesellschaftlicher Spannungen, politischer Fehlentscheidungen und äußerer Bedrohungen werden kann.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europa-brennt-wann-sterreich-und-deutschland-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-19T18:22:00+00:00",
-      "title": "Europa brennt: Wann trifft es Österreich und Deutschland? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3416074_europa-brennt-wann-trifft-es-oesterreich-und-deutschland"
-    },
-    {
       "article_id": 3416168,
       "author": "Sinisa Brkic (sb)",
       "category": "International",
@@ -978,17 +989,6 @@
       "published": "2026-10-19T10:45:00+00:00",
       "title": "Gaza: 500,000 People Lose UN Food Aid | newsmedia.report",
       "url": "https://www.newsmedia.report/3416168_gaza-500-000-people-lose-un-food-aid"
-    },
-    {
-      "article_id": 3415999,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Wirtschaft",
-      "description": "Der Schweizer Schokoladenkonzern Lindt & Sprüngli zieht nach einer enttäuschenden Geschäftsentwicklung weitreichende personelle Konsequenzen. Konzernchef Adalbert Lechner verlässt das Unternehmen nach 33 Jahren. Auch in Deutschland und Österreich werden die Führungsspitzen neu besetzt. Hinter dem umfassenden Umbau stehen steigende Verkaufspreise, eine schwächere Nachfrage und zunehmender Druck auf das europäische Geschäft.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/lindt-konzernchef-geht-auch-l-nderchefs-wechseln-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-19T08:45:00+00:00",
-      "title": "Lindt: Konzernchef geht, auch Länderchefs wechseln | newsmedia.report",
-      "url": "https://www.newsmedia.report/3415999_lindt-konzernchef-geht-auch-laenderchefs-wechseln"
     }
   ],
   "version": 1
