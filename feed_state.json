@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3452448,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europa",
+      "description": "Österreich, Deutschland und drei weitere EU-Staaten wollen abgelehnte Asylbewerber künftig in ein gemeinsames Rückkehrzentrum nach Ruanda überstellen. Bundeskanzler Christian Stocker und Innenminister Gerhard Karner treiben das Vorhaben maßgeblich voran. Erste Überstellungen sind für 2027 vorgesehen, zunächst sollen rund 100 Menschen in der Einrichtung untergebracht werden können. Für Österreich könnte das Projekt weitreichende Folgen haben, doch wesentliche rechtliche, finanzielle und praktische Fragen sind noch ungeklärt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europa-plant-abschiebungen-nach-ruanda-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-17T07:11:00+00:00",
+      "title": "Europa plant Abschiebungen nach Ruanda | newsmedia.report",
+      "url": "https://www.newsmedia.report/3452448_europa-plant-abschiebungen-nach-ruanda"
+    },
+    {
+      "article_id": 3452435,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Österreichs Wirtschaft erholt sich, doch hinter den positiven Wachstumszahlen verbergen sich strukturelle Probleme. Die Produktivität entwickelt sich schwach, Investitionen kommen nur langsam in Gang und die Industrie steht unter erheblichem Wettbewerbsdruck. Gleichzeitig schränken hohe Budgetdefizite den politischen Handlungsspielraum ein. Damit gerät nicht der gegenwärtige Wohlstand allein, sondern vor allem seine langfristige Finanzierbarkeit in den Mittelpunkt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-schleichender-wohlstandsverlust-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-17T06:47:00+00:00",
+      "title": "Österreichs schleichender Wohlstandsverlust | newsmedia.report",
+      "url": "https://www.newsmedia.report/3452435_oesterreichs-schleichender-wohlstandsverlust"
+    },
+    {
       "article_id": 3451030,
       "author": "Sinisa Brkic (sb)",
       "category": "Technologie & KI",
@@ -967,28 +989,6 @@
       "published": "2026-10-19T08:45:00+00:00",
       "title": "Lindt: Konzernchef geht, auch Länderchefs wechseln | newsmedia.report",
       "url": "https://www.newsmedia.report/3415999_lindt-konzernchef-geht-auch-laenderchefs-wechseln"
-    },
-    {
-      "article_id": 3415861,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Europa verfügt über erstklassige Forschung, bedeutende Industrieunternehmen und einen der größten Wirtschaftsräume der Welt. Dennoch bestimmen vor allem die USA und China das Tempo der künstlichen Intelligenz. Der Rückstand ist das Ergebnis jahrelanger strategischer Versäumnisse, von denen einige bis heute fortbestehen. Eine Analyse darüber, wann Europa entscheidend zurückfiel, weshalb andere Weltregionen schneller vorankamen und welche technologischen Chancen noch bestehen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ki-wettrennen-hat-europa-den-anschluss-endg-ltig-verloren-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-19T07:11:00+00:00",
-      "title": "KI-Wettrennen: Hat Europa den Anschluss verloren? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3415861_ki-wettrennen-hat-europa-den-anschluss-verloren"
-    },
-    {
-      "article_id": 3414796,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Politik",
-      "description": "Frankreich erlebt eine neue Protestwelle, die das politische Establishment erheblich unter Druck setzt. Die Gelbwesten, die 2018 als spontane Bürgerbewegung gegen steigende Kraftstoffpreise entstanden, kehren als Symbol eines tiefgreifenden gesellschaftlichen Konflikts zurück. Doch hinter der aktuellen Mobilisierung zeigen sich neue Strukturen, auffällige digitale Aktivitäten und unterschiedliche politische Interessen. Ein Spezialbericht über die Menschen hinter den gelben Warnwesten, die Ursachen des Widerstands und die Frage, wer von einer Destabilisierung Frankreichs profitieren könnte.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/frankreichs-proteste-wer-profitiert-von-der-eskalation-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-18T08:45:00+00:00",
-      "title": "Frankreichs Proteste: Wer profitiert von der Eskalation? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3414796_frankreichs-proteste-wer-profitiert-von-der-eskalation"
     }
   ],
   "version": 1
