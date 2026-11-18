@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3454365,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Im Februar 2014 verlor die Ukraine einen demokratisch gewählten Präsidenten, ohne dass das verfassungsmäßig vorgesehene Amtsenthebungsverfahren durchgeführt wurde. Was folgte, waren ein tiefgreifender Machtwechsel, zunehmende Spannungen mit Teilen der russischsprachigen Bevölkerung, bewaffnete Auseinandersetzungen und jahrelang gescheiterte Friedensverhandlungen. Die Wurzeln dieser Entwicklung reichen allerdings weiter zurück, bis zur Übertragung der Krim im Jahr 1954, zu früheren Autonomiekonflikten und zu einer politischen Ordnung, deren innere Widersprüche den europäischen Kontinent über Jahrzehnte beschäftigten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ukraine-2014-die-geschichte-hinter-dem-krieg-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-18T08:11:00+00:00",
+      "title": "Ukraine 2014: Die Geschichte hinter dem Krieg | newsmedia.report",
+      "url": "https://www.newsmedia.report/3454365_ukraine-2014-die-geschichte-hinter-dem-krieg"
+    },
+    {
+      "article_id": 3454333,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "Österreichs Banken erzielen hohe Gewinne und verfügen über eine solide Kapitalausstattung. Dennoch wächst der absolute Bestand notleidender Kredite, während problematische Gewerbeimmobilienfinanzierungen die Aufsicht weiter beschäftigen. Hinter der insgesamt stabilen Lage des Bankensektors stehen Risiken, die sich nicht gleichmäßig auf alle Institute verteilen. Entscheidend wird sein, wie konsequent bestehende Belastungen abgebaut werden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/die-risiken-in-sterreichs-banken-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-18T06:35:00+00:00",
+      "title": "Die Risiken in Österreichs Banken | newsmedia.report",
+      "url": "https://www.newsmedia.report/3454333_die-risiken-in-oesterreichs-banken"
+    },
+    {
       "article_id": 3453518,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -967,28 +989,6 @@
       "published": "2026-10-20T04:46:00+00:00",
       "title": "Jeffrey Epstein: JPMorgan, Deutsche Bank und die Milliarden-Geldströme | newsmedia.report",
       "url": "https://www.newsmedia.report/3417066_jeffrey-epstein-jpmorgan-deutsche-bank-und-die-milliarden-geldstroeme"
-    },
-    {
-      "article_id": 3416864,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "El este de España vuelve a sufrir inundaciones devastadoras. La DANA Adam ha dejado cuatro fallecidos, más de 2.000 evacuados y miles de viviendas y carreteras afectadas por lluvias extraordinarias en Valencia y Alicante. Dos años después de la tragedia de 2024, una nueva emergencia pone a prueba la capacidad de respuesta y protección de una región especialmente expuesta a los fenómenos meteorológicos extremos.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/espa-a-bajo-el-agua-la-dana-adam-desata-el-caos-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-19T20:55:00+00:00",
-      "title": "España bajo el agua: la DANA Adam desata el caos | newsmedia.report",
-      "url": "https://www.newsmedia.report/3416864_espana-bajo-el-agua-la-dana-adam-desata-el-caos"
-    },
-    {
-      "article_id": 3416168,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "The United Nations World Food Programme is cutting monthly food assistance for approximately 500,000 Palestinians in Gaza as a severe funding shortage forces the agency to scale back humanitarian operations. Food rations, cash assistance, and daily hot meals are also being reduced, placing additional pressure on families already struggling to meet their basic needs. The reductions come as roughly two-thirds of Gaza's population continues to face crisis-level food insecurity or worse.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gaza-500000-people-lose-un-food-aid-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-19T10:45:00+00:00",
-      "title": "Gaza: 500,000 People Lose UN Food Aid | newsmedia.report",
-      "url": "https://www.newsmedia.report/3416168_gaza-500-000-people-lose-un-food-aid"
     }
   ],
   "version": 1
