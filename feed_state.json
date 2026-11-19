@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "article_id": 3456194,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Mit Grand Theft Auto VI beginnt am 19. November 2026 nicht nur ein neues Kapitel der Videospielgeschichte. Rund um den Titel entsteht ein gewaltiger Markt für YouTube-Videos, Livestreams, digitale Dienstleistungen und eigene Geschäftsmodelle. Doch wie können gewöhnliche Spieler davon profitieren, welche Einnahmen sind tatsächlich möglich und wo liegen die rechtlichen Grenzen? Ein Überblick über die wirtschaftlichen Chancen innerhalb und außerhalb von Vice City.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/gta-6-wie-spieler-echtes-geld-verdienen-k-nnen-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-19T12:13:00+00:00",
+      "title": "GTA 6: Wie Spieler echtes Geld verdienen können | newsmedia.report",
+      "url": "https://www.newsmedia.report/3456194_gta-6-wie-spieler-echtes-geld-verdienen-koennen"
+    },
+    {
+      "article_id": 3455909,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Gesundheit",
+      "description": "Das Herz schlägt, das Blut zirkuliert, die Organe werden weiterhin mit Sauerstoff versorgt. Dennoch gilt ein Mensch nach der Feststellung des Hirntodes als verstorben und kann für eine Organentnahme infrage kommen. Namhafte Mediziner, Juristen und Philosophen hinterfragen seit Jahrzehnten, ob der unumkehrbare Ausfall des Gehirns tatsächlich mit dem Tod des gesamten Menschen gleichgesetzt werden darf. Ihre Argumente gewinnen angesichts der aktuellen Diskussion über die Organspendegesetze erneut an Bedeutung.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/organentnahme-ist-der-mensch-wirklich-tot-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-19T09:01:00+00:00",
+      "title": "Organentnahme: Ist der Mensch wirklich tot? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3455909_organentnahme-ist-der-mensch-wirklich-tot"
+    },
+    {
+      "article_id": 3455876,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Europa",
+      "description": "650 Milliarden Euro standen zeitweise für Europas gewaltiges Wiederaufbauprogramm nach der Corona-Pandemie. Doch während sich die Europäische Union auf den Abschluss des milliardenschweren Fonds vorbereitet, legen mehrere Prüfberichte erhebliche Schwächen bei der Kontrolle und Transparenz offen. Tatsächliche Projektkosten werden auf europäischer Ebene nicht systematisch ausgewertet, die veröffentlichten Empfängerlisten bleiben unvollständig und selbst bei der Betrugsbekämpfung bestehen strukturelle Lücken. Es geht um eine grundlegende Frage staatlicher Verantwortung: Wie viel Rechenschaft schuldet die EU ihren Bürgern, wenn sie Hunderte Milliarden Euro verwaltet?",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-650-milliarden-euro-und-die-fehlenden-belege-newsmedia-redaktion-high-q1rjd0.png",
+      "language": "de-AT",
+      "published": "2026-11-19T07:35:00+00:00",
+      "title": "EU: 650 Milliarden Euro und die fehlenden Belege | newsmedia.report",
+      "url": "https://www.newsmedia.report/3455876_eu-650-milliarden-euro-und-die-fehlenden-belege"
+    },
+    {
+      "article_id": 3455757,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Cybersecurity authorities across the United States, Europe, and Asia have issued urgent warnings over a newly disclosed vulnerability in Java, a technology embedded in essential computer systems worldwide. Known as Java4Shell, the flaw could allow attackers to execute malicious code, access sensitive information, or take control of vulnerable servers without authentication. Security patches are available, but the widespread use of Java in government, financial services, and enterprise infrastructure has raised concerns about how quickly organizations can protect their systems.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/java4shell-global-security-alert-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-19T04:35:00+00:00",
+      "title": "Java4Shell: Global Security Alert | newsmedia.report",
+      "url": "https://www.newsmedia.report/3455757_java4shell-global-security-alert"
+    },
+    {
       "article_id": 3454365,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -945,50 +989,6 @@
       "published": "2026-10-21T06:33:00+00:00",
       "title": "OpenAI: Warum KI-Agenten Sicherheitskontrollen aushebeln konnten | newsmedia.report",
       "url": "https://www.newsmedia.report/3418393_openai-warum-ki-agenten-sicherheitskontrollen-aushebeln-konnten"
-    },
-    {
-      "article_id": 3417721,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technology & AI",
-      "description": "Salesforce has agreed to acquire customer engagement platform Braze in a deal valued at $5.66 billion, strengthening its position in artificial intelligence and automated marketing. The acquisition reflects a broader transformation of the enterprise software industry as established technology companies compete to integrate AI into their core businesses. Beyond expanding Salesforce's marketing capabilities, the transaction raises a fundamental question about the future of traditional business software.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/salesforce-to-acquire-braze-for-5-66-billion-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-20T15:07:00+00:00",
-      "title": "Salesforce to Acquire Braze for $5.66 Billion | newsmedia.report",
-      "url": "https://www.newsmedia.report/3417721_salesforce-to-acquire-braze-for-5-66-billion"
-    },
-    {
-      "article_id": 3417377,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Mobility | MotorReport",
-      "description": "Volkswagen’s ambitious electric vehicle strategy in China is facing serious questions after previously undisclosed internal documents revealed a striking gap between planned and actual sales. The ID. UNYX 08, developed in cooperation with Chinese technology partner XPeng, achieved barely 7% of its original monthly sales target. The findings expose weaknesses in Volkswagen’s market assumptions and raise broader concerns about the German automaker’s ability to regain its competitive position in the world’s largest automotive market.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/motorreport_vw_china-high.png",
-      "language": "de-AT",
-      "published": "2026-10-20T10:50:00+00:00",
-      "title": "VW’s China EV Sales: Internal Figures Expose a 93% Shortfall / MotorReport / Portale | newsmedia.report",
-      "url": "https://www.newsmedia.report/portale/motorreport/3417377_vw-s-china-ev-sales-internal-figures-expose-a-93-shortfall"
-    },
-    {
-      "article_id": 3417093,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "OpenAI treibt offenbar eine neue Finanzierungsrunde über rund 30 Milliarden US-Dollar voran und strebt dabei eine Bewertung von mehr als 1,4 Billionen Dollar an. Der Zeitpunkt ist strategisch gewählt, denn Konkurrent Anthropic bereitet seinen Börsengang für November vor. Zwischen den beiden führenden KI-Unternehmen verschärft sich damit ein Wettbewerb um institutionelles Kapital, dessen Ausgang weitreichende Folgen für die gesamte Technologiebranche haben könnte.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/openai-greift-nach-1-4-billionen-dollar-bewertung-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-20T05:35:00+00:00",
-      "title": "OpenAI greift nach 1,4-Billionen-Dollar-Bewertung | newsmedia.report",
-      "url": "https://www.newsmedia.report/3417093_openai-greift-nach-1-4-billionen-dollar-bewertung"
-    },
-    {
-      "article_id": 3417066,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Jahrelang bewegte Jeffrey Epstein enorme Geldbeträge durch das internationale Bankensystem, obwohl seine strafrechtliche Vergangenheit bekannt war. Ein umfangreicher Untersuchungsbericht aus dem US-Senat dokumentiert Tausende auffällige Transaktionen, erhebliche Versäumnisse bei der Finanzkontrolle und eine Geschäftsstruktur, deren tatsächlicher Zweck bis heute Fragen aufwirft. Neue politische Initiativen in Washington richten den Blick nun auf die Verantwortung der Banken und jener Aufsichtsbehörden, die verdächtige Finanzbewegungen hätten kontrollieren müssen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/jeffrey-epstein-jpmorgan-deutsche-bank-und-die-milliarden-geldstr-me-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-20T04:46:00+00:00",
-      "title": "Jeffrey Epstein: JPMorgan, Deutsche Bank und die Milliarden-Geldströme | newsmedia.report",
-      "url": "https://www.newsmedia.report/3417066_jeffrey-epstein-jpmorgan-deutsche-bank-und-die-milliarden-geldstroeme"
     }
   ],
   "version": 1
