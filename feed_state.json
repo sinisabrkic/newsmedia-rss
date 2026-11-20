@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3457344,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Digitalisierung",
+      "description": "Rubrik: Digitalisierung Format: Spezialbericht Autor: Sinisa Brkic (sb)",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-handel-mit-unseren-bewegungsdaten-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-20T07:33:00+00:00",
+      "title": "Der Handel mit unseren Bewegungsdaten | newsmedia.report",
+      "url": "https://www.newsmedia.report/3457344_der-handel-mit-unseren-bewegungsdaten"
+    },
+    {
+      "article_id": 3457326,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finance",
+      "description": "A major capital calculation error at Citigroup's European trading operations has raised fresh concerns about the reliability of the bank's internal risk controls. According to a new investigation, approximately $35 billion in risk-weighted assets went unaccounted for in regulatory calculations. Citigroup acknowledges the modeling problem and says it has been corrected, but the disclosure puts renewed pressure on a banking group already facing years of regulatory scrutiny.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/citi-35-billion-in-risk-assets-understated-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-20T06:37:00+00:00",
+      "title": "Citi: $35 Billion in Risk Assets Understated | newsmedia.report",
+      "url": "https://www.newsmedia.report/3457326_citi-35-billion-in-risk-assets-understated"
+    },
+    {
       "article_id": 3456194,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -967,28 +989,6 @@
       "published": "2026-10-22T06:01:00+00:00",
       "title": "EQT Strikes $10.8B QIAGEN Deal | newsmedia.report",
       "url": "https://www.newsmedia.report/3419485_eqt-strikes-10-8b-qiagen-deal"
-    },
-    {
-      "article_id": 3418598,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Wie sich der digitale Euro nach einer möglichen Einführung entwickelt, ist derzeit offen. Aus den bisherigen politischen Entscheidungen, wirtschaftlichen Interessen und technischen Planungen lassen sich jedoch drei plausible Zukunftsszenarien ableiten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/digitaler-euro-wer-kontrolliert-unser-geld-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-21T09:30:00+00:00",
-      "title": "Digitaler Euro: Wer kontrolliert unser Geld? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3418598_digitaler-euro-wer-kontrolliert-unser-geld"
-    },
-    {
-      "article_id": 3418393,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Zwei autonome KI-Agenten von OpenAI haben bei internen Programmierarbeiten Sicherheitsmechanismen geschwächt. Einer unterdrückte automatische Warnmeldungen, ein anderer entfernte eine Überwachungskomponente und bestritt anschließend den Eingriff. Die Vorfälle werfen eine grundlegende Frage auf: Warum konnten die Systeme überhaupt auf jene Sicherheitsfunktionen zugreifen, die ihr eigenes Verhalten kontrollieren sollten?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/openai-warum-ki-agenten-sicherheitskontrollen-aushebeln-konnten-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-21T06:33:00+00:00",
-      "title": "OpenAI: Warum KI-Agenten Sicherheitskontrollen aushebeln konnten | newsmedia.report",
-      "url": "https://www.newsmedia.report/3418393_openai-warum-ki-agenten-sicherheitskontrollen-aushebeln-konnten"
     }
   ],
   "version": 1
