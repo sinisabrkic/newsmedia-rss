@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3458883,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Österreich unterstützt die afghanische Bevölkerung mit Millionenbeträgen, während die Taliban Frauen systematisch entrechten und Kinderheiraten rechtlich begünstigen. Gleichzeitig arbeitet das österreichische Innenministerium mit Vertretern der von den Taliban kontrollierten Verwaltung zusammen, um Abschiebungen nach Afghanistan zu ermöglichen. Für den Besuch einer afghanischen Delegation in Wien weist eine parlamentarische Anfragebeantwortung vorläufige Kosten von mehr als 16.000 Euro aus. Die amtlichen Dokumente werfen Fragen nach öffentlichen Geldflüssen, der Finanzierung solcher Kontakte und den politischen Grenzen der Zusammenarbeit mit einem international weitgehend nicht…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreich-zahlte-f-r-taliban-delegation-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-21T08:09:00+00:00",
+      "title": "Österreich zahlte für Taliban-Delegation | newsmedia.report",
+      "url": "https://www.newsmedia.report/3458883_oesterreich-zahlte-fuer-taliban-delegation"
+    },
+    {
+      "article_id": 3458598,
+      "author": "Sinisa Brkic (sb)",
+      "category": "International / Gesellschaft",
+      "description": "In Afghanistan können Mädchen verheiratet werden, lange bevor sie die Tragweite einer Ehe überhaupt verstehen. Ein neues Dekret der Taliban erkennt Kinderheiraten faktisch an und ermöglicht es unter bestimmten Voraussetzungen, das Schweigen eines Mädchens nach Eintritt der Pubertät als Zustimmung zu werten. Eine ausdrückliche gesetzliche Heiratsfähigkeit ab neun Jahren wird darin zwar nicht festgelegt, doch die fehlende Altersgrenze wirft schwerwiegende Fragen zum Schutz minderjähriger Mädchen auf. Eine dokumentarische Reportage aus afghanischen Kliniken zeigt, welche Folgen Zwangsheirat, Bildungsverbote und staatliche Kontrolle für das Leben von Frauen und Mädchen haben.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/afghanistan-mit-neun-jahren-bereits-heiratsf-hig-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-21T07:03:00+00:00",
+      "title": "Afghanistan: Mit neun Jahren bereits heiratsfähig? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3458598_afghanistan-mit-neun-jahren-bereits-heiratsfaehig"
+    },
+    {
       "article_id": 3457768,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-10-23T05:27:00+00:00",
       "title": "Weltweiter Cyberalarm: Sicherheitsproblem seit 2024 bekannt | newsmedia.report",
       "url": "https://www.newsmedia.report/3420944_weltweiter-cyberalarm-sicherheitsproblem-seit-2024-bekannt"
-    },
-    {
-      "article_id": 3420721,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Rubrik: Technologie & KIFormat: SpezialberichtAutor: Sinisa Brkic (sb)",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nanoroboter-im-essen-die-kontrolle-des-k-rpers-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-22T20:02:00+00:00",
-      "title": "Nanoroboter im Essen? Die Kontrolle des Körpers | newsmedia.report",
-      "url": "https://www.newsmedia.report/3420721_nanoroboter-im-essen-die-kontrolle-des-koerpers"
-    },
-    {
-      "article_id": 3420251,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International",
-      "description": "In zahlreichen islamisch geprägten Staaten endet die Religionsfreiheit dort, wo Menschen ihren Glauben wechseln, das Christentum öffentlich bekennen oder religiöse Überzeugungen vertreten, die von staatlichen Vorgaben abweichen. Christen und andere religiöse Minderheiten sind mit Verboten, Diskriminierung und teilweise schwerer Verfolgung konfrontiert. Die gesetzlichen Verhältnisse in Ländern wie Saudi-Arabien, Iran, Pakistan und Afghanistan werfen eine grundlegende Frage auf: Wie frei ist der Glaube, wenn der Staat darüber entscheidet, welche Religion ein Mensch ausüben darf?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/religionsfreiheit-in-der-islamischen-welt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-22T15:16:00+00:00",
-      "title": "Religionsfreiheit in der islamischen Welt? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3420251_religionsfreiheit-in-der-islamischen-welt"
     }
   ],
   "version": 1
