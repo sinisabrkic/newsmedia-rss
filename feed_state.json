@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3460013,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "The European Union is reviving plans to tax major technology companies as Brussels struggles to finance its next seven-year budget. A proposal presented by European Council President António Costa would impose a 3% levy on selected digital revenues while reducing planned EU spending by approximately €181 billion. The initiative could reshape Europe's approach to taxing multinational technology businesses and trigger fresh tensions with Washington.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/eu-targets-big-tech-with-new-3-digital-tax-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-22T07:28:00+00:00",
+      "title": "EU Targets Big Tech With New 3% Digital Tax | newsmedia.report",
+      "url": "https://www.newsmedia.report/3460013_eu-targets-big-tech-with-new-3-digital-tax"
+    },
+    {
+      "article_id": 3459989,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Security",
+      "description": "Mexican special forces have captured Fausto Isidro Meza Flores, known as “El Chapo Isidro,” one of the FBI’s Ten Most Wanted Fugitives. The operation, supported by American intelligence, left 11 people dead and triggered violent clashes across parts of Sinaloa. His arrest marks a major achievement in international law enforcement, but the confrontation also exposes the continuing influence of Mexico’s powerful criminal organizations.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/fbi-s-most-wanted-drug-kingpin-captured-in-mexico-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-22T06:35:00+00:00",
+      "title": "FBI’s Most Wanted Drug Kingpin Captured in Mexico | newsmedia.report",
+      "url": "https://www.newsmedia.report/3459989_fbi-s-most-wanted-drug-kingpin-captured-in-mexico"
+    },
+    {
       "article_id": 3458883,
       "author": "Sinisa Brkic (sb)",
       "category": "Österreich",
@@ -967,28 +989,6 @@
       "published": "2026-10-23T10:45:00+00:00",
       "title": "Österreich weist vier russische Diplomaten aus | newsmedia.report",
       "url": "https://www.newsmedia.report/3421310_oesterreich-weist-vier-russische-diplomaten-aus"
-    },
-    {
-      "article_id": 3421008,
-      "author": "Sinisa Brkic (sb)",
-      "category": "International / Weather",
-      "description": "Much of Taiwan has shut down as Typhoon Champi approaches the island, forcing widespread school and office closures, suspending financial market trading and canceling 931 flights. At least one person has died, 94 have been injured and nearly 1,300 residents have been evacuated. Although the storm has weakened, its extensive wind field and the threat of torrential rainfall continue to pose serious risks.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/typhoon-champi-brings-much-of-taiwan-to-a-standstill-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-23T06:40:00+00:00",
-      "title": "Typhoon Champi: Taiwan at a Standstill | newsmedia.report",
-      "url": "https://www.newsmedia.report/3421008_typhoon-champi-taiwan-at-a-standstill"
-    },
-    {
-      "article_id": 3420944,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Technologie & KI",
-      "description": "Millionen Angriffsversuche, abgeschaltete Internetdienste und ein Sicherheitsproblem, dessen Vorgeschichte bis ins Jahr 2024 zurückreicht. Zwei kritische Schwachstellen in der Programmiersprache PHP haben weltweit Behörden, Banken und Unternehmen unter Druck gesetzt. Besonders brisant ist das Eingeständnis der verantwortlichen Entwickler, dass interne Entscheidungsprobleme und fehlende Ressourcen die Behebung eines bekannten Fehlers erheblich verzögerten. Wer hinter den Angriffen steckt und ob sensible Daten entwendet wurden, ist weiterhin ungeklärt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/weltweiter-cyberalarm-sicherheitsproblem-seit-2024-bekannt-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-23T05:27:00+00:00",
-      "title": "Weltweiter Cyberalarm: Sicherheitsproblem seit 2024 bekannt | newsmedia.report",
-      "url": "https://www.newsmedia.report/3420944_weltweiter-cyberalarm-sicherheitsproblem-seit-2024-bekannt"
     }
   ],
   "version": 1
