@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3460285,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Geopolitik",
+      "description": "Vier Jahre nach der Zerstörung der Nord-Stream-Pipelines führt ein deutscher Strafprozess zu einer mutmaßlichen ukrainischen Sabotagegruppe. Die Bundesanwaltschaft geht von einer möglichen Steuerung durch staatliche Stellen der Ukraine aus, während die ukrainische Führung jede offizielle Beteiligung zurückweist. Der Fall wirft nicht nur die Frage nach den Auftraggebern auf, sondern führt auch zurück zu einem milliardenschweren Energiegeschäft, dessen Zusammenbruch Deutschlands Wirtschaft bis heute beschäftigt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/nord-stream-sprengung-wer-gab-den-befehl-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-22T11:22:00+00:00",
+      "title": "Nord-Stream-Sprengung: Wer gab den Befehl? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3460285_nord-stream-sprengung-wer-gab-den-befehl"
+    },
+    {
+      "article_id": 3460055,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Politik",
+      "description": "Die amerikanische Linke bringt Alexandria Ocasio-Cortez für die Präsidentschaftswahl 2028 in Stellung. Mit deutlicher Mehrheit fordern die New Yorker Sozialisten die prominente Kongressabgeordnete auf, für das Weiße Haus zu kandidieren. Hinter dem Vorstoß steht eine politische Bewegung, die den Kurs der Demokratischen Partei grundlegend verändern will. Doch Ocasio-Cortez hat sich noch nicht entschieden, und selbst innerhalb des sozialistischen Lagers ist ihre mögliche Kandidatur umstritten.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/alexandria-ocasio-cortez-aoc-n-chste-us-pr-sidentin-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-22T08:33:00+00:00",
+      "title": "Alexandria Ocasio-Cortez (AOC): Nächste US-Präsidentin? | newsmedia.report",
+      "url": "https://www.newsmedia.report/3460055_alexandria-ocasio-cortez-aoc-naechste-us-praesidentin"
+    },
+    {
       "article_id": 3460013,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-10-25T11:35:00+00:00",
       "title": "Vatikan: Die Wurzel aller Weltreligionen? | newsmedia.report",
       "url": "https://www.newsmedia.report/3423257_vatikan-die-wurzel-aller-weltreligionen"
-    },
-    {
-      "article_id": 3423221,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "A Reuters investigation has raised serious questions about the Trump administration's role in Brazil's presidential election. According to 10 current and former U.S. officials, two senior State Department advisers pursued policies intended to weaken President Luiz Inácio Lula da Silva and help return the Bolsonaro family to power. The allegations, published just hours before Sunday's decisive runoff, cast new light on Washington's use of sanctions and diplomatic influence in Latin America's largest democracy.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/washingtons-shadow-over-brazil-s-election-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-25T06:37:00+00:00",
-      "title": "Washington’s Shadow Over Brazil’s Election? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3423221_washington-s-shadow-over-brazil-s-election"
-    },
-    {
-      "article_id": 3421310,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Österreich weist vier russische Diplomaten aus und verschärft damit den sicherheitspolitischen Konflikt mit Moskau. Grundlage sind Erkenntnisse österreichischer Sicherheitsbehörden über Tätigkeiten, die mit dem Status der Betroffenen nicht vereinbar sein sollen. Die Entscheidung folgt auf frühere Spionagevorwürfe, mutmaßliche Abhöraktivitäten und Warnungen vor russischen Nachrichtendienstmitarbeitern. Zugleich rückt die besondere Verwundbarkeit Wiens als internationaler Diplomatiestandort erneut in den Mittelpunkt.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreich-weist-vier-russische-diplomaten-aus-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-23T10:45:00+00:00",
-      "title": "Österreich weist vier russische Diplomaten aus | newsmedia.report",
-      "url": "https://www.newsmedia.report/3421310_oesterreich-weist-vier-russische-diplomaten-aus"
     }
   ],
   "version": 1
