@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3461988,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Gleiche Hersteller, identische Produkte, ein gemeinsamer europäischer Binnenmarkt. Dennoch bezahlen österreichische Konsumenten bei zahlreichen Markenlebensmitteln und Drogerieartikeln erheblich mehr als ihre deutschen Nachbarn. Seit Jahren sind die Preisunterschiede bekannt, doch auch aktuelle Untersuchungen zeigen Aufschläge von durchschnittlich 22 bis 26 Prozent bei ausgewählten Produkten. Was davon auf Hersteller, Handel und nationale Kosten zurückzuführen ist, welche Verantwortung die Politik trägt und wie Österreich den Preisnachteil überwinden könnte.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/der-sterreich-aufschlag-versagen-heimischer-politik-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-23T13:44:00+00:00",
+      "title": "Der Österreich-Aufschlag: Versagen heimischer Politik | newsmedia.report",
+      "url": "https://www.newsmedia.report/3461988_der-oesterreich-aufschlag-versagen-heimischer-politik"
+    },
+    {
       "article_id": 3461603,
       "author": "Sinisa Brkic (sb)",
       "category": "Business",
@@ -978,17 +989,6 @@
       "published": "2026-10-25T21:33:00+00:00",
       "title": "Serbien: Vučić räumt historische Wahlniederlage ein | newsmedia.report",
       "url": "https://www.newsmedia.report/3424227_serbien-vucic-raeumt-historische-wahlniederlage-ein"
-    },
-    {
-      "article_id": 3423537,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Innerhalb von vier Jahren sind in staatlich beaufsichtigten Einrichtungen in Nordrhein-Westfalen 103 Minderjährige gestorben. Eine neue WDR-Recherche zeigt, dass die zuständigen Landesjugendämter die Ursachen schwerwiegender Vorfälle offenbar nicht systematisch auswerten. Während das Familienministerium auf sorgfältige Einzelfallprüfungen verweist, stellt sich eine grundsätzliche Frage nach der Wirksamkeit staatlicher Kontrolle und der Fähigkeit der Behörden, aus dokumentierten Ereignissen Konsequenzen für den Kinderschutz zu ziehen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/103-tote-minderj-hrige-in-nrw-einrichtungen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-25T12:20:00+00:00",
-      "title": "103 tote Minderjährige in NRW-Einrichtungen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3423537_103-tote-minderjaehrige-in-nrw-einrichtungen"
     }
   ],
   "version": 1
