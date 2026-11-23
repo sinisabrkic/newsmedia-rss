@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3461603,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Business",
+      "description": "Tata Steel has unveiled an ambitious plan to gain control of APL Apollo Tubes, India's largest structural steel tube manufacturer. The proposed acquisition could involve approximately $3.5 billion in equity purchases, but the transaction extends far beyond a conventional takeover. A parallel $3 billion asset sale, complex financing arrangements and an extensive industrial expansion strategy have raised questions about the financial consequences of the deal.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/tata-steel-s-3-5-billion-acquisition-plan-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-23T07:58:00+00:00",
+      "title": "Tata Steel’s $3.5 Billion Acquisition Plan | newsmedia.report",
+      "url": "https://www.newsmedia.report/3461603_tata-steel-s-3-5-billion-acquisition-plan"
+    },
+    {
       "article_id": 3460285,
       "author": "Sinisa Brkic (sb)",
       "category": "Geopolitik",
@@ -978,17 +989,6 @@
       "published": "2026-10-25T12:20:00+00:00",
       "title": "103 tote Minderjährige in NRW-Einrichtungen | newsmedia.report",
       "url": "https://www.newsmedia.report/3423537_103-tote-minderjaehrige-in-nrw-einrichtungen"
-    },
-    {
-      "article_id": 3423257,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft / Religion",
-      "description": "Jesus Christus ist keine Religion. Er ist weder eine von Menschen geschaffene Institution noch ein religiöses Herrschaftssystem. Seine Person, seine Botschaft und der persönliche Glaube an ihn sind grundsätzlich von jenen Kirchen, Dogmen und Machtstrukturen zu unterscheiden, die Menschen im Laufe der Geschichte errichtet haben. Jahrtausendealte Tontafeln aus Mesopotamien, gemeinsame Erzählungen in Bibel und Koran, historische Widersprüche und später entstandene religiöse Gesetzeswerke werfen eine weitreichende Frage auf: Wie wurden aus überlieferten Geschichten verbindliche Glaubenssysteme und schließlich Institutionen mit politischer und wirtschaftlicher Macht?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/vatikan-die-wurzel-aller-weltreligionen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-25T11:35:00+00:00",
-      "title": "Vatikan: Die Wurzel aller Weltreligionen? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3423257_vatikan-die-wurzel-aller-weltreligionen"
     }
   ],
   "version": 1
