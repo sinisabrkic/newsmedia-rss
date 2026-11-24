@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3463163,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich / Geopolitik",
+      "description": "Jahrzehntelang genoss Österreich als diplomatische Brücke zwischen Ost und West internationales Ansehen und verfügte über besondere Gesprächskanäle nach Moskau. Nun erteilt der russische Botschafter Andrej Grosow den österreichischen Bestrebungen, Wien als Plattform für mögliche Friedensverhandlungen anzubieten, eine deutliche Absage. Gegenüber der russischen Nachrichtenagentur TASS erklärte der Diplomat, Österreich habe aus russischer Sicht sein einstiges Renommee als angesehener neutraler Verhandlungsort verloren.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/moskau-sterreich-kein-glaubw-rdiger-vermittler-mehr-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-24T08:55:00+00:00",
+      "title": "Moskau: Österreich kein glaubwürdiger Vermittler mehr | newsmedia.report",
+      "url": "https://www.newsmedia.report/3463163_moskau-oesterreich-kein-glaubwuerdiger-vermittler-mehr"
+    },
+    {
       "article_id": 3461988,
       "author": "Sinisa Brkic (sb)",
       "category": "Wirtschaft",
@@ -978,17 +989,6 @@
       "published": "2026-10-26T07:10:00+00:00",
       "title": "Iran War: Three Nations Crisis Talks in Tehran | newsmedia.report",
       "url": "https://www.newsmedia.report/3424500_iran-war-three-nations-crisis-talks-in-tehran"
-    },
-    {
-      "article_id": 3424227,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Europa",
-      "description": "Nach 14 Jahren politischer Dominanz steht Serbien vor einem grundlegenden Machtwechsel. Aleksandar Vučić hat seine Niederlage bei der vorgezogenen Parlamentswahl eingeräumt. Die aus landesweiten Protesten hervorgegangene Studentenbewegung dürfte nach ersten Hochrechnungen eine absolute Mehrheit erreichen. Für den Balkanstaat beginnt damit eine politische Neuordnung, deren Auswirkungen weit über die Landesgrenzen hinausreichen könnten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/serbien-vu-i-r-umt-historische-wahlniederlage-ein-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-25T21:33:00+00:00",
-      "title": "Serbien: Vučić räumt historische Wahlniederlage ein | newsmedia.report",
-      "url": "https://www.newsmedia.report/3424227_serbien-vucic-raeumt-historische-wahlniederlage-ein"
     }
   ],
   "version": 1
