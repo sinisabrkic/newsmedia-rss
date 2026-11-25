@@ -1,3 +1,4 @@
+
 name: Publish RSS to GitHub Pages
 
 on:
@@ -18,30 +19,33 @@ concurrency:
 jobs:
   deploy:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
 
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
-    runs-on: ubuntu-latest
-
     steps:
       - name: Check out main
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
         with:
           ref: main
 
       - name: Prepare RSS site
         run: |
+          set -e
           mkdir -p _site
+          test -s rss.xml
+          test -f index.html
           cp index.html rss.xml _site/
           touch _site/.nojekyll
+          ls -lah _site/
 
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v5
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4
