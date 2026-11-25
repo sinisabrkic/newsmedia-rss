@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3465022,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Carbon markets have become a significant part of the international economy, bringing together industrial corporations, financial institutions, technology companies and project developers. Yet how do these markets actually work, who makes money from them, and what opportunities exist for individuals and businesses seeking to enter this sector? A forthcoming international book by Austrian entrepreneur Sinisa Brkic examines the economic structures behind carbon trading and the practical possibilities for market participation.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-billion-dollar-co-business-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-25T14:55:00+00:00",
+      "title": "The Billion-Dollar CO₂ Business | newsmedia.report",
+      "url": "https://www.newsmedia.report/3465022_the-billion-dollar-co2-business"
+    },
+    {
+      "article_id": 3464874,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich",
+      "description": "Mit Ende November läuft die erweiterte österreichische Spritpreisbremse aus. Während die Bundesregierung noch über eine Nachfolgeregelung berät, bestätigen aktuelle Inflationsdaten die preisdämpfende Wirkung der Maßnahme. Für Autofahrer und Unternehmen bleibt offen, wie sich die Treibstoffkosten ab Dezember entwickeln werden.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-spritpreisbremse-l-uft-aus-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-25T13:20:00+00:00",
+      "title": "Österreichs Spritpreisbremse läuft aus | newsmedia.report",
+      "url": "https://www.newsmedia.report/3464874_oesterreichs-spritpreisbremse-laeuft-aus"
+    },
+    {
       "article_id": 3463163,
       "author": "Sinisa Brkic (sb)",
       "category": "Österreich / Geopolitik",
@@ -967,28 +989,6 @@
       "published": "2026-10-27T06:47:00+00:00",
       "title": "Democrats Seek Trump-Epstein Probe | newsmedia.report",
       "url": "https://www.newsmedia.report/3425951_democrats-seek-trump-epstein-probe"
-    },
-    {
-      "article_id": 3424707,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Sicherheit",
-      "description": "Deutschlands Nachrichtendienste wollen ihren Austausch geheimer Informationen grundlegend modernisieren. BND, Verfassungsschutz und Militärischer Abschirmdienst planen eine gemeinsame Cloud-Infrastruktur auf Basis amerikanischer Google-Technologie. Die geschätzten Kosten liegen bei mindestens 500 Millionen Euro. Das Vorhaben soll höchste Sicherheitsanforderungen erfüllen, wirft jedoch grundsätzliche Fragen zur technologischen Unabhängigkeit deutscher Sicherheitsbehörden auf.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/bnd-plant-cloud-mit-google-technik-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-26T10:11:00+00:00",
-      "title": "BND plant Cloud mit Google-Technik | newsmedia.report",
-      "url": "https://www.newsmedia.report/3424707_bnd-plant-cloud-mit-google-technik"
-    },
-    {
-      "article_id": 3424500,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Geopolitics",
-      "description": "Saudi Arabia, Turkey, and Pakistan are preparing for joint security talks with Iran as tensions across the Middle East intensify. Senior defense and intelligence officials from the three countries are expected in Tehran on Monday, October 26, for consultations with Iran's Supreme National Security Council. The initiative could mark an important development in regional diplomacy, bringing the members of a newly established defense alliance into direct discussions with Tehran.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/iran-war-three-nations-crisis-talks-in-tehran-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-26T07:10:00+00:00",
-      "title": "Iran War: Three Nations Crisis Talks in Tehran | newsmedia.report",
-      "url": "https://www.newsmedia.report/3424500_iran-war-three-nations-crisis-talks-in-tehran"
     }
   ],
   "version": 1
