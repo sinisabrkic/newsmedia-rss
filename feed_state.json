@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3466240,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Energie",
+      "description": "Die weltweite Stromversorgung steht vor einer tiefgreifenden Bewährungsprobe. Alternde Netzinfrastrukturen, steigender Elektrizitätsbedarf, klimatische Extremereignisse, geopolitische Konflikte und der grundlegende Umbau der Energieerzeugung verändern die Voraussetzungen einer zuverlässigen Versorgung. Besonders Europa befindet sich in einer komplexen Situation: Die enge Vernetzung seiner nationalen Stromsysteme erhöht die Versorgungssicherheit, eröffnet unter außergewöhnlichen Bedingungen jedoch auch die Möglichkeit grenzüberschreitender Kettenreaktionen. Gleichzeitig wächst die Abhängigkeit moderner Gesellschaften von einer Infrastruktur, deren Ausfall nahezu sämtliche Lebensbereiche…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/blackouts-weltweit-stromversorgung-unter-druck-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-26T11:11:00+00:00",
+      "title": "Blackouts weltweit: Stromversorgung unter Druck | newsmedia.report",
+      "url": "https://www.newsmedia.report/3466240_blackouts-weltweit-stromversorgung-unter-druck"
+    },
+    {
+      "article_id": 3466205,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich / Gesundheit",
+      "description": "Österreich zählt weiterhin zu den Ländern der Europäischen Union mit dem höchsten Alkoholkonsum. Der aktuelle Gesundheitsbericht der OECD und der Europäischen Kommission dokumentiert trotz rückläufiger Verbrauchszahlen erhebliche gesundheitspolitische Herausforderungen. Besonders bedenklich ist das Trinkverhalten unter Jugendlichen, das deutlich über dem europäischen Durchschnitt liegt.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/sterreichs-alkoholkonsum-bleibt-auf-europ-ischem-spitzenniveau-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-26T09:01:00+00:00",
+      "title": "Österreichs Alkoholkonsum bleibt auf europäischem Spitzenniveau | newsmedia.report",
+      "url": "https://www.newsmedia.report/3466205_oesterreichs-alkoholkonsum-bleibt-auf-europaeischem-spitzenniveau"
+    },
+    {
       "article_id": 3465022,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -967,28 +989,6 @@
       "published": "2026-10-27T08:21:00+00:00",
       "title": "India: Could Privacy Law Become a Tool of Censorship? | newsmedia.report",
       "url": "https://www.newsmedia.report/3426013_india-could-privacy-law-become-a-tool-of-censorship"
-    },
-    {
-      "article_id": 3425973,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finanzen",
-      "description": "Der Finanzkonzern Revolut gerät erneut in den Fokus der Bankenaufsicht. Nach bereits bekannt gewordenen Maßnahmen der Europäischen Zentralbank soll nun auch die britische Aufsichtsbehörde eine unabhängige Überprüfung interner Produktgenehmigungen angeordnet haben. Die Entwicklung wirft Fragen auf, ob die Kontrollsysteme des schnell wachsenden Unternehmens mit seiner internationalen Expansion Schritt halten.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/revolut-britische-aufsicht-soll-produktfreigaben-pr-fen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-27T07:23:00+00:00",
-      "title": "Revolut: Britische Aufsicht soll Produktfreigaben prüfen | newsmedia.report",
-      "url": "https://www.newsmedia.report/3425973_revolut-britische-aufsicht-soll-produktfreigaben-pruefen"
-    },
-    {
-      "article_id": 3425951,
-      "author": "Sinisa Brkic (sb)",
-      "category": "",
-      "description": "House Democrats are demanding an independent investigation into President Donald Trump's past connections to convicted sex offender Jeffrey Epstein. A new congressional staff report details allegations of sexual misconduct and accuses the Justice Department of withholding evidence that could implicate individuals associated with Epstein's criminal activities. The White House rejects the accusations, while the allegations involving Trump remain unproven.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/democrats-seek-trump-epstein-probe-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-27T06:47:00+00:00",
-      "title": "Democrats Seek Trump-Epstein Probe | newsmedia.report",
-      "url": "https://www.newsmedia.report/3425951_democrats-seek-trump-epstein-probe"
     }
   ],
   "version": 1
