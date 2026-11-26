@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3466518,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Finanzen",
+      "description": "An der Spitze der Europäischen Zentralbank zeichnet sich ein tiefgreifender personeller Umbruch ab. Der spanische Ökonom Pablo Hernández de Cos soll Christine Lagarde nachfolgen. Gleichzeitig steht die Neubesetzung weiterer Schlüsselpositionen bevor, die das geldpolitische Führungsgefüge Europas auf Jahre hinaus prägen könnte.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-notenbank-vor-dem-machtwechsel-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-26T15:06:00+00:00",
+      "title": "Europas Notenbank vor dem Machtwechsel | newsmedia.report",
+      "url": "https://www.newsmedia.report/3466518_europas-notenbank-vor-dem-machtwechsel"
+    },
+    {
+      "article_id": 3466443,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich / Justiz & Recht",
+      "description": "Ein über private Hände weitergereichter Laptop, vertrauliche Kommunikation mit Regierungsmitgliedern, ein umstrittener polizeilicher Aktenvermerk und divergierende Aussagen über mögliche Medieninterventionen. Mehr als drei Jahre nach dem Tod des ehemaligen Justizsektionschefs Christian Pilnacek erreicht die parlamentarische Aufarbeitung erneut die höchsten politischen Ebenen Österreichs. Während die Justiz keine Grundlage für eine Fortführung der Ermittlungen zu seinen Todesumständen sieht, bleiben Fragen zur Nachvollziehbarkeit behördlicher Entscheidungen, politischer Kontakte und institutioneller Verantwortung bestehen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/causa-pilnacek-die-offenen-akten-der-republik-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-26T14:18:00+00:00",
+      "title": "Causa Pilnacek: Die offenen Akten der Republik | newsmedia.report",
+      "url": "https://www.newsmedia.report/3466443_causa-pilnacek-die-offenen-akten-der-republik"
+    },
+    {
       "article_id": 3466240,
       "author": "Sinisa Brkic (sb)",
       "category": "Energie",
@@ -967,28 +989,6 @@
       "published": "2026-10-28T05:16:00+00:00",
       "title": "Kombattanten: Wann dürfen Zivilisten zu den Waffen greifen? | newsmedia.report",
       "url": "https://www.newsmedia.report/3427301_kombattanten-wann-duerfen-zivilisten-zu-den-waffen-greifen"
-    },
-    {
-      "article_id": 3426291,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Eine unabhängige UN-Untersuchungskommission erhebt schwerwiegende Vorwürfe gegen israelische Behörden und Sicherheitskräfte. Nach Einschätzung der Ermittler wurden im besetzten Westjordanland Verbrechen gegen die Menschlichkeit begangen, darunter Ausrottung, Folter und sexualisierte Gewalt. Israel weist die Anschuldigungen zurück. Der neue Bericht verschärft die Debatte über die völkerrechtliche Verantwortung für das Vorgehen gegen die palästinensische Zivilbevölkerung.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/un-ermittler-werfen-israel-ausrottung-im-westjordanland-vor-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-27T11:44:00+00:00",
-      "title": "UN-Ermittler werfen Israel Ausrottung im Westjordanland vor | newsmedia.report",
-      "url": "https://www.newsmedia.report/3426291_un-ermittler-werfen-israel-ausrottung-im-westjordanland-vor"
-    },
-    {
-      "article_id": 3426013,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Law & Justice",
-      "description": "Twenty-one of India's leading news publishers have taken their fight against the country's digital privacy law to the Supreme Court, warning that it could severely restrict investigative journalism, expose confidential sources, and threaten the survival of newsrooms. The legal challenge has united some of India's most influential media organizations against legislation introduced under Prime Minister Narendra Modi. The dispute raises a constitutional question with implications far beyond India: can a law designed to protect personal information also become a means of restricting legitimate public scrutiny?",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/india-could-privacy-law-become-a-tool-of-censorship-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-27T08:21:00+00:00",
-      "title": "India: Could Privacy Law Become a Tool of Censorship? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3426013_india-could-privacy-law-become-a-tool-of-censorship"
     }
   ],
   "version": 1
