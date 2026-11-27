@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "article_id": 3467171,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Österreich / Politik",
+      "description": "Die Pandemie ist vorüber, ihre politischen, gesellschaftlichen und wirtschaftlichen Folgen beschäftigen Österreich jedoch weiterhin. Mit 827 parlamentarischen Anfragen hat die FPÖ eine umfangreiche Kontrollinitiative eingeleitet und bereitet für 2027 einen eigenen Corona-Untersuchungsausschuss vor. Im Mittelpunkt stehen staatliche Grundrechtseingriffe, milliardenschwere Ausgaben, wissenschaftliche Entscheidungsgrundlagen und die politische Verantwortung für eine der einschneidendsten Krisen der österreichischen Nachkriegsgeschichte.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/corona-aufarbeitung-die-fp-dr-ngt-auf-antworten-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-27T06:07:00+00:00",
+      "title": "Corona-Aufarbeitung: Die FPÖ drängt auf Antworten | newsmedia.report",
+      "url": "https://www.newsmedia.report/3467171_corona-aufarbeitung-die-fpoe-draengt-auf-antworten"
+    },
+    {
+      "article_id": 3467196,
+      "author": "Sinisa Brkic (sb)",
+      "category": "Wirtschaft",
+      "description": "Der Sondergipfel zum langfristigen Haushalt der Europäischen Union ist ohne Einigung vorzeitig beendet worden. Selbst eine vorgeschlagene Kürzung um 204 Milliarden Euro reicht Deutschland und weiteren Nettozahlern nicht aus. Hinter dem Konflikt steht die grundsätzliche Frage, welche wirtschaftlichen und strategischen Aufgaben Europa künftig gemeinschaftlich finanzieren soll und wie viel die Mitgliedstaaten dafür aufzubringen bereit sind. Auch Österreich verfolgt dabei klare finanzpolitische Interessen.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/europas-billionenhaushalt-vor-der-zerrei-probe-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-27T05:16:00+00:00",
+      "title": "Europas Billionenhaushalt vor der Zerreißprobe | newsmedia.report",
+      "url": "https://www.newsmedia.report/3467196_europas-billionenhaushalt-vor-der-zerreissprobe"
+    },
+    {
       "article_id": 3466518,
       "author": "Sinisa Brkic (sb)",
       "category": "Finanzen",
@@ -967,28 +989,6 @@
       "published": "2026-10-28T11:22:00+00:00",
       "title": "Anthropic Reports $80.7 Billion Net Loss Ahead of IPO | newsmedia.report",
       "url": "https://www.newsmedia.report/3427632_anthropic-reports-80-7-billion-net-loss-ahead-of-ipo"
-    },
-    {
-      "article_id": 3427339,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Österreich",
-      "description": "Ein jahrelang angewendetes Berechnungsverfahren beim österreichischen Arbeitsmarktservice könnte Nachzahlungen von rund 135 Millionen Euro erforderlich machen. Nach einer Entscheidung des Verwaltungsgerichtshofs zeichnet sich ab, dass Arbeitslosengeld und Notstandshilfe in einer sechsstelligen Zahl von Fällen zu niedrig bemessen worden sein könnten. Das Sozialministerium arbeitet an einer rechtssicheren Lösung. Wie viele Menschen tatsächlich Geld erhalten und wann mögliche Auszahlungen erfolgen, ist noch offen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/ams-nachzahlungen-in-ber-100-000-f-llen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-28T06:00:00+00:00",
-      "title": "AMS: Nachzahlungen in über 100.000 Fällen? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3427339_ams-nachzahlungen-in-ueber-100-000-faellen"
-    },
-    {
-      "article_id": 3427301,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Justiz & Recht",
-      "description": "Hunderttausende Menschen demonstrieren in Frankreich, es kommt zu gewaltsamen Ausschreitungen, Angriffen auf Sicherheitskräfte und massiven Polizeieinsätzen. Auch andere europäische Staaten erleben gesellschaftliche Spannungen und Protestbewegungen. Doch wann wird aus einem Demonstranten ein Aufständischer, aus bewaffneten Zivilisten eine militärische Einheit und aus inneren Unruhen ein Krieg? Das humanitäre Völkerrecht kennt dafür präzise Regeln, die insbesondere für Österreich weitreichende Fragen aufwerfen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/kombattanten-wann-d-rfen-zivilisten-zu-den-waffen-greifen-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-28T05:16:00+00:00",
-      "title": "Kombattanten: Wann dürfen Zivilisten zu den Waffen greifen? | newsmedia.report",
-      "url": "https://www.newsmedia.report/3427301_kombattanten-wann-duerfen-zivilisten-zu-den-waffen-greifen"
     }
   ],
   "version": 1
