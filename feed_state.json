@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3467207,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Multimillion-dollar corruption investigations, international offshore structures, luxury real estate developments and business relationships extending into the immediate circle of Ukrainian President Volodymyr Zelenskyy are exposing significant vulnerabilities within the country's political establishment. While international institutions continue to provide billions in financial assistance, Ukraine's own investigators are examining suspected financial networks involving individuals who once occupied positions of considerable political influence. Although the available evidence does not establish Zelenskyy's personal participation in the alleged criminal schemes, the proceedings place the…",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/the-zelenskyy-system-money-power-and-corruption-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-27T13:44:00+00:00",
+      "title": "Inside Zelenskyy's Inner Circle: Money and Corruption | newsmedia.report",
+      "url": "https://www.newsmedia.report/3467207_inside-zelenskyy-s-inner-circle-money-and-corruption"
+    },
+    {
       "article_id": 3467171,
       "author": "Sinisa Brkic (sb)",
       "category": "Österreich / Politik",
@@ -978,17 +989,6 @@
       "published": "2026-10-28T17:26:00+00:00",
       "title": "Deutschland: Elterngeld vor Reform | newsmedia.report",
       "url": "https://www.newsmedia.report/3428651_deutschland-elterngeld-vor-reform"
-    },
-    {
-      "article_id": 3427632,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Finance",
-      "description": "Artificial intelligence company Anthropic has disclosed $16.3 billion in first-half revenue alongside an extraordinary $80.7 billion net loss ahead of its planned Nasdaq debut. Most of the reported loss stems from noncash accounting adjustments rather than operating expenses. The figures reveal the remarkable scale of the AI boom while raising fundamental questions about profitability, corporate valuation, and shareholder control.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/anthropic-reports-80-7-billion-net-loss-ahead-of-ipo-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-28T11:22:00+00:00",
-      "title": "Anthropic Reports $80.7 Billion Net Loss Ahead of IPO | newsmedia.report",
-      "url": "https://www.newsmedia.report/3427632_anthropic-reports-80-7-billion-net-loss-ahead-of-ipo"
     }
   ],
   "version": 1
