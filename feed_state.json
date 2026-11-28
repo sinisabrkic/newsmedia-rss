@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "article_id": 3468831,
+      "author": "Sinisa Brkic (sb)",
+      "category": "",
+      "description": "Turkey is facing a capital market scandal of extraordinary proportions. Approximately 456,000 investors, billions of dollars in fund assets, and a widening criminal investigation involving senior financial officials, corporate executives, and politically connected individuals have placed the country's financial institutions under intense scrutiny. The crisis has become a test of regulatory credibility, institutional independence, and Turkey's standing in international capital markets.",
+      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/multibillion-dollar-scandal-at-the-istanbul-stock-exchange-newsmedia-redaktion-high.png",
+      "language": "de-AT",
+      "published": "2026-11-28T10:30:00+00:00",
+      "title": "Multibillion-Dollar Scandal at the Istanbul Stock Exchange | newsmedia.report",
+      "url": "https://www.newsmedia.report/3468831_multibillion-dollar-scandal-at-the-istanbul-stock-exchange"
+    },
+    {
       "article_id": 3467207,
       "author": "Sinisa Brkic (sb)",
       "category": "",
@@ -978,17 +989,6 @@
       "published": "2026-10-29T11:33:00+00:00",
       "title": "Spain: Train Crash Leaves 69 Dead | newsmedia.report",
       "url": "https://www.newsmedia.report/3428999_spain-train-crash-leaves-69-dead"
-    },
-    {
-      "article_id": 3428651,
-      "author": "Sinisa Brkic (sb)",
-      "category": "Gesellschaft",
-      "description": "Das deutsche Bundesfamilienministerium überarbeitet seine Pläne zur Elterngeldreform grundlegend. Die ursprünglich vorgesehene Verkürzung von 14 auf zwölf Monate soll entfallen. Stattdessen ist ein neues Berechnungsmodell geplant, das höhere Leistungen in bestimmten Monaten vorsieht, für andere Bezugszeiten jedoch deutlich geringere Zahlungen bringen könnte. Welche Familien profitieren, hängt künftig stärker davon ab, wie beide Elternteile die Betreuung aufteilen.",
-      "image": "https://primary.jwwb.nl/public/g/c/j/temp-nepmtuoorrbbxmaomaoc/deutschland-elterngeld-vor-reform-newsmedia-redaktion-high.png",
-      "language": "de-AT",
-      "published": "2026-10-28T17:26:00+00:00",
-      "title": "Deutschland: Elterngeld vor Reform | newsmedia.report",
-      "url": "https://www.newsmedia.report/3428651_deutschland-elterngeld-vor-reform"
     }
   ],
   "version": 1
